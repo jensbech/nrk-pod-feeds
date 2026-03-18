@@ -11,7 +11,7 @@ discovery_ch_file = "DISCOVERY.md"
 
 inactive_days_limit = 30
 ignore_days_limit = 365
-title_prefix = "De 30 siste fra "
+title_prefix = ""
 
 ignored_categories = []
 

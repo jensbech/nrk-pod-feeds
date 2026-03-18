@@ -1,34 +1,27 @@
-const BASE_URL      = "https://jensbech.github.io/nrk-pod-feeds/rss/";
-const NRK_BASE_URL  = "https://radio.nrk.no/podkast/";
-const TITLE_RE      = /^De (\d+) siste fra (.+)$/;
+const BASE_URL     = "https://jensbech.github.io/nrk-pod-feeds/rss/";
+const NRK_BASE_URL = "https://radio.nrk.no/podkast/";
 
-function parseTitle(title) {
-  const m = title.match(TITLE_RE);
-  return m ? { count: m[1], name: m[2] } : { count: null, name: title };
-}
-
-function buildCard(feed, index) {
-  const { count, name } = parseTitle(feed.title);
+function buildRow(feed) {
   const feedUrl = BASE_URL + feed.id + ".xml";
 
-  let statusClass = "card-active";
-  if (feed.ignore)         statusClass = "card-obsolete";
-  else if (!feed.enabled)  statusClass = "card-inactive";
+  let statusClass = "row-active";
+  if (feed.ignore)        statusClass = "row-obsolete";
+  else if (!feed.enabled) statusClass = "row-inactive";
 
-  const badge = count ? `<span class="ep-badge">${count} ep</span>` : "";
+  const epCount = feed.episodes === 0 ? "Alle" : (feed.episodes ? feed.episodes + " ep" : "");
+  const badge   = epCount ? `<span class="ep-badge">${epCount}</span>` : "";
 
   return `
-    <div class="card ${statusClass}" data-search="${name.toLowerCase()}">
-      <div class="card-strip"></div>
-      <div class="card-body">
-        <div class="card-top">
-          <a class="card-name" href="${NRK_BASE_URL}${feed.id}" target="_blank" rel="noopener">${name}</a>
-          ${badge}
-        </div>
-        <div class="card-url-row">
-          <input class="url-input" type="text" value="${feedUrl}" id="feed_url_${feed.id}" readonly tabindex="-1">
-          <button class="copy-btn" onclick="copyToClipboard('${feed.id}', this)" aria-label="Kopier RSS-lenke">Kopier</button>
-        </div>
+    <div class="feed-row ${statusClass}" data-search="${feed.title.toLowerCase()}">
+      <span class="status-dot"></span>
+      <div class="feed-info">
+        <a class="feed-name" href="${NRK_BASE_URL}${feed.id}" target="_blank" rel="noopener">${feed.title}</a>
+        <span class="feed-url">${feedUrl}</span>
+      </div>
+      <div class="feed-right">
+        ${badge}
+        <input class="url-hidden" type="text" value="${feedUrl}" id="feed_url_${feed.id}" readonly tabindex="-1" aria-hidden="true">
+        <button class="copy-btn" onclick="copyToClipboard('${feed.id}', this)">Kopier</button>
       </div>
     </div>`;
 }
@@ -40,14 +33,13 @@ function listFeeds() {
   document.getElementById("count-active").textContent = active.length;
   document.getElementById("count-total").textContent  = visible.length;
 
-  const html = visible.map((f, i) => buildCard(f, i)).join("");
-  document.getElementById("feeds_list").innerHTML = html;
+  document.getElementById("feeds_list").innerHTML = visible.map(buildRow).join("");
   updateSearchCount();
 }
 
 function copyToClipboard(id, btn) {
-  const input = document.getElementById("feed_url_" + id);
-  navigator.clipboard.writeText(input.value).then(() => {
+  const value = document.getElementById("feed_url_" + id).value;
+  navigator.clipboard.writeText(value).then(() => {
     btn.textContent = "✓ Kopiert";
     btn.classList.add("copied");
     setTimeout(() => {
@@ -55,37 +47,28 @@ function copyToClipboard(id, btn) {
       btn.classList.remove("copied");
     }, 2000);
   }).catch(() => {
+    const input = document.getElementById("feed_url_" + id);
     input.select();
     document.execCommand("copy");
   });
 }
 
 function updateSearchCount() {
-  const cards   = document.querySelectorAll(".card");
-  const visible = [...cards].filter(c => c.style.display !== "none");
-  const total   = cards.length;
+  const cards   = document.querySelectorAll(".feed-row");
+  const visible = [...cards].filter(c => c.style.display !== "none").length;
+  const inp     = document.getElementById("searchInput").value.trim();
   const el      = document.getElementById("searchCount");
-  const inp     = document.getElementById("searchInput");
   const empty   = document.getElementById("emptyState");
 
-  if (inp.value.trim() === "") {
-    el.textContent = "";
-  } else {
-    el.textContent = `${visible.length} av ${total}`;
-  }
-
-  if (empty) empty.hidden = visible.length > 0;
+  el.textContent  = inp ? `${visible} av ${cards.length}` : "";
+  if (empty) empty.hidden = visible > 0;
 }
 
 function searchFeeds() {
   const query = document.getElementById("searchInput").value.toLowerCase().trim();
-  const cards = document.querySelectorAll(".card");
-
-  cards.forEach(card => {
-    const name = card.dataset.search || "";
-    card.style.display = name.includes(query) ? "" : "none";
+  document.querySelectorAll(".feed-row").forEach(row => {
+    row.style.display = row.dataset.search.includes(query) ? "" : "none";
   });
-
   updateSearchCount();
 }
 
