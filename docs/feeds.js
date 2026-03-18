@@ -15,8 +15,7 @@ const feeds = [
     "id": "abels_taarn",
     "title": "Abels tårn",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "andakten",
@@ -46,22 +45,19 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "Både Erlend og Steinar ",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "bakrommet",
     "title": "Bakrommet",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "baksnakk",
     "title": "Baksnakk",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "berrum_beyer_snakker_om_greier",
@@ -73,8 +69,7 @@ const feeds = [
     "id": "bibelen",
     "title": "Bibelen",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "billis_og_bollos",
@@ -104,15 +99,13 @@ const feeds = [
     "id": "blaatur",
     "title": "Blåtur",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "bok_i_p2",
     "title": "Åpen bok",
     "season": "LATEST_SEASON",
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "brannbamsen_bjoernis",
@@ -154,15 +147,13 @@ const feeds = [
     "id": "dagsnytt_atten",
     "title": "Dagsnytt 18",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "debatten",
     "title": "Debatten",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "delfi_og_dolfy",
@@ -174,8 +165,7 @@ const feeds = [
     "id": "desken_brenner",
     "title": "Desken brenner",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "dilemmaklemma",
@@ -187,8 +177,7 @@ const feeds = [
     "id": "din_venn_nora",
     "title": "Din venn, Nora",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "ding_dong_du_er_doed",
@@ -212,8 +201,7 @@ const feeds = [
     "id": "drivkraft",
     "title": "Drivkraft",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "eallima_mohkit",
@@ -231,15 +219,13 @@ const feeds = [
     "id": "ekko_-_et_aktuelt_samfunnsprogram",
     "title": "Ekko - samfunnspodden",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "etikketaten",
     "title": "Etikketaten",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "eventyrerne",
@@ -311,8 +297,7 @@ const feeds = [
     "id": "fredagspanelet",
     "title": "Fredagspanelet",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "friminutt_med_herman_og_mikkel",
@@ -408,8 +393,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",
@@ -487,8 +471,7 @@ const feeds = [
     "id": "juorre",
     "title": "Juorre",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "kaffipraati",
@@ -518,8 +501,7 @@ const feeds = [
     "id": "kjapt_oppdatert",
     "title": "Kjapt oppdatert",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "kjente_boeker_paa_4_minutter",
@@ -561,15 +543,13 @@ const feeds = [
     "id": "kommentert",
     "title": "Kommentert",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "kompass",
     "title": "Kompass",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "kongerekka",
@@ -605,8 +585,7 @@ const feeds = [
     "id": "krimrommet",
     "title": "Krimrommet",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "kringkastingsorkestret_",
@@ -636,8 +615,7 @@ const feeds = [
     "id": "kveldstanker",
     "title": "Kveldstanker",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "labyrint_om_natten",
@@ -655,22 +633,19 @@ const feeds = [
     "id": "leseklubben",
     "title": "Leseklubben",
     "season": "LATEST_SEASON",
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "lev_vel",
     "title": "Lev vel",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "lindmo_og_co",
     "title": "Lindmo og Co",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "loensj_med_rune_nilson",
@@ -682,8 +657,7 @@ const feeds = [
     "id": "loerdagsraadet",
     "title": "Lørdagsrådet",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "luois_luohti",
@@ -725,8 +699,7 @@ const feeds = [
     "id": "markus_og_wolfgang_snakker_klassisk",
     "title": "Markus og Wolfgang snakker klassisk",
     "season": "LATEST_SEASON",
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "maskoramapodkasten",
@@ -738,8 +711,7 @@ const feeds = [
     "id": "med_all_respekt",
     "title": "Med All Respekt",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "meininga_med_livet",
@@ -859,8 +831,7 @@ const feeds = [
     "id": "nittiatten",
     "title": "Nittiatten",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "noedsamtaler",
@@ -878,8 +849,7 @@ const feeds = [
     "id": "norsken_svensken_og_dansken",
     "title": "Norsken, svensken og dansken",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "nrkbeta",
@@ -903,8 +873,7 @@ const feeds = [
     "id": "nyhetsmorgen",
     "title": "Nyhetsmorgen",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "o-fag",
@@ -928,8 +897,7 @@ const feeds = [
     "id": "oppdatert",
     "title": "Oppdatert",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "p060ms2h",
@@ -947,8 +915,7 @@ const feeds = [
     "id": "p3morgen",
     "title": "P3morgen",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "paa_audition",
@@ -972,8 +939,7 @@ const feeds = [
     "id": "politisk_kvarter",
     "title": "Politisk kvarter",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "popaganda",
@@ -1033,8 +999,7 @@ const feeds = [
     "id": "radioresepsjonen",
     "title": "Radioresepsjonen",
     "season": null,
-    "enabled": false,
-    "episodes": 0
+    "enabled": false
   },
   {
     "id": "radioresepsjonens_arkivpodkast",
@@ -1112,8 +1077,7 @@ const feeds = [
     "id": "siesta",
     "title": "Siesta",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "sjakksnakk",
@@ -1131,8 +1095,7 @@ const feeds = [
     "id": "skiklubben",
     "title": "Skiklubben",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "skitprat",
@@ -1186,15 +1149,13 @@ const feeds = [
     "id": "sportsdesken_brenner",
     "title": "Sportsdesken brenner",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "spraakteigen",
     "title": "Språksnakk",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "staale_utslagsnes_fra_loensj",
@@ -1236,8 +1197,7 @@ const feeds = [
     "id": "studio_2",
     "title": "Studio 2",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "supernytt",
@@ -1333,8 +1293,7 @@ const feeds = [
     "id": "trygdekontoret",
     "title": "Trygdekontoret",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "turister",
@@ -1346,8 +1305,7 @@ const feeds = [
     "id": "tyrann",
     "title": "Tyrann",
     "season": "LATEST_SEASON",
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "ubaatsaken",
@@ -1359,8 +1317,7 @@ const feeds = [
     "id": "ukeslutt",
     "title": "Ukeslutt",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "ukjent",
@@ -1384,8 +1341,7 @@ const feeds = [
     "id": "utro_haap_og_kjaerlighet",
     "title": "Utro, håp og kjærlighet",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "valg",
@@ -1397,15 +1353,13 @@ const feeds = [
     "id": "vassendgutane_broedre_i_boots",
     "title": "Vassendgutane – brødre i boots",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "verden_paa_loerdag",
     "title": "Urix på lørdag",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "verdens_ekleste_podkast",
@@ -1423,8 +1377,7 @@ const feeds = [
     "id": "verdiboersen",
     "title": "Verdibørsen",
     "season": null,
-    "enabled": true,
-    "episodes": 0
+    "enabled": true
   },
   {
     "id": "vg3",
