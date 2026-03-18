@@ -28,7 +28,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         return None
 
     original_title = metadata["series"]["titles"]["title"]
-    image = f"{metadata['series']['squareImage'][-1]['url']}.jpg"
+    sq = metadata['series'].get('squareImage') or []
+    image = f"{sq[-1]['url']}.jpg" if sq else ""
     website = metadata["_links"]["share"]["href"]
 
     logging.debug(f"  Title: {original_title}")
@@ -78,7 +79,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         episode_id = episode["episodeId"]
         episode_title = episode["titles"]["title"]
         episode_subtitle = episode["titles"]["subtitle"]
-        episode_image = f"{episode['squareImage'][-1]['url']}.jpg"
+        sq = episode.get('squareImage') or []
+        episode_image = f"{sq[-1]['url']}.jpg" if sq else ""
         duration = episode["durationInSeconds"]
         date = episode["date"]
         
