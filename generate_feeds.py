@@ -148,12 +148,12 @@ if __name__ == '__main__':
     for p in podcasts:
         podcast_id = p["id"]
         podcast_season = p["season"]
-        ep_count = 100 if p["enabled"] else 50
+        ep_count = 50
 
         if "episodes" in p:
             ep_count = p["episodes"]
 
-        ep_count = min(ep_count, 100) if ep_count > 0 else 100
+        ep_count = min(ep_count, 50) if ep_count > 0 else 50
 
         if not p["enabled"]:
             existing = get_last_feed(feeds_dir, podcast_id)
