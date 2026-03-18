@@ -197,12 +197,10 @@ main {
   flex-shrink: 0;
 }
 .row-active   .status-dot { background: var(--active); }
-.row-inactive .status-dot { background: var(--border-2); }
+.row-inactive .status-dot { background: var(--inactive); }
 
-.row-inactive .feed-name  { color: var(--text-3); }
-.row-inactive .feed-url   { color: var(--border-2); }
-.row-inactive .ep-badge   { opacity: 0.5; }
-.row-inactive .copy-btn   { opacity: 0.6; }
+.row-inactive { opacity: 0.5; }
+.row-inactive:hover { opacity: 0.85; }
 
 .feed-info {
   flex: 1;
@@ -290,15 +288,6 @@ main {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-}
-
-/* ── Footer ───────────────────────────────────────── */
-footer {
-  max-width: var(--max-w);
-  margin: 0 auto;
-  padding: 0 24px 40px;
-  font-size: 12px;
-  color: var(--text-3);
 }
 
 /* ── Responsive ───────────────────────────────────── */
