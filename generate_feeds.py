@@ -2,7 +2,7 @@ import logging
 
 from podgen import Podcast, Episode, Media
 from dateutil import parser
-from datetime import timedelta
+from datetime import timedelta, datetime, timezone
 
 from common.helpers import init, get_last_feed, get_podcasts_config, write_feeds_file, get_version
 from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast_episodes, get_all_podcast_episodes, get_all_podcast_episodes_all_seasons
@@ -10,7 +10,7 @@ from common.psapi import get_podcast_metadata, get_episode_manifest, get_podcast
 podgen_agent = f"nrk-pod-feeder v{get_version()} (with help from python-podgen)"
 podcasts_cfg_file = "podcasts.json"
 filter_teasers = True
-web_url = "https://sindrel.github.io/nrk-pod-feeds"
+web_url = "https://jensbech.github.io/nrk-pod-feeds"
 
 def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
@@ -135,6 +135,8 @@ if __name__ == '__main__':
 
     podcasts = get_podcasts_config(podcasts_cfg_file)
 
+    inactive_refresh_days = 30
+
     for p in podcasts:
         podcast_id = p["id"]
         podcast_season = p["season"]
@@ -142,6 +144,18 @@ if __name__ == '__main__':
 
         if "episodes" in p:
             ep_count = p["episodes"]
+
+        if not p["enabled"]:
+            existing = get_last_feed(feeds_dir, podcast_id)
+            if existing:
+                for channel in existing.findall('channel'):
+                    last_built = parser.parse(channel.find('lastBuildDate').text)
+                    days_since = (datetime.now(timezone.utc) - last_built).days
+                    if days_since < inactive_refresh_days:
+                        logging.debug(f"Skipping inactive podcast {podcast_id} (built {days_since}d ago)")
+                        ep_count = -1
+            if ep_count == -1:
+                continue
 
         podcast = get_podcast(podcast_id, podcast_season, feeds_dir, ep_count)
         if not podcast:
