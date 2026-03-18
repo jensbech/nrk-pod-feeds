@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Dagsnytt 18</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Ugo Fermariello.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:35:01 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 19:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Mange tilfluktsrom i Norge er gamle, og i dårlig stand.</title>
+      <description><![CDATA[– står til total stryk, mener FrP.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a0abb332-134d-4eae-abb3-32134deeae49_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a0abb332-134d-4eae-abb3-32134deeae49_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/faUUrkB1Q7o3Z3rhmoHlnwVy0K3rMtBWppuuk9EIT8kw.jpg"/>
+    </item>
+    <item>
+      <title>Historisk Oscar til «Affeksjonsverdi»</title>
+      <description><![CDATA[Joachim Trier hentet hjem prisen for beste internasjonale film under nattens prisutdeling i Los Angeles.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e0c837d7-304d-4ca2-8837-d7304deca20c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e0c837d7-304d-4ca2-8837-d7304deca20c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NY62tsOO3c85jEmprUuIxwbvBXtnsRd6ZZn_JTOZM30Q.jpg"/>
+    </item>
+    <item>
+      <title>Kritiseres for å spille på frykt</title>
+      <description><![CDATA[Oskar Westerlin hevder nordmenn ikke har forstått hvor viktig det er å bruke KI. Han får kritikk for å kapitalisere på frykt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8db0a302-7993-4e16-b0a3-0279935e160f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8db0a302-7993-4e16-b0a3-0279935e160f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BqjH6E8g9gkVKP6DKPeIjwxSWhTzkXzt5eK8dRE2l7Fg.jpg"/>
+    </item>
+    <item>
+      <title>Klovner i kamp på timeplanen</title>
+      <description><![CDATA[Regjeringa foreslår hva fagene norsk, musikk, samfunnsfag og samisk skal inneholde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c1f063de-2028-4f30-b063-de20289f30e8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c1f063de-2028-4f30-b063-de20289f30e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bWR3ftI7F7hVxNXNkm_Aggh0qKjDizOrmmtv4h3vou0Q.jpg"/>
+    </item>
+    <item>
+      <title>Krever kutt i avgifter</title>
+      <description><![CDATA[Prisen på diesel og bensin øker. NAF krever avgiftskutt dersom prisene biter seg fast.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/50403115-c0dd-4216-8031-15c0dd321626_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/50403115-c0dd-4216-8031-15c0dd321626_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:47</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wmE_21fIitd2feR2qRvv7QhoDZGpAm0oKkaa-UYEAa6A.jpg"/>
+    </item>
+    <item>
+      <title>Varsler intense angrep</title>
+      <description><![CDATA[Tvetydige signaler fra USA om hvor lenge krigen i Iran skal vare. Forsvarsminister Pete Hegseth varsler intense angrep.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7088ad03-0ab8-4aa4-88ad-030ab8daa492_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7088ad03-0ab8-4aa4-88ad-030ab8daa492_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/10ql40ijsEsp9ruvrJhvTg5l1Y8rWb9w3NIe5JxEHSHw.jpg"/>
+    </item>
+    <item>
+      <title>Finansministeren varsler kutt i neste års budsjett.</title>
+      <description><![CDATA[Jens Stoltenberg advarer mot å tenke at Norge tjener på krigen i Midtøsten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c341e1be-99aa-4cc6-81e1-be99aaacc6bc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c341e1be-99aa-4cc6-81e1-be99aaacc6bc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s4GSgEAcObeI5i8IqX8bbwBsX3ABKel6ED0lVHPGOmnw.jpg"/>
+    </item>
+    <item>
+      <title>Økokrim har beslaglagt dokumenter fra Oslo-prosessen.</title>
+      <description><![CDATA[Dokumentene ble funnet under ransakingen av Terje Rød-Larsens og Mona Juuls felles bolig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/938f338f-782a-4db8-8f33-8f782a5db822_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/938f338f-782a-4db8-8f33-8f782a5db822_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EoD8xDRbX1cCzLviNLcrnAjut-MhIDRy50Cgc3Z5DpCg.jpg"/>
+    </item>
+    <item>
+      <title>Invasjonen er geopolitisk risikosport</title>
+      <description><![CDATA[USAs mål med krigen er veldig uklart, mener tidligere toppdiplomat Tor Wennesland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/723a1e87-1ce8-4bbe-ba1e-871ce8cbbedd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/723a1e87-1ce8-4bbe-ba1e-871ce8cbbedd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bJgKKpq5l_6EkhLlaW5ZkgcBG4ZHZlFmKVwLu7dqIpVg.jpg"/>
+    </item>
+    <item>
+      <title>USA har senket Iransk krigsskip utenfor Sri Lanka</title>
+      <description><![CDATA[Minst 80 personer er drept.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/811710fe-17a2-48c3-9710-fe17a2a8c3e8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/811710fe-17a2-48c3-9710-fe17a2a8c3e8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0DYn6FdxnkpLDF1t_2HFJwHyEXU9hkHzONHJhSnO6D6g.jpg"/>
+    </item>
+    <item>
+      <title>Krigen raser videre i Midtøsten</title>
+      <description><![CDATA[Flere hundre skal være drept. Israel har sendt bakkestyrker inn i Libanon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/73893adf-0f02-4342-893a-df0f02f342d2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/73893adf-0f02-4342-893a-df0f02f342d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:12</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iiJG--RzfD2amWH2qK3VygLj2vDCBISwizJIO3Gu7Nqw.jpg"/>
+    </item>
+    <item>
+      <title>Trump varsler større angrep</title>
+      <description><![CDATA[Den store angrepsbølgen mot Iran har ennå ikke skjedd, sier president Donald Trump til CNN.  Iranske myndigheter sier de til nå har angrepet 500 amerikanske og israelske mål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c72e9abe-5d33-44d1-ae9a-be5d3344d10d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c72e9abe-5d33-44d1-ae9a-be5d3344d10d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:39</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L3qJBlfUghA4nLhoGbeH4ATXAjzKAYIbZ9ySVQyTBatA.jpg"/>
+    </item>
+    <item>
+      <title>Stoltenberg justerer boligskatten</title>
+      <description><![CDATA[Regjeringen hever grensen for hva som regnes som en dyr bolig fra 10 til 14 millioner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e1e9b924-e3c2-48df-a9b9-24e3c258df7b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e1e9b924-e3c2-48df-a9b9-24e3c258df7b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LDP0QhpKMwFQrXM3AG4LEAceeLk03sFhGku5M0fSSNTg.jpg"/>
+    </item>
+    <item>
+      <title>Børge Brende går av</title>
+      <description><![CDATA[Børge Brende går av som leder i WEF. Avgangen kommer etter at hans kontakt med den avdøde seksualforbryteren Jeffrey Epstein ble kjent.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c69ebf62-4a70-4090-9ebf-624a70b09088_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c69ebf62-4a70-4090-9ebf-624a70b09088_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UMKpUfwa0aaDTB4fGrKVIAknqFDTjLKDL0tNMtd6RHWQ.jpg"/>
+    </item>
+    <item>
+      <title>Kongen fortsatt på sykehus</title>
+      <description><![CDATA[Kongens livlege opplyser at kongens allmenntilstand er god, han responderer godt på behandlingen på sykehuset på Tenerife.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/efd87175-dd3e-4826-9871-75dd3e982626_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/efd87175-dd3e-4826-9871-75dd3e982626_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MWtuZBhPomOOq2finEjFagaH0ley0e70TmzE0Q-Y6fXw.jpg"/>
+    </item>
+    <item>
+      <title>Fire år med fullskalainvasjon i Ukraina</title>
+      <description><![CDATA[Forsvarssjef Eirik Kristoffersen gjester Dagsnytt 18.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e89ee370-a046-48f2-9ee3-70a04668f229_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e89ee370-a046-48f2-9ee3-70a04668f229_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GzAxiIgO0OiDtCvDQHD8lA92D0Xiky1xoDvdmFqlMefA.jpg"/>
+    </item>
+    <item>
+      <title>OL til Norge?</title>
+      <description><![CDATA[Regjeringen er postive til å arrangere OL i Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/92642925-f733-448d-a429-25f733948dc0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/92642925-f733-448d-a429-25f733948dc0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:04</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/d44kERzONOOufsDpEJ0YkQAgZRY2xX9GBlx_Nq7ym_6g.jpg"/>
+    </item>
+    <item>
+      <title>Nora Haukland forklarte seg i Høiby-saken</title>
+      <description><![CDATA[Høibys tidligere samboer beskriver Høiby som sint og aggressiv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/43fc5161-758f-45f8-bc51-61758f05f820_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/43fc5161-758f-45f8-bc51-61758f05f820_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:08</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eWBcW6IQ6oDNAgCPMJPmYwGWCf_rI9kXXIofeGcSlCTA.jpg"/>
+    </item>
+    <item>
+      <title>Andrew Mountbatten-Windsor pågrepet</title>
+      <description><![CDATA[Den tidligere prinsen er mistenkt for grov tjenesteforsømmelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/63c55c4e-91c9-44ff-855c-4e91c9f4ff60_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/63c55c4e-91c9-44ff-855c-4e91c9f4ff60_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nimRSb4x-4Ihp8jo4sqkpwyT7RnkKjlHtx4_kJEmuvYw.jpg"/>
+    </item>
+    <item>
+      <title>Grafsing eller bagatellisering?</title>
+      <description><![CDATA[Går mediene for langt i dekningen av Epstein-filene - eller blir maktpersonene beskyttet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/da3e2acc-ec2e-4e29-be2a-ccec2eee29c3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/da3e2acc-ec2e-4e29-be2a-ccec2eee29c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:47</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xY9uzTl4hwmxfoZIWy35RAY-KwYbOHkAubYqPlR5loLg.jpg"/>
+    </item>
+    <item>
+      <title>– Få dokumentene ut</title>
+      <description><![CDATA[Hillary Clinton anklager Trump-administrasjonen for bevisst å forsinke offentliggjøring av Epstein-dokumenter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bb8927b0-8dbb-41b8-8927-b08dbbc1b842_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bb8927b0-8dbb-41b8-8927-b08dbbc1b842_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:52</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OrI_dNzd2t9QhlyVbw1AAQ8phPP5SB_SQs8gcpi06IsA.jpg"/>
+    </item>
+    <item>
+      <title>Siste OL-stafett i langrenn?</title>
+      <description><![CDATA[Hvis dette stemmer er det krise, mener Øystein Pølsa Pettersen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9e8ed882-54fc-4cc5-8ed8-8254fc7cc5a7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9e8ed882-54fc-4cc5-8ed8-8254fc7cc5a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JcH4GE_m4bz3fByiEjSe7gBtSv-n6bWQ8hWupoW8iJdw.jpg"/>
+    </item>
+    <item>
+      <title>Europa diskuterer atomvåpen</title>
+      <description><![CDATA[Norge topper laget på sikkerhetskonferansen i München. Forholdet til USA sentralt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b618b87-01c4-4ae4-a18b-8701c40ae4d4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b618b87-01c4-4ae4-a18b-8701c40ae4d4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:48</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TVGK6ybamO6P1OxWsY-yHQwACfZSwOnwyp_ynIzLX3lQ.jpg"/>
+    </item>
+    <item>
+      <title>Thorbjørn Jagland siktet for grov korrupsjon</title>
+      <description><![CDATA[Begge boligene og hytta til Jagland ransaket i dag. - Glad for at saken opplyses, sier den tidligere statsministeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ff916a03-094e-420b-916a-03094e820b8d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ff916a03-094e-420b-916a-03094e820b8d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6XVZOkyee1RawLMr9f4SpQByl4ifLXCysZXl2VYOLRaw.jpg"/>
+    </item>
+    <item>
+      <title>Opphever Jaglands immunitet</title>
+      <description><![CDATA[Europarådets ministerkomite har enstemmig vedtatt å oppheve Thorbjørn Jaglands immunitet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f5ae816d-edc2-4754-ae81-6dedc2f754eb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f5ae816d-edc2-4754-ae81-6dedc2f754eb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/57bo2Q3qUN_JwmkpFEkcTw9_SeZiyIGUKxDkk-uOWCOQ.jpg"/>
+    </item>
+    <item>
+      <title>PSTs redegjøring for livvakttjenesten</title>
+      <description><![CDATA[– PST er ikke personlige rådgivere for myndighetspersoner, forteller de under pressekonferanse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/992a6bc6-1853-496e-aa6b-c61853596ea9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/992a6bc6-1853-496e-aa6b-c61853596ea9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/csDIBtfKblhGal3oTSBFhQ9cXB63VwzNn3Cnt4TR_shQ.jpg"/>
+    </item>
+    <item>
+      <title>Søreide om Epstein-varsel</title>
+      <description><![CDATA[UD kunne ha undersøkt Terje Rød-Larsens tankesmie ytterligere i 2019. Det sier påtroppende Høyreleder Ine Eriksen Søreide.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/675b55bc-0b64-4443-9b55-bc0b64244365_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/675b55bc-0b64-4443-9b55-bc0b64244365_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f-PF4yaIIU3HiDgycBGNBggcQayY6uOP2EpVs_2e302g.jpg"/>
+    </item>
+    <item>
+      <title>Kronprinsessen sier unnskyld</title>
+      <description><![CDATA[Hun er ikke klar for å forklare seg ennå, og jeg må ta vare på flokken, sier kronprinsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e0aa4ee-1029-4a9b-8aa4-ee1029ca9b6d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e0aa4ee-1029-4a9b-8aa4-ee1029ca9b6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HFRidQ1MVsGx-cGUPltwXQd92TLM_ODGwECNbRtXrdLw.jpg"/>
+    </item>
+    <item>
+      <title>WEF gransker Brende og Epsteins relasjon</title>
+      <description><![CDATA[World Economic Forum-grunnlegger hardt ut mot president Brende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/033679e9-ceef-4ed7-b679-e9ceef4ed710_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/033679e9-ceef-4ed7-b679-e9ceef4ed710_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-K7OKERMO_n29dXc7WELdQBmOHTnKC_xDcokL42dYXPA.jpg"/>
+    </item>
+    <item>
+      <title>Nobelinstituttet om Jaglands Epsteinkontakt</title>
+      <description><![CDATA[– Kan være i strid med vårt etisk regelverk, sier direktør Kristian Berg Harpviken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0962d0c5-b1c8-4d46-a2d0-c5b1c8cd4683_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0962d0c5-b1c8-4d46-a2d0-c5b1c8cd4683_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/164CoB9nDZJe4lxQmASvdAbW4XXJz8fPyILdow67RPag.jpg"/>
+    </item>
+    <item>
+      <title>Første dag i Høiby-rettssaken</title>
+      <description><![CDATA[Marius Borg Høiby nekter straffskyld for de mest alvorlige tiltalepunktene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/49c73e2c-de78-4dcb-873e-2cde784dcb9b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/49c73e2c-de78-4dcb-873e-2cde784dcb9b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_oFTbNIT0gBgWO7uDkoqPwpmIU1YWPaUIULFRaN06NvA.jpg"/>
+    </item>
+    <item>
+      <title>Kronprinsessen og Jagland i Epstein-dokumentene</title>
+      <description><![CDATA[Økokrim vurderer etterforskning. Hvilke konsekvenser får kronprinsessens omfattende kontakt med overgriperen for kongefamilien?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/af5b09e9-dfb6-4ce8-9b09-e9dfb6dce8e0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/af5b09e9-dfb6-4ce8-9b09-e9dfb6dce8e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:44</itunes:duration>
+      <pubDate>Mon, 02 Feb 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oTX5wVsRQSGxABpTIv4gxgOcrkxzK9jFWBjS8Ypx6IEw.jpg"/>
+    </item>
+    <item>
+      <title>Premiere på dokumentarfilmen «Melania»</title>
+      <description><![CDATA[Dokumentarfilmen er den dyreste som er laget noensinne, og følger Melania Trump i dagene frem mot Donald Trumps innsettelse i fjor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ae4216e-33c0-4e8e-a421-6e33c09e8ea9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ae4216e-33c0-4e8e-a421-6e33c09e8ea9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IJhQPnSOw11g_W0PhvhHTQ_E-wRwLKrd5gWxMOmnKYlg.jpg"/>
+    </item>
+    <item>
+      <title>Ny strid om Melkøya</title>
+      <description><![CDATA[Equinor mener politikerne bryter loven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/26ba5400-e375-4c82-ba54-00e375ac8211_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/26ba5400-e375-4c82-ba54-00e375ac8211_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dkh36PRlam5ciANN2EJSOAP4PNRm37eU-lyryNIZsE9g.jpg"/>
+    </item>
+    <item>
+      <title>Ikke tilstede under Høiby-rettsak</title>
+      <description><![CDATA[Kronprinsparet kommer ikke til å være til stede under rettssaken mot Marius Borg Høiby.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/02ddf1ad-3dee-44ea-9df1-ad3deee4eaf4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/02ddf1ad-3dee-44ea-9df1-ad3deee4eaf4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7JgMTM0yrpauoqooOKWQygNm1D9bROyddo9WBsO8_T4w.jpg"/>
+    </item>
+    <item>
+      <title>Ice-leder må i retten etter nytt drap</title>
+      <description><![CDATA[Norsk prest i Minneapolis sier folk føler seg beleiret og forteller om opprørsstemning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2228447a-3c7d-4e3a-a844-7a3c7d4e3a8e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2228447a-3c7d-4e3a-a844-7a3c7d4e3a8e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PmRhgtGqig4hVv9a3qRRrAMYNQYa-GzjswzTzgxH-mJQ.jpg"/>
+    </item>
+    <item>
+      <title>Prinsesse Ingrid Alexandra på første offisielle tur alene</title>
+      <description><![CDATA[– Undertrykkelse av samisk kultur er en trist del av norsk historie, sa prinsessen da hun møtte pressen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f7a8b307-7b3e-45cd-a8b3-077b3ea5cdde_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f7a8b307-7b3e-45cd-a8b3-077b3ea5cdde_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/S6_prdEZiy4gfYka_qxniw9RKfkZ4R-x2zag2juXrgNA.jpg"/>
+    </item>
+    <item>
+      <title>Kritikk av nye krav til flyktninger</title>
+      <description><![CDATA[Regjeringen kutter støtteordninger og innfører aktivitetsplikt for flyktninger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d5e01623-6f0a-4992-a016-236f0aa99225_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d5e01623-6f0a-4992-a016-236f0aa99225_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nCYLnA5dXY3xLiRh5ZegQQN3wvfEvCE-z6eXu4wGZ56g.jpg"/>
+    </item>
+    <item>
+      <title>Nominasjonsdryss til "Affeksjonsverdi"</title>
+      <description><![CDATA[Historisk dag for norsk film: Nominert til beste film og åtte andre Oscar-priser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3256d634-631f-4bdb-96d6-34631f5bdb41_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3256d634-631f-4bdb-96d6-34631f5bdb41_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yfdg5rmFr0hJD-fjEtk3hgIsBuY2KZIM-bTkyKqHl6fQ.jpg"/>
+    </item>
+    <item>
+      <title>Donald Trump om Grønland: - Jeg vil ikke bruke makt</title>
+      <description><![CDATA[USAs president talte i Davos]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eafcef77-f78e-4fc9-bcef-77f78e6fc933_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eafcef77-f78e-4fc9-bcef-77f78e6fc933_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:45</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MbH9RGNEzicab6lSV4bWnge5DP-8JtQsRdnmT68HDa7Q.jpg"/>
+    </item>
+    <item>
+      <title>Stoltenberg i Davos</title>
+      <description><![CDATA[Forholdet mellom Europa og Trump dominerer møtene]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/675ee073-ad3e-41e5-9ee0-73ad3e81e5d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/675ee073-ad3e-41e5-9ee0-73ad3e81e5d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/441dgULOLS0LhsuiQywU7wVPF2tWMAOLmyCjh3EVm7Ow.jpg"/>
+    </item>
+    <item>
+      <title>Europas ledere samles for å svare på Trumps trusler</title>
+      <description><![CDATA[Føler ikke lenger en forpliktelse til å tenke utelukkende fred, siden jeg ikke fikk Nobels fredspris, skrev Donald Trump i SMS til statsminister Jonas Gahr Støre. Vanvittig, sier kommentator.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/68e48fe5-923d-45e2-a48f-e5923dd5e223_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/68e48fe5-923d-45e2-a48f-e5923dd5e223_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jtoVOEWMkYzmW-bN4du6QwfkrE73i_PtQYqYMyuH7UXw.jpg"/>
+    </item>
+    <item>
+      <title>Nobelinstitutt svarer på kritikken</title>
+      <description><![CDATA[Fredsprisvinner María Corina Machado ga medaljen sin til Donald Trump. Direktøren ved Nobelinstituttet svarer på kritikken etter fjorårets fredsprisutdeling.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/815c8b68-f637-473d-9c8b-68f637a73db0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/815c8b68-f637-473d-9c8b-68f637a73db0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5zw8YFzW6ru9S4TdW5YIMgirOvkHDitdGdw433X2a1vw.jpg"/>
+    </item>
+    <item>
+      <title>Machado møter Trump</title>
+      <description><![CDATA[Donald Trump tar i dag imot fredsprisvinner Maria Corina Machado i Det hvite hus. Hva betyr det for Venezuelas fremtid?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/25aca40d-ce8d-4c33-aca4-0dce8d1c3374_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/25aca40d-ce8d-4c33-aca4-0dce8d1c3374_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:50</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PiipIdsN9LoNM26doP7y6Qo14x_NlyXhNiVeeO2G9aIQ.jpg"/>
+    </item>
+    <item>
+      <title>Danmark sender soldater til Grønland</title>
+      <description><![CDATA[Skjebnemøte mellom Danmark, Grønland og USA i Washington.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cf81b84e-673b-48b3-81b8-4e673b48b3dd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cf81b84e-673b-48b3-81b8-4e673b48b3dd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xvni6qQq09cBvfC7c2kEEQv3clnSrHO7w-237xF8HWNQ.jpg"/>
+    </item>
+    <item>
+      <title>Helseministeren varsler bedre tilbud og kortere helsekøer</title>
+      <description><![CDATA[Ressursene stemmer ikke overens med visjonene, kritiserer Legeforeningen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/83354937-ff10-4e89-b549-37ff105e893a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/83354937-ff10-4e89-b549-37ff105e893a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:11</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EzKKk7AujGT9_2NIjKuDMAqa4JQsOJUZV1RyzMhujByQ.jpg"/>
+    </item>
+    <item>
+      <title>USA truer med sterke tiltak mot Iran.</title>
+      <description><![CDATA[Irans utenriksminister sier at situasjonen er under full kontroll etter helgens demonstrasjoner og vold.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9a009ff0-87af-43b7-809f-f087afa3b738_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9a009ff0-87af-43b7-809f-f087afa3b738_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J7cL4he4_kZyeyqrTYpltQTsW6r7fZROvqhkK1Qlufcg.jpg"/>
+    </item>
+    <item>
+      <title>Vil fjerne kompetansekrav til helse- og omsorgstjenestene</title>
+      <description><![CDATA[Kommunekommisjonen leverte i dag sine forslag til regjeringen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4beded91-132e-4bec-aded-91132e3bec77_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4beded91-132e-4bec-aded-91132e3bec77_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iJO3ZAitnf-ReV2cB8c56AJiCpw-l3UGBsWmda8BoG6Q.jpg"/>
+    </item>
+    <item>
+      <title>Drept av USAs innvandringspoliti</title>
+      <description><![CDATA[Trump mener kvinnen gikk til angrep]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b09344af-276e-4a3b-9344-af276e4a3bfc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b09344af-276e-4a3b-9344-af276e4a3bfc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fC4amidyH_S26MdnFG_-qQcr2tFQLZvjPlFM_NMNyRGw.jpg"/>
+    </item>
+    <item>
+      <title>Trump-frykt på Stortinget</title>
+      <description><![CDATA[Støre ber om å holde en sikkerhetspolitisk redegjørelse i Stortinget]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/28e8fd84-da0c-4afe-a8fd-84da0cfafeb2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/28e8fd84-da0c-4afe-a8fd-84da0cfafeb2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:51</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ncT5z2pln0K9w5UnHMctdAFwF42rvLkoYNsNsjpOMEOQ.jpg"/>
+    </item>
+  </channel>
+</rss>

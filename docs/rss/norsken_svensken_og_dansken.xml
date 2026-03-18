@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Norsken, svensken og dansken</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:38:57 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Folkets dom</title>
+      <description><![CDATA[Trenger vi rettsapparatet når vi har folkedomstoler? Stjernekokk anklaget for å ha slått ansatte. Og er det greit å skrelle egg offentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/589fbf9d-a351-4ef6-9fbf-9da351aef6dc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/589fbf9d-a351-4ef6-9fbf-9da351aef6dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Apokalypse nå!</title>
+      <description><![CDATA[Norsk formuesskatt trekkes frem til skrekk og advarsel i den danske valgkampen, 
+og vil «fredspresident» Trump fremskynde armageddon?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3c62c899-0682-4c5c-a2c8-9906823c5c8b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3c62c899-0682-4c5c-a2c8-9906823c5c8b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Vold og skam i retten</title>
+      <description><![CDATA[Høiby-saken reiser spørsmål om press og ansvar. 
+Danmark ser ut til å trives tettere på makten, mens FN vakler 
+– hva skjer med Norges rolle?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/5a59bf0d-b43b-4e94-99bf-0db43b5e945b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/5a59bf0d-b43b-4e94-99bf-0db43b5e945b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 28 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Sverige i sjokk</title>
+      <description><![CDATA[En dokumentar om jakten på pedofile svensker skaper sinne, tiden er overmoden for en digital nordisk union, og er snørydding sexistisk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/550f27f5-a54b-4b16-8f27-f5a54b7b1688_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/550f27f5-a54b-4b16-8f27-f5a54b7b1688_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 21 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Kjærlighet og svik</title>
+      <description><![CDATA[Norge fortsetter selvransakelsen, massiv hjemsendelse av innvandrere i Sverige møter motstand og valentins-Danmark er bare full av snøkjærlighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ced9f925-cf0e-440d-99f9-25cf0e040dfa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ced9f925-cf0e-440d-99f9-25cf0e040dfa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Alt (rakner) for Norge</title>
+      <description><![CDATA[Epstein-avsløringene gjør vondt i den norske folkesjela, ryker monarkiet nå? Og en svenske har laget verdens verste pizza.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c1561de8-d0ed-4ba3-961d-e8d0ed1ba3ff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c1561de8-d0ed-4ba3-961d-e8d0ed1ba3ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Nordisk bølge</title>
+      <description><![CDATA[Kan filmen Affeksjonsverdi være starten på en nordisk kultursatsing? Og hvorfor snakker vi så lite om det som skjer i Iran?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9f0a3c31-3cce-418f-8a3c-313cce718fd7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9f0a3c31-3cce-418f-8a3c-313cce718fd7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 31 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Vi som elsket Amerika</title>
+      <description><![CDATA[Er det fordi Norden har millioner av etterkommere i USA at mange av oss har vært så ukritiske? Og er «Mar-a-Lago-face» maktens sanne ansikt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/7a893bc5-2760-4857-893b-c527608857a9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/7a893bc5-2760-4857-893b-c527608857a9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Danske spark i sjelen</title>
+      <description><![CDATA[Alt står på spill for Grønland og Danmark. Hva må Norden forsvare og hvor langt er vi villige til å gå? Og må alle gå med forkle nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c7fe7d2a-35f3-48c9-be7d-2a35f3c8c9b9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c7fe7d2a-35f3-48c9-be7d-2a35f3c8c9b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Deilig er Norden!</title>
+      <description><![CDATA[Helt til noen invaderer Grønland, da. Må Norge og Sverige gå i krig for Danmark nå? Og hva røpet nyttårstalene om lederne våre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ca07bd92-5682-41b3-87bd-92568211b32f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ca07bd92-5682-41b3-87bd-92568211b32f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Jødenes frykt</title>
+      <description><![CDATA[Norges syn på Israel skiller seg ut i Norden, miss Finland skapte sterke reaksjoner i Asia og mistet tittelen – og kanskje kommer julenissen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/eea1b41c-73f0-409e-a1b4-1c73f0609e23_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/eea1b41c-73f0-409e-a1b4-1c73f0609e23_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Når foreldrene svikter</title>
+      <description><![CDATA[Ny nazimarsj i Sverige, kan man si hva som helst, hvor som helst, om sine foreldre – og er Europa det nye Afghanistan?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b9c2f482-13a4-4e57-82f4-8213a4ce57af_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b9c2f482-13a4-4e57-82f4-8213a4ce57af_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Tillitskrise</title>
+      <description><![CDATA[Statsbudsjett-kaos og paniske politikere, partier som kopierer hverandre og korrupt kulturelite – mister vi tilliten til sosialdemokratiet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f6d4a326-6a43-4e60-94a3-266a436e60c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f6d4a326-6a43-4e60-94a3-266a436e60c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Hitlers intime hemmelighet</title>
+      <description><![CDATA[Danske forskere med nye funn fra Hitlers DNA, Åsa og Hassan er uenige om det er viktige funn. Og Hilde spør: blir Nordens barn svikte]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/eba67a15-0d17-42ea-a67a-150d1792ea98_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/eba67a15-0d17-42ea-a67a-150d1792ea98_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 29 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Mannsdag og Mette-smell</title>
+      <description><![CDATA[Mannsdagen splitter og engasjerer, danskene har gitt Mette Frederiksen en politisk lusing, og svenskene murrer over Norges VM-feber.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/853bf585-b232-4697-bbf5-85b232c69799_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/853bf585-b232-4697-bbf5-85b232c69799_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 22 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Smittet av ytre høyre</title>
+      <description><![CDATA[Vi har begynt å bruke uttrykk som tidligere har fått det til å gå kaldt nedover ryggen på oss. Og har metoo gjort menn til bedre mennesker?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/e31d3b7c-40b4-43ea-9d3b-7c40b493eac6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/e31d3b7c-40b4-43ea-9d3b-7c40b493eac6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Forelsket i Finland</title>
+      <description><![CDATA[Alle elsker Finland. Vi også. Men hvordan går det egentlig med vår nydelige nabo i øst? Vi får besøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8601fac3-ccd1-4995-81fa-c3ccd1b99522_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8601fac3-ccd1-4995-81fa-c3ccd1b99522_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 08 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Naziklubber i Norden</title>
+      <description><![CDATA[Høyreekstreme slåssklubber for unge menn dukker opp i våre land. Og må det bli krig før en fredssang kan samle folket?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/d4acb710-b4b6-45c2-acb7-10b4b635c228_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/d4acb710-b4b6-45c2-acb7-10b4b635c228_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 01 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Snifferen, pusheren og drankeren</title>
+      <description><![CDATA[Helskandinavisk stemning med Marius Borg Høiby, kokainlangernes bånd til svenske gjenger, og dansk drikkekultur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9147f752-40ad-45f2-87f7-5240ada5f2fe_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9147f752-40ad-45f2-87f7-5240ada5f2fe_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 25 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Skandinavisk antikrist</title>
+      <description><![CDATA[Et forslag om å forby nikab og burka i Sverige skaper delte meninger i panelet. 
+Og hvorfor blir Greta Thunberg utpekt som antikrist? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/131f944e-4bcf-4a8a-9f94-4e4bcfca8abc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/131f944e-4bcf-4a8a-9f94-4e4bcfca8abc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 18 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Frykt og korrupsjon</title>
+      <description><![CDATA[Sverige betalte Somalia for å kunne deportere kriminelle dit. Trenger vi være så redde? Og beskytter «systemet» seg selv fremfor borgerne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ef23f758-f38d-4a30-a3f7-58f38d6a3064_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ef23f758-f38d-4a30-a3f7-58f38d6a3064_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 11 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Tradwife-feminisme</title>
+      <description><![CDATA[Har kvinnekampen tatt en u-sving? Hva gjør svenske kulelagre i russiske droner? Og hvorfor må menn på død og liv stå når de tisser?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/46bb579a-4246-4f82-bb57-9a42467f82db_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/46bb579a-4246-4f82-bb57-9a42467f82db_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 04 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Droner over Norden</title>
+      <description><![CDATA[Droner over flyplasser skaper frykt og debatt i panelet, Ungarn hevner seg på Sverige, og hvordan bør man kle seg i parlamentet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/74830c15-128f-4724-830c-15128ff724bd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/74830c15-128f-4724-830c-15128ff724bd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 27 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Etter drapet på Kirk</title>
+      <description><![CDATA[Hatretorikken skrus opp i Norden, Erna er ikke lenger stjerna, og er Durek bare en hoffnarr?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/429631ae-21f9-4955-9631-ae21f9e9552b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/429631ae-21f9-4955-9631-ae21f9e9552b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 20 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Svikefull svenske</title>
+      <description><![CDATA[Svensk kjendispar forteller vill utroskapshistorie, høyresida både vant og tapte valget i Norge, og snart blir Märtha og Durek TV-serie!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fbef7db-3be9-4eb8-bef7-db3be9aeb8ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fbef7db-3be9-4eb8-bef7-db3be9aeb8ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 13 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Blå ungdomsbølge</title>
+      <description><![CDATA[Høyresiden fosser frem i det norske skolevalget, svensk kulturkanon får folk til å steile, og hva kan Trump finne på med oljefondet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ff030edd-d609-44d4-830e-ddd60994d411_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ff030edd-d609-44d4-830e-ddd60994d411_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 06 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Ordkrig om Palestina</title>
+      <description><![CDATA[Nordisk uenighet om Palestina, USA angriper Danmark på tre fronter, og bør man rapportere kollegaer med ekstremistiske meninger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a259c283-131a-4360-99c2-83131ae36052_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a259c283-131a-4360-99c2-83131ae36052_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 30 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Ulv i prinseklær</title>
+      <description><![CDATA[Høyt profilerte menn tiltalt i Norge og Sverige, brutalt oppgjør med woke-kulturen i Danmark, og bør barn og unge være mer nakne sammen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/4b917e06-7c32-42e4-917e-067c3282e428_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/4b917e06-7c32-42e4-917e-067c3282e428_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Homofobe Danmark</title>
+      <description><![CDATA[Kristenkonservative vinder i Norden, hver femte danske er imot sex mellom likekjønnede, og svensk gås skaper grensekonflikt i nord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/fe1e0c3c-853c-40c6-a998-0a67ca31f3ed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/fe1e0c3c-853c-40c6-a998-0a67ca31f3ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 16 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Radikalisert ministersønn</title>
+      <description><![CDATA[Den svenske migrasjonsministerens sønn leflet med høyreekstremister, shortsdebatten raser igjen, og er nordmenn likegyldige til høstens stortingsvalg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ccc2aa11-fb00-4da8-903f-82746b9b83a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ccc2aa11-fb00-4da8-903f-82746b9b83a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
+    <item>
+      <title>Sosialdemokratisk fascisme?</title>
+      <description><![CDATA[Mette Frederiksen har skrudd til retorikken i innvandringsdebatten, de kongelige tar opp kampen om nordområdene, og lesetips til sommerferien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/fed3327b-cb13-4249-834a-06e2751b4fd3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/fed3327b-cb13-4249-834a-06e2751b4fd3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 21 Jun 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Kokaintsunami over Norden</title>
+      <description><![CDATA[Spillvannstest avslører stort kokainforbruk, Greta Thunbergs båtaksjon for Gaza stoppet av Israel, og alternative medier utelukkes fra felleskapet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a68c48fd-f74f-402d-a8b9-1193a9348489_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a68c48fd-f74f-402d-a8b9-1193a9348489_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 14 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Ja til atomvåpen?</title>
+      <description><![CDATA[Skal det fredselskende Norden satse på fredsforskning, eller heller gå for en egen atomparaply? Og hvorfor mister pride støtte i Danmark?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/bb949dc9-0730-437d-94ff-c4044da1f062_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/bb949dc9-0730-437d-94ff-c4044da1f062_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 07 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Ja, vi elsker olje</title>
+      <description><![CDATA[Den nordiske familien slår sprekker, Russland ruster opp langs grensen, og har oljerike nordmenn blitt blinde miljøhyklere?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/4702fa2d-8b3c-49b2-abc0-87134d6ad33c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/4702fa2d-8b3c-49b2-abc0-87134d6ad33c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 31 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bwLO1PLDTM3xXpNscVi3cwSMZREb1ikzUTY_7vyb01Gg.jpg"/>
+    </item>
+    <item>
+      <title>Elitens hevn</title>
+      <description><![CDATA[Palestina-debatt knebles i danske klasserom, de rike later som de er folk flest – og er nordiske politikere blitt mer korrupte?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8bd733d0-5819-49d0-b1da-ad1e286e7b60_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8bd733d0-5819-49d0-b1da-ad1e286e7b60_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 24 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Kampen om sannheten</title>
+      <description><![CDATA[Det blåser opp til strid om statskanalene, gamle vaner er vonde å vende på dansk kostskole, og skal man dømme embetsmenn etter seksuell preferanse?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b716badf-5ba9-4225-8adf-3df96c444b2a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b716badf-5ba9-4225-8adf-3df96c444b2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 17 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Rasisme i kø</title>
+      <description><![CDATA[Stockholms uteliv sier nei til gjester med mørk hud, danske vant EM i måkeskrik, og politikere ble buet ut 1. mai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/0a934e7e-db8f-42ef-a5b0-885b65a10482_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/0a934e7e-db8f-42ef-a5b0-885b65a10482_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 10 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Svenskeskam</title>
+      <description><![CDATA[Sverige mener Norge bør skamme seg etter Trump-møtet, danske kvinner vil jobbe mindre og være mer med barna, og har Sverige ofret en av sine egne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/178d7df8-edac-4986-8e87-daa1f6eca66f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/178d7df8-edac-4986-8e87-daa1f6eca66f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 03 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Anoreksi og demoner</title>
+      <description><![CDATA[Danskene og finnene har fått sexdukkebordell, techmilliardærene vil til Grønland, og er det lov å bli forbanna på en som har spiseforstyrrelser?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9842a9cc-ac42-4cb5-a545-c7a179d4a316_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9842a9cc-ac42-4cb5-a545-c7a179d4a316_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 26 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Tro, håp og naboskap </title>
+      <description><![CDATA[Naboskap kan være kjernen til både god helse og evige konflikter. Og vil man virkelig være høyrehånden til skolegårdens bølle?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/90e0bc58-7948-4b65-aca8-472bda75e7c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/90e0bc58-7948-4b65-aca8-472bda75e7c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 19 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Tonnevis med dritt</title>
+      <description><![CDATA[Trump møter nordisk motstand, dansk journalist får karantene på Folketinget, og eierne av økologisk hotell stakk fra gjeld og avføring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f9153961-3eb5-4638-b8f9-78667c4e304d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f9153961-3eb5-4638-b8f9-78667c4e304d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 12 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Golfdiplomati og kaninhull</title>
+      <description><![CDATA[Finlands president spilte golf med Trump, svensk journalist fengslet i Tyrkia, 
+og har danskene – og kanskje vi alle - falt ned i kaninhullet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/408cd9d6-d5e0-45f9-87a9-9e33d60a5be7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/408cd9d6-d5e0-45f9-87a9-9e33d60a5be7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 05 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Putins perspektiv</title>
+      <description><![CDATA[Man må høre sine meningsmotstandere for å holde seg skjerpet, pedofili-skandale i Danmark, og skal kunst være oppbyggelig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/23b94420-acad-4170-968c-452f1d7b885e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/23b94420-acad-4170-968c-452f1d7b885e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 29 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bwLO1PLDTM3xXpNscVi3cwSMZREb1ikzUTY_7vyb01Gg.jpg"/>
+    </item>
+    <item>
+      <title>Vi menn</title>
+      <description><![CDATA[Venstresidemannen må finne seg selv, næringslivsmannen bør drive med idrett, og forfatter Dag Solstad er død – men hverdagsheltene hans lever videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/41a308fa-cf7d-49b2-9807-ef466f951fb5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/41a308fa-cf7d-49b2-9807-ef466f951fb5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 22 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
+    </item>
+    <item>
+      <title>Juksemaker, pipelort</title>
+      <description><![CDATA[Fem år etter korona slikker vi fremdeles sår, politisk snøskred på Grønland, og kan ikke alt like godt bare være lov i idretten? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f2e2fa92-dee3-4076-8d2f-5f8a9ad729a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f2e2fa92-dee3-4076-8d2f-5f8a9ad729a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 15 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Nordic noir</title>
+      <description><![CDATA[Det har blitt farligere å ha upopulære meninger, på Grønland forsterkes ideen om selvstendighet, og ski-VM i Trondheim renner bort i grøftefylla. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3df11973-c2c5-4996-979f-9e6daeee205d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3df11973-c2c5-4996-979f-9e6daeee205d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 08 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
+    </item>
+    <item>
+      <title>Entusiasme og fascisme</title>
+      <description><![CDATA[Det går an å føle en slags entusiasme i disse tider, ytre høyre er på vei inn i varmen, og hvilket dyr identifiserer du deg med?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b226907e-b0e5-4953-a5fe-3b378d42a645_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b226907e-b0e5-4953-a5fe-3b378d42a645_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 01 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
+    </item>
+    <item>
+      <title>Europa har blitt dumpa</title>
+      <description><![CDATA[Trump vekker den nordiske kampånden, advokat kaller sovevoldtekt for vårt tiårs justismord, og dømt svensk forfatter nekter å gå i fengsel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8032c438-2334-4c00-a30e-caf630ab64dc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8032c438-2334-4c00-a30e-caf630ab64dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 22 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Trump-angst</title>
+      <description><![CDATA[Unge får angst av Trump, Grønlands forhold til Danmark surner ytterligere, og Hassan står midt i ny metoo-sak i Danmark. Vi har også besøk av finnen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/df920ef9-a85c-434b-bacd-d502c33d0e3f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/df920ef9-a85c-434b-bacd-d502c33d0e3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 15 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+    <item>
+      <title>Jenssynsglede</title>
+      <description><![CDATA[Politisk comeback for Jens Stoltenberg. Sverige er i sorg, og visepresident Vance får Mette Fredriksen til å frese!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/6f28f1a6-b961-4c8b-b0f4-b2958bc6cb5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/6f28f1a6-b961-4c8b-b0f4-b2958bc6cb5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:02</itunes:duration>
+      <pubDate>Sat, 08 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Urix</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:41:18 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Vant millioner på ayatolla-attentatet</title>
+      <description><![CDATA[Enkelte håvet inn på drapet på Irans leder. En ny type pengespill har tatt av under president Donald Trump. Polymarket er i vinden]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3dac08db-34f9-4f80-ac08-db34f95f805a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3dac08db-34f9-4f80-ac08-db34f95f805a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:13</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HKIcV9aOCyBNx83uw3rvzQ2AtyVmlBvfhi-ULQwy8ROQ.jpg"/>
+    </item>
+    <item>
+      <title>Han lovet å ikke krige mer</title>
+      <description><![CDATA[Donald Trump ville ha slutt på USAs kriger i utlandet. Han kalte dem dyre og dumme. Nå er det han som får soldater hjem i kiste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/da6fc3a0-ffcc-47ca-afc3-a0ffcc57ca92_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/da6fc3a0-ffcc-47ca-afc3-a0ffcc57ca92_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:24</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UU_WnB02C82aAOyFK4JmCQ_hRDZkbzKfA_7T9s4wpBgA.jpg"/>
+    </item>
+    <item>
+      <title>Det hvite hus - en familebedrift?</title>
+      <description><![CDATA[Kona Melania leder FNs sikkerhetsråd og svigersønnen er blitt fredsmegler. Hvorfor satser Trump på sine nærmeste?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/695d09c3-de3b-4da8-9d09-c3de3bfda8c0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/695d09c3-de3b-4da8-9d09-c3de3bfda8c0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:29</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BKxzeHBH8vqidNV2VTxNpwLS7OZWv-QgT6_eUJ8b7bNg.jpg"/>
+    </item>
+    <item>
+      <title>- Vi vinner hvis vi overlever</title>
+      <description><![CDATA[President Zelenskyj er klar for å forhandle med Russland. Han tror at hvis Ukraina overlever som land, så vinner de også krigen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/25144b9a-cb84-48fb-944b-9acb8428fbbd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/25144b9a-cb84-48fb-944b-9acb8428fbbd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:40</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PlB1xkyT0PbQl489MpkYhgEFQyalf-5RQGbvPgl1D0Jw.jpg"/>
+    </item>
+    <item>
+      <title>Kan Iran vinne?</title>
+      <description><![CDATA[Iran er forsvarsløs mot luftangrepene, men nabolandene kan også bli forsvarsløse mot iranske angrep. De kan gi Iran en seier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/dbd68bc6-9cac-4e92-968b-c69cac7e92e9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/dbd68bc6-9cac-4e92-968b-c69cac7e92e9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:20</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A_imYCAbBwm8J-NPtyqjAg6kOLO2tVBIFfg87EXYOs8Q.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRA: Full krig mot Iran</title>
+      <description><![CDATA[USA og Israel har gått sammen om å angripe Iran. Nå handler det om mye mer enn atomvåpen, sier NRKs utenriksredaktør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/c192848d-ab06-4c57-9284-8dab06cc570b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/c192848d-ab06-4c57-9284-8dab06cc570b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:41</itunes:duration>
+      <pubDate>Sat, 28 Feb 2026 12:22:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pBLokFXdmyGE148H0_C8vwvIvc7H4GGAayeA0TcBeARw.jpg"/>
+    </item>
+    <item>
+      <title>Slik vil Trump vinne neste valg</title>
+      <description><![CDATA[Talen om rikets tilstand startet valgkampen. Nå vil presidenten utfordre grunnloven i USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/a186acb0-fd39-4984-86ac-b0fd396984df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/a186acb0-fd39-4984-86ac-b0fd396984df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:46</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GiM-Hsl69oB_3TxbclB52gIvjnhBr-VDx4BRDIwcdw8g.jpg"/>
+    </item>
+    <item>
+      <title>Fire år med motstand</title>
+      <description><![CDATA[Få trodde at ukrainerne skulle greie å forsvare seg mot russerne. Lidelsene har vært store, men de står fortsatt på beina. Hvordan har de fått til det og hva har skjedd?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/45e355ed-6c1d-4088-a355-ed6c1dc0889c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/45e355ed-6c1d-4088-a355-ed6c1dc0889c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:11</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/myzhkbxDwQNOuaEhMv-BBg9MA0OtRGkoPtNfD69GLAtw.jpg"/>
+    </item>
+    <item>
+      <title>Må flere i Europa ha  atomvåpen?</title>
+      <description><![CDATA[Europa stoler ikke på USA. Er løsningen at Tyskland, Polen og Norden får atomvåpen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3f40bf05-1f54-4862-80bf-051f5448627e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3f40bf05-1f54-4862-80bf-051f5448627e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:54</itunes:duration>
+      <pubDate>Sun, 22 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AGK8L2kVvnA9GR3FYr84AwMd6eFiQ53bLVMRLTjkPvpw.jpg"/>
+    </item>
+    <item>
+      <title>Ukraineren som rømte fra krigen</title>
+      <description><![CDATA[To millioner ukrainere har unndratt seg militærtjeneste. De vil ikke krige for landet sitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/c01cf532-cf70-474f-9cf5-32cf70d74f7b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/c01cf532-cf70-474f-9cf5-32cf70d74f7b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:48</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/knE0ZrF3I1pukS3W5ykMfQSNUFe2MbMoFOvY0WAOeUyw.jpg"/>
+    </item>
+    <item>
+      <title>USA krever en ny verdensorden</title>
+      <description><![CDATA[Trumps mann strekker ut en hånd til Europa, i den andre holder han en pisk]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/b6da43d9-d3b9-4ee3-9a43-d9d3b97ee37a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/b6da43d9-d3b9-4ee3-9a43-d9d3b97ee37a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:15</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_Qd1lcZLiUGwAU78GmuiVQzeghf7sY7UcX_TXrfAHQeA.jpg"/>
+    </item>
+    <item>
+      <title>Tiet om Epstein i over 20 år</title>
+      <description><![CDATA[Ashley (16) ble lokket til å gi Jeffrey Epstein massasje. Nå krever hun at ofrene blir lyttet til og at nordmenn snakker sant om forholdet sitt til seksualforbryteren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/e86e5906-dea5-4da3-ae59-06dea56da339_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/e86e5906-dea5-4da3-ae59-06dea56da339_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:31</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yP0HyVUN48oSO9ZzzsWO_QUQRurq_b2WADCHYtr8IgKw.jpg"/>
+    </item>
+    <item>
+      <title>USA er blitt mer korrupt</title>
+      <description><![CDATA[Den årlige oversikten over korrupsjon i verdens land viser dårlige tall for USA. Landet får den laveste rangeringen det noensinne har fått.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ff86e810-a567-477e-86e8-10a567577ec7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ff86e810-a567-477e-86e8-10a567577ec7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:47</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qATKgy7yjXq9aQFsLsd4rwHCukTGciF2eE1fcx1Bqx0A.jpg"/>
+    </item>
+    <item>
+      <title>Sexovergriperen, superdiplomaten og en tankesmie i New York</title>
+      <description><![CDATA[Norge ga millioner til en tankesmie i New York  der to russiske kvinner sier de fikk jobb etter å ha vært Jeffrey Epsteins ofre. Hvorfor var denne tankesmia og Terje Rød-Larsen så viktige for Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/fee7f711-fe15-4321-a7f7-11fe15c3212b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/fee7f711-fe15-4321-a7f7-11fe15c3212b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:09</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 15:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mf4tXtlbFk6KAgXEwRocwQrd_h7KpNomZBv2TdGLuZ7w.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor har Melania lagd dokumentar?</title>
+      <description><![CDATA[Kritikerne slakter den og den kommer aldri til å tjene penger. Hva er poenget med filmen om Melania Trump?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3121cb20-2d56-4b46-a1cb-202d568b4693_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3121cb20-2d56-4b46-a1cb-202d568b4693_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:42</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QRDORtV5vUcsevWr26h8nAIltWwNsLDcik-sG-EbVizA.jpg"/>
+    </item>
+    <item>
+      <title>Hva skjedde da Iran gikk i svart?</title>
+      <description><![CDATA[Iran har vært avstengt fra omverden i over 20 dager etter at myndighetene blokkerte internett og mobil tilgang. Det anslås at flere tusen har blitt drept og enda flere har blitt fengslet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/957f0901-e9e9-4154-bf09-01e9e9c15452_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/957f0901-e9e9-4154-bf09-01e9e9c15452_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:24</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Bg7yXAzC1lYXGhjcrvLxYAFIX4mr2ZYrqGfnakZqkBjw.jpg"/>
+    </item>
+    <item>
+      <title>Drept av Trumps politi</title>
+      <description><![CDATA[Sykepleieren Alex ble skutt ni ganger av føderale agenter. Minneapolis er i opprør. Hvordan kunne det skje igjen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/42664552-7b64-4100-a645-527b643100fa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/42664552-7b64-4100-a645-527b643100fa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zryo3x56BJnZdvHSgy6HpQYYl_e7EViFIn9mZA6taddQ.jpg"/>
+    </item>
+    <item>
+      <title>Gir seg ikke: Vil ha «isklumpen» Grønland</title>
+      <description><![CDATA[Men Trump lover å ikke angripe øya.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/6ca6bf80-b02d-43de-a6bf-80b02df3de09_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/6ca6bf80-b02d-43de-a6bf-80b02df3de09_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:59</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yAuaC8xET2wVfFW_vQ0IvAYiaFcj-KNwg2rdtdU2tFHw.jpg"/>
+    </item>
+    <item>
+      <title>Spesial: Ett år med Trump</title>
+      <description><![CDATA[Bli med i sjokkterapi etter et heftig år med Trump 2.0. Hva skal vi bry oss om? Hvem har tjent og hvem har tapt? Og hva skal vi feste blikket på i 2026?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/d2ce9dd5-b183-4613-8e9d-d5b1831613ae_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/d2ce9dd5-b183-4613-8e9d-d5b1831613ae_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:34</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PtjfeMpDsbqDdLQlEMEWnAOJThCBrImu8OQuVOatw68Q.jpg"/>
+    </item>
+    <item>
+      <title>Et kritisk punkt for Ukraina</title>
+      <description><![CDATA[Midt inne i den kaldeste delen av vinteren mangler mange ukrainere strøm. De russiske angrepene kan tvinge befolkningen ned i kne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/74710469-21a3-468b-b104-6921a3c68b81_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/74710469-21a3-468b-b104-6921a3c68b81_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:02</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 17:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dsw8MOurlrc_AyfpahMEzQPH9vWeJTAlVd9w-pKW3gyA.jpg"/>
+    </item>
+    <item>
+      <title>Da Norge okkuperte Grønland</title>
+      <description><![CDATA[Mange vil ha kloa i Grønland, Norge har også prøvd seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/18d64111-1573-43b7-9641-111573d3b7d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/18d64111-1573-43b7-9641-111573d3b7d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:02</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_Xb2KTKwEqYr7N_yU9QSNgOMU1Lmq0eg9uxuj7mM7piw.jpg"/>
+    </item>
+    <item>
+      <title>Kollapser Iran nå?</title>
+      <description><![CDATA[Tusenvis av demonstranter roper at mullaene må gå. Hva skjer hvis prestestyret - som har styrt landet i snart 50 år - veltes?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/d686fd7f-7bf4-46ea-86fd-7f7bf416ea80_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/d686fd7f-7bf4-46ea-86fd-7f7bf416ea80_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:07</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 01:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T53OJwX6K_DEkQT_1oB1Ogt030FO0ga4NBvQG-1W2IAg.jpg"/>
+    </item>
+    <item>
+      <title>Da Trump tok Maduro</title>
+      <description><![CDATA[Hvem skal styre Venezuela nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/6f03d522-2d32-4398-83d5-222d321398a2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/6f03d522-2d32-4398-83d5-222d321398a2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:03</itunes:duration>
+      <pubDate>Sun, 04 Jan 2026 14:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DLIteoeenxm3ZCBQfFzqpA8PvzL0LAZoRTjq4_cXzOmA.jpg"/>
+    </item>
+    <item>
+      <title>Urix ser inn i 2026</title>
+      <description><![CDATA[Med hjelp av korrespondentene ser vi inn i 2026 og hva som kommer til å prege dette året.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/26ea3e45-36f2-4644-aa3e-4536f2a644e9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/26ea3e45-36f2-4644-aa3e-4536f2a644e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:41</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lJppFFY48_DznIjurgOASgPF_TvDjJ4BmuiCxQy5pmSg.jpg"/>
+    </item>
+    <item>
+      <title>Slik har Trump påvirket verden i 2025</title>
+      <description><![CDATA[USAs president Donald Trump har koblet seg på den ene saken etter den andre. Vi ser tilbake på året 2025, og hvordan Trump hadde en finger med i spillet i nesten alle de store utenrikssakene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/02cb16f3-9a50-49a3-8b16-f39a50f9a35a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/02cb16f3-9a50-49a3-8b16-f39a50f9a35a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 27 Dec 2025 11:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IPUlxSxQdr5Tfsep69oGYgAKyOH3WimJh-PjNPFPdX2A.jpg"/>
+    </item>
+    <item>
+      <title>Russerne  kan ikke plutselig vinne</title>
+      <description><![CDATA[Ikke noe nå tyder på at den ukrainske fronten vil kollapse. Russerne er ikke sterke nok til å vinne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/f6a21123-61fe-4aef-a211-2361fe4aef03_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/f6a21123-61fe-4aef-a211-2361fe4aef03_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:06</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kmiJCiSlUb65lMudE13RUwshgOYbdcPa6JVjwiVIMY_g.jpg"/>
+    </item>
+    <item>
+      <title>Hevder Israel bruker palestinere i farlige oppdrag</title>
+      <description><![CDATA[En israelsk soldat sier hæren bruker palestinere som menneskelige skjold.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ec7e9f6d-29fd-4317-be9f-6d29fdd317de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ec7e9f6d-29fd-4317-be9f-6d29fdd317de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CzNSaL9hnVyE39nJ3w-s9g02FubfM0FMasmTFR2GgXkg.jpg"/>
+    </item>
+    <item>
+      <title>Skandaleministeren Pete Hegseth</title>
+      <description><![CDATA[USAs omstridte forsvarsminister Pete Hegseth overlevde Signal-skandalen, nå beskyldes han for krigsforbrytelser. Kan han ri av nok en storm?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3144a5ca-473d-49bd-84a5-ca473da9bd79_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3144a5ca-473d-49bd-84a5-ca473da9bd79_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:13</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qzZMMjWXExfQa89ANO6mmgn_bXOyzkJZq0REFZX3Y4lw.jpg"/>
+    </item>
+    <item>
+      <title>Den farlige flukten</title>
+      <description><![CDATA[Med livet som innsats reiste nobelprisvinner María Corina Machado til Norge. Her kan du høre den dramatiske historien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/47548818-4b9b-4cfa-9488-184b9b0cfa1e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/47548818-4b9b-4cfa-9488-184b9b0cfa1e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 16:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RHd2AVfNTHbMsmn7CPCw_gQ8eHkTfnbaJeIkfx4v8uZQ.jpg"/>
+    </item>
+    <item>
+      <title>Smisking, fotball og storpolitikk</title>
+      <description><![CDATA[Vinner Fifa  «verdensmesterskapet i smisking» med fredsprisen til Donald Trump?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ed6cdb23-d495-49c7-acdb-23d49519c7cb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ed6cdb23-d495-49c7-acdb-23d49519c7cb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:56</itunes:duration>
+      <pubDate>Mon, 08 Dec 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OQp38HWNpvvFmQW76AGYlgaADASwjDO7nfAFAQZqHCXg.jpg"/>
+    </item>
+    <item>
+      <title>Smykker, champagne og sigarer: Korrupsjonssaken mot Netanyahu</title>
+      <description><![CDATA[Den israelske statsministeren har vært tiltalt de siste seks årene. Nå ber han om å bli benådet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/d70a7c89-8e19-425d-8a7c-898e19b25dbf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/d70a7c89-8e19-425d-8a7c-898e19b25dbf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:07</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lWQC2zY_iJtYeVLkK-g_JAVLTllQBmk51NyP9vuVikDA.jpg"/>
+    </item>
+    <item>
+      <title>Venezuelas kontroversielle fredsprisvinner</title>
+      <description><![CDATA[Maria Machado tar ikke avstand fra militær aksjon i Venezuela.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/22766231-c95e-4212-b662-31c95e021234_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/22766231-c95e-4212-b662-31c95e021234_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:40</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 14:07:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/arbXFUmTQGJl3Vn_cO0LJAiIdqvVkmAx-h9rFMrq9gNA.jpg"/>
+    </item>
+    <item>
+      <title>Ukraina uten Zelenskyj</title>
+      <description><![CDATA[Hva vil skje dersom Zelenskyj blir tvunget til å gå? Hvem kommer til å få makten i Ukraina?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/9511dee3-2743-4f1f-91de-e32743ff1fc6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/9511dee3-2743-4f1f-91de-e32743ff1fc6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:40</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/laMjnfcuxfhMd50quOwc3wbjkxelLjB6YrT5P3ZNkYrQ.jpg"/>
+    </item>
+    <item>
+      <title>Derfor er Putin redd for Svanesjøen</title>
+      <description><![CDATA[I Russland blir ungdom som roper at de vil se ballett på tv satt i fengsel eller de må rømme landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/5f0a1b28-a19e-4957-8a1b-28a19ee95790_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/5f0a1b28-a19e-4957-8a1b-28a19ee95790_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:35</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BkofKhsD2WYmPBiBxm5U9AKPANku9epRjggzdn4ZIMhA.jpg"/>
+    </item>
+    <item>
+      <title>Slik ble Ukraina-planen til</title>
+      <description><![CDATA[USA og Russland har i hemmelighet laget en plan for å avslutte krigen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/0728d48f-eaec-420a-a8d4-8feaecb20acc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/0728d48f-eaec-420a-a8d4-8feaecb20acc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:44</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 13:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mPPhDzBDMLoBD65ZZVaJkQACAhBK0zXjmNGRFoXccdow.jpg"/>
+    </item>
+    <item>
+      <title>Alt om Epstein-filene</title>
+      <description><![CDATA[Nå skal alle sakspapirene i Epstein-saken offentliggjøres. Hvilke konsekvenser kan det få?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/17a1b8ec-7fdf-4b84-a1b8-ec7fdf8b8448_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/17a1b8ec-7fdf-4b84-a1b8-ec7fdf8b8448_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:16</itunes:duration>
+      <pubDate>Thu, 20 Nov 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gJ5e1Rp3zq0m2-bYFDm3oAMeSZEXTnkEKKxQelcZIUrw.jpg"/>
+    </item>
+    <item>
+      <title>Kan Trump knekke BBC?</title>
+      <description><![CDATA[Presidenten i USA vil ha femti milliarder i erstatning. Britene innrømmer at BBC er i trøbbel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/0b787b71-e720-41f6-b87b-71e72031f6b9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/0b787b71-e720-41f6-b87b-71e72031f6b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:20</itunes:duration>
+      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9o6Lt-Zahh5rXothWXESAQ4Zwt2uWJ6ihm_Imx317cvg.jpg"/>
+    </item>
+    <item>
+      <title>Terrorens spor etter Bataclan</title>
+      <description><![CDATA[Ti år etter angrepet på Paris. Fransk politi avslører tenåringer som planlegger nye angrep.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/b7a48038-4375-499c-a480-384375e99cfd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/b7a48038-4375-499c-a480-384375e99cfd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <pubDate>Thu, 13 Nov 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0aVL4Gm0qip0xKFab5l8CgpXYUjq_kBvUJMTd5M-0QmA.jpg"/>
+    </item>
+    <item>
+      <title>Magre tider for Ozempic-gigant</title>
+      <description><![CDATA[Danske Novo Nordisk sliter økonomisk etter at amerikanske kopier av deres slankemedisiner har kommet på markedet. Kan en avtale med Trump være den reddende injeksjonen for selskapet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7f183a1c-3024-4b09-983a-1c30242b09db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7f183a1c-3024-4b09-983a-1c30242b09db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:46</itunes:duration>
+      <pubDate>Mon, 10 Nov 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5atMmFdbptpD29HJYqdMzws75JDmd7GoQtVnqOFriCOQ.jpg"/>
+    </item>
+    <item>
+      <title>Et valgskred for demokratene</title>
+      <description><![CDATA[Alle kandidatene fra demokratene vant, inkludert Zohran Mamdani.
+Hva vil skje videre nå? Og spesielt i New York?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/fa076b14-751d-4994-876b-14751dd99473_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/fa076b14-751d-4994-876b-14751dd99473_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:25</itunes:duration>
+      <pubDate>Sat, 08 Nov 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KBURZ6aQFSDV7ZWlGEmZjgFnZkKOyE73xb73OBT34YHg.jpg"/>
+    </item>
+    <item>
+      <title>Kampen om Pokrovsk</title>
+      <description><![CDATA[Hvorfor vil Russland ha kontroll over en ruinhaug? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/e17c4143-ed92-4bd8-bc41-43ed92dbd8a0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/e17c4143-ed92-4bd8-bc41-43ed92dbd8a0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:36</itunes:duration>
+      <pubDate>Wed, 05 Nov 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5n4YSU0ZvySlUgLVjS6Q3A8vG1JRqSTN6BHf4N6hAqdw.jpg"/>
+    </item>
+    <item>
+      <title>Hvem er Zohran Mamdani?</title>
+      <description><![CDATA[34 år gamle Zohran Mamdani kaller seg selv for Donald Trumps verste mareritt. Nå kan han bli borgermester i New York.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/524d575e-60c0-4350-8d57-5e60c0535031_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/524d575e-60c0-4350-8d57-5e60c0535031_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:56</itunes:duration>
+      <pubDate>Fri, 31 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KLOvk72N0jJDgRYxzg0EtwaOp6LM1gAKuAhZczGtuvNQ.jpg"/>
+    </item>
+    <item>
+      <title>En britisk fadese</title>
+      <description><![CDATA[Den britiske regjeringen må forklare hvordan fangen bare ble sluppet fri. Nok en ripe i lakken for et historisk upopulært Labour.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/1f2e421f-d7ff-45f4-ae42-1fd7fff5f43c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/1f2e421f-d7ff-45f4-ae42-1fd7fff5f43c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:47</itunes:duration>
+      <pubDate>Tue, 28 Oct 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6cWRvxXOEmW8m1kBDwg4DgbPpb-TbABtyBDQCWTkgYjg.jpg"/>
+    </item>
+    <item>
+      <title>«No Kings»: Starten på en protestbølge?</title>
+      <description><![CDATA[Millioner av amerikanere demonstrerte mot Donald Trumps politikk og måten han styrer på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/f47ace27-adfa-4e8b-bace-27adfa9e8b45_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/f47ace27-adfa-4e8b-bace-27adfa9e8b45_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:23</itunes:duration>
+      <pubDate>Fri, 24 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IlBa5sZ6EAt5cDwwQR4XSgi2k4PoMRdceIB0dl5aajrQ.jpg"/>
+    </item>
+    <item>
+      <title>Hva er det som skjer i Venezuela?</title>
+      <description><![CDATA[Sprengte småbåter, frykt for militær invasjon mot en autoritær leder, en opposisjonspolitiker har fått Nobels fredspris og hun sier at man kun kan få maktskifte i Venezuela med makt - vi spør: Hva er det som skjer i Venezuela?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/bca05099-53ab-43e0-a050-9953ab23e096_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/bca05099-53ab-43e0-a050-9953ab23e096_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:49</itunes:duration>
+      <pubDate>Tue, 21 Oct 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6XBDTwjD7Bk4s_GCuuY-sQFxmbBUuT8Ez_MhJ-fmHzPg.jpg"/>
+    </item>
+    <item>
+      <title>Slik gikk alt galt for Macron</title>
+      <description><![CDATA[Krangel og kaos i fransk politikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/3b094ffc-66c6-4dda-894f-fc66c62dda54_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/3b094ffc-66c6-4dda-894f-fc66c62dda54_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:48</itunes:duration>
+      <pubDate>Fri, 17 Oct 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WMel4aKv7Udiyx6upVyFBQne2M7hqzUxqwwr3fyS_Z-Q.jpg"/>
+    </item>
+    <item>
+      <title>Slik fikk hun sønnen hjem fra Gaza</title>
+      <description><![CDATA[I 738 dager har en israelsk mor kjempet for å få sønnen sin hjem. I dag ble han sluppet fri, som et av de siste gislene fra Gaza.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/1bbf1065-4fc5-47b1-bf10-654fc5b7b160_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/1bbf1065-4fc5-47b1-bf10-654fc5b7b160_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:33</itunes:duration>
+      <pubDate>Mon, 13 Oct 2025 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VfV0-qEFNT57ld-Mw6oQAAVWAsbYG8s8zEurswQigXIw.jpg"/>
+    </item>
+    <item>
+      <title>Fredsprisene det ble bråk av</title>
+      <description><![CDATA[Noen fikk den kanskje for tidlig, andre burde ikke fått den.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/45800a2e-5732-4f6b-800a-2e57323f6b96_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/45800a2e-5732-4f6b-800a-2e57323f6b96_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:06</itunes:duration>
+      <pubDate>Thu, 09 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UqguNpo2aLV2vKNnUx1T1g--hfTzSGSowybbBthYmbWA.jpg"/>
+    </item>
+    <item>
+      <title>Gen-Z i opprør</title>
+      <description><![CDATA[Fra Nepal til Marokko protesterer sinte ungdommer mot utrett - og inspirasjonen har de fått på Tiktok.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/41f1eba9-d488-4c8e-b1eb-a9d488ec8e29_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/41f1eba9-d488-4c8e-b1eb-a9d488ec8e29_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:38</itunes:duration>
+      <pubDate>Tue, 07 Oct 2025 05:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2FDCEYSWRsnupavXHYTiKAljxyDdBXebVazj3Nc5MUHg.jpg"/>
+    </item>
+    <item>
+      <title>Blir det fred i Gaza nå?</title>
+      <description><![CDATA[Hamas sier ja til deler av Trumps fredsplan. Samtidig fortsetter bombene over Gaza. Kan det bli fred nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/309a0cd9-e5b8-4a77-9a0c-d9e5b83a7787_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/309a0cd9-e5b8-4a77-9a0c-d9e5b83a7787_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:42</itunes:duration>
+      <pubDate>Sat, 04 Oct 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wWlqDEvHvooUEMMSyST1rg5TaK2H4G8AckfchWpk-V1w.jpg"/>
+    </item>
+  </channel>
+</rss>

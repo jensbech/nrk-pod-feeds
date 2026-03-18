@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Lev vel</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:37:52 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 05:05:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Ernæring: Protein (1:3)</title>
+      <description><![CDATA[I en tredelt serie snakker Linnéa med klinisk ernæringsfysiolog Jacob Juel Christiensen om næringstoffenes hovedgrupper: Protein, karbohydrater og fett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/927ea129-af1a-4436-bea1-29af1a2436b8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/927ea129-af1a-4436-bea1-29af1a2436b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:04</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 05:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Hvordan skal vi snakke om ernæring?</title>
+      <description><![CDATA[«Ultraprosessert mat», «lavkarbo» og «fasting» er temaer veldig mange av podkastens lytterne ønsker at vi lager episoder om. Linnéa forklarer hvorfor det er vanskelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:51</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 04:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Slik knakk jeg løpekoden</title>
+      <description><![CDATA[Det tok mange år, men i fjor ble Linnéa bitt av «løpebasillen». Hva var det som gjorde at løping gikk fra straff til ren glede?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/9d662281-b7fe-4700-a622-81b7fef7002c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/9d662281-b7fe-4700-a622-81b7fef7002c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:31</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Slik blir du glad i å løpe</title>
+      <description><![CDATA[Har du alltid hatt lyst til å like å løpe, men falt av eller ikke fått det helt til? Løpecoach Veronica Undseth gir deg oppskriften på å knekke løpekoden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/975c08e1-c37d-4615-9c08-e1c37d361561_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/975c08e1-c37d-4615-9c08-e1c37d361561_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:52</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bli sosialt trygg</title>
+      <description><![CDATA[Blir du ofte usikker på hva du skal si i gruppesamtaler? Psykolog Jonas Sharma-Bakkevig gir deg rådene for å bli trygg i sosiale settinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:02</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Månedschallenge: – Jeg tar selvkritikk</title>
+      <description><![CDATA[Klarte Linnéa en hel måned uten baksnakking? Og hvilket fyllord skal hun slutte å si i mars?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/e0eb19b6-d40e-4835-ab19-b6d40ed83556_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e0eb19b6-d40e-4835-ab19-b6d40ed83556_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:42</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Slik får du bedre selvdisiplin</title>
+      <description><![CDATA[Mentaltrener Anders Meland har jobbet med både jagerflypiloter og toppidrettsutøvere, før han ble hentet inn av Nicolai Tangen til Oljefondet. Han gir oss sine beste triks for å trene selvdisiplinen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/76abfe2c-af17-4046-abfe-2caf179046c0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/76abfe2c-af17-4046-abfe-2caf179046c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:39</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Høytfungerende depresjon</title>
+      <description><![CDATA[Hva er egentlig fenomenet «høytfungerende depresjon» eller «smilende depresjon»? Psykolog Sondre Risholm Liverød forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:24</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>«Mor og datter»-forholdet</title>
+      <description><![CDATA[Hvorfor kan forholdet mellom mor og datter være så anstrengt i voksen alder? Familieterapeut Dora Thorhallsdottir svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/d2647f07-33af-49e0-a47f-0733af49e06f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/d2647f07-33af-49e0-a47f-0733af49e06f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:38</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Selvkritikk</title>
+      <description><![CDATA[Hva gjør at vi blir vår egen verste fiende og hvordan kan man håndtere sin indre kritiker? Psykolog Aksel Inge Sinding svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a0778777-d0fc-429d-b787-77d0fcf29d01_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a0778777-d0fc-429d-b787-77d0fcf29d01_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:47</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Månedschallenge: Har Linnéa klaget mindre?</title>
+      <description><![CDATA[Linnéa oppsummerer årets første månedschallenge, sjekker inn med lytterne, og gir deg en utfordring for februar: Null baksnakking!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a36076fb-86f2-42b4-a076-fb86f2a2b41e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a36076fb-86f2-42b4-a076-fb86f2a2b41e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:53</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Baksnakking</title>
+      <description><![CDATA[Hva er forskjellen på baksnakking og ventilering? Psykoterapeut Glenn Rolfsen gir oss råd om hvordan vi kan bli mer bevisste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/462d433e-6021-4727-ad43-3e6021d72729_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/462d433e-6021-4727-ad43-3e6021d72729_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:25</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Slik får du bedre hukommelse</title>
+      <description><![CDATA[Er du lei av å glemme navn og ting? Tidligere verdensmester Oddbjørn By lærer oss hvordan trene hukommelsen vår i hverdagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/fb14f478-4747-46f2-94f4-784747e6f28e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/fb14f478-4747-46f2-94f4-784747e6f28e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:25</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Derfor klikker det for deg</title>
+      <description><![CDATA[Hva gjør du når følelsene tar overhånd og du mister det? Blir du utagerende eller stille? Psykolog Jørgen Flor forklarer hvorfor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/b309d9aa-bdb4-41ed-89d9-aabdb421edbb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/b309d9aa-bdb4-41ed-89d9-aabdb421edbb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:52</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Slik ble jeg glad i trening</title>
+      <description><![CDATA[Linnéa åpner opp om sitt eget forhold til å trene, og hvordan det gikk fra å være en slags straff, til å bli noe lystbetont.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/48f4f945-714d-42c9-b4f9-45714d12c9a2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/48f4f945-714d-42c9-b4f9-45714d12c9a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:22</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan bør kvinner trene?</title>
+      <description><![CDATA[Rådene på sosiale medier spriker i ulike retninger. Hva bør kvinner vite om trening? Idrettsfysiolog Gina Flugstad Øistuen svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/2e34bfa4-c5c0-49b8-b4bf-a4c5c089b812_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/2e34bfa4-c5c0-49b8-b4bf-a4c5c089b812_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:38</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Sett dine mål for 2026</title>
+      <description><![CDATA[Sett deg ned sammen med Linnéa og lag dine nyttårsforsett og mål for 2026. Og bli med på årets første challenge: Månedsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/d676fc9d-7528-47b5-b6fc-9d752887b580_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/d676fc9d-7528-47b5-b6fc-9d752887b580_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:56</itunes:duration>
+      <pubDate>Mon, 29 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Nyttårsforsett</title>
+      <description><![CDATA[Hvordan setter man seg gode nyttårsforsett og hvordan unngå å falle av? Vanecoach Andreas Lycke gir deg rådene du trenger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/01d65fb5-6107-44a3-965f-b5610714a305_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/01d65fb5-6107-44a3-965f-b5610714a305_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:24</itunes:duration>
+      <pubDate>Wed, 24 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Slik takler du familien</title>
+      <description><![CDATA[Hva ligger bak friksjonen som oppstår når familien samles? Familieterapeut Dora Thorhallsdottir gir deg verktøyene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/1713df63-37b4-46d6-93df-6337b4f6d67e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/1713df63-37b4-46d6-93df-6337b4f6d67e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:48</itunes:duration>
+      <pubDate>Wed, 17 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Ensomhet</title>
+      <description><![CDATA[Hvordan vet du om ensomheten du kjenner på kan være hjelpsom eller problematisk? Psykolog Anne Hilde Vassbø Hagen gir oss svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/3d816119-4bfe-43ed-8161-194bfe13ed2e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/3d816119-4bfe-43ed-8161-194bfe13ed2e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:47</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Å overleve utroskap</title>
+      <description><![CDATA[Hvor vanlig er det å bli etter å ha blitt bedratt og hva skal til for å redde forholdet? Parterapeut Andreas Løes Narum svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/56ecc613-50a8-427d-acc6-1350a8527d0f_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/56ecc613-50a8-427d-acc6-1350a8527d0f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:48</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Alt jeg har lært av Nicolai Tangen</title>
+      <description><![CDATA[Linnéa har lest en ny bok, «Alt jeg har lært om ledelse» av Nicolai Tangen, og er overrasket over hva hun satt igjen med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a694c780-cc63-43e0-94c7-80cc63e3e055_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a694c780-cc63-43e0-94c7-80cc63e3e055_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:56</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Bakrus</title>
+      <description><![CDATA[Kan man unngå den verste fyllesyken? Kjemiker Alexander Sandtorv forklarer hvilke grep du kan ta og hva som bare er myter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a6278662-37ea-4ef4-a786-6237ea6ef4d4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a6278662-37ea-4ef4-a786-6237ea6ef4d4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:03</itunes:duration>
+      <pubDate>Wed, 26 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Presentasjonsangst</title>
+      <description><![CDATA[Hvordan blir man god på å snakke foran folk? Kommunikasjon- og formidlingstrener Berit Boman svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:38</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bli mer komfortabel med sex</title>
+      <description><![CDATA[Hva skal til for å ha et godt sexliv, og hvorfor synes vi det er så vanskelig å snakke om? Sexolog Trude Lian gir svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/c20425b0-f2d5-401b-8425-b0f2d5201bf1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/c20425b0-f2d5-401b-8425-b0f2d5201bf1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:37</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Sparing</title>
+      <description><![CDATA[Hvordan sparer du smart uten å ofre det som gir livet glede? Siviløkonom og forfatter Kjersti Grønset gir deg nøkkelen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0b8d02c4-78c5-4924-8d02-c478c56924c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0b8d02c4-78c5-4924-8d02-c478c56924c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:16</itunes:duration>
+      <pubDate>Wed, 05 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Slik unngår jeg vinterdepresjon</title>
+      <description><![CDATA[Linnéa har slitt mange år med depresjon, men disse grepene gjorde at hun har unngått vinterdepresjonen de siste ti årene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/e6afc5d8-87d5-47ea-afc5-d887d5c7eae5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e6afc5d8-87d5-47ea-afc5-d887d5c7eae5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:37</itunes:duration>
+      <pubDate>Mon, 03 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Avmakt, empati og engasjement</title>
+      <description><![CDATA[Føler du deg maktesløs når verden er i en så urolig tid? Og finnes det en riktig eller feil måte å engasjere seg på?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/121e3f08-73dd-4944-9e3f-0873ddf944ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/121e3f08-73dd-4944-9e3f-0873ddf944ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:15</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Kjærlighetssorg</title>
+      <description><![CDATA[Hvor lang tid tar det å komme over eksen? Og hvorfor gjør kjærlighetssorg så vondt i kroppen? Psykolog Sissel Gran forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/ceaeccb8-fb21-46cd-aecc-b8fb2186cda5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/ceaeccb8-fb21-46cd-aecc-b8fb2186cda5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:21</itunes:duration>
+      <pubDate>Wed, 22 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Utbrenthet</title>
+      <description><![CDATA[Hva er tegnene man bør se etter for å unngå å bli utbrent? Psykologspesialist Henrik Børsting Jacobsen forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/41114f86-dbc9-437e-914f-86dbc9837e5c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/41114f86-dbc9-437e-914f-86dbc9837e5c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:58</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Lurer du på om du har ADHD?</title>
+      <description><![CDATA[Leser man symptomlisten til ADHD er det lett å kjenne seg igjen, men hva er det som skiller vanlig strev fra en ADHD-diagnose?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0702299f-2e7f-49ee-8229-9f2e7fd9ee6a_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0702299f-2e7f-49ee-8229-9f2e7fd9ee6a_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:14:44</itunes:duration>
+      <pubDate>Wed, 08 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Å bytte karriere</title>
+      <description><![CDATA[Lurer du på om du skal bytte jobb eller ta sjansen på å gå en helt annen karrierevei? Karriereveileder Elaine Bloom gir deg svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/ef2713cc-9ec1-4bdf-a713-cc9ec12bdfdb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/ef2713cc-9ec1-4bdf-a713-cc9ec12bdfdb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:13</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Scrollechallenge: Vinneren kåres</title>
+      <description><![CDATA[Blir det Henning Bang, Kristoffer Olsen eller Linnéa som stikker av med seieren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/be9e5e5d-01ad-4945-9e5e-5d01ad2945cb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/be9e5e5d-01ad-4945-9e5e-5d01ad2945cb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:37</itunes:duration>
+      <pubDate>Mon, 29 Sep 2025 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Scrollechallenge: Hvem vinner?</title>
+      <description><![CDATA[Det er bare fire dager igjen av konkurransen og det er én deltaker som har tatt opp konkurransen mot Linnéa og Kristoffer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/ab19853c-145f-472e-9985-3c145f372eac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/ab19853c-145f-472e-9985-3c145f372eac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:50</itunes:duration>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Vagusnerven</title>
+      <description><![CDATA[Hvorfor snakker alle om vagusnerven? Og hvorfor er den så viktig? Professor Henrik Børsting Jacobsen er tilbake.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/57ceb110-5ec4-4f56-8eb1-105ec4ef56be_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/57ceb110-5ec4-4f56-8eb1-105ec4ef56be_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:40</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Scrollechallenge: Syv deltakere er ute</title>
+      <description><![CDATA[Linnéa sjekker inn med hjerneforsker Ole Petter Hjelle og noen av «taperne». Følg med underveis på nrk.no/nyttig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a81739db-5abb-490f-9739-db5abb890ff0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a81739db-5abb-490f-9739-db5abb890ff0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:39</itunes:duration>
+      <pubDate>Mon, 22 Sep 2025 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Scrollechallenge: 26 min i skjermtid</title>
+      <description><![CDATA[Linnéa har vært innom flere av profilene som deltar, og har funnet en innstilling som kan spare deg for unødvendig skjermtid. Se mer på nrk.no/nyttig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/b1f76b4b-b946-492f-b76b-4bb946692fc6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/b1f76b4b-b946-492f-b76b-4bb946692fc6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:20</itunes:duration>
+      <pubDate>Thu, 18 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Kvinner, trening og ernæring</title>
+      <description><![CDATA[Hva er de største forskjellene på kvinner og menn når det kommer til trening og ernæring? Ernæringsfysiolog Kristin Jonvik svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:58</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Bli med på scrollechallenge!</title>
+      <description><![CDATA[Hvor mye klarer du å kutte av egen skjermtid på mobilen? 15 NRK-profiler skal konkurrere om å få lavest skjermtid på to uker. Følg med på nrk.no/nyttig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/6a72b485-756f-4a08-b2b4-85756f6a0880_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/6a72b485-756f-4a08-b2b4-85756f6a0880_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:21</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Tar scrolling over livet ditt?</title>
+      <description><![CDATA[Hva gjør scrollingen med oss og hvorfor er det så vanskelig å slutte med det? Hjerneforsker og lege Ole Petter Hjelle svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/5fb1342a-3358-4c25-b134-2a3358fc252b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/5fb1342a-3358-4c25-b134-2a3358fc252b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:23</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Er søskensjalusi uungåelig?</title>
+      <description><![CDATA[Hvordan kan man navigere sjalusi mellom barn? Og kan man reparere det selv som voksen? Psykolog Andreas Løes Narum forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/5f3bf6e5-41a5-4868-bbf6-e541a5286879_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/5f3bf6e5-41a5-4868-bbf6-e541a5286879_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:21</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
+    </item>
+    <item>
+      <title>Sjalusi er ikke kjærlighet</title>
+      <description><![CDATA[Hva er mest utfordrende; å være sjalu eller å være mottaker av sjalusi? Psykolog Andreas Løes Narum forklarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/dd27741e-af5c-4130-a774-1eaf5c61308c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/dd27741e-af5c-4130-a774-1eaf5c61308c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:36</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>BONUS: Få kontroll på gjelda</title>
+      <description><![CDATA[Siviløkonom Kjersti Grønseth og Linnéa Myhre snakker om hvordan flytte et lån og hvordan få kontroll på gjelda man har.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:53</itunes:duration>
+      <pubDate>Fri, 29 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
+    </item>
+    <item>
+      <title>Få kontroll på økonomien</title>
+      <description><![CDATA[Blir du overveldet av tanken på budsjett, utgifter og kontoutskrifter? Da er denne episoden for deg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f8f4e197-ad91-4c26-b4e1-97ad91ac265d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f8f4e197-ad91-4c26-b4e1-97ad91ac265d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:22</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>BONUS: Et år uten alkohol</title>
+      <description><![CDATA[Linnéa har nå gått et helt år uten å drikke alkohol. Hvordan har det vært og hvordan ser hun på det nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/e05eb0b7-8124-42a8-a383-4b3ef4001bd8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e05eb0b7-8124-42a8-a383-4b3ef4001bd8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:35</itunes:duration>
+      <pubDate>Thu, 21 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Sannheten om alkohol</title>
+      <description><![CDATA[Hva gjør alkohol med kroppen vår? Og hvordan påvirker det genmaterialet? Forsker i nevropsykologi og psykolog Ragnhild Bø svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/ca33684f-ccbf-40ef-8041-70f7981f8651_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/ca33684f-ccbf-40ef-8041-70f7981f8651_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:07</itunes:duration>
+      <pubDate>Wed, 20 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>BONUS: Lytterspørsmål om søvn</title>
+      <description><![CDATA[Tomas Myklebust svarer på spørsmål om søvn fra lytterne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/c6ddb213-5262-4d34-bda3-2bdfbcf1b092_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/c6ddb213-5262-4d34-bda3-2bdfbcf1b092_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:32</itunes:duration>
+      <pubDate>Fri, 15 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
+    </item>
+    <item>
+      <title>Veien til god søvn</title>
+      <description><![CDATA[Spesialist i klinisk nevropsykologi Tomas Myklebust lærte Linnéa å sove godt. I denne episoden gir han deg alle rådene!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/35286c10-7eec-46b7-b9f3-77be890367cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/35286c10-7eec-46b7-b9f3-77be890367cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:32:04</itunes:duration>
+      <pubDate>Wed, 13 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan krangle bedre</title>
+      <description><![CDATA[Hva bør man unngå når man krangler med partneren? Psykologspesialist Eva Tryti gir oss svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0e7404bf-1343-4062-a5c8-f30c0e9a5c8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0e7404bf-1343-4062-a5c8-f30c0e9a5c8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:15</itunes:duration>
+      <pubDate>Wed, 06 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+    <item>
+      <title>Slik får du venner som voksen</title>
+      <description><![CDATA[Når skal man gi slipp på gamle venner og hvorfor er det så vanskelig å få nye som voksen? Forfatter Malene Vilnes-Bakke svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/eeadae28-75ee-4bed-bbdd-c270b563fea8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/eeadae28-75ee-4bed-bbdd-c270b563fea8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:53</itunes:duration>
+      <pubDate>Wed, 30 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
+  </channel>
+</rss>

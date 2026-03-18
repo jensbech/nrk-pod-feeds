@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Siesta</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:39:54 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna er en T-rex</title>
+      <description><![CDATA[Anna søler kaffe overalt, Markus har bæsja før han dusjer og vi smalltalker slankesprøyter]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/0673561e-d12f-4e05-b356-1ed12f1e0507_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/0673561e-d12f-4e05-b356-1ed12f1e0507_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:23</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna hudfletter oss</title>
+      <description><![CDATA[Anna blir fette kokforbanna på MYE, Daniel fortsetter sitt duemann-kjør og hvem oversetter «somebody to love» best?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3c9242bd-04a2-4ca7-9242-bd04a23ca7b3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3c9242bd-04a2-4ca7-9242-bd04a23ca7b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:00</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna har med erotisk novelle</title>
+      <description><![CDATA[Markus så en bæsj i do, hva er det motsatte av en baderomsvekt og hvor ubehagelig blir det når det leses fra en erotisk novelle?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/bb0c41dc-ae63-4ef7-8c41-dcae637ef711_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/bb0c41dc-ae63-4ef7-8c41-dcae637ef711_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:07</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Hva betyr pussegummi?</title>
+      <description><![CDATA[Anna tok taxi til jobb, Markus glemte seg av (som vanlig) og hva betyr egentlig snekje?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/635242c9-4b58-4e0a-9242-c94b580e0ae0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/635242c9-4b58-4e0a-9242-c94b580e0ae0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:52</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Finnes det skalla dyr?</title>
+      <description><![CDATA[Daniel får kjefte på Anna, Markus holder stand up om dagen i dag og vi diskuterer om noen dyr er født skalla.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c6f897ab-9e6e-44dc-b897-ab9e6ec4dc85_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c6f897ab-9e6e-44dc-b897-ab9e6ec4dc85_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:02</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna har oppdaget dark web</title>
+      <description><![CDATA[Anna leder istid-spesial av papegøye, vi får besøk av Gjær Solo og vi har spist forferdelig middag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/794aa1eb-3630-4abc-8aa1-eb3630babc2c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/794aa1eb-3630-4abc-8aa1-eb3630babc2c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:28</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna skjeller ut Daniel</title>
+      <description><![CDATA[Anna er fette kokforbanna på Daniel, er svensk smörgåstårta smæsj eller bæsj og har bare Daniel laget Norge rundt-reportasje?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3f548268-74fd-4399-9482-6874fd439920_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3f548268-74fd-4399-9482-6874fd439920_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:26</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel går i musefella</title>
+      <description><![CDATA[Tante Rita ringer inn og forteller om fortida si, hva er det motsatte av et rivjern og Daniel skal legge fingrene i en musefelle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:35</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Martin Lepperøds tatovering</title>
+      <description><![CDATA[Det blir fredagshilsen fra Ida Elise Broch, hva betyr rasjin og vi intervjuer Martin Lepperød om hans tatovering.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/849e88bc-3193-4125-9e88-bc31933125be_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/849e88bc-3193-4125-9e88-bc31933125be_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:09</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Kan skalla folk bruke sjampo?</title>
+      <description><![CDATA[Markus blir sensurert i stand-up, Anna leder slampoesi-spalte og kan the rock ha eget sjampomerke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/830a75b2-aa23-41a4-8a75-b2aa23e1a457_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/830a75b2-aa23-41a4-8a75-b2aa23e1a457_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:44</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Markus skremmer fremmed dame</title>
+      <description><![CDATA[Vi savner is fra barndommen, Anna er på Hitler-jakt og Markus har vært idiot på åpen gate.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:32</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Markus dreit nesten på seg</title>
+      <description><![CDATA[Kan man gå med hawaiiskjorte på jobb, hvorfor har Daniel med seg en skitten sokk og måtte Markus låne doen til Anna?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/52c7162d-5b78-49a8-8716-2d5b7849a8b8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/52c7162d-5b78-49a8-8716-2d5b7849a8b8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:47</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Når runka Markus sist?</title>
+      <description><![CDATA[Daniel er frekk mot Anna, hvor mye tjener Markus og hva er det motsatte av en flamingo?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d28b7f6f-4418-469b-8b7f-6f4418069b86_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d28b7f6f-4418-469b-8b7f-6f4418069b86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:38</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Hvem er minst likt?</title>
+      <description><![CDATA[God fredag! Det blir Quizvang, en legendarisk fredagshilsen og dårlig stemning når vi diskuterer hvem som er mest likt på kontoret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/98759e53-71c2-4ff6-b59e-5371c2eff67f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/98759e53-71c2-4ff6-b59e-5371c2eff67f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:38</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna er rusa på sending</title>
+      <description><![CDATA[Markus leverer dagsaktuell stand up, Daniel har med ond latter spalte og Anna var så dum og tok trekant-medisin før sending.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1fb74da7-3114-4c5e-b74d-a731144c5e3c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/1fb74da7-3114-4c5e-b74d-a731144c5e3c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:35</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Markus rimmer bevere</title>
+      <description><![CDATA[Daniel leder mgp-spiesial av papegøye, vi smaltalker om beverrumper og vi hører Annas rap fra barndommen i ny drakt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2126da26-b466-4c9c-a6da-26b4661c9c66_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/2126da26-b466-4c9c-a6da-26b4661c9c66_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:36</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Siestas første vikar</title>
+      <description><![CDATA[Anna hater Linkedin, Henning ble truet av Fortum strøm og er makrell i tomat smæsj eller bæsj?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/eeac451a-755b-441a-ac45-1a755bd41a69_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/eeac451a-755b-441a-ac45-1a755bd41a69_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Rap fra 12 år gamle Anna</title>
+      <description><![CDATA[Finn Glede vil lage pornofilm på Finntopia, hva er det motsatte av en dyne og vi får skrekkelig (bra) rap fra Annas fortid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/e7f1fe4a-e255-4f82-b1fe-4ae2556f822c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/e7f1fe4a-e255-4f82-b1fe-4ae2556f822c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:45</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Vi møtte Petter Stordalen</title>
+      <description><![CDATA[Markus har knust alt, Anna har fiksa en hilsen fra Ravi og Daniel er både mett og trøtt etter vår hotellfrokost.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/cfb1f7d1-0f3a-45e0-b1f7-d10f3ad5e0c3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/cfb1f7d1-0f3a-45e0-b1f7-d10f3ad5e0c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:28</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel blottlegges på Facebook</title>
+      <description><![CDATA[Anna har spist iskrem til middag, vi prøver engelsk spalte og Markus har «hjulpet» Daniel å vise frem frieriet sitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/980c6bd9-366d-4556-8c6b-d9366db55633_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/980c6bd9-366d-4556-8c6b-d9366db55633_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:30</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Vi har fått svar fra PFU</title>
+      <description><![CDATA[Endelig har Daniel svar til oss om PFU-klagen han sendte inn, Markus har med gamle Tv2-tabber i papegøye og Anna er psykotisk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d1b4d3a7-ddb5-4342-b4d3-a7ddb55342c3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d1b4d3a7-ddb5-4342-b4d3-a7ddb55342c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:26</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniels runking i avisa</title>
+      <description><![CDATA[Anna er forbanna på bæsj i do, Finn Glede feirer kinesisk nyttår og vi har vært i avisa sammen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d69cd6d8-8137-40e3-9cd6-d8813710e3ed_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d69cd6d8-8137-40e3-9cd6-d8813710e3ed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:59</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna vasker henda i dass</title>
+      <description><![CDATA[Det blir ubehagelig når Anna skal bekjempe sin bakterie-fobi ved hjelp av Markus og Daniel skal kåre ukas dumfette.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3e12a389-4c06-4239-92a3-894c064239da_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3e12a389-4c06-4239-92a3-894c064239da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:37</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Aune Sand motiverer oss</title>
+      <description><![CDATA[Daniel har bursdag, Aune Sand ønsker oss en god hælj og Markus har bakt i 100 timer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/28825cf7-e4f1-41e5-825c-f7e4f1f1e549_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/28825cf7-e4f1-41e5-825c-f7e4f1f1e549_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:54</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel lukter på hundebæsj</title>
+      <description><![CDATA[Markus mister det når vi snakker om å kutte i helligdager og Daniel lukter på hundebæsj med bind foran øynene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/0a9b41c3-fa15-4258-9b41-c3fa15a258cb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/0a9b41c3-fa15-4258-9b41-c3fa15a258cb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:19</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Markus fornærmer Anna (igjen)</title>
+      <description><![CDATA[Markus slenger med leppa, vi smalltaker burgerdressing og ikke minst skal vi på McDonalds!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2f278a6d-86c5-4136-a78a-6d86c5e13635_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/2f278a6d-86c5-4136-a78a-6d86c5e13635_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:16</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Ost og kjeks er faen ikke mat</title>
+      <description><![CDATA[Anna er kokforbanna på folk som ber henne holde av plass, vi oversetter Poker face og det blir het diskusjon i smæsj eller bæsj.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/371a1038-8d0f-4b8b-9a10-388d0f7b8ba7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/371a1038-8d0f-4b8b-9a10-388d0f7b8ba7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:25</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Borat klipper Annas kjønnshår</title>
+      <description><![CDATA[Finn Glede har vært i Høiby-saken, vi diskuterer det motsatte av en sumobryter og Markus og Daniel var Borat i dagens ubehag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/21f40055-d529-4f75-b400-55d5297f75f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/21f40055-d529-4f75-b400-55d5297f75f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:05</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5uJDlxDgc4zwQDnoPd-FGgWkZvQFg3Fq1J7oq0zi-eNQ.jpg"/>
+    </item>
+    <item>
+      <title>Markus skal tatovere seg!</title>
+      <description><![CDATA[Det er fredag som betyr vennskapstest, Quizvang og ikke minst en helt ny konkurranse: Norges dummeste tatovering! Meld deg på inne på P3.no<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f4cdf794-73cf-471d-8df7-9473cf671d9e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f4cdf794-73cf-471d-8df7-9473cf671d9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:13</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Markus gjør stand up om Høiby</title>
+      <description><![CDATA[Anna har grått i dag, Markus tuller med Høiby og Epstein og Daniel har meldt Anna og Markus til PFU for «grove» «anklager».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/bf2e6a27-3b5a-4a1e-ae6a-273b5aaa1e76_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/bf2e6a27-3b5a-4a1e-ae6a-273b5aaa1e76_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:02</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>To tjukke menn gjør Anna rørt</title>
+      <description><![CDATA[Vi prøver å finne Hitler på Wikipedia, Borat titter innom i papegøye og ikke minst kommer vi så nære hverandre at Anna gråter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f40bf154-8683-4b1c-8bf1-5486834b1c45_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f40bf154-8683-4b1c-8bf1-5486834b1c45_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:46</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Sangkonkurransen fra helvete</title>
+      <description><![CDATA[Anna er forbanna på uker, Daniel smelter i Emma Steinbakken spalten og Markus blir til Borat. Blir Siesta av sånt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/97bb4ba1-e801-4bdb-bb4b-a1e801abdba0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/97bb4ba1-e801-4bdb-bb4b-a1e801abdba0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:39</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna vokser Markus til blods</title>
+      <description><![CDATA[Finn Glede vil skille seg fra Epstein, hva er det motsatte av brunøyet til Vangen og Anna vokser Daniel og Markus til blods.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:05</itunes:duration>
+      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Vi har en stor nyhet</title>
+      <description><![CDATA[God fredag! Det blir quizvang, vi diskuterer hva som er best av katt eller hund og ikke minst så har vi en god nyhet til deg<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ad28e258-9fd5-4fb9-a8e2-589fd59fb9c7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/ad28e258-9fd5-4fb9-a8e2-589fd59fb9c7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:33</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 14:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Ubehagelige spørsmål</title>
+      <description><![CDATA[Daniel vurderer å stille Markus og Anna for retten, ubehagelige spørsmål stilles og hvilken ketchup er den beste?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/77d2ca19-1f14-47c9-92ca-191f1477c945_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/77d2ca19-1f14-47c9-92ca-191f1477c945_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:08</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 13:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Skal Daniel ha piratbryllup?</title>
+      <description><![CDATA[Markus og Anna fikk voksenkjeft, det er vine-spesial i papegøye og vi smalltalker wiener for en tier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/618bf3e4-c427-4fcd-8bf3-e4c4276fcd86_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/618bf3e4-c427-4fcd-8bf3-e4c4276fcd86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:48</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna kaller Daniel for pappa</title>
+      <description><![CDATA[Vi diskuterer en rottelampe i gull, Daniel smurfifiserer Queen og Anna har med en sjekk utkledd som et bankkort, forstå det den som kan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/4b8f291b-2f95-4224-8f29-1b2f951224c0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/4b8f291b-2f95-4224-8f29-1b2f951224c0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:47</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel er forlova!!!</title>
+      <description><![CDATA[Tante Rita avslører at Daniel har fridd til Janne,  Anna er frelst etter kirka og Markus blir konfrontert med pustinga si.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f5a72132-308a-4f2a-a721-32308a4f2ade_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f5a72132-308a-4f2a-a721-32308a4f2ade_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:06</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Er Valborg et felleshøl?</title>
+      <description><![CDATA[Er det vanlig å operere rumpehullet? Anna er redd for å sovne i bryllupet sitt og Markus har sett Olsenbanden jr. på rocker’n.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ce8a10e4-603d-4523-8a10-e4603de52384_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/ce8a10e4-603d-4523-8a10-e4603de52384_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:13</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel er 150 år gammel gubbe</title>
+      <description><![CDATA[Daniel mainsplainer en eldgammal sitcom, vi diskuterer vårt forhold til kveldsmat og Anna er imponert av venninne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7dc7ebdb-c1f7-4116-87eb-dbc1f7511672_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7dc7ebdb-c1f7-4116-87eb-dbc1f7511672_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:49</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna viser trusekanten</title>
+      <description><![CDATA[Finnes det tid i et sort hull, hvorfor sier Daniel skinkerytter og hvorfor ser vi trusekanten til Anna? Alt dette får du svar i dag!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/dd2764cf-a561-405d-a764-cfa561605da9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/dd2764cf-a561-405d-a764-cfa561605da9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:33</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Boikotter MGP</title>
+      <description><![CDATA[Finn Glede boikotter MGP, Anna smurfifiserer en MGP-låt og er det innafor å kjøpe avisabonnement for å se på eksen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/28f49e4c-466e-46e1-b49e-4c466e66e14a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/28f49e4c-466e-46e1-b49e-4c466e66e14a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:18</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Markus pisker Daniels rumpe</title>
+      <description><![CDATA[Markus får oppfylt en ungdomsdrøm, en mann i Finnmark vil hete Softis og Anna glemmer hva Daniel heter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ba22d4aa-e3c0-4d0a-a2d4-aae3c0bd0ab3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/ba22d4aa-e3c0-4d0a-a2d4-aae3c0bd0ab3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:49</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Hvem har verst søkerlogg?</title>
+      <description><![CDATA[Markus spiste fra søpla, dumfette skal kåres og hva søker vi på i hemmelighet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5c39c248-7b4d-4b15-b9c2-487b4d3b15d7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5c39c248-7b4d-4b15-b9c2-487b4d3b15d7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:06</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Alle fiser i hånda og lukter</title>
+      <description><![CDATA[Daniel mener det spres falske rykter, Anna og Markus mener han lyver dem i trynet og sammen diskuterer de om Donald Duck onanerer!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/0884b478-aacd-4ade-84b4-78aacdeade15_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/0884b478-aacd-4ade-84b4-78aacdeade15_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:50</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Vi tester spinnvill tjukkas-dessert</title>
+      <description><![CDATA[Vi får besøk av Henrik Bjørnson fra 16 ukers helvete og tester hans favorittdessert; troika med vaniljesaus!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ed012c5b-8997-4cb7-812c-5b8997dcb7d2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/ed012c5b-8997-4cb7-812c-5b8997dcb7d2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:02</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kSlw-DBUYIsyZX2AuRCkIQEmXSmRhTG_sEcGUw6sgbTA.jpg"/>
+    </item>
+    <item>
+      <title>20 000 på gebiss til hunden?</title>
+      <description><![CDATA[Markus har sin dårligste smurfehit, Daniel har sett skrekkfilm og kan man bruke 20 000 på gebiss til bikkja?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c00768dc-59b1-44a6-8768-dc59b1f4a69f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c00768dc-59b1-44a6-8768-dc59b1f4a69f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:23</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna får ildrød rumpe</title>
+      <description><![CDATA[Rafael Eriksen kommer innom og lærer bort triks, hva er det motsatte av kapteinens fylte, og Anna tvinger Markus til å snøbade.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/52879cff-6cec-4996-879c-ff6cec399671_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/52879cff-6cec-4996-879c-ff6cec399671_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:11</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Drikker Daniel fløte på natta?</title>
+      <description><![CDATA[Hvem drikker fløte på natta, hvem har en kvise mellom rumpeballene og ikke minst hvem vinner dagens Quizvang? Alle svarene får du her!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d7bcfaba-2bda-448d-bcfa-ba2bdaf48d2b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d7bcfaba-2bda-448d-bcfa-ba2bdaf48d2b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:09</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Skuffet over Daniels gave</title>
+      <description><![CDATA[Markus og Anna er ikke fornøyde med Daniels fangst fra Gran Canaria, og vi konfronterer Henning om sitt smågodt-hat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:02</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+  </channel>
+</rss>

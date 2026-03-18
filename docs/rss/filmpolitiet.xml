@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Filmpolitiets podkast </title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Ny filmklubb! Bli med og se Joachim Triers filmer sammen med Filmpolitiet og Martha Leivestad før Oscar-utdelingen natt til 16. mars!
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:36:19 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/N7qd3pQrkRXc7WkHxVC3hQOAar6BX8rott1ydSAu9uNg.jpg"/>
+    <item>
+      <title>«Affeksjonsverdi»: – Det kiler på de rette stedene (4:4)</title>
+      <description><![CDATA[Martha griner, podden setter rekord og Sigurd ser rom og paralleller.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/12b1bbf7-cc76-4474-b1bb-f7cc76147437_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/12b1bbf7-cc76-4474-b1bb-f7cc76147437_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rw1OEJDvxFt-oWPvmIRmJA0KYaAh-KwjaK5J634iTUWQ.jpg"/>
+    </item>
+    <item>
+      <title>«Verdens verste menneske»: – Nå mener jeg ikke å runke denne filmen (3:4)</title>
+      <description><![CDATA[Martha blir rystet, Sigurd finner «Mot i brøstet»-likhet og Ingvill ber om flere lubne damer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/69df2e1c-690a-4eb9-9f2e-1c690aeeb9a1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/69df2e1c-690a-4eb9-9f2e-1c690aeeb9a1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:55</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/efodUf1bJIhEvIjb2rwWNAsuzgWMAMAazZUVKTsYj4hg.jpg"/>
+    </item>
+    <item>
+      <title>«Oslo, 31. august»: – 90 minutter med filmmagi (2:4)</title>
+      <description><![CDATA[Martha klikker på kjedelige meninger, Sigurd har håp, mens Ingvill er både rørt og sint.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/cc84c73f-e0c4-4dc9-84c7-3fe0c43dc98a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/cc84c73f-e0c4-4dc9-84c7-3fe0c43dc98a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:49</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3EFsfNfcGZixwZm12HKqxA5ejjl5Kp1c0nXPrEzbD2Bw.jpg"/>
+    </item>
+    <item>
+      <title>«Reprise»: – Du er han som puler på dass! (1:4)</title>
+      <description><![CDATA[Martha Leivestad finner ut hvorfor «Reprise» heter «Reprise», Ingvill blir sinna og Sigurd får høre hvem han er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/d855b4f5-a4a8-4b93-95b4-f5a4a8fb9371_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d855b4f5-a4a8-4b93-95b4-f5a4a8fb9371_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:14</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hC9-1oP2iwwq4ZmE6WW_7w7LRfQrJzwki_c_Q00NUYmw.jpg"/>
+    </item>
+    <item>
+      <title>KOMMER: – Skal høvle over Joachim Trier</title>
+      <description><![CDATA[Filmpolitiets podkast er på vei inn i Joachim Trier Spring. Sigurd og Ingvill har fått med  den filmgale komikeren Martha Leivestad til å se fire filmer. De inviterer alle lyttere til å bli med på Trier-titting i oppkjøring til Oscar.
+
+Titteoppskrift:
+Se «Reprise»: Hør episode 1
+Se «Oslo, 31. august»: Hør episode 2
+Se «Verdens verste menneske»: Hør episode 3
+Se «Affeksjonsverdi»: Hør episode 4]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/f98fe794-fe8c-4090-8fe7-94fe8c1090ef_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/f98fe794-fe8c-4090-8fe7-94fe8c1090ef_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:09</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mQJxIwf813SfryzhuHaINgYMWG4H12vxobNd8XKyKCTg.jpg"/>
+    </item>
+    <item>
+      <title>2026: Serier og filmer vi gleder oss til</title>
+      <description><![CDATA[Birger serverer smakebiter på filmene han har mest tro på i 2026. Ingvill røper hvilke TV-serier hun tror vil kile mest i synsnerven det kommende året. Det blir både episk historiefortelling, spennende sci-fi og makaber krim når Filmpolitiet byr på sine forhåndsfavoritter på kino og skjerm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a56b4b16-4716-4742-ab4b-16471697424a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a56b4b16-4716-4742-ab4b-16471697424a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:37</itunes:duration>
+      <pubDate>Sun, 18 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CsTqnptk9vCK2hAqP6gZIgdkVaK-qid-wXStHVfLWr_w.jpg"/>
+    </item>
+    <item>
+      <title>2025: Årets beste filmer!</title>
+      <description><![CDATA[Hvilke filmer har du på din toppliste? Birger kårer årets beste! Les hele topp 10-lista på nrk.no/filmpolitiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/d5489295-b615-4ae2-8892-95b6150ae252_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d5489295-b615-4ae2-8892-95b6150ae252_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:17</itunes:duration>
+      <pubDate>Sun, 21 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/or6X0xdQQc7WWMkgvvCd7gGpfCbbuxuDNIEQa9qkvc7A.jpg"/>
+    </item>
+    <item>
+      <title>2025: Årets beste serier!</title>
+      <description><![CDATA[Hvilke serier har du på din toppliste? Sigurd og Ingvill kårer årets beste! Les hele topp 10-lista på nrk.no/filmpolitiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/e2d9ee2e-3af0-4ed1-99ee-2e3af0eed194_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/e2d9ee2e-3af0-4ed1-99ee-2e3af0eed194_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:10</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QStOgWhE_16l2w_E6rlTBQIeCvE6MqSH_rraRw8uTAtg.jpg"/>
+    </item>
+    <item>
+      <title>En oppdatering fra Filmpolitiet</title>
+      <description><![CDATA[Vi har hatt en utvidet pause, men Filmpolitiets podkast kommer snart tilbake!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c284c914-44dd-4c39-84c9-1444dd2c395f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c284c914-44dd-4c39-84c9-1444dd2c395f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s5nJGZWW0k4mHRE7yUiyMQ_6ni_UMrQf0NfEq4vueWNA.jpg"/>
+    </item>
+    <item>
+      <title>Tips til seriesommeren!</title>
+      <description><![CDATA[Filmpolitiets podkast tar sommerferie, men først får du noen tips til hvilke serier du kan kose deg med, og hvilke du kan droppe i sommer!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/c1142c9e-a407-4409-9e33-ca752a21ad33_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/c1142c9e-a407-4409-9e33-ca752a21ad33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:37</itunes:duration>
+      <pubDate>Thu, 03 Jul 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zL7-pryKbMxNo5uYte_NfwKTW6PStRVql6rmgZBApSwg.jpg"/>
+    </item>
+    <item>
+      <title>Seriene vi gleder oss til i sommer!</title>
+      <description><![CDATA[Strømmetjenestene tar ikke sommerferie! Sigurd og Marte tipser deg om sine forhåndsfavoritter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/96364107-9f51-4cd1-bb36-731677b70c9f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/96364107-9f51-4cd1-bb36-731677b70c9f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:41</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GuhjqPM_FQwZ3DrS0vAWCQ9USgtTfGAmymYFC72m0HyQ.jpg"/>
+    </item>
+    <item>
+      <title>28 Years Later: Saftig zombieaction</title>
+      <description><![CDATA[Alle zombie-skrekk-fans vil sette pris på denne! Det mener Birger, som triller terningkast 5 når Danny Boyle er tilbake med ny zombiefilm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/43b4ced1-ce3d-4b72-86d6-5b4994bdc7fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/43b4ced1-ce3d-4b72-86d6-5b4994bdc7fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:19</itunes:duration>
+      <pubDate>Thu, 19 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kkIMBzXUPb1L2JrYMeseIgxsdcGRcZh-13IcTcWMB8OA.jpg"/>
+    </item>
+    <item>
+      <title>Studio Ghibli er 40 år!</title>
+      <description><![CDATA[Vi feirer det japanske animasjonsselskapet, og kommer med våre favoritter og tips til filmer du bør se.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/2f0ee9b7-027a-4766-af22-1876adc60ea6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2f0ee9b7-027a-4766-af22-1876adc60ea6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:54</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wXqXHG2qnB0WzyZqBsJPoAQTRkTEuYnZJdg7m6iNHm9g.jpg"/>
+    </item>
+    <item>
+      <title>Karate Kid: Legends: Ikke akkurat legendarisk</title>
+      <description><![CDATA[Ralph Macchio og Jackie Chan forenes som legender i ny «Karate Kid»-film, men Birger er ikke imponert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/530b4916-aea4-47c7-820b-f4162473380e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/530b4916-aea4-47c7-820b-f4162473380e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:43</itunes:duration>
+      <pubDate>Thu, 05 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eBJfodJM4cuDNTBzhQ4vHAGXpFVb1Ddo5eStBewdfURg.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us: S2 - Oppsummering og veien videre</title>
+      <description><![CDATA[Sigurd og Marte kårer det beste og verste med sesongen, og spekulerer om veien videre i sesong 3!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/7372f2e8-1d82-4a25-82c1-834b0602c3d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/7372f2e8-1d82-4a25-82c1-834b0602c3d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:08:06</itunes:duration>
+      <pubDate>Tue, 03 Jun 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel of Time: Kansellert!</title>
+      <description><![CDATA[Amazon har kansellert The Wheel of Time etter bare 3 sesonger! Sigurd og Marte diskuterer nedturen og veien videre. Er det håp?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/fb4f8a65-d576-4faf-a72e-895b0a6c211e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/fb4f8a65-d576-4faf-a72e-895b0a6c211e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:25</itunes:duration>
+      <pubDate>Mon, 02 Jun 2025 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
+    </item>
+    <item>
+      <title>The Pitt: Sykehusdramaet er tilbake!</title>
+      <description><![CDATA[Sykehusserien «The Pitt» har engasjert et stort publikum gjennom våren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a49154f7-9abd-400c-a125-d15303b26a4d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a49154f7-9abd-400c-a125-d15303b26a4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:13</itunes:duration>
+      <pubDate>Thu, 29 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EV49Fr-zbVnEdkqsyo-zbA5oycMeY6tdb46N2XeiXT0w.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us: S2 E7 - Convergence</title>
+      <description><![CDATA[Finale! Var dette en verdig avslutning på sesongen, og er Sigurd enig i Martes terningkast? Vi diskuterer, hører fra lytterne og kårer det beste og det verste for sesongfinalen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/d673032d-0365-400b-85b0-c2ba14054208_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/d673032d-0365-400b-85b0-c2ba14054208_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:25:23</itunes:duration>
+      <pubDate>Tue, 27 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
+    </item>
+    <item>
+      <title>Murderbot: Vittig KI-komedie!</title>
+      <description><![CDATA[Alexander Skarsgård spiller robot med følelser i den nye serien på Apple TV+.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/8db94231-c116-42c3-8dff-0d0068b07c81_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/8db94231-c116-42c3-8dff-0d0068b07c81_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:12</itunes:duration>
+      <pubDate>Thu, 22 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e_omInPxH5H4cs1BfOdF3wsLBV9CNb0bFHItwX-Chhuw.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us: S2 E6 - The Price</title>
+      <description><![CDATA[Det ble både vondt og vakkert i en episode av tilbakeblikk! Sigurd og Marte diskuterer, kårer det beste og verste og svarer på spørsmål fra lytterne!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/3833ded8-cee6-44f3-9347-2204544ebda1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/3833ded8-cee6-44f3-9347-2204544ebda1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:34:46</itunes:duration>
+      <pubDate>Tue, 20 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uUoW5DCCYkjtVyOcM0HZPABOFWDDk-88bAwGbPbwcLEA.jpg"/>
+    </item>
+    <item>
+      <title>Pørni S5: Beste siden den første</title>
+      <description><![CDATA[Vi tar et varmt og tårevått farvel med Pørni, som blir belønnet med terningkast 6 for sin siste sesong!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/3c25eb24-8b61-4496-8902-05375c3401af_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/3c25eb24-8b61-4496-8902-05375c3401af_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:56</itunes:duration>
+      <pubDate>Thu, 15 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hk1XVIRpvvBhkHSTd_4FZAcGs0mraGNfEw5QmSA1XdOg.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us: S2 E5 - Feel Her Love</title>
+      <description><![CDATA[Det blir tung pust og grungete kjeller når Ellie og Dina legger ut på oppdrag i Seattle. Sigurd og Marte diskuterer episoden, kårer det beste og det verste og svarer på spørsmål fra lytterne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/206dd27f-2e7e-4216-976f-126a3649ed49_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/206dd27f-2e7e-4216-976f-126a3649ed49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:08:10</itunes:duration>
+      <pubDate>Tue, 13 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
+    </item>
+    <item>
+      <title>The Legend of Ochi: Vakreste eventyrfilm på lenge</title>
+      <description><![CDATA[Birger anmelder «The Legend of Ochi» til terningkast 5! En stilsikker eventyrfilm som spiller godt på vår fascinasjon for folklore med mørke stemninger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/27a86455-4584-4a45-ae5d-70745a7d6efa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/27a86455-4584-4a45-ae5d-70745a7d6efa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:07</itunes:duration>
+      <pubDate>Thu, 08 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VigTTs7FQ2s_cwMXdyig6QuJ3ZNf6hbA57IbiHbHXWSg.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us: S2 E4 - Day One</title>
+      <description><![CDATA[Sigurd og Marte diskuterer episoden med rørende A-ha-øyeblikk, og en beinhard Jeffrey Wright som setter standarden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/3e16cf9a-ce67-4c6b-8744-acacfc115f18_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/3e16cf9a-ce67-4c6b-8744-acacfc115f18_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:10:38</itunes:duration>
+      <pubDate>Tue, 06 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
+    </item>
+    <item>
+      <title>The Handmaid's Tale S6: Skremmende aktuell</title>
+      <description><![CDATA[Finalesesongen av «The Handmaid's Tale» er en dirrende advarsel om å ikke ta demokratiet og kvinners rettigheter for gitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/170e78f1-2d4c-4606-adcd-67355d816622_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/170e78f1-2d4c-4606-adcd-67355d816622_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:56</itunes:duration>
+      <pubDate>Thu, 01 May 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L0Ky9R4d4JFdoPfEG2N33wh5N-HIfBFHXmgZ39SThkTw.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us: S2 E3 - The Path</title>
+      <description><![CDATA[Sigurd og Marte diskuterer den sorgtunge episoden og svarer på spørsmål fra lytterne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/e9aa285c-c63a-4af6-8423-716494f9d23c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/e9aa285c-c63a-4af6-8423-716494f9d23c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:40:24</itunes:duration>
+      <pubDate>Tue, 29 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x1m_716uoa8-yp_6jP_A7graqXAtS8cscJDRAZ2Wb1gQ.jpg"/>
+    </item>
+    <item>
+      <title>Andor S2: Gripende Star Wars-høydepunkt</title>
+      <description><![CDATA[«Andor» løfter stjernekampen til nye høyder – terningkast 6 fra Sigurd!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/534c2ca2-6ba2-44ae-b794-ff868a0ef2e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/534c2ca2-6ba2-44ae-b794-ff868a0ef2e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:57</itunes:duration>
+      <pubDate>Thu, 24 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EXgX9nxvwXxlIKXPXxR1fAs8XkF5XRRu_rbzGiNqgJiQ.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us: S2 E1-E2</title>
+      <description><![CDATA[Seerne er i sjokk etter starten på «The Last of Us» s2 på Max. Sigurd og Marte diskuterer episodene og det hardtslående TV-øyeblikket!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/b0debd2b-c13b-4c71-a1a6-2d4348d26941_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/b0debd2b-c13b-4c71-a1a6-2d4348d26941_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:19:47</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uUoW5DCCYkjtVyOcM0HZPABOFWDDk-88bAwGbPbwcLEA.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel of Time: S3 E7-E8</title>
+      <description><![CDATA[Det er finale! De to siste episodene av sesong 3 av «The Wheel of Time» hadde både store høydepunkt og irritasjonsmomenter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/f8de2b93-4946-41d1-8920-ed6cae3552f6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/f8de2b93-4946-41d1-8920-ed6cae3552f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:22:30</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
+    </item>
+    <item>
+      <title>The Last of Us S2: Du blir emosjonelt ødelagt</title>
+      <description><![CDATA[Marte anmelder sesong 2 av det postapokalyptisk dramaet til terningkast 5!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/69ee5553-4283-4465-948f-8acace8eb2cc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/69ee5553-4283-4465-948f-8acace8eb2cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:04</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 08:43:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PeqeW0f9ZKI0twTfaz3Icw0_0ilQq-UT5IOXFb6Zusaw.jpg"/>
+    </item>
+    <item>
+      <title>Diskuter The Last of Us S2 med oss!</title>
+      <description><![CDATA[Sigurd og Marte følger sesong 2 av «The Last of Us» hver uke! Bli med å diskutere den postapokalyptiske dramaserien med oss!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/ac6da480-5cae-4b1d-b44f-ebea96ea8671_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/ac6da480-5cae-4b1d-b44f-ebea96ea8671_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:48</itunes:duration>
+      <pubDate>Thu, 10 Apr 2025 14:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uUoW5DCCYkjtVyOcM0HZPABOFWDDk-88bAwGbPbwcLEA.jpg"/>
+    </item>
+    <item>
+      <title>Årets påskekrim - fra best til verst!</title>
+      <description><![CDATA[Filmpolitiets store guide til krimpåsken er her. Du får dommen over ALL påskekrimmen på norske TV-skjermer og strømmetjenester.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a334e018-5ffc-4335-97a5-af3677afacb1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a334e018-5ffc-4335-97a5-af3677afacb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:25</itunes:duration>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1p3SChtdVjvcXbxbGMdVSA0cI5DD5gP3i4wWN9xLXYMQ.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel of Time: S3 E6 - Shadow In the Night</title>
+      <description><![CDATA[«The hills of Tanchico! The hills of Tanchico, HEY!». Vi elsker når fantasy møter musikal i skjønn forening! Sigurd og Marte diskuterer ukas episode av «The Wheel of Time».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/2304d5ee-9ff7-4803-b490-a38f6640f488_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2304d5ee-9ff7-4803-b490-a38f6640f488_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:50:33</itunes:duration>
+      <pubDate>Tue, 08 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
+    </item>
+    <item>
+      <title>Bosch: Legacy: TV-rutas tøffeste krimhelt</title>
+      <description><![CDATA[Ti år med storbykrim fra Los Angeles er over! Sigurd triller terningkast 5 til den siste sesongen av «Bosch».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/3711c2dc-fbd0-40c6-a13d-b8e33d42fe0c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/3711c2dc-fbd0-40c6-a13d-b8e33d42fe0c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:45</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VemE_X5RWK6yLfZvpjeFgw3RcIqxcST2qobUu-YuyoyQ.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel of Time: S3 E5  - Tel'aran'rhiod</title>
+      <description><![CDATA[Sigurd og Marte kaster seg ut i drømmenes verden og diskuterer episode 5 av «The Wheel of Time» S3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/5594d2db-8096-4c5f-81a7-8fa591c5a71b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/5594d2db-8096-4c5f-81a7-8fa591c5a71b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:56:09</itunes:duration>
+      <pubDate>Tue, 01 Apr 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
+    </item>
+    <item>
+      <title>Adolescence: Opprivende krimkunst</title>
+      <description><![CDATA[Terningkast 6 til Netflix-serien «Adolescence»! Et kruttsterkt krimdrama med imponerende formgrep og gnistrende godt skuespill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/41f87144-d4b9-4c9e-8923-95faa7998778_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/41f87144-d4b9-4c9e-8923-95faa7998778_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:52</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y2y0uFaxZ0KV9f8VscUR-QP4IP3RXvLKK7NPJ-UI_BVQ.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel of Time: S3 E4 - The Road to the Spear</title>
+      <description><![CDATA[En av tidenes beste fantasy-episoder?! Sigurd og Marte diskuterer «The Road to the Spear»!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/e5bcd93a-273a-40f0-a436-4b33c0c17951_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/e5bcd93a-273a-40f0-a436-4b33c0c17951_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:25:25</itunes:duration>
+      <pubDate>Tue, 25 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
+    </item>
+    <item>
+      <title>The Residence: Festlig kosekrim i Det hvite hus</title>
+      <description><![CDATA[Uzo Adubas komiske talent kommer virkelig til sin rett som detektiv Cordelia Cupp i «The Residence».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/a54d9205-abde-4fb7-9b63-5550129a4fb9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/a54d9205-abde-4fb7-9b63-5550129a4fb9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:11</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L5vpS0GbFrecisOUjJPWmwpb8Gn07JSZBEwvgdEtKL1g.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel Time: S3 E1 - E3</title>
+      <description><![CDATA[Sigurd og Marte diskuterer sesongstarten på «The Wheel of Time», kårer det beste og det verste med og svarer på dine spørsmål!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/1a461947-d7b3-4db6-bfbb-3db956c6076e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/1a461947-d7b3-4db6-bfbb-3db956c6076e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:38:46</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel of Time S3: Bedre enn noensinne!</title>
+      <description><![CDATA[Fantasystorserien på Prime Video er ute med sin beste sesong til nå, men Marte har fortsatt ting å plukke på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/1911a0cc-0455-4c42-b39b-1395c8145884_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/1911a0cc-0455-4c42-b39b-1395c8145884_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:12</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MJogRuX2OZA1EyQxcwzmCgKWiFSW6I4GIZbao3LWkwyQ.jpg"/>
+    </item>
+    <item>
+      <title>Den stygge stesøsteren: Blodig og lekkert eventyr</title>
+      <description><![CDATA[«Den stygge stesøsteren» er en ny vri på Askepott-fortellingen, som på ingen måte er en barnefilm!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/88aab304-056a-4af4-b070-6a9377b22082_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/88aab304-056a-4af4-b070-6a9377b22082_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <pubDate>Thu, 06 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RaYMQy_p1w_ku3w9pxlSqgXhAN-lEJOgeYHC_qULnAKw.jpg"/>
+    </item>
+    <item>
+      <title>The Wheel of Time: Forventninger til S3!</title>
+      <description><![CDATA[Sigurd og Marte lader opp til en ny sesong av «The Wheel of Time». Hva forventer vi? Hva vet vi? Og hva gleder vi oss aller mest til?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/31500d46-597a-466f-a70e-0522319e4fa1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/31500d46-597a-466f-a70e-0522319e4fa1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:13</itunes:duration>
+      <pubDate>Tue, 04 Mar 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3At6htVZ6oHyUoSVMLQtigm6Fj6TwcO_nRGUCLyMeg6A.jpg"/>
+    </item>
+    <item>
+      <title>The Brutalist: Svimlende ambisjoner</title>
+      <description><![CDATA[10 ganger Oscar-nominerte «The Brutalist» er et stort og mektig drama som gjør inntrykk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/2fe17513-1e1b-4385-8262-34b3e8b647d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/2fe17513-1e1b-4385-8262-34b3e8b647d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Thu, 27 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1EK9cdVrg-ap2oWVjX2MTA3yrm5kqG1T8UVWfHd9mq9g.jpg"/>
+    </item>
+    <item>
+      <title>The White Lotus S3: Djevelsk god satire</title>
+      <description><![CDATA[Det er ren TV-luksus å bli servert nok en saftig runde med «The White Lotus» på Max. Sigurd triller terningkast 5!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/21e47752-5873-4596-92e1-2b07c93bf754_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/21e47752-5873-4596-92e1-2b07c93bf754_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:07</itunes:duration>
+      <pubDate>Thu, 20 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4OGA1QLLcZ8NjdVfg19e9QDUTD-j6wicIPH5bMIceRfw.jpg"/>
+    </item>
+    <item>
+      <title>Harald &amp; Sonja: Norges svar på The Crown?</title>
+      <description><![CDATA[Den rørende kjærlighetshistorien til kong Harald og dronning Sonja, har blitt et nært og fint drama.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/99d75efe-2b6e-478c-a842-b0d7bd475ca9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/99d75efe-2b6e-478c-a842-b0d7bd475ca9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:10</itunes:duration>
+      <pubDate>Thu, 13 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3tSa6sIvEWGIHpDHFzsTbwgtr-_MJMrOa2E5Oqhrxkmw.jpg"/>
+    </item>
+    <item>
+      <title>The Agency: En blek kopi av originalen</title>
+      <description><![CDATA[Underholdning trumfer realisme i Hollywood-versjonen av den franske, bejublede etterretningsserien «Le Bureau»!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/69b82f82-ebbe-4096-927e-930101d08e99_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/69b82f82-ebbe-4096-927e-930101d08e99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:44</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OKpcFoepDt9YGBPshGnDxAPTxUlO7LcdquKZ3YIyunpg.jpg"/>
+    </item>
+    <item>
+      <title>Emilia Pérez: Aldri sett noe lignende</title>
+      <description><![CDATA[Med 13 Oscar-nominasjoner kan det tyde på at «Emelia Pérez» er en helt spesiell film, men er den en innertier?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/b194202f-4476-422c-8502-1dc5c61b2c30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/b194202f-4476-422c-8502-1dc5c61b2c30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:32</itunes:duration>
+      <pubDate>Thu, 30 Jan 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/46QPvba8mhDOE9joqIOXHgKb9bJc1zeFs64zSXnthO0w.jpg"/>
+    </item>
+    <item>
+      <title>Severance S2: Fabelaktig hjernegymnastikk!</title>
+      <description><![CDATA[Hadde du vært villig til å dele sinnet din i to? Det er premisset for serien «Severance», og det er ekstremt spennende materie!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/95265c7e-452b-4892-bd9b-7c1a2f24a0b3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/95265c7e-452b-4892-bd9b-7c1a2f24a0b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:10</itunes:duration>
+      <pubDate>Thu, 23 Jan 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U1GeRcg5zYBfnC7Br1132g798MmaYuIP4VDiSXLHINhQ.jpg"/>
+    </item>
+    <item>
+      <title>2025: filmene vi gleder oss til!</title>
+      <description><![CDATA[Birger tar oss med gjennom hvilke filmer han har størst tro på i det kommende kinoåret!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/6f433d25-dfdd-496b-a33a-11ea42179bc3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/6f433d25-dfdd-496b-a33a-11ea42179bc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:42</itunes:duration>
+      <pubDate>Thu, 16 Jan 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ozTwu0bk2j803tqNOrWNSA6enswQogsWESEJ2MhhSU1A.jpg"/>
+    </item>
+    <item>
+      <title>2025: Seriene vi gleder oss til!</title>
+      <description><![CDATA[Serieåret 2025 er i gang, og strømmetjenestene står klare til å servere drøssevis av nye serier og sesonger til norske skjermer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/filmpolitiet/44bb363d-8cac-439e-b001-bd26e04de65e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/filmpolitiet/44bb363d-8cac-439e-b001-bd26e04de65e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:48</itunes:duration>
+      <pubDate>Thu, 09 Jan 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sfDEDUuPl5qJzXaT1B9l_AsXemys0PVueSdfJ_y6Rztw.jpg"/>
+    </item>
+  </channel>
+</rss>

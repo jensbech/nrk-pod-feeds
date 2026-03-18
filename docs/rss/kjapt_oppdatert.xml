@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Kjapt oppdatert</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:36:54 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 05:59:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Brenner fortsatt i Ålesund: Hundrevis evakuert</title>
+      <description><![CDATA[Og Champions League-drømmen er over for Bodø/Glimt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/3402de8f-b21c-4880-82de-8fb21cd880f0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/3402de8f-b21c-4880-82de-8fb21cd880f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:18</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OkOt8AbqmGPJyvLsN-t2Gg-PWGBdrnpMgxIpWv5WLz4Q.jpg"/>
+    </item>
+    <item>
+      <title>Skal besøke åstedet der Jonas ble drept</title>
+      <description><![CDATA[Og Emil Iversen ber om hjelp fra publikum.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/efb6dfc4-63d1-404f-b6df-c463d1a04f5d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/efb6dfc4-63d1-404f-b6df-c463d1a04f5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:03</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tnoxZIRc8H8lMl5k_axBoAZgym8YpJKAwlaPXzJ4x4YQ.jpg"/>
+    </item>
+    <item>
+      <title>– Største som noen gang har skjedd norsk film</title>
+      <description><![CDATA[Historisk seier til «Affeksjonsverdi» under Oscar-utdelinga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/818d2f16-be7e-4a82-8d2f-16be7e8a8275_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/818d2f16-be7e-4a82-8d2f-16be7e8a8275_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:38</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xcN68wJ3Ozxy7EhxmNG_dwfuwI64lB8Q5O5N_ncg23sg.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan er Oscar-sjansene våre?</title>
+      <description><![CDATA[Og USA sier Iran legger ut miner i Hormuzstredet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b650772c-a6a6-4b93-9077-2ca6a63b939e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b650772c-a6a6-4b93-9077-2ca6a63b939e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:50</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dUocIiz6sF7QfbOUqVuFNwYZfjep_LoS7GJgwO_bdteA.jpg"/>
+    </item>
+    <item>
+      <title>Bodø/Glimt sjokkerte igjen</title>
+      <description><![CDATA[Og tre brødre er avhørt om ambassade-eksplosjonen forrige helg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/975b7e3f-527e-4636-9b7e-3f527e663617_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/975b7e3f-527e-4636-9b7e-3f527e663617_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:37</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KShZAM8p7H77uGhToW_ozgjIvgOJNxTMOdSX4FKm4JbQ.jpg"/>
+    </item>
+    <item>
+      <title>Iran angriper flere mål i Midtøsten</title>
+      <description><![CDATA[Og nå kan det bli enklere å ta seg en utepils.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/7725839c-5146-491d-a583-9c5146391d4e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/7725839c-5146-491d-a583-9c5146391d4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:31</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1wIacBg2rdMdbA1fhkR95AldznqXQ4Q9-sNgH1cCahiw.jpg"/>
+    </item>
+    <item>
+      <title>Sier at krigen i Iran nærmer seg slutten</title>
+      <description><![CDATA[Og økonomer tviler på rentekutt i år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b724bd22-0d07-4a10-a4bd-220d077a1035_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b724bd22-0d07-4a10-a4bd-220d077a1035_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:24</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gX-AnTLrJRUkV1vSTsn2qwTBsVFm5DkfYESPmEH8OdFA.jpg"/>
+    </item>
+    <item>
+      <title>Nå kommer de første skattemeldingene</title>
+      <description><![CDATA[Og en Iran-ekspert tror valget av ny leder der viser at krigen ikke vil stoppe med det første.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f3cf264c-8151-4a72-8f26-4c8151da7294_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f3cf264c-8151-4a72-8f26-4c8151da7294_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:11</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aVnMas1RCKI73-z3IfHowQxloCNrrxPl5qZ1WZ4zNaxw.jpg"/>
+    </item>
+    <item>
+      <title>Kaos og boikott før Paralympics</title>
+      <description><![CDATA[Og Harry Styles har sluppet nytt album.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/6f37b3ed-4cd5-442d-b7b3-ed4cd5242d78_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6f37b3ed-4cd5-442d-b7b3-ed4cd5242d78_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:31</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fqvqf3lK1DW-SnDSMt7aTA7vohk9vO7eh6mzN9oh-S_Q.jpg"/>
+    </item>
+    <item>
+      <title>Snakket om vold, rus og utroskap. Nå skal Høiby forklare seg</title>
+      <description><![CDATA[Og tusenvis av nordmenn sitter fortsatt fast i Midtøsten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1ee32c99-9a09-42b3-a32c-999a0922b3da_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1ee32c99-9a09-42b3-a32c-999a0922b3da_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:38</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cCd3wDtsditCNnIHDh6W3g6tFQ9zzrfnR0m4uYrThEOw.jpg"/>
+    </item>
+    <item>
+      <title>Frogner-kvinnen forklarer seg i dag</title>
+      <description><![CDATA[Og Iran har fått ny leder, ifølge Iran International.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f687e38a-967f-48bc-87e3-8a967fe8bc6e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f687e38a-967f-48bc-87e3-8a967fe8bc6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:35</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9C1cX9j2Cpb_QSXSvndm4wa8UTmKqCQIbzD6jl1mqnKw.jpg"/>
+    </item>
+    <item>
+      <title>USA ber amerikanere forlate Midtøsten nå</title>
+      <description><![CDATA[Og i dag skal Norge kjempe om en plass i fotball-VM i 2027.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/14994ca3-904b-4c5f-994c-a3904b8c5f78_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/14994ca3-904b-4c5f-994c-a3904b8c5f78_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:35</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Bz0rKZ5Kpon0MFvHrThjvgIwSm9mPiTW707XSjKnQTfw.jpg"/>
+    </item>
+    <item>
+      <title>USA og Israel angriper Iran: Hva har skjedd?</title>
+      <description><![CDATA[165 iranske barn skal ha blitt drept på en skole.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/4246fabd-8157-4fd6-86fa-bd8157dfd6e5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/4246fabd-8157-4fd6-86fa-bd8157dfd6e5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:49</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dr0HW5xo75HC4A1f3ntH7gi197H1mRSWEqoKVCrGBqcw.jpg"/>
+    </item>
+    <item>
+      <title>Pakistan erklærer open krig</title>
+      <description><![CDATA[Og i dag får vi vite kven som får årets Gullbarbie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/da9b16fa-156c-4795-9b16-fa156c87956b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/da9b16fa-156c-4795-9b16-fa156c87956b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:57</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KsaInF0Z5ld7wzuty43p1Q8VaXVgyUCy1MXSBwZnmfiw.jpg"/>
+    </item>
+    <item>
+      <title>Kongen treng nokre dagar på å bli frisk</title>
+      <description><![CDATA[Og går det an å hamne i ei KI-psykose?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/530c0f4c-4909-4d11-8c0f-4c4909cd11b3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/530c0f4c-4909-4d11-8c0f-4c4909cd11b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:12</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vNRG8e_vr3LKy7rJEvhjKQVrLSitUpqjkvr8-eHI2YJg.jpg"/>
+    </item>
+    <item>
+      <title>Siste nytt om kongen på sjukehus</title>
+      <description><![CDATA[Og Bodø/Glimt verkar ustoppelege.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d6c628e1-b43e-4969-8628-e1b43ef969e2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d6c628e1-b43e-4969-8628-e1b43ef969e2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:28</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AcQbLygllUXvCCUMSSdjTwZoUl63Z6QYHOOaCc6RmjZw.jpg"/>
+    </item>
+    <item>
+      <title>Fire år siden fullskalakrigen</title>
+      <description><![CDATA[Kan det bli fred i Ukraina?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/00503aa3-7ac7-43d1-903a-a37ac7b3d152_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/00503aa3-7ac7-43d1-903a-a37ac7b3d152_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:39</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n9u_Qjy_uUSSGVKJQWJpTwO9YJoZJOZHbkOLeho-GzbQ.jpg"/>
+    </item>
+    <item>
+      <title>Når kan det bli OL i Norge?</title>
+      <description><![CDATA[Og Ukrainas president mener Vladimir Putin har starta tredje verdenskrig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e822409f-5ac3-495e-a240-9f5ac3295ea8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e822409f-5ac3-495e-a240-9f5ac3295ea8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:44</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WJk0sFBGF3Dr-KRfsgy-LAwvL5RXycaAIwTp_m3Qne0A.jpg"/>
+    </item>
+    <item>
+      <title>I dag skal Nora Haukland forklare seg</title>
+      <description><![CDATA[Og USA gjør seg klare til angrep mot Iran.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/14bac9fa-5eb0-4db4-bac9-fa5eb0ddb4fd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/14bac9fa-5eb0-4db4-bac9-fa5eb0ddb4fd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:08</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhrylHVhWnmUtDRaZUcTOgJbNjzDvHYNbGRsG-H66iGQ.jpg"/>
+    </item>
+    <item>
+      <title>Skjøt mot politiet mens huset stod i flammer</title>
+      <description><![CDATA[Og en Bodø/Glimt-spiller kom med store nyheter under kampen mot Inter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/ce812c8a-a20c-4b4a-812c-8aa20cab4a33_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/ce812c8a-a20c-4b4a-812c-8aa20cab4a33_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:07</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V1wfNoErXE8LNo_m0Sx82AW7q3QR-BlYdSwbak951gbw.jpg"/>
+    </item>
+    <item>
+      <title>Kronprinsesse Mette-Marit kommenterer Epstein-saken</title>
+      <description><![CDATA[Og senter som tar imot overgrepsutsatte venter større pågang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/9c867e82-d84b-458f-867e-82d84b558f33_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/9c867e82-d84b-458f-867e-82d84b558f33_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:40</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m9uJ-djTlOODmvIjwIokbgoW5ct2rNgY6MiYoVf3yBmg.jpg"/>
+    </item>
+    <item>
+      <title>Epstein-overlevende går hardt ut mot nordmenn i dokumentene</title>
+      <description><![CDATA[Og i dag møtes Ukraina, Russland og USA til fredsforhandlinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/548594e0-55d7-4c31-8594-e055d77c3121_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/548594e0-55d7-4c31-8594-e055d77c3121_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:01</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wUSUIuFs2a_34OdDc9ThZQnqsvndwTxO8yWzFT6-nWrQ.jpg"/>
+    </item>
+    <item>
+      <title>Kan det bli likestilling i hoppsporten?</title>
+      <description><![CDATA[Og nytt tiltak fra Israel kan gjøre det vanskeligere for palestinere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d12a33dd-97a6-43c5-aa33-dd97a6f3c5d0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d12a33dd-97a6-43c5-aa33-dd97a6f3c5d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:53</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Bbh-TzCNzSpzGupKjcX8ugl7l8pNpKoCFLvEGk3bKmmg.jpg"/>
+    </item>
+    <item>
+      <title>Vil nekte elever å gå med hijab</title>
+      <description><![CDATA[Og Epstein-saken skal opp på Stortinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/fdb56192-f036-43de-b561-92f03683de00_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/fdb56192-f036-43de-b561-92f03683de00_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:34</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b0IZ23lNmpQX6IlfD1d_Nwar8oZxPEcPGrs7c7Y5a3yQ.jpg"/>
+    </item>
+    <item>
+      <title>I dag skal den tredje kvinnen forklare seg</title>
+      <description><![CDATA[Og blir det noe rentekutt i år?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/128edf56-2b77-46cb-8edf-562b7756cbbb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/128edf56-2b77-46cb-8edf-562b7756cbbb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:53</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1jpulDWj_3wwe7R_-ESKvAPkyuBdnOLnWURrxniiG0Nw.jpg"/>
+    </item>
+    <item>
+      <title>Hamas vil gi fra seg makta i Gaza</title>
+      <description><![CDATA[Og flere personer har blitt drept i masseskyting i Canada.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/54df487f-7f8c-4b6c-9f48-7f7f8c6b6cf6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/54df487f-7f8c-4b6c-9f48-7f7f8c6b6cf6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:27</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hG8uQILUn0gTba6sZAteTgzw-iqFlO49j6pR9hUgjH7g.jpg"/>
+    </item>
+    <item>
+      <title>Høiby skal svare på en av de mest alvorlige anklagene</title>
+      <description><![CDATA[Og Epstein-dokumentene kan gi Norge et dårlig omdømme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/37f53d16-36de-4f60-b53d-1636de5f608d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/37f53d16-36de-4f60-b53d-1636de5f608d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:56</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bOvns29wIdpgmC9lKFus-AgKUmS5WM8Gh0xzx9PUt27g.jpg"/>
+    </item>
+    <item>
+      <title>Bad Bunny får kritikk etter Super Bowl</title>
+      <description><![CDATA[Og flere tusen iranere fra hele Europa demonstrerte i helga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/981f8418-5dea-4c0a-9f84-185dea3c0aca_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/981f8418-5dea-4c0a-9f84-185dea3c0aca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:53</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pT63tK9LRl3ZSJuh36sZmAdJfDHNJpWo2JQxhMSXWEeg.jpg"/>
+    </item>
+    <item>
+      <title>Jagland mistenkt for korrupsjon</title>
+      <description><![CDATA[Og det er klart for en kjendistung åpningsseremoni for vinter-OL 2026.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d6e9b79c-fe03-4bb7-a9b7-9cfe03fbb749_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d6e9b79c-fe03-4bb7-a9b7-9cfe03fbb749_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:57</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c_uQqbzxTgqvkQ2difosqAnkXAdgq5TX7axwtkYlEHxQ.jpg"/>
+    </item>
+    <item>
+      <title>Norsk influenser nevnes i Epstein-dokumentene</title>
+      <description><![CDATA[Og flere føderale agenter fjernes fra Minneapolis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/4c24fa92-80b2-4659-a4fa-9280b2365985_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/4c24fa92-80b2-4659-a4fa-9280b2365985_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:33</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nBfvsorKiIpwJVWALtqu9wWmIK2inTHKFYRYWfLV6a5w.jpg"/>
+    </item>
+    <item>
+      <title>Marius Borg Høibys forklaring</title>
+      <description><![CDATA[Etter planen skal Høiby forklare seg i tingretten dag. Men flere er usikker på om han klarer det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/74695e39-2a68-47fd-a95e-392a6817fdd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/74695e39-2a68-47fd-a95e-392a6817fdd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:02</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kf5jkbs0T0pR_0jyNlum5gQRnx927Rv1GSvXrQ7F3_zw.jpg"/>
+    </item>
+    <item>
+      <title>Enormt medietrykk i Høiby-saken</title>
+      <description><![CDATA[Og Epsteins norske forbindelser blir bedt om å legge alle korta på bordet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/0030e736-889b-47eb-b0e7-36889b57eb6e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/0030e736-889b-47eb-b0e7-36889b57eb6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:51</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q9BRwgs3HlXIQNOkLPdeiQBeq0aRa4aIXGFIiBKTfD3g.jpg"/>
+    </item>
+    <item>
+      <title>Dette er Epsteins norske forbindelser</title>
+      <description><![CDATA[Og motstand mot ICE gikk igjen blant artistene som var samla på Grammy-utdelinga i natt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/8a35d453-3eef-4f8a-b5d4-533eefef8a99_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/8a35d453-3eef-4f8a-b5d4-533eefef8a99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:09</itunes:duration>
+      <pubDate>Mon, 02 Feb 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ym7j8ajrzVREMuEWNZAb_QzdpCzcY-rgN2u1dqnpHfRg.jpg"/>
+    </item>
+    <item>
+      <title>Storstreik i protest mot ICE</title>
+      <description><![CDATA[Og banning kan være effektivt på trening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f4a2b242-d71e-4213-a2b2-42d71e821327_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f4a2b242-d71e-4213-a2b2-42d71e821327_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:57</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4ku6_hyxOzbFtVi-x7sIdg4TavWS7h8Y-mP4VKyl6iPg.jpg"/>
+    </item>
+    <item>
+      <title>Glimt-mirakelet i Madrid</title>
+      <description><![CDATA[Og flere er bekymra for utenlandsk presse under rettssaken mot Marius Borg Høiby.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/3439ac0f-9ab4-46d5-b9ac-0f9ab466d5b3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/3439ac0f-9ab4-46d5-b9ac-0f9ab466d5b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:06</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TzAF4QXbqeUxcLPyvRhy0QKw-pCFwEk3sfgm-dhm-XSQ.jpg"/>
+    </item>
+    <item>
+      <title>Vil ha retten til abort inn i Grunnloven</title>
+      <description><![CDATA[Og Ukrainas president er klar for å forhandle direkte med Russland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b6522c71-dfbc-425b-922c-71dfbc525bc8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b6522c71-dfbc-425b-922c-71dfbc525bc8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:19</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cpZVDmbv6-yLPloC5BWhag13IjVP74hezvveOZ9J5rSA.jpg"/>
+    </item>
+    <item>
+      <title>Kan bli mildere straff for voldtekt</title>
+      <description><![CDATA[I dag begynner Høyesterett behandlingen av en sovevoldtektssak - det kan bli avgjørende for lignende saker fremover.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1e3f4407-ea95-48ef-bf44-07ea95f8ef00_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1e3f4407-ea95-48ef-bf44-07ea95f8ef00_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:23</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MwUZ4bp0MkRGd_h-UQ1pKwI--cZ3GwKMFRITvCHL5pcQ.jpg"/>
+    </item>
+    <item>
+      <title>Folk i Minneapolis er rasende etter nytt drap</title>
+      <description><![CDATA[Og Israel sier de vil åpne Rafah-grensa når det siste gisselet er funnet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/202ec5ae-e673-4911-aec5-aee673d91163_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/202ec5ae-e673-4911-aec5-aee673d91163_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:17</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6ClaErm5G1NihenL4ztBwgXZ9JkLutX11caUXLaHFcFQ.jpg"/>
+    </item>
+    <item>
+      <title>Fem år gammal gut tatt av ICE</title>
+      <description><![CDATA[Og i dag kjem «Heated Rivalry» og ny musikk frå både Harry Styles og Chirag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/541e8278-c59c-441c-9e82-78c59ce41c43_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/541e8278-c59c-441c-9e82-78c59ce41c43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:11</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cbtfA5MiTahFHPT7mmdb7wyjwsbrwHBUXbx8iboYjoMA.jpg"/>
+    </item>
+    <item>
+      <title>Halvparten trur USA vil prøve å ta Grønland</title>
+      <description><![CDATA[Og Frp meiner ukrainske menn burde halde seg heime og krige for landet sitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e5954db8-29b2-44de-954d-b829b2a4de6b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e5954db8-29b2-44de-954d-b829b2a4de6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:22</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qnUIig__xIPNch-yE1EYlA0MSBDzBntxgKWcGrWxDDyQ.jpg"/>
+    </item>
+    <item>
+      <title>Støre slår tilbake mot Trump</title>
+      <description><![CDATA[Og over 100.000 kvinner dropper en undersøkelse som kan redde liv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/4b13f819-3421-48c7-93f8-19342158c721_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/4b13f819-3421-48c7-93f8-19342158c721_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:20</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/frWNtOqPHzc5FebTtLSqxAcjXmLToZXi0buJtaqoLmuw.jpg"/>
+    </item>
+    <item>
+      <title>Eitt år med Trump som president</title>
+      <description><![CDATA[Og fleire land vurderer aldersgrense på sosiale medium.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/49447dd0-bb32-4131-847d-d0bb329131ca_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/49447dd0-bb32-4131-847d-d0bb329131ca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:00</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ty6Ey9s9UVU4EJzu8CcUdQPrZuXOGZzgbbxoyEaaUkFg.jpg"/>
+    </item>
+    <item>
+      <title>Dette er nordmenn mest redde for i 2026</title>
+      <description><![CDATA[Og EU kaller inn til ekstraordinært møte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/963b1ff0-b460-4ef4-bb1f-f0b4608ef470_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/963b1ff0-b460-4ef4-bb1f-f0b4608ef470_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:00</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UlbTM37dVbmBcqgdizjuJA6CW-K29qIyKZApFkCjmVgQ.jpg"/>
+    </item>
+    <item>
+      <title>Ekspert mener det er patetisk å gi bort fredsprisen</title>
+      <description><![CDATA[Og Norge fikk en knallstart på årets håndball-EM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/5002325d-3370-42df-8232-5d337012dfa1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5002325d-3370-42df-8232-5d337012dfa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:17</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A2Lruivz_xsOffTsOERhiwMUp2QXUjRu0o3mjbSnIhJg.jpg"/>
+    </item>
+    <item>
+      <title>Iran frykter amerikansk angrep</title>
+      <description><![CDATA[Og hva skjedde på møtet om Grønland?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1ac29209-b931-4d14-8292-09b9315d1437_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1ac29209-b931-4d14-8292-09b9315d1437_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:08</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9VjhdxS8NUEeG7DQ6ip99gg69ISDgXGI6dN8vEZQG2wA.jpg"/>
+    </item>
+    <item>
+      <title>Trump er irritert på Grønland</title>
+      <description><![CDATA[Og tala på døde i Iran stig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/833e385c-0b4d-4c94-be38-5c0b4dec942f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/833e385c-0b4d-4c94-be38-5c0b4dec942f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:28</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zeEEZRbn2i7tu0qjstpsjQKWYQQJr5IMgEpZch1_vOKQ.jpg"/>
+    </item>
+    <item>
+      <title>Minnesota vil stoppe ICE-agenter</title>
+      <description><![CDATA[Og vi kjøper færre plastposer på butikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d0a8ec1e-9135-46e1-a8ec-1e9135c6e1d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d0a8ec1e-9135-46e1-a8ec-1e9135c6e1d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:41</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fPkqT5LMkSbq7MYkiSAZ4Q_TipZd5U4I0yW-fSlEdSEg.jpg"/>
+    </item>
+    <item>
+      <title>Likhusene fylles opp i Iran</title>
+      <description><![CDATA[Og det blir trolig ikke ny jobb på Ole Gunnar Solskjær i Manchester United.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/566f6823-1d65-4f2b-af68-231d658f2bb4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/566f6823-1d65-4f2b-af68-231d658f2bb4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:07</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YTYP4CC1U6C5V72-B0X6kQPrwCRF7yRQRA7jCRCG1d6w.jpg"/>
+    </item>
+    <item>
+      <title>Vil heve førarkortgrensa for menn</title>
+      <description><![CDATA[Og det har vore store demonstrasjonar i både Iran og USA i natt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/3e8e403d-6e5c-47d3-8e40-3d6e5ca7d3a9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/3e8e403d-6e5c-47d3-8e40-3d6e5ca7d3a9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:28</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v8A60vNLsfz8HvtkB8blJQn30j1FVLBQRutsslbWTV5A.jpg"/>
+    </item>
+    <item>
+      <title>Protester etter at kvinne ble drept av ICE i USA</title>
+      <description><![CDATA[Og Verdal er i sorg etter at to brannfolk mista livet på jobb.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1c4d62c0-83b0-4143-8d62-c083b0814322_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1c4d62c0-83b0-4143-8d62-c083b0814322_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:49</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kRT_oPBw7O3EQReXhJHFaAl5KPQxVOc5Hbq_Xr7RXUrg.jpg"/>
+    </item>
+  </channel>
+</rss>

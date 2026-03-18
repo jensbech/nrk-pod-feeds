@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Baksnakk</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Zara, Milie og Sofie ler og gråter sammen i studio hver uke.
+Noen ganger prater de om viktige ting, mens andre ganger prater de om litt mindre viktige ting.
+
+Ris eller ros? Send det til oss i NRK Radio!</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:34:27 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Frekk kollega, kryssord og crush på fiksjonelle karakterer</title>
+      <description><![CDATA[Hvem var Milie sitt første crush? Det er det bare Zara og Sofie som vet.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/17f2b160-ef99-481e-b2b1-60ef99481e9b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/17f2b160-ef99-481e-b2b1-60ef99481e9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:50</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Litt gay, utroskap som straff og plystrequiz</title>
+      <description><![CDATA[Advarsel: Mye latterkrampe i denne episoden.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/61617ae2-888a-4f94-a17a-e2888a8f94f1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/61617ae2-888a-4f94-a17a-e2888a8f94f1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:33</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Grunnen til at Milie har vært borte</title>
+      <description><![CDATA[Milie har vært borte siden januar, og nå forteller hun hvorfor.
+
+Send oss spørsmål i NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/141aed62-cc6c-4d14-9aed-62cc6c6d146d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/141aed62-cc6c-4d14-9aed-62cc6c6d146d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:35</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Tredagers-truse, overærlig kjæreste og «tenk som en sau»-lek</title>
+      <description><![CDATA[Vi skal ha livepodkast! Stem på hvor du vil at vi skal komme!
+
+Send oss spørsmål i appen NRK Radio!:)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/06b15011-e7ae-432b-b150-11e7ae332b63_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/06b15011-e7ae-432b-b150-11e7ae332b63_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:16</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Herman Strand, falske fregner og renter for gen Z</title>
+      <description><![CDATA[Backer vi «blush blindness», fargede linser og falske fregner? Herman Strand er gjest!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/66b7bb3b-f9d1-4884-b7bb-3bf9d1888450_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/66b7bb3b-f9d1-4884-b7bb-3bf9d1888450_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:40</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>BookTok, flyalarm og syke påstander</title>
+      <description><![CDATA[Hva gjør man når kjæresten kommer med en «syk påstand», og vet Zara hva en flyalarm betyr?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/e8f07ca6-3597-4047-b07c-a63597904702_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e8f07ca6-3597-4047-b07c-a63597904702_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:47</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Naomi og Lars, sjekkereplikker og bifil kompis</title>
+      <description><![CDATA[Sofie ble sjekket opp på tre elendige måter på én kveld og en lytter har en venninne som prøver seg på kjæresten hennes. Vi har besøk av Naomi Oseki og Lars Henriksen i dagens episode av Baksnakk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/47f4f873-1ae6-4352-b4f8-731ae66352ac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/47f4f873-1ae6-4352-b4f8-731ae66352ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:43</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Kleine TikToks, risker og dialekt-lek</title>
+      <description><![CDATA[Sofie og Kevin har alt å tape når de skal sjekke hvem som er best på dialekter. 
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/06a2194f-38d3-40b6-a219-4f38d320b6b1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/06a2194f-38d3-40b6-a219-4f38d320b6b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:04</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Veddemål, første dates og nye OL-grener</title>
+      <description><![CDATA[Vi får en hilsen fra Milie, og finner ut hvordan det gikk med veddemålet fra januar.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/168e64e9-0ef5-4d80-8e64-e90ef54d805f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/168e64e9-0ef5-4d80-8e64-e90ef54d805f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:28</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Musikkmysteriet, tonedøv venninne og moren din</title>
+      <description><![CDATA[Skal man fortelle venninna si at hun er tonedøv, og hva har moren din gjort nå?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/8a4677e4-b2bc-45bc-8677-e4b2bc65bc67_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/8a4677e4-b2bc-45bc-8677-e4b2bc65bc67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:41</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Kongehuset, overnatting og «Hvem sa det?»</title>
+      <description><![CDATA[Klarer Sofie og Zara å gjette hvem som sa det?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/be828fd0-e7af-42cb-828f-d0e7afa2cbd5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/be828fd0-e7af-42cb-828f-d0e7afa2cbd5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:28</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Rykter, bursdagsfeiring og feminin energi</title>
+      <description><![CDATA[Er det feminint å drikke av sugerør, eller å gå i trappemaskin?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/b8c7c08f-6227-470e-87c0-8f6227c70e3c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/b8c7c08f-6227-470e-87c0-8f6227c70e3c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:13</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Franky og Mo, «shy boy» og Trumps sluttpakke</title>
+      <description><![CDATA[Franky og Mo er gjester!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/a17a2fdf-4602-4b1d-ba2f-df4602ab1ddc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/a17a2fdf-4602-4b1d-ba2f-df4602ab1ddc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:56</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Adopsjon, toxic venninne og fraværende kjæreste</title>
+      <description><![CDATA[Sofie forteller om den gangen det gikk ordentlig opp for henne at hun er adoptert. 
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/3115d0be-4ac6-44dd-95d0-be4ac664dd37_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/3115d0be-4ac6-44dd-95d0-be4ac664dd37_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:44</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Gynekologtur, ballkjoler og hudpleie for barn</title>
+      <description><![CDATA[Sofie har vært hos gynekologen, noe som ikke gikk så bra.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/557eca24-bb93-4058-beca-24bb93d058fe_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/557eca24-bb93-4058-beca-24bb93d058fe_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:13</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Fiffi, 2016 og Milies upassende tanker</title>
+      <description><![CDATA[Er 2026 det nye 2016, og hva slags tanker er det som stadig dukker opp i hodet til Milie?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/156bf4c2-8adc-45bf-abf4-c28adcc5bf7f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/156bf4c2-8adc-45bf-abf4-c28adcc5bf7f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:03</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Dramatisk fødsel, klassecrush og nakenkatt</title>
+      <description><![CDATA[Zara har vært vitne til en dramatisk fødsel, og Sofie er lei av nyhetene.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/ff288769-860a-429f-a887-69860ac29fb5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/ff288769-860a-429f-a887-69860ac29fb5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:19</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Papegøyer, pubertet og kvartlivskrise</title>
+      <description><![CDATA[Det blir skikkelig kvartlivskrise i studio.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/4b30af95-eb79-4f75-b0af-95eb79cf7501_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/4b30af95-eb79-4f75-b0af-95eb79cf7501_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:23</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Nyttårforsett, forbud og sexleketøy</title>
+      <description><![CDATA[Sofie tror ikke på nyttårsforsett, og Milie har med seg årets nye lover og regler.
+
+Send oss spørsmål i NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/9a60bd5d-4792-4239-a0bd-5d47925239b7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/9a60bd5d-4792-4239-a0bd-5d47925239b7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:54</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Skinny jeans, svettemerker og druer under bordet</title>
+      <description><![CDATA[Er det greit å gå rundt på trening uten sokker, og er skinny jeans in igjen?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/6f9cd151-daa0-43e2-9cd1-51daa0c3e28b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6f9cd151-daa0-43e2-9cd1-51daa0c3e28b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:30</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Jørgen Holst-Larsen, død katt og «tommelsutting»</title>
+      <description><![CDATA[Jørgen Holst-Larsen er gjest!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/595f1d81-7835-484b-9f1d-817835384b67_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/595f1d81-7835-484b-9f1d-817835384b67_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:51</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Nyttår, spådommer og å gå videre</title>
+      <description><![CDATA[Godt nyttår!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/074aa46f-e466-47a8-8aa4-6fe46687a8d5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/074aa46f-e466-47a8-8aa4-6fe46687a8d5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:25</itunes:duration>
+      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Spøtta-spesial #8: Backer-tegn, skilte foreldre og drømmer</title>
+      <description><![CDATA[En lytter ble sendt i skammekroken av eksen, og en annen har hatt en drøm om Baksnakk. Og hvilket tegn kan man vise Sofie, Zara og Milie i offentligheten for å vise at man er en backer?
+
+GOD JUL <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/281d6174-3868-4ac6-9d61-7438685ac67e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/281d6174-3868-4ac6-9d61-7438685ac67e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:05</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Juleshow med Baksnakk i Oslo</title>
+      <description><![CDATA[Dette er et opptak fra livepodkasten i Oslo!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/cd10bbb0-39e7-4f04-90bb-b039e70f04fa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/cd10bbb0-39e7-4f04-90bb-b039e70f04fa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:04</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Spotify Wrapped, læreryrket og hevn</title>
+      <description><![CDATA[Vi gjetter personlighetstypen til backere basert på deres Spotify Wrapped!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/30dcc9dc-e09a-462c-9cc9-dce09ac62c0f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/30dcc9dc-e09a-462c-9cc9-dce09ac62c0f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:29</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Mensenstrategi, buser og Milies dilemma</title>
+      <description><![CDATA[En lytter har sett noe hun ikke klarer å glemme, og Milie har med verdens lengste dilemma.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/ef824ca9-aeee-44d2-824c-a9aeeea4d223_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/ef824ca9-aeee-44d2-824c-a9aeeea4d223_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:20</itunes:duration>
+      <pubDate>Fri, 12 Dec 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Morten Rulle, pannelugg og upraktisk stor diamant</title>
+      <description><![CDATA[Morten Marius Skau er gjest!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/c62b32f1-5d3d-4f90-ab32-f15d3d8f90d3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/c62b32f1-5d3d-4f90-ab32-f15d3d8f90d3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:26</itunes:duration>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Julebord, stolleken og Zara og Milies beef</title>
+      <description><![CDATA[Flere lyttere har sendt inn konserthistorier, og vi får svar på hvorfor Zara og Milie aldri er med i samme episode.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/9b02cb4f-c6b9-42c3-82cb-4fc6b902c3c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/9b02cb4f-c6b9-42c3-82cb-4fc6b902c3c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:57</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Lufte føttene, sparken og livstid i fengsel</title>
+      <description><![CDATA[Milie har vært på konsert og Sofie har begynt å se på Dagsrevyen.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/fbc405f9-c4aa-4af0-8405-f9c4aa1af0a9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/fbc405f9-c4aa-4af0-8405-f9c4aa1af0a9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:50</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>«Black Friday», tentamen og hilsen fra Bjørn</title>
+      <description><![CDATA[En bursdagshilsen får Sofie til å gråte, og en lytter har gjort noe flaut foran en familievenn.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/05ab3f6a-d82c-4284-ab3f-6ad82c528426_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/05ab3f6a-d82c-4284-ab3f-6ad82c528426_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:39</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Konsert, drikkepress og oppskrytt ost</title>
+      <description><![CDATA[Sofie har hatt en dårlig konsertopplevelse, og Milie står opp mot drikkepress.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/7099591a-a4da-4b76-9959-1aa4da9b7689_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/7099591a-a4da-4b76-9959-1aa4da9b7689_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:13</itunes:duration>
+      <pubDate>Tue, 25 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Porno på storskjerm, tyveri og «Wavelength»</title>
+      <description><![CDATA[Sofie søler vann overalt, og en lytter blir tatt i å se på porno på storskjerm.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/2ba76bc9-f92d-4978-a76b-c9f92d39782a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/2ba76bc9-f92d-4978-a76b-c9f92d39782a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:13</itunes:duration>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Mannespesial</title>
+      <description><![CDATA[Det er mannsdagen 19. november, derfor har vi fått besøk av Ousaf Virk og Elias Omberg!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/896270b5-b7ca-4d33-a270-b5b7ca4d333e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/896270b5-b7ca-4d33-a270-b5b7ca4d333e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:06</itunes:duration>
+      <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Død hamster, surdeig og IKEA-lek</title>
+      <description><![CDATA[Zara elsker surdeigen sin, mens Milie blir uvel av tanken.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/6a1ec66e-395d-4937-9ec6-6e395dc93767_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6a1ec66e-395d-4937-9ec6-6e395dc93767_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:40</itunes:duration>
+      <pubDate>Fri, 14 Nov 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Zaras elsk-hat-liste, sexpartnere og «brainrot»</title>
+      <description><![CDATA[Zara har et elsk-hat-forhold til mye, mens Sofie ser bare på «brainrot». 
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/d45f6ef4-86d1-4f10-9f6e-f486d1bf105d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/d45f6ef4-86d1-4f10-9f6e-f486d1bf105d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:35</itunes:duration>
+      <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Pengefiksert venninne, Sofies høner og kjendis-quiz</title>
+      <description><![CDATA[Sofie forteller om alle dyrene i gata si, og Milie har med kjendis-quiz.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/20142156-be9e-43d3-9421-56be9e23d3a5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/20142156-be9e-43d3-9421-56be9e23d3a5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:59</itunes:duration>
+      <pubDate>Fri, 07 Nov 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>These men, kjæreste som tøffer seg og Milies skole-quiz</title>
+      <description><![CDATA[Sofie forteller om en forferdelig helg, og Milie tester skolekunnskapene til Sofie!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/6cc6f571-a0a4-40ab-86f5-71a0a460abe7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6cc6f571-a0a4-40ab-86f5-71a0a460abe7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:46</itunes:duration>
+      <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Kostymer, knask eller knep og egg i ansiktet</title>
+      <description><![CDATA[Halloween-spesial! Backerne deler sine halloween-historier og vi finner ut hvem som skal ha det beste kostymet.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/3d24a3ea-a0c1-4ecf-a4a3-eaa0c19ecf07_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/3d24a3ea-a0c1-4ecf-a4a3-eaa0c19ecf07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:02</itunes:duration>
+      <pubDate>Fri, 31 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Vi ser skrekkfilm sammen!</title>
+      <description><![CDATA[Liker du ikke å se skrekkfilm alene? Ikke noe problem!
+Sofie og Zara har filmkveld med «The Conjuring» på skjermen, og du er invitert!
+
+Start filmen når Zara teller ned fra tre, og bli med på kalaset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/2fab6970-3c18-428c-ab69-703c18a28cbb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/2fab6970-3c18-428c-ab69-703c18a28cbb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:50:08</itunes:duration>
+      <pubDate>Thu, 30 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Avslutning, «twitching» i søvne og sang-quiz</title>
+      <description><![CDATA[Gjengen er samlet igjen! En lytter sliter med at kjæresten «twitcher» i søvne, og Zara har med sang-quiz!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/528caceb-fbf3-4e63-8cac-ebfbf35e63d3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/528caceb-fbf3-4e63-8cac-ebfbf35e63d3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:41</itunes:duration>
+      <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Milies comeback og «hypotetisk teoretisk sett»</title>
+      <description><![CDATA[Milie er tilbake, og Sofie har med en ny runde av den mest kaotiske spalten.
+
+Send inn forslag til ting som trender om dagen, så skal vi bedømme om de er verdt hypen eller ikke!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/0437bedd-51e9-45a6-b7be-dd51e925a6ad_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/0437bedd-51e9-45a6-b7be-dd51e925a6ad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:14</itunes:duration>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Rød løper, utdrikningslag og tånegler</title>
+      <description><![CDATA[Hva går egentlig gjennom hodet til Sofie når hun er på rød løper?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/31928bb7-2ffe-43c5-928b-b72ffe23c5b0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/31928bb7-2ffe-43c5-928b-b72ffe23c5b0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:01</itunes:duration>
+      <pubDate>Tue, 21 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Halloweenfest, «everything shower» og skoleshow-finale</title>
+      <description><![CDATA[Hvilke smågodt-biter er de aller beste, og hvordan tar man den perfekte dusjen? 
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/ed17de27-cbdc-4292-97de-27cbdc129217_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/ed17de27-cbdc-4292-97de-27cbdc129217_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:51</itunes:duration>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Granater, nye venner og eksen på Tinder</title>
+      <description><![CDATA[Er tenåringer i dag annerledes fra hvordan Sofie og Zara var som tenåringer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/6de88a54-35d4-4b96-a88a-5435d4bb96b4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6de88a54-35d4-4b96-a88a-5435d4bb96b4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:15</itunes:duration>
+      <pubDate>Tue, 14 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Frieri, guilt-tripping og sangkonkurranse</title>
+      <description><![CDATA[En lytter lurer på hvordan man kan bli flinkere til å si nei, og en annen lurer på hvordan hun kan få kjæresten til å fri!
+
+Send oss spørsmål i NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/6195b5ed-b910-40e5-95b5-edb91090e549_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6195b5ed-b910-40e5-95b5-edb91090e549_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:51</itunes:duration>
+      <pubDate>Fri, 10 Oct 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Mammagutter, motivasjon og sylteagurk</title>
+      <description><![CDATA[Zara hater mammagutter, og jentene har sterke meninger om sylteagurk.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/f71e48aa-4a9d-4697-9e48-aa4a9db6971a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/f71e48aa-4a9d-4697-9e48-aa4a9db6971a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:01</itunes:duration>
+      <pubDate>Tue, 07 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Skrekkfilm, interne vitser og Sofies første «date»</title>
+      <description><![CDATA[Sofie dater en ny fyr hver uke, men hvordan var hennes aller første date?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/9031ff7e-b119-4f32-b1ff-7eb119cf3280_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/9031ff7e-b119-4f32-b1ff-7eb119cf3280_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:07</itunes:duration>
+      <pubDate>Fri, 03 Oct 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Kjeks, tradisjoner og rømming fra fengsel</title>
+      <description><![CDATA[Hvor lett er det egentlig å rømme fra fengsel i Norge?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/bc9f8e9e-bbfb-4cba-9f8e-9ebbfb8cba9a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/bc9f8e9e-bbfb-4cba-9f8e-9ebbfb8cba9a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:29</itunes:duration>
+      <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Flytting, mopedbil og sexy Simen Velle</title>
+      <description><![CDATA[Sofie og Zara deler hva de skal kle seg ut som på Halloween.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/fcfb9705-77b8-4230-bb97-0577b842302a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/fcfb9705-77b8-4230-bb97-0577b842302a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:51</itunes:duration>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>US-starterpack, politianmeldt lillebror og ChatGPT-lek</title>
+      <description><![CDATA[Zara og Milie er syke i dag, derfor får dere duoen dere ikke visste dere trengte.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/ab3dbf67-70b9-4cda-bdbf-6770b9dcda7c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/ab3dbf67-70b9-4cda-bdbf-6770b9dcda7c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:15</itunes:duration>
+      <pubDate>Tue, 23 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+  </channel>
+</rss>

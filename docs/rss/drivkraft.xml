@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Drivkraft</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:35:42 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 14:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Synne Vo</title>
+      <description><![CDATA[Popartisten mener det er menneskelig å alltid være lett misfornøyd]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f1fca77c-20ec-47e4-bca7-7c20ec37e424_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f1fca77c-20ec-47e4-bca7-7c20ec37e424_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xLXS8f2fnG677vy-ZAG91QEqbKPJHrrAX8porvtQgDRg.jpg"/>
+    </item>
+    <item>
+      <title>Aleksander Sandtorv</title>
+      <description><![CDATA[- Jeg drives av et hvitt sinne, sier den debatt-glade kjemikeren og influenseren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/57187994-2480-4921-9879-94248099219d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/57187994-2480-4921-9879-94248099219d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s95Shy9tkx3cHlVRZmBd5giu9686WRhAv_yhWLBmVQ7w.jpg"/>
+    </item>
+    <item>
+      <title>Jarle Bernhoft</title>
+      <description><![CDATA[– Det kan ta månedsvis før jeg er meg selv igjen, forteller artisten om tiden etter turneer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f51a6264-6ffd-464e-9a62-646ffd564e9a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f51a6264-6ffd-464e-9a62-646ffd564e9a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 14:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EgnGNiwhgs7PxonasE_hJwoY4CZLATtIjnG3ffBfktbg.jpg"/>
+    </item>
+    <item>
+      <title>Anna-Sabina Soggiu</title>
+      <description><![CDATA[– Jeg er livredd for å ikke være bra nok, forteller sosionomen, som vokste opp på Tøyen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0d7b23d6-7fa8-4aa8-bb23-d67fa89aa8c5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0d7b23d6-7fa8-4aa8-bb23-d67fa89aa8c5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E4liRl-oILC_ixC_5FosRgHu-3aUhYMy9vEYW0OKDDmA.jpg"/>
+    </item>
+    <item>
+      <title>Sara Khorami</title>
+      <description><![CDATA[– Det er en frykt, men også en feiring, sier skuespilleren om krigen i Iran.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5448327b-53a7-4f14-8832-7b53a75f1441_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5448327b-53a7-4f14-8832-7b53a75f1441_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 15:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/przBJCYYi-jtkxsoeJ4f3gmVOfKb3SBf18FAm2faGVkQ.jpg"/>
+    </item>
+    <item>
+      <title>Gunnar Stavrum</title>
+      <description><![CDATA[– Redaktørjobben er verdens nest mest spennende, sier Dagbladets påtroppende sjef.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9628be1f-efcb-4f05-a8be-1fefcbdf05f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9628be1f-efcb-4f05-a8be-1fefcbdf05f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:12</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 13:36:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0H_FevGnhcWyZVcpUcamigp_s1VL5F_zjcnkPJgu6YAg.jpg"/>
+    </item>
+    <item>
+      <title>Åse Marit Befring</title>
+      <description><![CDATA[– Det var konstant unntakstilstand, sier korrespondenten om sine tre år i Midt-Østen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/edba33d4-c5ef-4b32-ba33-d4c5ef1b322f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/edba33d4-c5ef-4b32-ba33-d4c5ef1b322f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 14:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bLhMCcirYEBwDX3HZYbKgwZ2K0claC95G9EpCwl4Zxsg.jpg"/>
+    </item>
+    <item>
+      <title>Karianne Amlie</title>
+      <description><![CDATA[Kjendismegleren kjøpte drømmebolig og gikk på livskrise.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a2339272-9cc9-4db4-b392-729cc92db479_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a2339272-9cc9-4db4-b392-729cc92db479_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 12:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2s8cioT0u19tSOJSzxK3LwdrdvFFshDXoj9J6eNGWp4Q.jpg"/>
+    </item>
+    <item>
+      <title>Mímir Kristjánsson</title>
+      <description><![CDATA[– Det hender jeg gråter når jeg leser mine egne bøker, forteller politikeren om sin livshistorie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/582fec28-cf48-4ae1-afec-28cf480ae129_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/582fec28-cf48-4ae1-afec-28cf480ae129_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KnsJxm6K0SnOsGlyJV1CIgKaqvU7uSUg0a9WeMov84TA.jpg"/>
+    </item>
+    <item>
+      <title>Tete Lidbom</title>
+      <description><![CDATA[Når programlederen ser seg i speilet tenker han alltid: – Helsike, jeg ser bra ut!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/57888778-5404-4382-8887-78540423821f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/57888778-5404-4382-8887-78540423821f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RE_FFS-f9PO7iOYwsXHa9gVxcncqO_zJmLNzaPeRfjbw.jpg"/>
+    </item>
+    <item>
+      <title>Victor Lind</title>
+      <description><![CDATA[- Vi hadde ikke mat, vi var sultne i flere dager, det er en følelse jeg aldri glemmer, forteller kunstneren om oppveksten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/29380f7c-68d1-490d-b80f-7c68d1490d5e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/29380f7c-68d1-490d-b80f-7c68d1490d5e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gWlhgHrA9wCViMqX2ALSDwL68BhLz65D703jmNax5TBQ.jpg"/>
+    </item>
+    <item>
+      <title>Morten Abel</title>
+      <description><![CDATA[- Det er ofte en opprørt sjø inni meg, sier den 63 år gamle artisten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/76b835f2-5b8b-4c7a-b835-f25b8b1c7a2e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/76b835f2-5b8b-4c7a-b835-f25b8b1c7a2e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:41</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F6_-IgeUsfhWcDJDvIbvvAgfAC63__4vQM--Xuo5KWXg.jpg"/>
+    </item>
+    <item>
+      <title>Knut Olav Åmås</title>
+      <description><![CDATA[Direktør i Stiftelsen Fritt Ord elsker morgen-rave: – Det hjelper på humøret!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/51dbdf21-3948-4a5b-9bdf-2139482a5bd7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/51dbdf21-3948-4a5b-9bdf-2139482a5bd7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:20</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 13:41:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UWnR189NLs7sXMIbT1ASXALBMRu6-1mTNMDZEv7SGatA.jpg"/>
+    </item>
+    <item>
+      <title>Janne Formoe</title>
+      <description><![CDATA[– Jeg tok ansvar for alle andres følelser, forteller skuespilleren om vanskelige ungdomsår.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e729112a-1047-4112-a911-2a10475112d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e729112a-1047-4112-a911-2a10475112d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/me9psvvEjY8C5FjPOSEoSgQ0yNEFS7i1Ww0b6jnq_dFQ.jpg"/>
+    </item>
+    <item>
+      <title>Arve Tellefsen</title>
+      <description><![CDATA[- Jeg har sluttet å spille i begravelser, det blir for nært, sier den snart 90 år gamle fiolinisten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3b9bf754-21fa-4baa-9bf7-5421fa6baa7d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3b9bf754-21fa-4baa-9bf7-5421fa6baa7d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:38</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_9Uifx_bHKEHTWeqSSwUwju2xrWHjcYbkFlDBPrmzjw.jpg"/>
+    </item>
+    <item>
+      <title>Hedda Berntsen</title>
+      <description><![CDATA[- Jeg har ikke hørt på pessimistene, sier OL-sølv-vinneren i skicross fra 2010. 49-åringen utelukker ikke at hun stiller i neste OL.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/59df7fc9-f53d-4950-9f7f-c9f53d695074_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/59df7fc9-f53d-4950-9f7f-c9f53d695074_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 13:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jjTLMGy4X1YUC-iJv1jTAA24Y3uS312XbDEb1qGcEaaw.jpg"/>
+    </item>
+    <item>
+      <title>Morten Borge</title>
+      <description><![CDATA[– Jeg kan verken golf eller jakt, forteller konsernsjefen i Ferd som tidvis føler seg utenfor i finansbransjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5d9da6b0-dcc9-44a9-9da6-b0dcc9b4a98f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5d9da6b0-dcc9-44a9-9da6-b0dcc9b4a98f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:18</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vtEi8saueHjYNX4WNZJLMwEOReZ-MN4CGKr-dCK_-GPg.jpg"/>
+    </item>
+    <item>
+      <title>Tor-Evert Grøndal</title>
+      <description><![CDATA[– Herregud, tenkte jeg, jeg får jo ikke til dette livet, forteller gårdbrukeren fra «Der ingen skulle tru at nokon kunne bu».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f147b74a-b41b-47f8-87b7-4ab41b47f89c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f147b74a-b41b-47f8-87b7-4ab41b47f89c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 14:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aQBiVzaMLo-maTXYJOX15QEBm8ygpxeJFHNWJqKIIUOQ.jpg"/>
+    </item>
+    <item>
+      <title>Thorvald Steen</title>
+      <description><![CDATA[- Jeg er en seig jævel, sier forfatteren, som lever med en alvorlig muskelsykdom]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/7da170f8-f689-4089-a170-f8f689d08922_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/7da170f8-f689-4089-a170-f8f689d08922_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:06</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AwxwwK8Qi3U9si2HGuo6HAWFLU0Wo6kfwECOB7NEL_Rw.jpg"/>
+    </item>
+    <item>
+      <title>Kim Hiorthøy</title>
+      <description><![CDATA[Kunstneren velger å ikke lytte til sin indre kritiker: – Jeg tror det er viktig å ikke tenke for mye på seg selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b42d93b1-1f5b-4f54-ad93-b11f5bdf54b4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b42d93b1-1f5b-4f54-ad93-b11f5bdf54b4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 15:23:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2PKFSJ4Y8N3hTRcfopg8tQWJw9Hn0kbSsOlNUj6cSkXw.jpg"/>
+    </item>
+    <item>
+      <title>Vebjørn Selbekk</title>
+      <description><![CDATA[– Jeg sluttet å telle da jeg kom opp i 50 dødstrusler, sier sjefsredaktøren om karikaturstriden i 2006.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d80ec455-1f73-48be-8ec4-551f73c8beb5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d80ec455-1f73-48be-8ec4-551f73c8beb5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:38</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 13:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Heb8RNyDWMK0qKJA2LlHHA98rs4lRVaGHlpy60QLODPQ.jpg"/>
+    </item>
+    <item>
+      <title>Benedikte Moltumyr Høgberg</title>
+      <description><![CDATA[–Dagens unge er mer alvorlige enn før, sier jussprofessoren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ac6f11bf-be5e-4803-af11-bfbe5e380323_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ac6f11bf-be5e-4803-af11-bfbe5e380323_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K5IlckkP1TSeYJOgnhm20wmm-GPnRF3Fto-kR2T0jjuw.jpg"/>
+    </item>
+    <item>
+      <title>Chris Holsten</title>
+      <description><![CDATA[– Da jeg begynte å dra damer på musikken ble det kult, sier artisten om starten på musikerkarrieren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9d6aff82-5494-48f5-aaff-82549498f5b2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9d6aff82-5494-48f5-aaff-82549498f5b2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:50</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 13:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HypJBW04ave4ZC4tj9emWAqsqljVVTtBlxkapgNZlOig.jpg"/>
+    </item>
+    <item>
+      <title>Siri Abrahamsen</title>
+      <description><![CDATA[– Det er en superkraft alle har, sier gründeren bak Gleding-universet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6a9d43a8-0877-45d1-9d43-a8087785d1fc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6a9d43a8-0877-45d1-9d43-a8087785d1fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 12:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SOwaQP816kPW5edm8v2kEwDigc4GSijf0uMjSssq4Zkw.jpg"/>
+    </item>
+    <item>
+      <title>Jonas Kinge Bergland</title>
+      <description><![CDATA[– Jeg ble gående mye alene, sier legen og komikeren om utenforskapet i ungdommen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/48733605-8a34-4918-b336-058a34c918c2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/48733605-8a34-4918-b336-058a34c918c2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 12:41:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TYEU6IfrY5AlH2pU3M41cwCNUfmXd2DR7V6Uy_0z92XQ.jpg"/>
+    </item>
+    <item>
+      <title>Tone Kroken</title>
+      <description><![CDATA[Interiørstylisten vokste opp i en nitrist kommunal bolig med utedo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/090b415c-f37e-4818-8b41-5cf37e681814_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/090b415c-f37e-4818-8b41-5cf37e681814_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:34</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 14:46:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0hICbUFnwr6MTVy0R20hAgx8SDi7az2Ce3RUhygEvdYA.jpg"/>
+    </item>
+    <item>
+      <title>PelleK</title>
+      <description><![CDATA[– Jeg sliter med for mye empati, sier artisten og influenseren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/22bfc750-a2f2-487e-bfc7-50a2f2687ec8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/22bfc750-a2f2-487e-bfc7-50a2f2687ec8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 13:12:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/n-oxesM1wY1ocWj5K08V3g8PEkGU-VR-fbrvJOeO6Xfg.jpg"/>
+    </item>
+    <item>
+      <title>Magnus Marsdal</title>
+      <description><![CDATA[- I perioder flyktet jeg fra livet og dykket i stedet ned i arbeidet, forteller samfunnsdebatten, som lenge var arbeidsnarkoman.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/12a5c986-7ef0-423b-a5c9-867ef0a23bfb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/12a5c986-7ef0-423b-a5c9-867ef0a23bfb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 14:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CIcMbudDalgm5b3Yh2Fnzw6Cuk4u0K6QPzXIlx-xwQZQ.jpg"/>
+    </item>
+    <item>
+      <title>Marthe Kilen</title>
+      <description><![CDATA[- Vi var fattige, forteller konditoren fra Bakemesterskapet om oppveksten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ffdbef5-f282-46ff-bdbe-f5f282f6ff0c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ffdbef5-f282-46ff-bdbe-f5f282f6ff0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 13:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pFbmLq3Rzrx6Ys9_11x1hwNHS31_4Yq12Ri6K7FkCN1Q.jpg"/>
+    </item>
+    <item>
+      <title>Jon Øigarden</title>
+      <description><![CDATA[Stjerneskuespilleren kan gå fra 0 - 100 på ett sekund: – Jeg har et atomkraftverk inni meg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8ac345e9-5a05-4617-8345-e95a05161795_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8ac345e9-5a05-4617-8345-e95a05161795_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 13:13:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uMWmljDXrm1BRrdYy89Y0gC7stjIb7VNV8r3sGugW5Vw.jpg"/>
+    </item>
+    <item>
+      <title>Marlene Stavrum</title>
+      <description><![CDATA[Komikeren venter barn: – Jeg ble gravid på første forsøk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f4b9f324-5ebf-4cb8-b9f3-245ebf7cb8e3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f4b9f324-5ebf-4cb8-b9f3-245ebf7cb8e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 12:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GrOWSAyhVORMSt2nQPGnpQOdCq4gBNUlPNsRbCTV63lg.jpg"/>
+    </item>
+    <item>
+      <title>Hani Hussein</title>
+      <description><![CDATA[– Den somaliske renessansen er på vei, sier standup-komikeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3f75845f-b6a1-476a-b584-5fb6a1276ad4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3f75845f-b6a1-476a-b584-5fb6a1276ad4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 12:52:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnLBUIRYCFnnxTMDsNQXzgyWl6oAyr7BwQ9zA3mzOvbw.jpg"/>
+    </item>
+    <item>
+      <title>Ole Christoffer Ertvaag</title>
+      <description><![CDATA[- Sist jeg slappet av var i 2023, sier skuespilleren, som sliter med alvorlige tvangstanker]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/edab480a-aadf-49b7-ab48-0aaadf29b743_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/edab480a-aadf-49b7-ab48-0aaadf29b743_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:48</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Tzvbp51OrbAArzKR5YkTpwr8y4iCfCsPrcoNWzOKSPIg.jpg"/>
+    </item>
+    <item>
+      <title>Espen Aas</title>
+      <description><![CDATA[– Jeg scorer lavt på medmenneskelighet, sier den nye Debatten-programlederen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cacfa67f-64ae-47ad-8fa6-7f64ae27ad44_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cacfa67f-64ae-47ad-8fa6-7f64ae27ad44_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 13:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/w2ip8EjFpn21abR4P-KzzQy-IEI0OocPXyLmXXCc0_ow.jpg"/>
+    </item>
+    <item>
+      <title>Anders Giæver</title>
+      <description><![CDATA[- Jeg var en manisk nerd, forteller VG-journalisten om ungdomstiden]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/163a5f46-4fc0-4b79-ba5f-464fc05b794e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/163a5f46-4fc0-4b79-ba5f-464fc05b794e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:18</itunes:duration>
+      <pubDate>Mon, 05 Jan 2026 13:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hGiKL785y-4aOGBHuhe6ngZgqGmD3G96nvXafTSS_nqg.jpg"/>
+    </item>
+    <item>
+      <title>Veronica Akselsen</title>
+      <description><![CDATA[– Det er varige skader på sjelen min, sier musikeren om oppveksten som "tater". Hun flyttet 14 ganger før hun fylte 10, og mener familien ble forfulgt av taterstempelet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3400fafb-b1b7-4622-80fa-fbb1b756222e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3400fafb-b1b7-4622-80fa-fbb1b756222e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 16:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I2QSaCoNBAchoAoEsIqLoQcoO8jOPM3-FDiNzPwYfZdA.jpg"/>
+    </item>
+    <item>
+      <title>Anne Marie Ottersen</title>
+      <description><![CDATA[– Det er et liv i angst, sier 80-åringen om livet som skuespiller.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/74ad2f0a-a652-4ddf-ad2f-0aa6529ddfa8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/74ad2f0a-a652-4ddf-ad2f-0aa6529ddfa8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 12:39:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0b-Vd6BzulA13lnzCwosSQjAeaGYPQoOBBLRzWMc4ZvA.jpg"/>
+    </item>
+    <item>
+      <title>Kåre Magnus Bergh</title>
+      <description><![CDATA[Han leder "Kvelden før kvelden": – Jeg gleder meg til å bli pensjonist.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a1d91697-0916-49a0-9916-970916f9a0ae_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a1d91697-0916-49a0-9916-970916f9a0ae_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:24</itunes:duration>
+      <pubDate>Tue, 09 Dec 2025 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WX5TWwRgnh0rKeCpWFC3Gg3NsW8WZUNu4krAInhOiatA.jpg"/>
+    </item>
+    <item>
+      <title>Eldbjørg Hemsing</title>
+      <description><![CDATA[– I Kina tror mange jeg er ekte prinsesse, forteller stjernefiolinisten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/01766a7a-69db-47de-b66a-7a69db57de41_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/01766a7a-69db-47de-b66a-7a69db57de41_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:12</itunes:duration>
+      <pubDate>Mon, 08 Dec 2025 13:18:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/upt3fu78kBTZpEsrQeClMgQZahXyQPwRTgLGuWVjce_A.jpg"/>
+    </item>
+    <item>
+      <title>Dag Sørås</title>
+      <description><![CDATA[– Det var et styr å være religiøs og ha tvangstanker, sier komikeren om tiden som kristen i barndommen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/bf58a0b3-e9c2-4b17-98a0-b3e9c28b17f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/bf58a0b3-e9c2-4b17-98a0-b3e9c28b17f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Thu, 04 Dec 2025 12:39:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s8cY9RebakQ1HQcOMkqQXgDt0HheJEx6Me56nn8l5gbw.jpg"/>
+    </item>
+    <item>
+      <title>Liv Glaser</title>
+      <description><![CDATA[– Jeg begynte å spille så snart jeg rakk opp til tangene, forteller stjernepianisten på 90.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ca4f0d52-fe3b-4e73-8f0d-52fe3bfe73c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ca4f0d52-fe3b-4e73-8f0d-52fe3bfe73c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 13:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DGE57eHgZIWqTDm7-NdoZgqfK9u3iO9yI9-hy0u2gLPg.jpg"/>
+    </item>
+    <item>
+      <title>Ine Eriksen Søreide</title>
+      <description><![CDATA[– Jeg er nok ikke så tabloid som mange ønsker, sier Høyres lederkandidat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/471a9af3-5176-4772-9a9a-f35176a772c5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/471a9af3-5176-4772-9a9a-f35176a772c5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:18</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 13:16:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ThPgLnWo3m9J5kxK7xUTVwc6l8Ess3YXrD-WJlXl_99Q.jpg"/>
+    </item>
+    <item>
+      <title>Ine Marie Wilmann</title>
+      <description><![CDATA[Skuespilleren går hardt ut mot botox: – Vi lammer kommunikasjonsformen vår.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/41d7cb16-e767-4aa9-97cb-16e7676aa9c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/41d7cb16-e767-4aa9-97cb-16e7676aa9c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Wed, 26 Nov 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GyuWVO5G0sNcwR9Rk3Oj8wnZwc7Jqgj7fK26NXZ72sBA.jpg"/>
+    </item>
+    <item>
+      <title>Berit Reiss-Andersen</title>
+      <description><![CDATA[– Jeg kan være litt hensynsløst egenrådig, forteller den "Tiltalt"-aktuelle advokaten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f72b6fde-e7d9-4494-ab6f-dee7d9c4945c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f72b6fde-e7d9-4494-ab6f-dee7d9c4945c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:22</itunes:duration>
+      <pubDate>Tue, 25 Nov 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/t7-R65C9QiUvuD2HN8a8PwxpwS-Op9CQoeZ_3DyLQbKQ.jpg"/>
+    </item>
+    <item>
+      <title>Erik Solbakken</title>
+      <description><![CDATA[– Jeg kom seilende inn som smiske-prinsen, sier programlederen om den første tiden i NRK.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b84fd520-14d4-4d25-8fd5-2014d4bd25b4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b84fd520-14d4-4d25-8fd5-2014d4bd25b4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 12:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uEzPdlY3vndB04UyVpkqQgIG5ffBy2VE4ihMgEVh64Ng.jpg"/>
+    </item>
+    <item>
+      <title>Willy Pedersen</title>
+      <description><![CDATA[– Du får mer dreisen på julebordet hvis du tar deg en drink, mener rusforskeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e1857f18-59ab-40a0-857f-1859ab90a0ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e1857f18-59ab-40a0-857f-1859ab90a0ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:21</itunes:duration>
+      <pubDate>Thu, 20 Nov 2025 13:41:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/24xTNBQdWK74kgmw3I4wuAY8SxZwbOoh_Cto9QQp9xAA.jpg"/>
+    </item>
+    <item>
+      <title>Emilie Enger Mehl</title>
+      <description><![CDATA[Hun var tidenes yngste justisminister. Nå står hun overfor et stort livsvalg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c68bb06e-1159-497d-8bb0-6e1159297d61_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c68bb06e-1159-497d-8bb0-6e1159297d61_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:27</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 13:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZHY0A1zmxeek15mYDqgSxQFlZ04jlkSMay_nCvX_Ftng.jpg"/>
+    </item>
+    <item>
+      <title>Sun Heidi Sæbø</title>
+      <description><![CDATA[– Vår journalistikk har alltid vært annerledes, sier sjefen for "eliteavisen" Morgenbladet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9bac3bbd-4165-4b8b-ac3b-bd41658b8bd0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9bac3bbd-4165-4b8b-ac3b-bd41658b8bd0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Tue, 18 Nov 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UMkfzSBHQq0O0tvlgDsscQ9IJP46nA34NmH-G3pIAd9A.jpg"/>
+    </item>
+    <item>
+      <title>Cecilie Kåss Furuseth</title>
+      <description><![CDATA[En morgen da hun var sju år gammel vinket hun farvel til moren, for siste gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/51a32571-f37a-48c4-a325-71f37a18c469_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/51a32571-f37a-48c4-a325-71f37a18c469_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:35</itunes:duration>
+      <pubDate>Mon, 17 Nov 2025 12:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z4pVMLJsePv8JfWaLkOIOQLXU6jo3tq0ILh8lXxjzu3Q.jpg"/>
+    </item>
+    <item>
+      <title>Tore Rem</title>
+      <description><![CDATA[Han fikk livstruende sykdom for 12 år siden: — Jeg tok det for gitt at livet kom til å fortsette som vanlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ecb5fea1-2f65-4675-b5fe-a12f65c675d7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ecb5fea1-2f65-4675-b5fe-a12f65c675d7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Thu, 13 Nov 2025 14:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QZd4UMYAvwm07o9jnhcgQwtQyd8hR8IL6ZSi2P6aXvbg.jpg"/>
+    </item>
+  </channel>
+</rss>

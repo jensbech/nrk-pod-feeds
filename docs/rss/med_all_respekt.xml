@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Med all respekt</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:38:30 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Livets knallharde skole</title>
+      <description><![CDATA[Hvorfor gidde? Nyt livet, det er ubetydelig uansett. Ja til mer lek i barneskolen! Er det greit å dele garderobe med partneren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/f525b0c1-547b-4939-a5b0-c1547b9939d8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/f525b0c1-547b-4939-a5b0-c1547b9939d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:38</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>- Jeg har ikke pissa på meg!</title>
+      <description><![CDATA[Tara har laget flekk på sofaen igjen. Sandeep har åpna bursdagsgaven til barna. Anders påstår han ikke er bad boy. Og Abu vil slutte å røyke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/3418fa78-07e5-4786-98fa-7807e5f7866a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/3418fa78-07e5-4786-98fa-7807e5f7866a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:33</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Kvotering</title>
+      <description><![CDATA[Delfiner er mobbere, og blekkspruter er aliens. Looksmaxxing er ut, og Inkassomaxxing er inn! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/b4519f8d-83ce-44b5-919f-8d83ce34b520_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b4519f8d-83ce-44b5-919f-8d83ce34b520_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:50</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Halal pris!</title>
+      <description><![CDATA[Denne podkasten har kanskje tapt seg,  men en ting skal være klart: Med All Respekt tar avstand fra Noman Mubashir og hans ytringer om sjokolade.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/89b8e36b-c72e-4f08-b8e3-6bc72e4f086d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/89b8e36b-c72e-4f08-b8e3-6bc72e4f086d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:23</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Alt for Norge!</title>
+      <description><![CDATA[Vi gir alt, alt for Norge! 
+Endelig kommer vi til bunns i hvordan og hvorfor Norge gjør braksuksess både i sport, kunst og skandale om dagen, men vil den samme oppskriften lede til suksess om  Abu og Tara ligger med hverandre?!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/9453ab54-364f-4945-93ab-54364fc94527_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/9453ab54-364f-4945-93ab-54364fc94527_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:35</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Den sovjetiske våren</title>
+      <description><![CDATA[Galvan tar et oppgjør med den norske våren, og etter sjokkerende avsløringer vil ingen jobbe for den danske NOMA-stjernekokken René Redzepis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/f158c2f8-dc81-4f00-98c2-f8dc817f0052_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/f158c2f8-dc81-4f00-98c2-f8dc817f0052_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:07</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/grYKjtMHEnbm1s1Tp6H8QgH3S7BXZK9Pr3J1baKJWidQ.jpg"/>
+    </item>
+    <item>
+      <title>Livet er livsfarlig</title>
+      <description><![CDATA[Tara har vært i akebakken og var livredd. Abu er ikke fan av vinter. Og ikke aktivitet. Kunne vi bodd ute i skogen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/3eebc976-c344-4b84-abc9-76c3442b844b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/3eebc976-c344-4b84-abc9-76c3442b844b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:26</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Løs fis</title>
+      <description><![CDATA[Endelig får vi snakka skikkelig om det som foregår i Dubai... aka influenserne som er "fanget" der. 
+Var det Sunni eller Sjia LaBeouf som ble banket opp tidligere i uka? Og visst du at bibelen sier "nah" til homofili?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/664a5f88-7269-42bd-8a5f-887269b2bd5d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/664a5f88-7269-42bd-8a5f-887269b2bd5d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:27</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Be-drag-IRR-i!</title>
+      <description><![CDATA[Et bankran på Ørje gjør at Galvan skvetter til, og mimrer tilbake til en ungdomsforelskelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/91e8ae24-3e3c-46dc-a8ae-243e3c56dcd7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/91e8ae24-3e3c-46dc-a8ae-243e3c56dcd7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:11</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Et takkebrev til Khamenei</title>
+      <description><![CDATA[Ikke at dette er en podkast som tror på konspirasjonsteorier, men...]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/374a9c50-cef6-49b1-8a9c-50cef669b1e4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/374a9c50-cef6-49b1-8a9c-50cef669b1e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:30</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Japansk strekk</title>
+      <description><![CDATA[Galvan har skjønt at å bevege kroppen kan være sunt, 
+og deler gladelig ut helseråd til alle som vil høre på - og i dette tilfellet ble det DEG.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/4021be47-2773-4940-a1be-4727731940fc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4021be47-2773-4940-a1be-4727731940fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:58</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Kåte på kino</title>
+      <description><![CDATA[Hva er best? Lengsel og lidenskap (husmorporno) eller hardporno og påfølgende skam? Og husk: Det er fort gjort å bli alkis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/1bf5bcda-d441-48ec-b5bc-dad44168ec15_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/1bf5bcda-d441-48ec-b5bc-dad44168ec15_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:10</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Lenge leve Kina!</title>
+      <description><![CDATA[Neida, vi har ikke blitt helt hjernevaska. Meeeen de lager jævlig bra biler! Er Tyra Banks psykopat? Og ligger Mekka mot nord?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/6e633947-e1b3-4323-a339-47e1b3932374_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/6e633947-e1b3-4323-a339-47e1b3932374_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:09</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Hvor lang er femmila?</title>
+      <description><![CDATA[Noen i MAR har ikke sett på OL. Men det har Galvan! Nå vil han også ta gullmedalje. Og er roboter rasistiske?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/898e5561-b7ab-4a90-8e55-61b7ab8a9032_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/898e5561-b7ab-4a90-8e55-61b7ab8a9032_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:04</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Homofil søster, homofob bror</title>
+      <description><![CDATA[Noen trenger virkelig hjelp i Trassrådet i dag. Ellers: Foreldre som har sex, indere på ferie, spillet Utøya og fingring av katt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/aeb3d91b-2b45-4de5-b3d9-1b2b457de508_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/aeb3d91b-2b45-4de5-b3d9-1b2b457de508_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:02</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Starten på slutten?</title>
+      <description><![CDATA[Sandeep dreit seg ut og er redd ekteskapet ryker. Hva er det norskeste som finnes? Og er det aliens der ute?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/d23006eb-fe66-4a5b-b006-ebfe666a5bf8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/d23006eb-fe66-4a5b-b006-ebfe666a5bf8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:01</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Juks med stil!</title>
+      <description><![CDATA[I livet, idretten og politikken. Bare ikke bli tatt. Vi vil ha janteloven tilbake. Salto mortale!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/aa4d21d4-af0a-4432-8d21-d4af0a6432de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/aa4d21d4-af0a-4432-8d21-d4af0a6432de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:10</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Liker rusen, ikke smaken</title>
+      <description><![CDATA[Har vi blitt avholds? Nesten. Heldigvis har vi Sandeep, som går på fylla på en mandag. Og endelig er vi verdens midtpunkt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/c83b1fb5-ca79-4cd0-bb1f-b5ca795cd001_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/c83b1fb5-ca79-4cd0-bb1f-b5ca795cd001_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:58</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Biff, blowjob og Valentines</title>
+      <description><![CDATA[Bryr vi oss egentlig om disse dagene? Hva skal Tara gi til typen? Abu skjønner at han en dag skal dø. Vi hjelper noen morrapulere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/7a37ea36-fd39-4592-b7ea-36fd394592a8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/7a37ea36-fd39-4592-b7ea-36fd394592a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:35</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Vår første porno</title>
+      <description><![CDATA[Ja, vi ble tidlig krøka. Hvem har egentlig ansvaret for blomster og bier-praten med barna?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/a9f0c67b-34f3-4061-b0c6-7b34f3706191_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/a9f0c67b-34f3-4061-b0c6-7b34f3706191_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:51</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Kodeord: Knekkebrød</title>
+      <description><![CDATA[Hva i all verden skal det bety? Vi roter videre i Epstein-filene. Hvorfor vil vi ikke spille brettspill sammen? Hæ, er det OL?!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/60d79bc0-6f48-473d-979b-c06f48d73dfc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/60d79bc0-6f48-473d-979b-c06f48d73dfc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:24</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Verdig en dickpic</title>
+      <description><![CDATA[Tara ble glad for første bilde. Galvan har blitt utsatt for rasisme på byen. Og hvorfor er folk vi kjenner imot Pride?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/b5b38329-29ba-4282-b383-2929ba128261_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b5b38329-29ba-4282-b383-2929ba128261_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:20</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Redda av rennaræv</title>
+      <description><![CDATA[Av og til kan diaré være det beste som har skjedd deg. Det spøker fortsatt hos Galvan. Og vi hjelper morrapulere i trassrådet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/a4ddfbf7-759f-4a03-9dfb-f7759faa03f7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/a4ddfbf7-759f-4a03-9dfb-f7759faa03f7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:34</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Vi har pissa i fryseren</title>
+      <description><![CDATA[Er ordet "pizza" ødelagt for alltid? Har internett ødelagt hukommelsen vår? Og er alle konspirasjonsteorier sanne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/ef1e2149-d0dd-44e5-9e21-49d0dda4e55f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ef1e2149-d0dd-44e5-9e21-49d0dda4e55f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:27</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Kongerikets roast</title>
+      <description><![CDATA[Vi har forslag til hvordan vi kan rydde opp i det kongelige rotet. Og hvem vil egentlig på gender reveal og babyshower?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/d0475c80-1e8f-4ba0-875c-801e8f7ba071_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/d0475c80-1e8f-4ba0-875c-801e8f7ba071_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:44</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Voldtatt av spøkelser</title>
+      <description><![CDATA[Noen av oss sover forferdelig dårlig for tida. Hvor er ghostbusters når vi trenger dem?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/410e4aa1-a462-42f0-8e4a-a1a462c2f06e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/410e4aa1-a462-42f0-8e4a-a1a462c2f06e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:18</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Irriterende inkluderende</title>
+      <description><![CDATA[TV har blitt for snilt! Vi vil ha tilbake Ricky Lake og Jerry Springer. Kan jødiske Alon tilgi Kanye? Og vi hjelper morrapulere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/6089f91c-72a1-490d-89f9-1c72a1d90d6e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/6089f91c-72a1-490d-89f9-1c72a1d90d6e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:07</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>De kronisk mistenkte</title>
+      <description><![CDATA[Hvorfor blir vi stressa av billettkontroll og politi? Supervikar Alon har tatt gentest på MyHeritage og fått nye familiemedlemmer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/6735b09c-ccfc-4e2c-b5b0-9cccfcde2c4b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/6735b09c-ccfc-4e2c-b5b0-9cccfcde2c4b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:53</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Mora di eller kona di?</title>
+      <description><![CDATA[Hvis du MÅTTE velge? Hvem er egentlig hovedpersonen i et bryllup? Tara har en lifehack når du bestiller mat. Abu er støl i rumpa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/ae314c5d-a03e-47c5-b14c-5da03eb7c5b5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ae314c5d-a03e-47c5-b14c-5da03eb7c5b5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:32</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Biji Kurdistan!</title>
+      <description><![CDATA[Abu har forska på nonner og horer. Hvor lang var køen på mikrokjendis awards? Hva skjer med bananrepublikken USA? Leve Kurdistan!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/4685ca6e-3985-4175-85ca-6e3985817510_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4685ca6e-3985-4175-85ca-6e3985817510_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:21</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Bænging, humor og matglede</title>
+      <description><![CDATA[Trassrådet gir deg oppskriften på et perfekt forhold. Men hvor drøy kan humor være om dagen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/c71ee6f6-51fd-4746-9ee6-f651fde7463a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/c71ee6f6-51fd-4746-9ee6-f651fde7463a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:01</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Hest er best!</title>
+      <description><![CDATA[Endelig skjønner vi det hestejentene har skjønt for lengst. Er Oslo for lite? Hvem har egentlig talent? Hvorfor cosplayer ICE SS?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/3cb25fd2-e930-4f0d-b25f-d2e9308f0dcb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/3cb25fd2-e930-4f0d-b25f-d2e9308f0dcb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:43</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Barnemat</title>
+      <description><![CDATA[Italiensk mat suger balle. Ja, vi mener det. Vi sjekker ut Fansly, og angrer. Burde staten abonnere på Galvan?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/93cbf0b9-830a-40b9-8bf0-b9830a90b940_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/93cbf0b9-830a-40b9-8bf0-b9830a90b940_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:26</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er greia med 2016?</title>
+      <description><![CDATA[Skjedde det egentlig noe bra det året? Selv peaka vi i 2014. Galvan har blitt skremt av barneleke. Og den store nesa er tilbake!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/8bb8d31b-72c2-4a97-b8d3-1b72c21a9750_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/8bb8d31b-72c2-4a97-b8d3-1b72c21a9750_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:19</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Dad-dick i dusjen</title>
+      <description><![CDATA[Abu har hatt nærkonakt med pappa-penis. Galvan vil ikke dusje med de andre. Er porno forkastelig? Og kan man dra til USA om dagen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/ef3a0d72-89bf-4a8f-ba0d-7289bfea8f87_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ef3a0d72-89bf-4a8f-ba0d-7289bfea8f87_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:40</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>IdrettsGalvan</title>
+      <description><![CDATA[Brune folk er ikke skapt for vintersport. Og én gang for alle: Skal burgeren eller fries spises først?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/405262ea-837d-4584-9262-ea837da5843f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/405262ea-837d-4584-9262-ea837da5843f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:09</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Ikke hør på legen</title>
+      <description><![CDATA[Hvorfor er menn totalt idioter? Galvan hører bare "blablabla". Abu har sett seg selv, fått angst og startet et nytt og bedre liv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e0f7bade-f28c-444b-b7ba-def28c544b2f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e0f7bade-f28c-444b-b7ba-def28c544b2f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:21</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Mer disko, mindre dreping</title>
+      <description><![CDATA[Shoutout til folket som gjør opprør i Iran. La dem danse! Galvan synes alkohol har blitt kjedelig. Abu har dollartegn i øynene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/7014a225-7822-4124-94a2-25782201242a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/7014a225-7822-4124-94a2-25782201242a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:45</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Sug og svelg, god helg!</title>
+      <description><![CDATA[Sandeep, Galvan og Abu gir kontante råd i trassrådet. Obs! Fare for guttastemning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/296a5c35-10ae-42c5-aa5c-3510ae02c524_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/296a5c35-10ae-42c5-aa5c-3510ae02c524_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:24</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Stink, stank, stunk</title>
+      <description><![CDATA[Abu snitcha på noen på byen. Galvan har med mat som lukter vondt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/0158ea25-e4bd-4fee-98ea-25e4bd5fee28_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/0158ea25-e4bd-4fee-98ea-25e4bd5fee28_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:26</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Nostalgi-jerking</title>
+      <description><![CDATA[Vi savner nittitallet! Sandeep har kjøpt CK1, Abu samler på Pokémon-kort og Anders vil spille hele dagen. Galvan har hatt flypikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/1eb1b086-89b5-40cc-b1b0-8689b5b0cca9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/1eb1b086-89b5-40cc-b1b0-8689b5b0cca9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:39</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Boner i morgenkåpe</title>
+      <description><![CDATA[Er noe av det beste vi vet. Hva har vi gjort i jula? Hvorfor starter nytt år ofte så dritt? Ting er fakka der ute, godt nyttår!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/b00459b0-317d-472f-8459-b0317db72f6a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b00459b0-317d-472f-8459-b0317db72f6a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:50</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Abudamus!</title>
+      <description><![CDATA[Abudamus er på besøk for sjette år på rad. Han spår blant annet flere barn i MAR og at Trump dør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e6f6b2bd-8d56-4712-b6b2-bd8d56a71215_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e6f6b2bd-8d56-4712-b6b2-bd8d56a71215_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:35</itunes:duration>
+      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>2025-Eywa eller neiwa?</title>
+      <description><![CDATA[Tara, Galvan , Sandeep og Abu oppsummerer 2025.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/110d25c0-da02-444a-8d25-c0da02b44a3c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/110d25c0-da02-444a-8d25-c0da02b44a3c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:07</itunes:duration>
+      <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>ABUBAKARNA SPESIAL</title>
+      <description><![CDATA[Som en julegave til deg, kjære lytter, har vi samlet alle bangersene fra Abubakarna. Kos deg med denne mixtapen, og GOD JUL!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/a19e28bf-89f7-472d-9e28-bf89f7172dfd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/a19e28bf-89f7-472d-9e28-bf89f7172dfd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:45</itunes:duration>
+      <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>9-11</title>
+      <description><![CDATA[Abu skal feire med jentene sine på 9 og 11 sammen med hele storfamilien til kjæresten. Det gledes!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/20fee2df-646a-49cf-bee2-df646a99cfd3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/20fee2df-646a-49cf-bee2-df646a99cfd3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:10</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Jeg hyller cash!</title>
+      <description><![CDATA[Galvan savner tiden da han hadde ferske sedler i lomma, mens Tara mener at de som bruker kontanter nå, er enten sexarbeidere eller narkiser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/6d7c8cf4-f2b8-4198-bc8c-f4f2b85198ee_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/6d7c8cf4-f2b8-4198-bc8c-f4f2b85198ee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:48</itunes:duration>
+      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>I am a sidedish-man!</title>
+      <description><![CDATA[Abu har oppdaget at han elsker tilbehøret til middagen mest. Ja, til surkål, fløtegratinerte poteter og kålrabistappe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/65d7eb83-bf1e-4939-97eb-83bf1eb9393d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/65d7eb83-bf1e-4939-97eb-83bf1eb9393d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:45</itunes:duration>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>JEG HAR KJÆRESTE!</title>
+      <description><![CDATA[Abu har vært på byen og deklamert høyt til alle damene han har møtt at han HAR KJÆRESTE.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/7ecc8cac-bad4-40b5-8c8c-acbad440b5e7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/7ecc8cac-bad4-40b5-8c8c-acbad440b5e7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:37</itunes:duration>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>Snitches get snitter!</title>
+      <description><![CDATA[Galvan mener folk bør tyste på hverandre til politiet hvis de oppdager at noen har terror- planer. Da blir det belønning i snitter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/4fe7be1d-1a3f-491f-a7be-1d1a3ff91f69_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4fe7be1d-1a3f-491f-a7be-1d1a3ff91f69_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:30</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+  </channel>
+</rss>

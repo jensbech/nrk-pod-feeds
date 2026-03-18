@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Kveldstanker</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:37:35 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Taxisjåføren - med Lena Lindahl</title>
+      <description><![CDATA[Hva skjer når en forfatter møter en blodfan av bøker bak rattet i en taxi? Lena Lindahl fikk oppleve effekten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1806cce2-b8a2-4add-86cc-e2b8a22add9e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1806cce2-b8a2-4add-86cc-e2b8a22add9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:22</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
+    </item>
+    <item>
+      <title>Vallo - med Ola Bremnes</title>
+      <description><![CDATA[- Hvis vi ikke vet hvor vi kommer fra, vet vi neppe hvor vi skal, forteller artisten Ola Bremnes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4ea3f95c-d955-4af9-a3f9-5cd9551af943_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4ea3f95c-d955-4af9-a3f9-5cd9551af943_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:29</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
+    </item>
+    <item>
+      <title>Omveg - med Ann Helen Kolås Ingebrigtsen</title>
+      <description><![CDATA[- Kva vil du blir når du blir stor? Det spørsmålet greide eg aldri å svare på da eg var barn, fortel forfattaren Ann Helen Kolås Ingebrigtsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a4440970-760c-40bc-8409-70760c80bc3b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a4440970-760c-40bc-8409-70760c80bc3b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:36</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
+    </item>
+    <item>
+      <title>Ærlig - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[- Vi trenger å øve oss på å være ærlig og vennlig samtidig. tror samfunnsdebattant Oda Gravdal Ulriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ec6d2042-bcbe-4783-ad20-42bcbeb78308_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ec6d2042-bcbe-4783-ad20-42bcbeb78308_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
+    <item>
+      <title>Uerstattelig - med Gunn Marit Nisja</title>
+      <description><![CDATA[Møter mellom mennesker kan vi ikke erstatte med tekniske løsninger,  tror forfatter Gunn Marit Nisja]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1cc58073-7c39-42b2-8580-737c39b2b2ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1cc58073-7c39-42b2-8580-737c39b2b2ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:28</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
+    </item>
+    <item>
+      <title>Berlinmuren - med Lena Lindahl</title>
+      <description><![CDATA[En østtysk brevvenn lærte forfatter Lena Lindahl at vi nordmenn ikke bør ta friheten vår for gitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9db48a13-44c0-464d-b48a-1344c0b64dda_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9db48a13-44c0-464d-b48a-1344c0b64dda_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:36</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
+    </item>
+    <item>
+      <title>Frokosthusa - med Gunn Marit Nisja</title>
+      <description><![CDATA[Kos, varme og omsorg smitter mer enn du tror, hevder forfatter Gunn Marit Nisja. Til og med gjennom et vindu.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/80ca2356-4b4c-4874-8a23-564b4c18745d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/80ca2356-4b4c-4874-8a23-564b4c18745d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
+    <item>
+      <title>Kassettbånd - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[-Jeg fikk nye minner om min mormor fra hennes gamle kassettbånd, forteller Claes Krogsgaard Ericsson.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e4db9191-6206-4798-9b91-9162069798c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e4db9191-6206-4798-9b91-9162069798c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:26</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
+    </item>
+    <item>
+      <title>Dating - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[- Kjærligheten kommer ikke med garanti, den kommer med risiko, forteller studenten Oda Gravdal Ulriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/da9d6871-73c7-4145-9d68-7173c77145af_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/da9d6871-73c7-4145-9d68-7173c77145af_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:01</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
+    <item>
+      <title>Ordene - med Lia Ciobanu Andresen</title>
+      <description><![CDATA[- Vær forsiktig med ordene dine, sier Lia Ciobanu Andresen. Som ung jente i Moldova lærte hun hva ord kan gjøre med deg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1cd3f320-c2dc-4e61-93f3-20c2dc3e6126_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1cd3f320-c2dc-4e61-93f3-20c2dc3e6126_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:38</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZzEZdgqTenfj1A9tBh5UlAo_s5j1TwrJsJVIMeMYKkDg.jpg"/>
+    </item>
+    <item>
+      <title>Frivillighet - med Jon Niklas Rønning</title>
+      <description><![CDATA[- Jeg er dypt imponert av frivillige i idretts- og fritidsaktiviteter for barn, forteller musiker Jon Niklas Rønning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/b69ac856-9489-4646-9ac8-569489a64656_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/b69ac856-9489-4646-9ac8-569489a64656_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:12</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
+    <item>
+      <title>Kallenavn - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[Det finnes én stor forskjell på svensker og nordmenn, forteller Claes Krogsgaard Ericsson. Kallenavnene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/45d8985f-7cf3-4727-9898-5f7cf3572709_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/45d8985f-7cf3-4727-9898-5f7cf3572709_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:19</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
+    </item>
+    <item>
+      <title>FOMO - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[Det vakreste stedet for deg er ikke der alle andre er, men der du er, sier Oda Gravdal Ulriksen, student og samfunnsdebattant.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/637dbbb6-9ebb-4395-bdbb-b69ebb639526_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/637dbbb6-9ebb-4395-bdbb-b69ebb639526_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:18</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
+    <item>
+      <title>Den ukjente - med Noman Mubashir</title>
+      <description><![CDATA[Noen mennesker utsetter seg for fare for å hjelpe et ukjent menneske. Vi kan lære noe av dem, forteller forfatter Noman Mubashir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/017466f2-cc29-439a-b466-f2cc29b39a0b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/017466f2-cc29-439a-b466-f2cc29b39a0b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:44</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pQAtnzPIT1XcIV7PMcvQhwwRoTx-fmuWWVjzcKiO9BNw.jpg"/>
+    </item>
+    <item>
+      <title>To rom - med Miriam Våga</title>
+      <description><![CDATA[Sorgen og gleden kan gå hånd i hånd, forteller musiker Miriam Våga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/c40cf05d-a201-404a-8cf0-5da201204a46_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/c40cf05d-a201-404a-8cf0-5da201204a46_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:36</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
+    </item>
+    <item>
+      <title>Sorg - med Katrin Glatz Brubakk</title>
+      <description><![CDATA[Sørg ikke når barnet ditt flytter ut, sier psykolog Katrin Glatz Brubakk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/97592a8d-2667-450d-992a-8d2667750d7f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/97592a8d-2667-450d-992a-8d2667750d7f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:57</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
+    </item>
+    <item>
+      <title>Morfarboka - med Ann Helen Kolås Ingebrigtsen</title>
+      <description><![CDATA[En bok og en morfar vil alltid henge sammen for forfatter Ann Helen Kolås Ingebrigtsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/8c99ee10-948a-4acf-99ee-10948abacf13_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8c99ee10-948a-4acf-99ee-10948abacf13_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:33</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
+    </item>
+    <item>
+      <title>Fjellvett - med  Gunn Marit Nisja</title>
+      <description><![CDATA[Det finnes regler som er grei å følge selv om du er ung og dum, forteller forfatter Gunn Marit Nisja.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/963106f4-deb1-40ac-b106-f4deb190ac4c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/963106f4-deb1-40ac-b106-f4deb190ac4c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:49</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
+    </item>
+    <item>
+      <title>Vinner - med Ola Bremnes</title>
+      <description><![CDATA[Å føle seg som en vinner kan folk flest klare fint, og det uten å toppe tabellen, hevder musiker Ola Bremnes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/b1aafed3-c62f-4ca8-aafe-d3c62f4ca852_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/b1aafed3-c62f-4ca8-aafe-d3c62f4ca852_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:35</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jNBfST29wJUvweNFnKVfhQrA1BuuchM9OLmkDzYPVaEg.jpg"/>
+    </item>
+    <item>
+      <title>Håp - med Katrin Glatz Brubakk</title>
+      <description><![CDATA[Håp er drivkraften vår, sier barnepsykolog Katrin Glatz Brubakk. Det er det hun leter etter hos barn i krig og kriser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/259ade67-8323-478f-9ade-678323078f80_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/259ade67-8323-478f-9ade-678323078f80_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:32</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
+    </item>
+    <item>
+      <title>Bokhylle - med Tom Roger Aadland</title>
+      <description><![CDATA[Å lage musikk er enkelt , seier musikar Tom Roger Aadland, men ikkje be han lage ei bokhylle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/7bc25eb5-cc4f-4235-825e-b5cc4fc2353f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/7bc25eb5-cc4f-4235-825e-b5cc4fc2353f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:32</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
+    </item>
+    <item>
+      <title>Nytt år - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[Hva er målene dine for 2026? Spør Oda Gravdal Ulriksen, student og samfunnsdebattant.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0e672b92-e891-4b16-a72b-92e891eb167a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0e672b92-e891-4b16-a72b-92e891eb167a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:48</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
+    <item>
+      <title>Grundtvig - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[Dikteren Grundtvig var en mur mellom meg og mine julegaver, forteller skuespiller Claes Krogsgaard Ericsson.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/42807a47-8777-4842-807a-478777d84278_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/42807a47-8777-4842-807a-478777d84278_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:29</itunes:duration>
+      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
+    </item>
+    <item>
+      <title>Julen uten - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[Om du har mistet noen du er glad i, kan en julekule veie et tonn, forteller Oda Gravdal Ulriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/dc6ac346-50df-4342-aac3-4650dfa3427f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/dc6ac346-50df-4342-aac3-4650dfa3427f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
+    <item>
+      <title>Lys og larm - med Ola Bremnes</title>
+      <description><![CDATA[Jula vår er full av lys, og vel mye larm, sier musiker Ola Bremnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9329504c-e0bb-4dc9-a950-4ce0bbedc964_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9329504c-e0bb-4dc9-a950-4ce0bbedc964_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:54</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
+    </item>
+    <item>
+      <title>Pust - med Miriam Våga</title>
+      <description><![CDATA[Pust, og ta ett kvarter om gangen i julestria, råder musiker og sanger Miriam Våga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4014e1f2-1e28-4ec0-94e1-f21e281ec0d5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4014e1f2-1e28-4ec0-94e1-f21e281ec0d5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:51</itunes:duration>
+      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
+    </item>
+    <item>
+      <title>Svarteper - med Carline Tromp</title>
+      <description><![CDATA[Jeg fikk plutselig vondt i magen av min egen tradisjon, forteller nederlandske Carline Tromp. Hun er skribent og litteraturkritiker i avisa Klassekampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/757da0d1-2003-4442-bda0-d1200394422a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/757da0d1-2003-4442-bda0-d1200394422a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:30</itunes:duration>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG61784IOV8uAY-azhLZHQBdZgohDDKU2MU5mLlivUSQ.jpg"/>
+    </item>
+    <item>
+      <title>Fargen - med Ann Helen Kolås Ingebrigtsen</title>
+      <description><![CDATA[Som barn kjempa eg for fargen rosa, fortel forfattar Ann Helen Kolås Ingebrigtsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/708f56bb-10b8-49e6-8f56-bb10b8b9e650_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/708f56bb-10b8-49e6-8f56-bb10b8b9e650_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:32</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
+    </item>
+    <item>
+      <title>Gjørekalender - med Miriam Våga</title>
+      <description><![CDATA[Vår gjørekalender gir oss i familien tid sammen i desember, forteller Miriam Våga. Miriam Våga er musiker og vokalist fra Skreia i Innlandet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/784aa644-a8ad-468d-8aa6-44a8ad868dc7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/784aa644-a8ad-468d-8aa6-44a8ad868dc7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:43</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
+    </item>
+    <item>
+      <title>Pinnekjøtt- med Hannah Faizan Jensen</title>
+      <description><![CDATA[Nordmenn elsker pinnekjøtt, tenkte Hannah Faizan Jensen, og lot det stå til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/200b8f5b-421f-4f66-8b8f-5b421f9f66b3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/200b8f5b-421f-4f66-8b8f-5b421f9f66b3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:36</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ATJZ4hXoF2j3g24c4NCABQIriftNuGDJixbr2c_ORQ5w.jpg"/>
+    </item>
+    <item>
+      <title>Julegaven - med Claes Krogsgaard Ericsson</title>
+      <description><![CDATA[Noen ganger kan en uventet opplevelse bli den aller beste gaven, forteller skuespiller Claes Krogsgaard Ericsson]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9a9302fa-3be9-44df-9302-fa3be974df61_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9a9302fa-3be9-44df-9302-fa3be974df61_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:29</itunes:duration>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xmufzvwya97Rl3eolvU3bwgOkO3B_au9eVJqak6otnhg.jpg"/>
+    </item>
+    <item>
+      <title>Sinterklaas - med Carline Tromp</title>
+      <description><![CDATA[Jeg syns julen i Norge er litt kjedelig, forteller nederlandske Carline Tromp. Hun vokste opp med en skummel Sinterklaas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/538a54d2-aef4-4d63-8a54-d2aef4dd63d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/538a54d2-aef4-4d63-8a54-d2aef4dd63d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:13</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG61784IOV8uAY-azhLZHQBdZgohDDKU2MU5mLlivUSQ.jpg"/>
+    </item>
+    <item>
+      <title>Julestjerne - med Maria Parr</title>
+      <description><![CDATA[-Eg måtte ønskje meg ei ny julestjerne til jul, fortel forfattar Maria Parr. Den ho hadde vart eit husleg stjerneskot.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/141ef444-2c80-4770-9ef4-442c80977024_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/141ef444-2c80-4770-9ef4-442c80977024_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:09</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4wiqqtqufXm1b_sGS2WbXg6CjWchuv_Mf9Sg_iYbzSww.jpg"/>
+    </item>
+    <item>
+      <title>Advent - med Helsesista</title>
+      <description><![CDATA[- Tenk over hva som er viktigst i adventstiden, sier Tale Maria Krohn Engvik, bedre kjent som Helsesista.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/06b6384b-62a8-49c1-b638-4b62a8e9c1c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/06b6384b-62a8-49c1-b638-4b62a8e9c1c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:28</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ALkknIWNjneiT_oq4U9CXARvVlEEGReSfqT-rzKicWiA.jpg"/>
+    </item>
+    <item>
+      <title>Villblomst - med Jon Niklas Rønning</title>
+      <description><![CDATA[Astrid Lindgren hadde rett - kjærlighet trumfer alt, forteller Jon Niklas Rønning]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0ff0f1c7-116b-4f6b-b0f1-c7116b3f6b07_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0ff0f1c7-116b-4f6b-b0f1-c7116b3f6b07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:36</itunes:duration>
+      <pubDate>Wed, 26 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
+    <item>
+      <title>Utakt - med Ingelin Røssland</title>
+      <description><![CDATA[- Å gjere så godt du kan er det motsette av konkurranse, heldigvis, seier forfattar Ingelin Røssland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/8dc6f239-d52a-4018-86f2-39d52a40188c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8dc6f239-d52a-4018-86f2-39d52a40188c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:26</itunes:duration>
+      <pubDate>Tue, 25 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
+    </item>
+    <item>
+      <title>Wirkola - med Ragnhild Lund Ansnes</title>
+      <description><![CDATA[- I løpet av livet treffer vi alle mennesker som kan sende oss i riktig retning, hevder forfatter Ragnhild Lund Ansnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a4ec46bd-b918-4345-ac46-bdb918934521_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a4ec46bd-b918-4345-ac46-bdb918934521_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:42</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0zJ-UbE0qPji64DnbsB9MA4IeOueKLJ_nN4l3fsclYXg.jpg"/>
+    </item>
+    <item>
+      <title>Flukt - med Thor Eirik Torkildsen</title>
+      <description><![CDATA[Mennesker er villige til å satse livet for å få det slik som deg og meg, forteller sjømannen Thor Eirik Torkildsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3fb774c0-a56d-4cdb-b774-c0a56d6cdb73_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3fb774c0-a56d-4cdb-b774-c0a56d6cdb73_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:56</itunes:duration>
+      <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ve4b_Q8Hsw5GzSSCw_AGHwT0duMCez9v6VpPVSriwY-Q.jpg"/>
+    </item>
+    <item>
+      <title>Weltschmertz - med Katrin Glatz Brubakk</title>
+      <description><![CDATA[Ikke tro du er for liten til å gjøre en forskjell, sier barnepsykolog Katrin Glatz Brubakk]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1428a30d-5ef2-4dcd-a8a3-0d5ef28dcdf3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1428a30d-5ef2-4dcd-a8a3-0d5ef28dcdf3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:24</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kKZAT8OshKxP8R_MbokxIgL5n9y-QAWxueEvPQYBFBlg.jpg"/>
+    </item>
+    <item>
+      <title>Alene - med Janne Rønningen</title>
+      <description><![CDATA[Hvordan får man seg egentlig en kjæreste? lurte komiker Janne Rønningen på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/918ac3cb-aba5-4c63-8ac3-cbaba5ec63cc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/918ac3cb-aba5-4c63-8ac3-cbaba5ec63cc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:13</itunes:duration>
+      <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pfokN56p1el4djDP-6abJgV3fxMA83iIJXN19nj5Nzkw.jpg"/>
+    </item>
+    <item>
+      <title>Samlemani - med Jon Niklas Rønning</title>
+      <description><![CDATA[Jeg tar vare på alt for mye, innser komiker Jon Niklas Rønning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f61836b4-6bdf-4b16-9836-b46bdf0b16a7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f61836b4-6bdf-4b16-9836-b46bdf0b16a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Wed, 05 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
+    <item>
+      <title>Sovekupe - med Tom Roger Aadland</title>
+      <description><![CDATA[- Ting er ikkje alltid som du først skulle tru, seier musikar Tom Roger Aadland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/bbeefe31-f3a8-478d-aefe-31f3a8078d3c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bbeefe31-f3a8-478d-aefe-31f3a8078d3c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:59</itunes:duration>
+      <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
+    </item>
+    <item>
+      <title>Selfie - med Ragnhild Lund Ansnes</title>
+      <description><![CDATA[En selfie med Jürgen Klopp har vært min drøm i årevis, forteller forfatter Ragnhild Lund Asnes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/129f72ef-fdd7-4318-9f72-effdd72318d6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/129f72ef-fdd7-4318-9f72-effdd72318d6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:50</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0zJ-UbE0qPji64DnbsB9MA4IeOueKLJ_nN4l3fsclYXg.jpg"/>
+    </item>
+    <item>
+      <title>Lykke - med Katrin Glatz Brubakk</title>
+      <description><![CDATA[Leter du etter lykken på det rette stedet? undrer barnepsykolog Katrin Glatz Brubakk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9c66b6df-44df-40c3-a6b6-df44dfd0c300_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9c66b6df-44df-40c3-a6b6-df44dfd0c300_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:30</itunes:duration>
+      <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dxg9if-FvIPg0BF-CBKttQ9Q6HD0O4_jsHmJE7m7QfNw.jpg"/>
+    </item>
+    <item>
+      <title>Småprat - med Ingelin Røssland</title>
+      <description><![CDATA[Småprat kan vere ein lykkeboost, hevdar forfattar Ingelin Røssland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:14</itunes:duration>
+      <pubDate>Wed, 22 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
+    </item>
+    <item>
+      <title>Leselyst - med Jon Niklas Rønning</title>
+      <description><![CDATA[Dagens mest verdifulle samtale kan fort oppstå i et bibliotek, hevder komiker Jon Niklas Rønning]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9ff34298-9098-41d7-b342-98909881d727_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9ff34298-9098-41d7-b342-98909881d727_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:42</itunes:duration>
+      <pubDate>Tue, 21 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
+    <item>
+      <title>Maktesløs - med Itta Helland-Hansen</title>
+      <description><![CDATA[- Føler du deg maktesløs til verdens konflikter, så har jeg et råd til deg, sier Itta Helland-Hansen i Leger uten grenser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/22e20a9a-d777-4d87-a20a-9ad7771d87c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/22e20a9a-d777-4d87-a20a-9ad7771d87c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:45</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YO16XrQ2s00B9hjnvs1w5APsX4208JzZ0_11Wxqhx_gQ.jpg"/>
+    </item>
+    <item>
+      <title>Synleg - med Mone Celin Skrede</title>
+      <description><![CDATA[- Hadde du kalt meg funksjonshemma, hadde eg ikkje forstått kva du meinte, fortel Mone Celin Skrede]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d3f75caf-6196-41c4-b75c-af619691c4c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d3f75caf-6196-41c4-b75c-af619691c4c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:57</itunes:duration>
+      <pubDate>Tue, 14 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ti8HuliCX98w0LlDzU4efQQfIk7gNIptq1aHlaEUIhJg.jpg"/>
+    </item>
+    <item>
+      <title>L.O.V.E. - med Elin Sofye Rabbevåg</title>
+      <description><![CDATA[Love Is All Around er ikke bare en søtladen klisje fra det engelske bandet Wet Wet Wet, hevder musiker Elin Sofye Rabbevåg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/03306366-07e2-419f-b063-6607e2719f16_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/03306366-07e2-419f-b063-6607e2719f16_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Wed, 08 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vlae85-NiNNuq7ueSR-urgfkaCw4EjSWtKko233khhqw.jpg"/>
+    </item>
+    <item>
+      <title>Fjorden - med Aina Basso</title>
+      <description><![CDATA[Å lengte, og å sakne er to forskjellige ting. Å lengte er som å ha eit lykkeleg lite dyr i magen, hevdar forfattar Aina Basso]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/478410c5-50ad-4055-8410-c550ad5055b1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/478410c5-50ad-4055-8410-c550ad5055b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:19</itunes:duration>
+      <pubDate>Tue, 07 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tV9lr1Aa5zyEz0nAo1HmPwWjcEzhw4i456kWfCRQQ1rg.jpg"/>
+    </item>
+  </channel>
+</rss>

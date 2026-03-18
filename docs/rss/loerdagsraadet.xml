@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Lørdagsrådet</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:38:14 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 13:30:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Lars Berrum / Ronny Brede Aase / Anna Nor Sørensen</title>
+      <description><![CDATA[TILBAKEMELDING: Gjelder 3-sekundersregelen? / PROBLEMER: Må jeg droppe å gifte meg siden foreldrene mine ikke er venner? / Hockeyvakuumet / Balladen om en kanskje utro mann / Jeg vil gjerne drikke, men ikke hele tiden! / Bursdagen i Tyskland / Djevelen i andres livshistorie / Er dugnadsånden død? / Skal jeg leve med en E på masteren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2967a3c1-674e-49d2-a7a3-c1674ee9d26e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2967a3c1-674e-49d2-a7a3-c1674ee9d26e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:37</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xun_PJmvbGzbCN9AI46o8gubFJGhvk35T2K07pVRdedA.jpg"/>
+    </item>
+    <item>
+      <title>Håp</title>
+      <description><![CDATA[Håp har håp. Transportprat, matprat, fylleprat... praten går!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/cfab715a-aa54-4465-ab71-5aaa5414657d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/cfab715a-aa54-4465-ab71-5aaa5414657d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:04</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 16:09:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Linnéa Myhre / Andreas Wahl / Selma Ibrahim</title>
+      <description><![CDATA[TILBAKEMELDING: Tanker om bjørnen og fiskene... PROBLEMER: Er én date i uka nok? / Organistkritikk / Sliter med å stå i skilsmissen / Hjelp, jeg har blitt en hoarder / Føler meg utenfor i samboerens vennegjeng / Do-papir gate / 3 sekunders regelen - gjelder den her og, eller? / Exen til vennina, som også er kompisen til exen / Bråkete venn på kino]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/7a8dab36-5645-4bd7-8dab-3656457bd7cb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7a8dab36-5645-4bd7-8dab-3656457bd7cb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16:33</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 13:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0FmdcgOiuk5_OLvMmXHVVQO6jreyvoMB_Xeljih_lXeA.jpg"/>
+    </item>
+    <item>
+      <title>«Jeg har tatt et valg!»</title>
+      <description><![CDATA[Live blir overlykkelig over tilbakemelding fra Mikkel! Lydrapport fra Tromsø. Og generell tant- og fjasstemning!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ab66979a-f471-41cb-a697-9af47161cb38_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ab66979a-f471-41cb-a697-9af47161cb38_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:46</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 14:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Tete Lidbom / Mari Garås Monsson / Are Sende Osen</title>
+      <description><![CDATA[TILBAKEMELDING: Er godhet livets lønn? / PROBLEMER: Hva gjør man når man innser følelsene sine for sent? / Evig levering fra take-away-naboene / Når det endelig skjer - og det er feil person / Slå opp med eks-svigermor? / Hvor mye er det lov å flørte? / Et siste slag av rettferdighet på arbeidsplassen / Venn eller gratis barnevakt? / Spisehastighet i forhold]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/50eb70f7-2d93-4e8b-ab70-f72d93de8b30_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/50eb70f7-2d93-4e8b-ab70-f72d93de8b30_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:26:39</itunes:duration>
+      <pubDate>Sat, 28 Feb 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6nJMaYwFRBu4u0y0T3f_SwjUrR0w4__6Wu1E4tQmJSSw.jpg"/>
+    </item>
+    <item>
+      <title>Korps, pisk og avstemning</title>
+      <description><![CDATA[Vi får tilbakemelding fra korpset i Tromsø!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/63d7a0e9-00bb-41dd-97a0-e900bb71ddea_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/63d7a0e9-00bb-41dd-97a0-e900bb71ddea_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Solveig Kloppen / Erik Solbakken / Kristoffer Olsen</title>
+      <description><![CDATA[TILBAKEMELDING: Moralsk kompass eller gullbillett? / PROBLEMER: Alle disse kortene som kom og gikk / Arv fra en eldre nabo / 30-year-old-virgin / Hjelp! Fredagskviss på jobb / Skal jeg bli solomor? / Allvitende amatørskap  / Bosette seg i hjembygda til eksen til kjæresten? / Billig, men ikke kjip 40-årsgave til mannen? / Epilog (med gjestesexolog Tuva Fellman)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/63088014-cd05-43e3-8880-14cd05b3e39d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/63088014-cd05-43e3-8880-14cd05b3e39d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:30:40</itunes:duration>
+      <pubDate>Sat, 21 Feb 2026 13:32:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sQw7-doBhNqraYGGtNIqqwrOQZDt8PsGRCuNJcXarVJg.jpg"/>
+    </item>
+    <item>
+      <title>Vi reiser tilbake til sommeren 2023</title>
+      <description><![CDATA[Det har skjedd masse spennende i Maja sitt liv siden sommeren 2023!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/65a2d481-56d7-401f-a2d4-8156d7401ff7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/65a2d481-56d7-401f-a2d4-8156d7401ff7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:35</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 17:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Olli Wermskog / Kristin Jess Rodin / Anders Giæver</title>
+      <description><![CDATA[TILBAKEMELDING: Hvem vant... Oslo eller Vestlandet? / PROBLEMER: Ringenes Dame uten ring / Hvilken vei skal jeg ta, for å få det som jeg vil / På fest med gammel moro / Mammahjertet mitt er forvirret / Kanskje i fremtiden, men ikke ennå / Studentorkesteret trenger hjelp / Gladfis vs. bekymringsfull / Badstugåten! / Konfliktskye foreldre og 30 år med uønsket rødvin]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/3a8a093d-b618-4948-8a09-3db618a9484d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3a8a093d-b618-4948-8a09-3db618a9484d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:08:21</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 14:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XC9sMC-xasRGcUn1fuLThweqx8VqT56iLHiz3F1mz5IA.jpg"/>
+    </item>
+    <item>
+      <title>Svigermors puter (og Cindy Kråfjord blir født)</title>
+      <description><![CDATA[Endelig får Live sin svigermor-karakter et navn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/515cdd1e-0a44-4e21-9cdd-1e0a446e21f0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/515cdd1e-0a44-4e21-9cdd-1e0a446e21f0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:32</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 17:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Trond-Viggo Torgersen / Hilde Skaar / Espen Abrahamsen</title>
+      <description><![CDATA[TILBAKEMELDING: Ukunstig dating / PROBLEMER: Mange valg, og i hvilken rekkefølge? / Nei, du har ikke absolutt gehør! / Sex i arbeidstiden / Fredsmekleren / Prøve eeeeen gang til? / Hjelp vi skal arrangere reunion! / Litt om pensjon! / KI-spam fra Bestemor]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/d1ac748d-e04c-4ff3-ac74-8de04c3ff327_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d1ac748d-e04c-4ff3-ac74-8de04c3ff327_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16:19</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VtOqCMRB1vsTOFLhX2GeVQ69rsFjbHGJPDZ2z4Cpz76Q.jpg"/>
+    </item>
+    <item>
+      <title>Bjarte Tjøstheim / Annika Momrak / Galvan Mehidi</title>
+      <description><![CDATA[TILBAKEMELDING: Kj! / PROBLEMER: Folket har oppdaget pengesekken / Voksenskjerming / Moralsk kompass og gullbillett / Et mønster som skaper krøll / Hva skal jeg gjøre med kokeboken? / Håp vil ha blanke ark / Må jeg invitere bestemor til konfirmasjon?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/fc05a1ad-ebb7-4c63-85a1-adebb74c636f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fc05a1ad-ebb7-4c63-85a1-adebb74c636f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:29:23</itunes:duration>
+      <pubDate>Sat, 31 Jan 2026 12:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zakZgausqyVgWv21ErdffQ_pp0--57ZoPEOm9qe4s0oA.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen oppsummeres</title>
+      <description><![CDATA[Meninger er bra!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ed199ec4-7817-401f-999e-c47817201f3f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ed199ec4-7817-401f-999e-c47817201f3f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:19</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Nora Svenningsen / Karsten Blomvik / Janne Rønningen</title>
+      <description><![CDATA[TILBAKEMELDING: Hvordan gikk det med sexgud-logistikken? / PROBLEMER: En lang situasjon med kjærlighet? / Oversetter og diplomat søker hjelp / Akademiker eller baker? / Fotball-VM vs. Trump – hvem vinner ekteskapet? / Sj-lyden! / Er jeg en gjerrig bursdagsknark? / Lommen før A4 / Sex på familieferie (denne uken!) / Interessert i en annen enn kjæresten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/569e908a-2ccd-449b-9e90-8a2ccd549bef_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/569e908a-2ccd-449b-9e90-8a2ccd549bef_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:28:24</itunes:duration>
+      <pubDate>Sat, 24 Jan 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ee9MJF4MQ-fSbExXQrkwqAee1z5SW82HKrV-8imVeyow.jpg"/>
+    </item>
+    <item>
+      <title>Siste rest fra julen</title>
+      <description><![CDATA[Live har sunget karaoke med Hendrik Fladseth og Ida har dratt på julebord... men hvilket julebord ble det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/52b29b87-f17a-4ebf-b29b-87f17abebfdc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/52b29b87-f17a-4ebf-b29b-87f17abebfdc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:32</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 15:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Pernille Sørensen / Tore Sagen / Adelina Ibishi</title>
+      <description><![CDATA[Hvordan ble bonusjulaften? / PROBLEMER: Klåfingret kompis / Et sosialt vakuum i betong / Mangler den tydelige forloveren / GUBBEFAEN på jobb / Kunstig dating / To bryllup, en dag! / Hvordan date når man er kronisk syk? / Boløftebruddet / Den ufrivillige klemsonen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/97befcb8-e5f1-413d-befc-b8e5f1313dd3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/97befcb8-e5f1-413d-befc-b8e5f1313dd3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:11:38</itunes:duration>
+      <pubDate>Sat, 17 Jan 2026 13:41:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fzT_AWBDgQnJLHoxLnupAQrksEGSG2_KcsgJbOlD3pTg.jpg"/>
+    </item>
+    <item>
+      <title>To oppløftende tilbakemeldinger</title>
+      <description><![CDATA[Det gikk bra med både Bjarte og masterstudentene!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/d0876bb7-1ccd-4c4b-876b-b71ccd7c4bcf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d0876bb7-1ccd-4c4b-876b-b71ccd7c4bcf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:17</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Steinar Sagen / Kristine Grændsen / Jonis Josef</title>
+      <description><![CDATA[Tilbakemelding: Er Erik roligere i forelskelsen? / PROBLEMER: Vi har innavl i kollektivet! / Trettiårskrisen truer / Grønn soppvekst på kjøkkenet / Hva er greia med hundeeiere på bygda? / HEKT! / Ulikt tempo / Hvor er hverdagsgleden? / Vil bli en del av naboens band / Smalltalk på jobb]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/e1baab6d-449b-4107-baab-6d449b9107e4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e1baab6d-449b-4107-baab-6d449b9107e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:29:06</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3cqMk8AUyiLJgYVjbm6Zwggs7l-S4eLLDxX4wHSu4qXw.jpg"/>
+    </item>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 4</title>
+      <description><![CDATA[Rådgivere er: Galvan Mehidi / Jakob Oftebro / Pernille Sørensen / Silje Nordnes / Kåre Magnus / Hasse Hope / Javad El Bakali / Torbjørn Røe Isaksen / Frida Homlung]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/6f04dc60-c53b-4f5c-84dc-60c53baf5c9c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6f04dc60-c53b-4f5c-84dc-60c53baf5c9c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:40:03</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    </item>
+    <item>
+      <title>Fyllemail-spesial: The return of fyllemails</title>
+      <description><![CDATA[Tredje spesial med fyllemails. Fra perioden mars 2022 til mars 2023]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2b0edeea-9ac7-445f-8ede-ea9ac7545f8a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2b0edeea-9ac7-445f-8ede-ea9ac7545f8a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:54</itunes:duration>
+      <pubDate>Fri, 02 Jan 2026 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 3</title>
+      <description><![CDATA[Rådgivere er: Odd Nordstoga / Anne Lindmo / Bjarte Tjøstheim / Else Kåss Furuseth / Steinar Hallert / Tara Lina Shahin / Catrin Sagen / Trond-Viggo Torgersen / Martha Leivestad]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ada7721c-21b5-4570-a772-1c21b575703e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ada7721c-21b5-4570-a772-1c21b575703e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:40:33</itunes:duration>
+      <pubDate>Sat, 27 Dec 2025 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    </item>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 2</title>
+      <description><![CDATA[Rådgivere er: Solveig Kloppen / Abu Hussain / Tuva Fellman / Emilie Voe Nereng / Tete Lidbom / Ingrid Gjessing Linhave / Martin Lepperød / Linnéa Myhre / Jon Ranes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/de20a51b-2390-49d6-a0a5-1b239089d633_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/de20a51b-2390-49d6-a0a5-1b239089d633_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:01</itunes:duration>
+      <pubDate>Sat, 20 Dec 2025 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    </item>
+    <item>
+      <title>Det rabler for redaksjonen... god jul!</title>
+      <description><![CDATA[Erle om nyttårsaften og Mehdi om menn og følelser... to fine tilbakemeldinger og masse surr på tampen av året!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/85c49c09-3b32-40f6-849c-093b3230f62c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/85c49c09-3b32-40f6-849c-093b3230f62c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:05</itunes:duration>
+      <pubDate>Wed, 17 Dec 2025 17:57:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Tete Lidbom / Ella Marie Hætta Isaksen / Håvard Lilleheie</title>
+      <description><![CDATA[TILBAKEMELDING: Ble Solveig i studiebyen? / PROBLEMER: Når forteller man om tidligere mentale utfordringer? / Svigermors puter / Jeg vil LEKE / Falle for prinsen / Navnefest med overraskelsesbryllup? / Tenåringsjente med overfladisk familie / Balansen mellom venner og kjæreste / Nazigaven]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2b0064d3-6d2c-435d-8064-d36d2cb35dcb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2b0064d3-6d2c-435d-8064-d36d2cb35dcb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:04:40</itunes:duration>
+      <pubDate>Sat, 13 Dec 2025 13:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6h0Xx-EpabKhR5HdFNceLAlNPpUfwDCmlEUzYcxGV1xA.jpg"/>
+    </item>
+    <item>
+      <title>– Jeg har sviktet deg i nødens stund</title>
+      <description><![CDATA[Vi får tilbakemelding fra Espen - og vi gratulerer Live (Og Odd Nordstoga) med bursdagen(e)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/33354c61-d4e6-49e7-b54c-61d4e639e7d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/33354c61-d4e6-49e7-b54c-61d4e639e7d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:15</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 15:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>JulieKalenderen</title>
+      <description><![CDATA[Julie takker for kalender!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/68eab9a3-d44e-4bf5-aab9-a3d44ebbf568_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/68eab9a3-d44e-4bf5-aab9-a3d44ebbf568_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:33</itunes:duration>
+      <pubDate>Sun, 07 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Hilde Skaar / Hans Olav Brenner / Marlene Stavrum</title>
+      <description><![CDATA[TILBAKEMELDING: Er Lene fremdeles en eksvenn? / PROBLEMER: Skal Mona Lisa kle av seg? / Et bonusjulaften-problem / Følsom, men ikke svak / Første jul med svigers / Jeg vil gi en stor gave / Kongelige i publikum / Kan man eie en idé?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/70305d6b-75b8-44b8-b05d-6b75b8e4b8ac_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/70305d6b-75b8-44b8-b05d-6b75b8e4b8ac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:53</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 14:23:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/03klTnD-PWdprzeVSiyIegIQ9aLV-Ksy6LcoB6JBrjKw.jpg"/>
+    </item>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 1</title>
+      <description><![CDATA[Høydepunkter fra 2025 - nr. 1]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c1a91010-8439-4cb6-a910-1084392cb624_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c1a91010-8439-4cb6-a910-1084392cb624_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:47:52</itunes:duration>
+      <pubDate>Sat, 29 Nov 2025 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B4Wi9oIWqfMo0PBc0Hk28AhpXzswFi4Ir3NcS4uO23PA.jpg"/>
+    </item>
+    <item>
+      <title>Trond-Viggo Torgersen / Marte Bratberg / Olli Wemskog</title>
+      <description><![CDATA[TILBAKEMELDING: Over ti år senere.. Var han THE ONE? / PROBLEMER: Sterke meninger, eller kjip fyr? / Talentløs gjeng må gi show i gave / Usikker lege må på dramakurs? / Hvordan starte date? / Ingen naturlig gjeng / Kjæreste, København, Konstabel, Kjempevanskelig / Hvordan får jeg en bedre relasjon til pappa?  / 40-årskrise i 20-åra / Lage en julekalender til meg selv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/012aad68-cdbb-40d2-aaad-68cdbbc0d2de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/012aad68-cdbb-40d2-aaad-68cdbbc0d2de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:07</itunes:duration>
+      <pubDate>Sat, 22 Nov 2025 13:17:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hehX2XFToErx0_8HX0c1vgyIOJrw0NK0oEQ9VqBrvTcQ.jpg"/>
+    </item>
+    <item>
+      <title>Vi drar på nachspiel</title>
+      <description><![CDATA[Live har fått to (!) tilbakemeldinger ansikt-til-ansikt - og vi får endelig høre hvordan det var på nachspielet til det bråkete kollektivet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/92e8b7bc-136f-46d0-a8b7-bc136f16d02e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/92e8b7bc-136f-46d0-a8b7-bc136f16d02e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:58</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Annika Momrak / Odd Nordstoga / Dagny</title>
+      <description><![CDATA[TILBAKEMELDING: Ble det god toast? / PROBLEMER: En halvbror i gave / Brødskjæremaskinen / Filmen om oss / Et gammelt brev / Nissen løser ikke dette problemet / Hvor mye skal man dele med kjæresten sin? / Livet mitt er fantastisk, men]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/5b5e57e3-3295-4529-9e57-e3329585298d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5b5e57e3-3295-4529-9e57-e3329585298d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:25:18</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 13:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wLReKl0V-dyeXUeNvIBVmwX5HVx0vwx3u_TE3FBqX55w.jpg"/>
+    </item>
+    <item>
+      <title>Er Sunniva fremdeles en hemmelighet?</title>
+      <description><![CDATA[Og har Simen bedt Tina OM Å SKJERPE seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/f774a77b-e5a4-4952-b4a7-7be5a4895283_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f774a77b-e5a4-4952-b4a7-7be5a4895283_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:58</itunes:duration>
+      <pubDate>Fri, 14 Nov 2025 15:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Silje Nordnes / Torbjørn Røe Isaksen / Arian Engebø</title>
+      <description><![CDATA[TILBAKEMELDING: Hvordan bor Erling og Erle? / PROBLEMER: Arne, David og Linus / Føtter som potensiell pengemaskin / Hvordan slå seg til ro med tilværelsen som «voksen»? / Svi turen til evig tid? / Hvor lenge skal man date før man blir kjærester? / Når fortidens grums banker på døra / Kaffekoppen er MIN! / Kjæresten min har det kjipt / Seteetikette]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/232dc246-13aa-49bd-adc2-4613aa29bd3d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/232dc246-13aa-49bd-adc2-4613aa29bd3d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:42</itunes:duration>
+      <pubDate>Sat, 08 Nov 2025 13:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OYhsJ8D5R7TZjeOKxCnseghP4_gokuYyGwspOxfz4HZQ.jpg"/>
+    </item>
+    <item>
+      <title>Kan man bo alene?</title>
+      <description><![CDATA[Vi får tilbakemelding fra Emma om grudde seg til å bo alene!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/22c2ff4e-07bf-45de-82ff-4e07bfa5dec8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/22c2ff4e-07bf-45de-82ff-4e07bfa5dec8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:19</itunes:duration>
+      <pubDate>Wed, 05 Nov 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Ronny Brede Aase / Martha Leivestad / Maren Teien Rørvik</title>
+      <description><![CDATA[Hva skjedde med Else sin bukett? / PROBLEMER: Floke i flokken / Skal alle bildene med? / Motløs student i høstmørket / Vi skal ikke bli kjærester... men vi er kjærester / Skal jeg si det høyt – eller holde kjeft? / Skyldfølelse, bryllup og langvarig sykdom / 3 venner, men bare 2 vil skrive master / Hjelp sosialkomiteen a!!! / Hudspisende kollega]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/f75656ef-2509-49f4-9656-ef250909f479_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f75656ef-2509-49f4-9656-ef250909f479_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:12:48</itunes:duration>
+      <pubDate>Sat, 01 Nov 2025 13:39:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8uUoZITqR0WOB88JLRSQsQ--kgNUisgQK_kXDOTjmnWg.jpg"/>
+    </item>
+    <item>
+      <title>Er snapstreaken med eksen avsluttet?</title>
+      <description><![CDATA[Linn og Gunnar gir lyd fra seg etter streng tale fra rådgiverne! Får «Noen» passe på hunden til «Sjefen»?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/18b19399-f14a-489b-b193-99f14ae89bf2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/18b19399-f14a-489b-b193-99f14ae89bf2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:48</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 16:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Vegard Ylvisåker / Nora Svenningsen / Jon Martin Henriksen</title>
+      <description><![CDATA[Er det hemmelige ligget fremdeles hemmelig? / PROBLEMER: Kollektivt forelsket (bortsett fra meg) / Halloween-ansvaret / Kollega graver seg ned / Date på tur er fristende, meeeen / Hvor blir det av min verdi? / Roomien skal ligge / Moonwalke ut av det? / Eksen er fremdeles med på lasset / Hundeglad ansatt, men jeg er sjef / I ferd med å miste... hjemmet vårt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/8d7744dd-d863-4b62-b744-ddd863bb623f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/8d7744dd-d863-4b62-b744-ddd863bb623f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:18:46</itunes:duration>
+      <pubDate>Sat, 25 Oct 2025 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Z1z6oEyGiNn2oNI0ADHgbwvz88jLxBAnzkcgrmOa_jUA.jpg"/>
+    </item>
+    <item>
+      <title>Intervensjon og motivasjon... og en rar drøm!</title>
+      <description><![CDATA[Hva har Jonas Solberg gjort med sin overpolitiske venn? Andrea slet med motivasjonen, har den blitt bedre? En strålende isj... som holder seg bra, nesten helt til slutt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/14c15a5c-1609-484d-815a-5c1609784d5a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/14c15a5c-1609-484d-815a-5c1609784d5a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:26</itunes:duration>
+      <pubDate>Fri, 24 Oct 2025 17:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Lisa Tønne / Are Sende Osen / Kristine Grændsen</title>
+      <description><![CDATA[Hvordan går det med svigergrensene? / PROBLEMER: I badetøy med kollegaer / Kjærligheten vs. indre motivasjon / Angrende nach-musikanter / Forholdet som aldri rakk å starte / En mor i kollektivet / Feire bestemor / Venner og alkohol / Eksistensiell krise?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/f7cd49ed-7000-4bd9-8d49-ed7000fbd91e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f7cd49ed-7000-4bd9-8d49-ed7000fbd91e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:09:07</itunes:duration>
+      <pubDate>Sat, 18 Oct 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-PUApcTxtgoawW59PVmujQXQgjDNY25fzN94mJYtb9wQ.jpg"/>
+    </item>
+    <item>
+      <title>Vi nyter!</title>
+      <description><![CDATA[Vi nyter at vi har det bra, sammen med deg som hører på! Snakker om fallskjerm på toalettet og en LR-drøm!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c0b89f94-2be6-4da3-b89f-942be6bda3ff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c0b89f94-2be6-4da3-b89f-942be6bda3ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:34</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 17:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Pernille Sørensen / Niklas Baarli / Jon Ranes</title>
+      <description><![CDATA[Hvordan går det rundt kakefatet? / PROBLEMER: Kjøttgribb i pastaforkledning / Kan man slutte med nyheter? / Fanget i min egen kleinhet / Bilingual bryllupsdag / Fly ut av redet... fire år for sent? / Hvilket julebord? / Burde jeg håpe på at følelsene kommer? / Walk of shame-etikette]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/738e0749-3ca7-4f23-8e07-493ca78f2333_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/738e0749-3ca7-4f23-8e07-493ca78f2333_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:14:33</itunes:duration>
+      <pubDate>Sat, 11 Oct 2025 14:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bAJ0ywbuNnSBSVgiDGh2NgFXueJW3xt8immO76F0H76g.jpg"/>
+    </item>
+    <item>
+      <title>Anne Lindmo / Espen Abrahmsen / Adelina Ibishi</title>
+      <description><![CDATA[Likte Olava sjekkeregelen? / PROBLEMER: Ulven lusker rundt oss / Vi vil ikke være kjipe naboer / Tar jeg livet for seriøst? / Ikke lenger lekekamerater / Reunion + hemmelig ligg = krise / Evig kjærlighetssorg / Må man invitere alle? / Klassikeren: Skal kvinnen rydde?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/bde67c82-d4bb-4f19-a67c-82d4bb1f19b7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bde67c82-d4bb-4f19-a67c-82d4bb1f19b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:16:58</itunes:duration>
+      <pubDate>Sat, 04 Oct 2025 13:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dzc_WiRhCApyBl3ke28riAAgQ_-J5yKhx7r5v6CpsWlw.jpg"/>
+    </item>
+    <item>
+      <title>Koppen skal hete...</title>
+      <description><![CDATA[Vi kårer koppenavn og koser oss med mailer!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ba8edba6-27a0-43cd-8edb-a627a0a3cd40_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ba8edba6-27a0-43cd-8edb-a627a0a3cd40_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:21</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Mia Hundvin / Abu Hussain / Linnéa Myhre</title>
+      <description><![CDATA[Ble venn, kjæreste? / PROBLEMER: Vi dater, men kjenner vi hverandre? / Når blir kosedyrene pensjonister? / Skal jeg ta kontakt med han? / Vennskapet er også på skjerm / Skal Frank bli en jobb-hopper? / Eksen som nabo / Svenskjävel-skyssen / Er denne kaka verdt kaloriene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/e818c784-83a1-4fbb-98c7-8483a15fbb2a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e818c784-83a1-4fbb-98c7-8483a15fbb2a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:17:24</itunes:duration>
+      <pubDate>Sat, 27 Sep 2025 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U4j-oLyfVOcClouXDBErfQA_Ps-1EOEIn9DLV2VluDZQ.jpg"/>
+    </item>
+    <item>
+      <title>Rapport fra Verdens-beste-bryllups-jenter!</title>
+      <description><![CDATA[Visdom om bryllupsunderholdning - og DU kan være med å bestemme hva det skal stå på Lørdagsrådetkoppen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/3b96c776-c81c-4f1c-96c7-76c81c7f1ca6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3b96c776-c81c-4f1c-96c7-76c81c7f1ca6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:02</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 15:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Martin Lepperød / Solveig Kloppen / Snorre Monsson</title>
+      <description><![CDATA[Har livet til Lise starta nå? / PROBLEMER: Nøkkelen til det innerste rommet / ABBA til besvær / Er jeg en Tindersvindler? / Alene hjemme / Hvordan leve bedre med et stressende yrke? / Få tilbake flørten / Hvor skal vi bo, når alt er bra? / Hvem skal få sove søtt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/de2d14a7-c55c-4fe6-ad14-a7c55c8fe616_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/de2d14a7-c55c-4fe6-ad14-a7c55c8fe616_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:02</itunes:duration>
+      <pubDate>Sat, 20 Sep 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4uMEN8VcP5g9UrognSZEkw7Kkhu9j3z3sLchX894oiVA.jpg"/>
+    </item>
+    <item>
+      <title>Delt kaffekopp-historien får en slutt</title>
+      <description><![CDATA[Julie melder tilbake fra vaskerommet, vi prater oss (raskt bort) edru fyllemail, og fyllemail fyllemail... og koppekonkurranse startes!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2e22a42b-4325-4f8b-a2a4-2b43254f8b25_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2e22a42b-4325-4f8b-a2a4-2b43254f8b25_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:30</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 14:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Mikkel Niva / Ingrid Gjessing Linhave / Emilie Skolmen</title>
+      <description><![CDATA[Ble det krøll i langdistansen? / PROBLEMER: Fjellflørteren er ikke desperat / Når pappa går konkurs og ikke vil prate / Er A-mennesker bedre enn alle andre? / Håndtere Kjekken / En ny søndag truer / Er vennene mine for dumme? / Hvordan være kjærester med baby? / Alle har fallskjerm for bæsjen, eller? / Kan vi enes om en sjekkeregel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/0b655cfd-3f8d-4b0e-a55c-fd3f8ddb0ea8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/0b655cfd-3f8d-4b0e-a55c-fd3f8ddb0ea8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:20:10</itunes:duration>
+      <pubDate>Sat, 13 Sep 2025 13:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GQNScbxfdWeL2U0WYrNE_AqzJb7s8VWVJWOd7Do9sWqg.jpg"/>
+    </item>
+    <item>
+      <title>Sokker, matpakketips og Skløtten og Knipern</title>
+      <description><![CDATA[Vi leser tilbakemelding fra Skløtten og Knipern. Får et godt råd til sokkeparken... og Live gir matpakketips!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/e14b4ac2-58e1-4e44-8b4a-c258e15e443f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e14b4ac2-58e1-4e44-8b4a-c258e15e443f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:48</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 14:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
+    <item>
+      <title>Sissel Gran / Galvan Mehidi / Mathea Josefsen</title>
+      <description><![CDATA[Ble det neglelakk, eller ikke? / PROBLEMER: Avslutte forholdet på en verdig måte / På med flørtehansken? / Nærhet og avstand / Sjefen min kler seg ut som meg / Jeg klarer ikke å slutte å tenke på han / Drømmekjæreste blir kollega / Hastesak: Toastmaster i bryllup]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/7930c642-fe32-47fd-b0c6-42fe32b7fdaf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7930c642-fe32-47fd-b0c6-42fe32b7fdaf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:23:19</itunes:duration>
+      <pubDate>Sat, 06 Sep 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ntp0ZZmqVIO9UHf8KlZcsAjOqm2vb4AeD2piPjK8iqkA.jpg"/>
+    </item>
+  </channel>
+</rss>

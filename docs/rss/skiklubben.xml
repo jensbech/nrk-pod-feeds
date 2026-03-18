@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Skiklubben</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i skiløypa. Konkurranse eller kos – lidenskapen for langrenn skal dyrkes!</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:40:05 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 17:43:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    <item>
+      <title>Slik gikk Birken</title>
+      <description><![CDATA[Hør om  Skiklubbens tur fra Rena til Lillehammer,
+Nådde de sine mål og hvem hadde best ski: Sindre som staket eller Silje som gikk med feste.
+Og hvordan vurdere Anders og Ingrid innsatsen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/66a31a78-0c46-4f5a-a31a-780c46bf5adb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/66a31a78-0c46-4f5a-a31a-780c46bf5adb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:55</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 17:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Staker Sindre Birken?</title>
+      <description><![CDATA[Sindre må bestemme seg - smurte eller glatte ski? Hva er taktikken til Sindre og Silje og hvilke råd kan Anders gi til alle som skal gå over fjellet?
+Nå gjelder det - vinterens høydepunkt er her..]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/0dcbe96a-ca34-47b0-8be9-6aca3467b01d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/0dcbe96a-ca34-47b0-8be9-6aca3467b01d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:13</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Siste uka før Birken</title>
+      <description><![CDATA[Vinterens store mål er straks her.  Vi planlegger siste innspurt. Skal Sindre stake? Bør Silje gå sammen med noen? og vi svarer på spørsmål fra spente og nervøse lyttere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/2dc87aba-ab4f-4996-887a-baab4ff9961a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/2dc87aba-ab4f-4996-887a-baab4ff9961a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:26</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Åsne Seierstad: Vasaloppet, Birken og Stalins flukt</title>
+      <description><![CDATA[Åsne Seierstad aner ikke hvem som meldte henne på Vasaloppet i 2004, men det førte til at hun tok utfordringen og gikk de ni milene. 
+Den bestselgende forfatteren og krigskorrespondenten elsker ski og har senere også gått Birken. 
+Og en lytter lurer på hvor det ble av staking med fraspark.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/184f1b57-927e-4fae-8f1b-57927e6fae7b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/184f1b57-927e-4fae-8f1b-57927e6fae7b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:57</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>50 km,  OL-slutt og  en brannfakkel</title>
+      <description><![CDATA[OLs siste helg med femmil for kvinner og menn. Vi oppsummerer  helgen og OL for langrennsløperne. Ekspert Fredrik Aukland kommer med en brannfakkel fra Italia. Og en lytter får staketips av Anders og Sindre(!)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/4c988d9e-f5a5-4cef-988d-9ef5a51cefc2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/4c988d9e-f5a5-4cef-988d-9ef5a51cefc2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:45</itunes:duration>
+      <pubDate>Sun, 22 Feb 2026 15:27:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Teknikktips og åpningsfart</title>
+      <description><![CDATA[Hva er god teknikk i bakkene og hva er riktig åpningsfart når vi går skirenn? Silje og Sindre har vært på skitur med "sensor" Anders. Hør tilbakmeldingene vi alle kan lære noe av.
+Og tøffer Anders seg vel mye når han sier at det å fryse sitter mellom øra?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/1da64200-92c9-459d-a642-0092c9e59d49_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/1da64200-92c9-459d-a642-0092c9e59d49_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:00</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Sprintstafett, hundedag og frostskader</title>
+      <description><![CDATA[Spenning og dramatikk i sprintstafettene i OL. Men hvordan i all verden kom en ulvehund inn på oppløpet ? Og flere skal ha fått frostskader i Holmenkollstafetten. Hvordan hindre det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/e1aadd8d-9563-4fec-aadd-8d9563efecfa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/e1aadd8d-9563-4fec-aadd-8d9563efecfa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:21</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 15:48:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>To stafettgull og vi har gått renn</title>
+      <description><![CDATA[Klæbo er tidenes vinterolympier etter herrestaffen. Og her hjemme stod Silje og Anders på hver sin startstrek i helgen. Hvordan gikk det? Og hvordan skal vi trene siste måned før Birken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/0ec67eb3-eff0-4e4f-867e-b3eff06e4fd8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/0ec67eb3-eff0-4e4f-867e-b3eff06e4fd8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:26</itunes:duration>
+      <pubDate>Sun, 15 Feb 2026 16:08:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Uslåelige svensker og Silje ut i kulda</title>
+      <description><![CDATA[De svenske langrennskvinnene virker umulige å slå. Hvorfor saltes løypene og hvordan er stemningen i OL-leiren?
+Det er meldt minus 15 når Silje skal gå skirenn i helgen og mange med henne. Hvordan kle seg da?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/1351b008-0844-4209-91b0-0808445209b1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/1351b008-0844-4209-91b0-0808445209b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 17:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Klæbos utrolige bakkespurt</title>
+      <description><![CDATA[Klæbo på god vei til å bli tidenes vinterolympier etter at han knuste konkurrentene i sprinten. Nå mangler han bare to gull for å trone alene på topp. De kan komme allerede denne uka.  Vi feirer også bronsen og nikker anerkjennende til den svenske kvinnetrippelen.
+Og en  lytter møtte en utrolig snill kar i Grenaderen .]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/644d8b55-6867-4fb1-8d8b-5568679fb162_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/644d8b55-6867-4fb1-8d8b-5568679fb162_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:48</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 16:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Klæbogull og Sindre i Grenaderen</title>
+      <description><![CDATA[Skiklubbens første OL-episode. Vi feirer Klæbos gull og to norske langrennsbronser . Og hvordan gikk det med vår egen Sindre i sitt første renn - på 85 km?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/dc3bc687-7cab-4483-bbc6-877cab748378_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/dc3bc687-7cab-4483-bbc6-877cab748378_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:16</itunes:duration>
+      <pubDate>Sun, 08 Feb 2026 16:22:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Astrid Uhrenholdt Jacobsen: OL-vennskap, sorg og skrekkskader</title>
+      <description><![CDATA[Hun har vært med i tre OL og opplevd alt fra gulljubel til den dypeste sorg. Som langrennsløper var hun kanskje den beste til å stake av alle, men også en stor ulykkesfugl. Skiklubben er klar for OL, men teller i tillegg ned til at Sindre skal gå ett av de hardeste skiløpene i Norge. Og er Silje fortsatt støl etter Marcialonga?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/35f50cb3-bcd0-4e96-b50c-b3bcd0ce9697_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/35f50cb3-bcd0-4e96-b50c-b3bcd0ce9697_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:47</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>SiIjes nitimers blodslit + sannheten om tøying</title>
+      <description><![CDATA[Silje forteller om snø og tårer i Marcialonga, professor avliver myter om tøying og gir gode tips for bevegelighet, yoga og restitusjon. Og lytter kan gå glipp av Birken på grunn av Birkenboka(!)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/65d2bdd8-ba1b-4916-92bd-d8ba1b5916dc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/65d2bdd8-ba1b-4916-92bd-d8ba1b5916dc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16:49</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Hjelp,det er Marcialonga!</title>
+      <description><![CDATA[Anders prepper Silje før hun skal gå 70-kilometers skirenn i Italia. Sindre har vært på sin første langtur og lytter vil vite hva slags staver som er best til staking.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/9c1b10cd-fce4-4571-9b10-cdfce4e57194_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/9c1b10cd-fce4-4571-9b10-cdfce4e57194_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:46</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Thor Gotaas om ekte skiløpere</title>
+      <description><![CDATA[Skihistoriker Thor Gotaas med drøye historier fra tidligere tider og tips til å bli en ekte birkebeiner. Sindre og Anders har gått på ski og Silje har en uke igjen til Marcialonga - uten å ha vært på snø. Sindre sier ja til en utfordring han ikke aner konsekvensene av.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/a97697d2-7e05-4e6e-b697-d27e053e6ea8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/a97697d2-7e05-4e6e-b697-d27e053e6ea8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:13:31</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Brakk staven!</title>
+      <description><![CDATA[Sindre fikk endelig testet skiløypene. Det gikk hardt utover utstyret. Silje er på treningsferie med sol og røykende dansker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/339cc477-cfd4-4ebf-9cc4-77cfd40ebf86_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/339cc477-cfd4-4ebf-9cc4-77cfd40ebf86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:33</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Vi er blitt tre igjen!</title>
+      <description><![CDATA[Som nytt medlem i Skiklubben skal han snart gå Birken for første gang, men mangler både ski og teknikk. Kan han likevel slå Silje?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/6fa48d3c-1e90-4c72-a48d-3c1e901c72b2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/6fa48d3c-1e90-4c72-a48d-3c1e901c72b2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:11</itunes:duration>
+      <pubDate>Fri, 02 Jan 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    </item>
+    <item>
+      <title>Den Store Utfordringen med Sindre Reinholt</title>
+      <description><![CDATA[Han har nesten ikke løpt på ti år, og testet ro- og stakemaskin for første gang for seks uker siden. Hvordan klarer han da 5000 meter løping med 10% stigning, 5000 meter på stakemaskin og 2000 meter romaskin? Sindre Reinholt prøver den store utfordringen som laget til Anders har utviklet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/330e7025-3cbe-42de-8e70-253cbe72de9f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/330e7025-3cbe-42de-8e70-253cbe72de9f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:42</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Ble Adelina glad i stakemaskinen?</title>
+      <description><![CDATA[Adelina Ibishi hadde aldri prøvd en stakemaskin før, men fikk i oppgave å stake distansen til Birken på seks uker. Hvordan har det gått, og har hun blitt glad i apparatet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/1a42d2b6-1e36-4d21-82d2-b61e36ed2141_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/1a42d2b6-1e36-4d21-82d2-b61e36ed2141_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:28</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Fikk Rasmus Wold bedre kapasitet?</title>
+      <description><![CDATA[Komikeren og den ivrige løperen fikk et tøft seks ukers program av Anders for å øke kapasiteten. 
+Nå har han testet Vo2 Max (maksimalt oksygenopptak), og resultatet klart.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/8c2941e1-f67d-47d5-a941-e1f67d77d5c0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/8c2941e1-f67d-47d5-a941-e1f67d77d5c0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:36</itunes:duration>
+      <pubDate>Fri, 12 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Klarte Live Nelvik å løpe lenger?</title>
+      <description><![CDATA[Live Nelvik nektet å endre målet sitt halvveis, men klarte hun løpe 15 km? 
+Anders røper hva hans vanvittige opptak i august var, og Silje forteller hvorfor det har vært ekstra hektisk de siste ukene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/a8a7fa31-825b-40ab-a7fa-31825b70ab7f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/a8a7fa31-825b-40ab-a7fa-31825b70ab7f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:47</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Klarte Kasper Kvello rekord i pull-ups?</title>
+      <description><![CDATA[Silje har hatt som mål å klare sitt livs første pull-up, mens Kasper Kvello ønsket ny rekord med vekter i beltet på 1 repetisjon. Klarte de målene sine?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/dd103c6a-e466-4f20-903c-6ae4669f20dc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/dd103c6a-e466-4f20-903c-6ae4669f20dc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:30</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Ble Tete Lidbom raskere?</title>
+      <description><![CDATA[Endelig starter skisesongen! Tete Lidbom skulle løpe en mil på under 40 minutter, eller raskere enn Emil Gukild. Men hvordan har det gått?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/5d430e14-add8-4667-830e-14add896671a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/5d430e14-add8-4667-830e-14add896671a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:49</itunes:duration>
+      <pubDate>Fri, 21 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Den store utfordringen med Sindre Reinholt</title>
+      <description><![CDATA[Han skater, surfer, elvepadler, dødser, klatrer – leker istedenfor å trene. Men hvor godt trent kan man bli av det? Og hvor godt kan han gjøre det på den store utfordringen laget til Anders gjør hvert år med seks ukers forberedelse?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/5fbb9b81-f95e-491c-bb9b-81f95ec91cff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/5fbb9b81-f95e-491c-bb9b-81f95ec91cff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:33</itunes:duration>
+      <pubDate>Fri, 14 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Stakemaskin med Adelina Ibishi</title>
+      <description><![CDATA[Hun skulket skidagene på skolen, men fant langrennsgleden som 26-åring. Nå introduseres Adelina Ibishi for stakemaskinen, og skal stake distansen til Birken på seks uker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/8af641dc-e614-4c87-b641-dce614bc872f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/8af641dc-e614-4c87-b641-dce614bc872f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:37</itunes:duration>
+      <pubDate>Fri, 07 Nov 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Bedre kapasitet med Rasmus Wold</title>
+      <description><![CDATA[Rasmus Wold har det siste året blitt en løper, med stor progresjon og sterke tider i halvmaraton. Nå skal Anders gi han et seks ukers treningsprogram for å bedre O2-opptaket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/500cee8d-d6a2-418e-8cee-8dd6a2b18e72_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/500cee8d-d6a2-418e-8cee-8dd6a2b18e72_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:36</itunes:duration>
+      <pubDate>Fri, 31 Oct 2025 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Løp lenger med Live Nelvik</title>
+      <description><![CDATA[Etter flere år med styrketrening som viktigste treningsmetode, ønsker Live Nelvik å lære seg å løpe langt. Anders setter opp et seks ukers program hvor hun skånsomt kan komme seg opp i 15 km sammenhengende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/1a9ed4b5-0fe3-42eb-9ed4-b50fe3f2ebee_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/1a9ed4b5-0fe3-42eb-9ed4-b50fe3f2ebee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:43</itunes:duration>
+      <pubDate>Fri, 24 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Bedre pull-ups med Kasper Kvello</title>
+      <description><![CDATA[Kan Silje klare en pull-up på seks uker? Kasper Kvello, også kjent som Styrketreneren gir henne program, og forteller om sin kjærlighet for nettopp styrketrening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/e964e572-7c0d-4df1-a4e5-727c0d2df1db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/e964e572-7c0d-4df1-a4e5-727c0d2df1db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Fri, 17 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Løp raskere med Tete Lidbom</title>
+      <description><![CDATA[Tete var et fotballtalent som gikk idrettslinja, helt til rocken tok han. Nå vil han slå rekorden sin på 10 km, og får et seks ukers treningsprogram av Anders for å nå det. Kan det gå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/60df70f2-f2af-41d7-9f70-f2f2aff1d7df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/60df70f2-f2af-41d7-9f70-f2f2aff1d7df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:20</itunes:duration>
+      <pubDate>Fri, 10 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Ingerid Stenvold analyserer Birken</title>
+      <description><![CDATA[Birken ble en tung opplevelse for Silje. Ingerid Stenvold gikk de 54 km sammen med henne, hva var det egentlig som skjedde?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/4a3f050a-394a-4d40-bf05-0a394abd40aa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/4a3f050a-394a-4d40-bf05-0a394abd40aa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:02</itunes:duration>
+      <pubDate>Fri, 03 Oct 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
+    </item>
+    <item>
+      <title>Emils siste skitur</title>
+      <description><![CDATA[Emils aller siste sending! Skiklubben består, men når medlemmer slutter må det markeres.
+Vi oppsummerer også Oslo halvmaraton.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/d0214375-6f27-4005-a143-756f27b0056f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/d0214375-6f27-4005-a143-756f27b0056f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:21</itunes:duration>
+      <pubDate>Fri, 26 Sep 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Oslo halvmaraton oppsummert</title>
+      <description><![CDATA[Klarte Silje og Emil målene sine? Og gikk Kjetil Jansrud i brudd?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/4e08402c-d632-40ca-8840-2cd63200ca86_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/4e08402c-d632-40ca-8840-2cd63200ca86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:23</itunes:duration>
+      <pubDate>Sat, 20 Sep 2025 18:16:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>- Tror nesten ikke det du ser</title>
+      <description><![CDATA[Jann Post om Warholm som skuffet, Silje syklet, Anders skiftet på flytoget og Emil skulle ønske det var skirenn han skulle gå.
+ I morgen er det halvmaraton!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/682bc744-0a4f-4a70-abc7-440a4fea7051_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/682bc744-0a4f-4a70-abc7-440a4fea7051_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:21</itunes:duration>
+      <pubDate>Fri, 19 Sep 2025 17:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er greia med sikkerhetsnål?</title>
+      <description><![CDATA[Henriette Jæger imponerte, Anders er i Bergen og Christina og Emil lar seg irritere av sikkerhetsnålene på startnummer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/c45b0a21-38ec-48f4-9b0a-2138ec28f419_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/c45b0a21-38ec-48f4-9b0a-2138ec28f419_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:17</itunes:duration>
+      <pubDate>Thu, 18 Sep 2025 17:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
+    </item>
+    <item>
+      <title>Silje blir starstruck av Rodal</title>
+      <description><![CDATA[Vebjørn Rodal gir tips før halvmaraton og snakker om kontrollert Warholm, Silje blir starstruck og er det like mye lagånd i friidrett som i langrenn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/b4f57794-43a7-4b3f-b577-9443a7db3feb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/b4f57794-43a7-4b3f-b577-9443a7db3feb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:25</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 17:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
+    </item>
+    <item>
+      <title>Jæger finaleklar på hundredel</title>
+      <description><![CDATA[Henriette Jæger til finalen med hundredels margin, Christina Vukicevic Demidov oppdaterer fra Japan, og Emil hisser seg opp over små målsoner etter løp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/033e70aa-8971-42bb-be70-aa897172bb6a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/033e70aa-8971-42bb-be70-aa897172bb6a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:54</itunes:duration>
+      <pubDate>Tue, 16 Sep 2025 17:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
+    </item>
+    <item>
+      <title>Duplantis med nok en rekord</title>
+      <description><![CDATA[Ble bare nesten for Gilje Nordås, Duplantis med ny verdensrekord og Henriette Jæger til semifinale. 
+Jann Post oppdaterer fra Japan, mens Anders, Silje og Emil oppdaterer om oppladningen til Oslo halvmaraton på lørdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/90bbd8d8-c050-4c66-bbd8-d8c0506c66a2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/90bbd8d8-c050-4c66-bbd8-d8c0506c66a2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:12</itunes:duration>
+      <pubDate>Mon, 15 Sep 2025 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
+    </item>
+    <item>
+      <title>Pulsklokketips og testløp</title>
+      <description><![CDATA[Hva slags innstillinger bør du ha på pulsklokka? Andreas Grøgaard gir gode tips og oppgave før gjengen løper Nydalsløpet. Ellers deler Anders fra tv-innspilling, og Emil fra halvmaraton og alliansloppet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/e2e59523-8017-4f68-a595-2380170f68fd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/e2e59523-8017-4f68-a595-2380170f68fd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:52</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Løpsplan med Jansrud og Mæland</title>
+      <description><![CDATA[Kjetil Jansrud og Lars Mæland skal hjelpe Silje under 1:55 på halvmaraton, mens Anders skal hjelpe Emil under 1:30. Hva blir planen? 
+Hvordan er de i rute? Og ikke minst - går Jansrud i brudd, eller holder han seg med Silje helt inn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/c5ad1215-1a77-4fa6-ad12-151a773fa68e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/c5ad1215-1a77-4fa6-ad12-151a773fa68e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:13</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Smerte og ubehag med John Hammersmark</title>
+      <description><![CDATA[Med lang erfaring fra Forsvarets Spesialkommando og Kompani Lauritzen vet John Hammersmark alt om hvordan mennesker takler smerte og ubehag på best mulig måte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/a850b15e-4e4c-4cd4-90b1-5e4e4c5cd468_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/a850b15e-4e4c-4cd4-90b1-5e4e4c5cd468_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:26</itunes:duration>
+      <pubDate>Fri, 29 Aug 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Trente i baris med Riise</title>
+      <description><![CDATA[Emil har trent med John Arne Riise i Haugesund, Silje har blitt gira på sykling mens Anders har nerver før hemmelig utfordring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/87ec6073-2d22-4efd-ac60-732d22cefdcd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/87ec6073-2d22-4efd-ac60-732d22cefdcd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:20</itunes:duration>
+      <pubDate>Fri, 22 Aug 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Døgning og forbigått av eliten</title>
+      <description><![CDATA[Anders har døgnet i skogen, Silje har døgnet etter fest og Emil testet kreftene mot eliten på rulleski - og ble til slutt tatt igjen med en runde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/b07c86ab-dcc5-4070-9e8e-d50b37bab31b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/b07c86ab-dcc5-4070-9e8e-d50b37bab31b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:09</itunes:duration>
+      <pubDate>Fri, 15 Aug 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Emils proffdebut og Siljes halvmaraton</title>
+      <description><![CDATA[Silje har løpt halvmaraton på Hamarøy, Anders har blitt knust i swimrun, mens Emils debut for profflaget ble brutal.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/02f7c78c-f9a0-4d8b-b5f7-b8113f0c486b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/02f7c78c-f9a0-4d8b-b5f7-b8113f0c486b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:59</itunes:duration>
+      <pubDate>Fri, 08 Aug 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Jørgen, Fredrik og Anders Aukland</title>
+      <description><![CDATA[Endelig har vi fått brødrene til Anders som gjester! De deler om to imponerende karrierer, om konstant konkurranse mellom brødrene, men også om hvordan de har hjulpet hverandre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/528ef723-da31-4b62-a3af-ba2f1bcc4df2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/528ef723-da31-4b62-a3af-ba2f1bcc4df2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:37</itunes:duration>
+      <pubDate>Fri, 01 Aug 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Vegard Ulvang om skisportens fremtid</title>
+      <description><![CDATA[Vegard Ulvang om langrennsportens fremtid, og hvorfor ikke staking bør være en del av den. OL- og VM-vinneren deler også treningstips og historier fra karrieren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/c9267358-d4ce-4100-97d7-0208a59f30cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/c9267358-d4ce-4100-97d7-0208a59f30cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:38</itunes:duration>
+      <pubDate>Fri, 25 Jul 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Tiril Eckhoff om skiskyting</title>
+      <description><![CDATA[Hva skiller treningshverdagen til en skiskytter fra en langrennsutøver? OL- og VM-vinneren deler om karrieren, treningsrutiner, null rulleski etter karrieren og inngår veddemål med Emil.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/7c682bee-8ae0-4980-94c4-fc221a91dc51_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/7c682bee-8ae0-4980-94c4-fc221a91dc51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:44</itunes:duration>
+      <pubDate>Fri, 18 Jul 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Tarik Elyounoussi - fotballproff i sju forskjellige land</title>
+      <description><![CDATA[Hvordan trener en fotballspiller? Tarik forteller om reisen fra taekwondo og gatefotball i Marokko, til en lang fotballkarriere i 7 land med 60 landskamper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/f00f72c2-be4e-4d4a-b729-13bec4f66002_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/f00f72c2-be4e-4d4a-b729-13bec4f66002_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:51</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Sylvia Nordskar om fjelløp</title>
+      <description><![CDATA[Hun sa opp trygg finansjobb og flyttet til alpene for å satse på fjelløp. Hør om Sylvias reise mot verdenstoppen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/104680b3-7737-47c0-aaa5-2be7d5063507_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/104680b3-7737-47c0-aaa5-2be7d5063507_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:35</itunes:duration>
+      <pubDate>Fri, 04 Jul 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Sommerferietrening</title>
+      <description><![CDATA[Gjengen samles for siste gang før sommeren – hvordan skal man holde formen oppe gjennom ferien?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/cbbde240-fe3e-48ae-84c2-c0247d4b9b88_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/cbbde240-fe3e-48ae-84c2-c0247d4b9b88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:38</itunes:duration>
+      <pubDate>Fri, 27 Jun 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+    <item>
+      <title>Tre dopauser på to mil</title>
+      <description><![CDATA[Silje er i snuståke, Anders har løpt i myra og Emil har vært på do i skogen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/0c32cb3b-b283-4813-bb01-2500958ba8c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/0c32cb3b-b283-4813-bb01-2500958ba8c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:21</itunes:duration>
+      <pubDate>Fri, 20 Jun 2025 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
+    </item>
+  </channel>
+</rss>

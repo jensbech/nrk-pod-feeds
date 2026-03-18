@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Lindmo og Co</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:38:03 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Sønn 2</title>
+      <description><![CDATA[Rune har reist til New York og vi har hentet inn superreserve Ola Lindmo!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/c02a5500-446c-4560-aa55-00446cd560c2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/c02a5500-446c-4560-aa55-00446cd560c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:08</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Winner Tip</title>
+      <description><![CDATA[Er rulling av røyk et verneverdig håndverk? Hva er reglene for hilsing på tur? Og trenger man hår for å ha sveis? Vi svarer i ukens episode!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/fc286e7e-0add-4ae9-a86e-7e0adddae98a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/fc286e7e-0add-4ae9-a86e-7e0adddae98a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:45</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bamse Bab</title>
+      <description><![CDATA[Hvorfor lukter det kebab av Annes hund? Hvem har Rune falt pladask for? Og hvilket livsmål har Halvor nådd? Svaret får du i ukens episode!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/b3bc40ea-faf2-41e3-bc40-eafaf281e3d1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/b3bc40ea-faf2-41e3-bc40-eafaf281e3d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:43</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Vevnad er levnad</title>
+      <description><![CDATA[Anne har følt seg som sjølveste Jesus, Rune har vært gressenkemann og Halvor har blitt hekta på kunstløp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/a89069d4-9b24-4f25-9069-d49b24af25d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/a89069d4-9b24-4f25-9069-d49b24af25d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:42</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Livet i bøtta</title>
+      <description><![CDATA[Anne maner fram sitt aller første barndomsminne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/8ceb61b9-4555-4fd7-ab61-b94555cfd7d1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/8ceb61b9-4555-4fd7-ab61-b94555cfd7d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:27</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bodyshots og Bobbysocks</title>
+      <description><![CDATA[Om bursdagsfeiringer, nakenteater og svake motevalg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/32c5e596-1411-47bf-85e5-961411a7bf47_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/32c5e596-1411-47bf-85e5-961411a7bf47_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:03</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Tørst i Talkeetna</title>
+      <description><![CDATA[Hva skjedde etter at kameraene ble slått av på "Ekspedisjonen"?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/9ac1ee6c-9ca9-448d-81ee-6c9ca9c48dab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/9ac1ee6c-9ca9-448d-81ee-6c9ca9c48dab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:30</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Anne vs Verden</title>
+      <description><![CDATA[Universets krefter har rottet seg sammen mot Anne, Rune har operert seg selv og vi spør om det er lov å oppdra andres hunder?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/92440bff-19a3-4b9e-840b-ff19a34b9ead_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/92440bff-19a3-4b9e-840b-ff19a34b9ead_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:17</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Heia lysken!</title>
+      <description><![CDATA[Anne lurer på om hun har utsatt ingeniører for metoo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/e151899c-9bca-4a99-9189-9c9bca9a99f8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/e151899c-9bca-4a99-9189-9c9bca9a99f8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:10</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Julmarknad</title>
+      <description><![CDATA[Anne har en høne å plukke med svensk kunsthåndverk. Sesongavslutning!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/bc00f590-f8f3-448f-80f5-90f8f3548f32_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/bc00f590-f8f3-448f-80f5-90f8f3548f32_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:53</itunes:duration>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Annes dagbok</title>
+      <description><![CDATA[Anne tar med dagboka si og vi evaluerer innsatsen etter siste episode av Ekspedisjonen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ff060d17-b451-4d62-860d-17b4514d626a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ff060d17-b451-4d62-860d-17b4514d626a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:35</itunes:duration>
+      <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>Kristenloppis</title>
+      <description><![CDATA[Anne har gjort antikvitetskupp, Rune driver geriljapynting til jul og Halvor har hatt en sterk kulturopplevelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/f180756a-15ba-4c1e-8075-6a15ba1c1e32_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/f180756a-15ba-4c1e-8075-6a15ba1c1e32_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:54</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Toten Tindeklubb</title>
+      <description><![CDATA[Annes sambygding og ekspedisjonsleder Rune Malterud er ukens gjest!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/81b3c2f7-c9c1-4ac0-b3c2-f7c9c1fac0e3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/81b3c2f7-c9c1-4ac0-b3c2-f7c9c1fac0e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:43</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>La damasken gå!</title>
+      <description><![CDATA[Anne er i full gang med hjemmefestsesongen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/e1a03d55-3210-4e4e-a03d-5532107e4e74_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/e1a03d55-3210-4e4e-a03d-5532107e4e74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:51</itunes:duration>
+      <pubDate>Thu, 04 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Kunsten å puste</title>
+      <description><![CDATA[Om pusteteknikk, frysetørring og tyvlåning av toalettbøtte på fjellet. Hedvig Wessel er ukas gjest!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/7f9e65fa-7959-45bf-9e65-fa795985bf61_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/7f9e65fa-7959-45bf-9e65-fa795985bf61_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Sat, 29 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>In spiritus veritas</title>
+      <description><![CDATA[Hvilken sannhet fant Anne i bunnen av flaska? Hvordan gikk det med Runes prøvesang? Og bør Halvor settes ut i skogen? Vi besvarer alt i ukens episode!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/2543f18d-7b18-49bf-83f1-8d7b1889bf40_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/2543f18d-7b18-49bf-83f1-8d7b1889bf40_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:56</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Retur for Rønnis</title>
+      <description><![CDATA[Harald Rønneberg forteller om turgleden og skuffelsen over å måtte forlate ekspedisjonen til Denali.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/2e9979bf-5ae7-4ae8-9979-bf5ae7fae83a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/2e9979bf-5ae7-4ae8-9979-bf5ae7fae83a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:42</itunes:duration>
+      <pubDate>Sat, 22 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>Fotballfeber og skallebank</title>
+      <description><![CDATA[Anne drømmer om å elske fotball, Rune skal på sangaudition og Halvor er hjerneskada.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/08a20a0f-03a5-4ade-a20a-0f03a52ade9d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/08a20a0f-03a5-4ade-a20a-0f03a52ade9d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:25</itunes:duration>
+      <pubDate>Thu, 20 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Ekspedisjonslegen</title>
+      <description><![CDATA[Om brekningsrefleksen, følelsen av eufori i høyden og verdien av kos og hygge med ekspedisjonslege Stian Hallén!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/0058e5d4-df7d-4533-98e5-d4df7df53323_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/0058e5d4-df7d-4533-98e5-d4df7df53323_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:18</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>Forfengelighetens fyrverkeri</title>
+      <description><![CDATA[Anne har gitt opp å klippe hunden sin selv, Halvor har funnet en lokal arkivskatt og Rune smughandler julepynt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ce610e1e-4ac4-4153-a10e-1e4ac49153f5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ce610e1e-4ac4-4153-a10e-1e4ac49153f5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:26</itunes:duration>
+      <pubDate>Thu, 13 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Fotograf med fotlenke</title>
+      <description><![CDATA[Mannen, myten og legenden Sveinung Svendsen er dagens gjest!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/cd196819-396e-4c4b-9968-19396e5c4b46_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/cd196819-396e-4c4b-9968-19396e5c4b46_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Sat, 08 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>Sensualitetsvogna</title>
+      <description><![CDATA[Anne og Rune deler intense badstuopplevelser og Halvor er tilbake fra Canada!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/a86349c9-a230-4570-a349-c9a230e5708f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/a86349c9-a230-4570-a349-c9a230e5708f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:03</itunes:duration>
+      <pubDate>Thu, 06 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Brakfisen</title>
+      <description><![CDATA[Det er vakkert i Denali, men hva lukter det?  Tete Lidbom er gjest og avslører sannheten om stank, duft og brakfis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/c815f81b-04ba-4327-95f8-1b04ba73275b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/c815f81b-04ba-4327-95f8-1b04ba73275b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:11</itunes:duration>
+      <pubDate>Sat, 01 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>Slapp klutføring</title>
+      <description><![CDATA[Kan man stole på mennesker som ikke kan vri opp en klut? Anne mener nei.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/182ce8c5-2149-4515-ace8-c52149251569_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/182ce8c5-2149-4515-ace8-c52149251569_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:54</itunes:duration>
+      <pubDate>Thu, 30 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bonus: Hvorfor koseposen?</title>
+      <description><![CDATA[Alaska Spesial: Anne er frynsete og Halvor sitter igjen med spørsmål etter å ha sett første episode av «Ekspedisjonen».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/6bd37de3-86e0-498d-937d-e386e0998d16_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/6bd37de3-86e0-498d-937d-e386e0998d16_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:52</itunes:duration>
+      <pubDate>Sat, 25 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
+    </item>
+    <item>
+      <title>Samaritan eller bøddel?</title>
+      <description><![CDATA[Annes forsøk på å hjelpe en sau endte fatalt,  Rune vurderer å bli fotmodell og vi spør om julekalendere kan fylles med veskerusk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/f0ec4582-6e2a-4df0-ac45-826e2a4df006_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/f0ec4582-6e2a-4df0-ac45-826e2a4df006_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:00</itunes:duration>
+      <pubDate>Thu, 23 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>El Jucan</title>
+      <description><![CDATA[Om fakiren som var Annes eksentriske familievenn,  en kaotisk kjøretur til Kristiansand og Runes drøm om tai chi på nakenstranda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/8fe57f6e-bc15-4fb9-a57f-6ebc156fb9d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/8fe57f6e-bc15-4fb9-a57f-6ebc156fb9d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:15</itunes:duration>
+      <pubDate>Thu, 16 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Purreløkens forbannelse</title>
+      <description><![CDATA[Anne møtte sitt Waterloo i form av en purre, Halvor er hekta på dåsefisk og vi spør om Rune er blitt for gammel for buksene sine?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/9ec465de-900f-4aeb-8465-de900f1aebd0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/9ec465de-900f-4aeb-8465-de900f1aebd0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:36</itunes:duration>
+      <pubDate>Thu, 09 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Loveseat</title>
+      <description><![CDATA[Anne har laget et nytt dogme for møbelshopping! Vi sneier også innom turistfeller, høstglede og granater.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/f3c19191-5f30-4580-8191-915f3055804f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/f3c19191-5f30-4580-8191-915f3055804f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:29</itunes:duration>
+      <pubDate>Thu, 02 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Snerk til besvær</title>
+      <description><![CDATA[Anne vil vite mer om den mystiske hinnen på kakaoen! Vi sneier også innom sjaman Durek, impulskjøp og kaker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ded3b1c5-3149-4896-93b1-c53149f89620_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ded3b1c5-3149-4896-93b1-c53149f89620_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:35</itunes:duration>
+      <pubDate>Thu, 25 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Kulturkjerringa rir igjen</title>
+      <description><![CDATA[Anne har vært innom både skjærsilden og hovedstadens kulturelle undergrunn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/8bff8c22-2456-4154-bf8c-2224568154e5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/8bff8c22-2456-4154-bf8c-2224568154e5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:30</itunes:duration>
+      <pubDate>Thu, 18 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Stalking på Island</title>
+      <description><![CDATA[Sesongstart! Anne har spionert på islandske kjendiser, opplevd vemodig ekstase på Åge-konsert og vi spør om smågodtposen er definerende for et godt kjærlighetsliv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/db81a2b9-f88f-40f9-81a2-b9f88f30f956_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/db81a2b9-f88f-40f9-81a2-b9f88f30f956_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:56</itunes:duration>
+      <pubDate>Thu, 11 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Dekretet</title>
+      <description><![CDATA[Anne har en tydelig beskjed til alle menn før sommeren! Sesongavslutning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ffc69cce-4221-411a-9da7-0549ad231c3d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ffc69cce-4221-411a-9da7-0549ad231c3d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:48</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Gatefødsel</title>
+      <description><![CDATA[Har Anne observert en ny fødetrend i Kirkeveien?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/92cc8418-9859-4f82-804c-5a49e968a0f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/92cc8418-9859-4f82-804c-5a49e968a0f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:42</itunes:duration>
+      <pubDate>Thu, 19 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Mount Gräddsås</title>
+      <description><![CDATA[Anne får tips om hvordan hun skal takle tomt rede-syndrom og Rune har spist seg gjennom det svenske matfatet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/f520550e-781c-4fa4-b75c-12585de9d38a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/f520550e-781c-4fa4-b75c-12585de9d38a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:41</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bajsbøtta</title>
+      <description><![CDATA[Anne er tilbake fra det store fjellet i Alaska!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/406d966d-3763-4383-a9f4-26974dbfe304_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/406d966d-3763-4383-a9f4-26974dbfe304_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:10</itunes:duration>
+      <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Sur prim</title>
+      <description><![CDATA[Anne har hatt et drama på Gaustatoppen, Rune har bedrevet parterapi med slipemaskin og Halvor har arvet gamle kokebøker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/0cd88627-9d73-40eb-8e83-c839430037fb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/0cd88627-9d73-40eb-8e83-c839430037fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:48</itunes:duration>
+      <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Miss Lazy Breather</title>
+      <description><![CDATA[Om pusteøvelser, gjenforeningstreff og Pride-festival på bygda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/7f1886cb-fa43-4a9c-be52-636255a7fd59_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/7f1886cb-fa43-4a9c-be52-636255a7fd59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:48</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Dææjå!</title>
+      <description><![CDATA[Anne briljerer med Fleksnes-referanser på tur, Rune prøver å bli glad i sport og Halvor har lest forskning om rotter med truser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/19606cb9-9469-49d9-b93b-997e669c9203_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/19606cb9-9469-49d9-b93b-997e669c9203_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:39</itunes:duration>
+      <pubDate>Thu, 15 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Naturens kyskhetsbelte</title>
+      <description><![CDATA[Anne reiser av gårde på sitt livs tøffeste ekspedisjon!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/39fbfa3c-4445-4e00-8dc7-89f43c391135_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/39fbfa3c-4445-4e00-8dc7-89f43c391135_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:01</itunes:duration>
+      <pubDate>Thu, 08 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Svindler med stil</title>
+      <description><![CDATA[Anne har oppdaget fordelene ved å kjøre en gammel og sliten kassebil.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/636b274d-c215-4708-a353-7e5c672208c6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/636b274d-c215-4708-a353-7e5c672208c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:47</itunes:duration>
+      <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Beiler med beret</title>
+      <description><![CDATA[Anne har fått en hilsen fra fortiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/5ff54dcb-e6ac-49bd-81fe-e4d3164c5314_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/5ff54dcb-e6ac-49bd-81fe-e4d3164c5314_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:47</itunes:duration>
+      <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Skrukkete orakel</title>
+      <description><![CDATA[Om folkehøgskoler, hovne morratryner og påsketradisjoner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/3021721d-50b2-4d78-8eb4-b26dd06e4f63_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/3021721d-50b2-4d78-8eb4-b26dd06e4f63_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:38</itunes:duration>
+      <pubDate>Thu, 17 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Grethe Kausland-land</title>
+      <description><![CDATA[Anne spør om briller er krykker for øynene, Rune har fått et Messias-kompleks og Halvor drømmer om en norsk versjon av Dollywood.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/7448eacc-8e7d-40fa-98db-610857d44261_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/7448eacc-8e7d-40fa-98db-610857d44261_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:52</itunes:duration>
+      <pubDate>Thu, 10 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Sluggertrusa</title>
+      <description><![CDATA[Om undertøy, båndtvang og kreativ skulking.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/97559042-3c8d-476d-93f7-9032dbab1909_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/97559042-3c8d-476d-93f7-9032dbab1909_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:45</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Bolledilla</title>
+      <description><![CDATA[Om TikTok-boller, tysk etikette og årets sikreste vårtegn: nudistene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/12dadd92-e5c5-4121-8fd2-22ab4c3273b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/12dadd92-e5c5-4121-8fd2-22ab4c3273b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:08</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Gledespike i krepp</title>
+      <description><![CDATA[Om Annes liv som au pair, Runes teatermaraton og Halvors alter ego.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/ee649283-4dfd-48fc-933e-f9edf6b2b793_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/ee649283-4dfd-48fc-933e-f9edf6b2b793_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:35</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Idiotisk kvarter</title>
+      <description><![CDATA[Anne har kastet klærne, Halvor har gamblet og Rune er irritert på "gym bros" på treningssenteret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/b760adcc-6e6c-4937-a5e5-801cb8a87ca4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/b760adcc-6e6c-4937-a5e5-801cb8a87ca4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:05</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Slark og tørre slimhinner</title>
+      <description><![CDATA[Anne har overnatta på et fryselager, Rune har fått en fransk diagnose og Halvor har vært på Toto-konsert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/8b1921d6-df39-47a2-afa1-23aab7d08c0b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/8b1921d6-df39-47a2-afa1-23aab7d08c0b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:07</itunes:duration>
+      <pubDate>Thu, 06 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+    <item>
+      <title>Anne i buret</title>
+      <description><![CDATA[Anne har fått valget mellom bot eller fengsel, Halvor har kjøpt hvitt pulver fra Kina og Rune har ferske råd til single folk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/8c37db74-9771-4cb7-b80e-27e02363f430_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/8c37db74-9771-4cb7-b80e-27e02363f430_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:16</itunes:duration>
+      <pubDate>Thu, 27 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
+  </channel>
+</rss>

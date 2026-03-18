@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Politisk kvarter</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. 
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:39:34 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Kampen mot sløsing</title>
+      <description><![CDATA[Rødt vil ikke la  høyresida ha enerett på kampen mot sløsing, og har laget en plan.
+Men hva er sløsing?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4460e748-afd0-4a89-a0e7-48afd07a8992_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4460e748-afd0-4a89-a0e7-48afd07a8992_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:58</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9T8IiTf1bVE46oOFveqizQe-KszkX1z-JU9cFwldM1Zw.jpg"/>
+    </item>
+    <item>
+      <title>Avvikle Helseplattformen?</title>
+      <description><![CDATA[Datasystemet «Helseplattformen» skaper frustrasjon i Midt-Noreg. MDG vil seie stopp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/de8307a1-ce2a-4cb6-8307-a1ce2accb60c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/de8307a1-ce2a-4cb6-8307-a1ce2accb60c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jU_e8fDlLKd1YkSCIc4EHQ4hwlvcTXFonUkK6iqzuZqQ.jpg"/>
+    </item>
+    <item>
+      <title>Støres skolereform</title>
+      <description><![CDATA[Regjeringen vil ha store endringer for de yngste elevene.
+Det kan bli færre fag og færre timer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/a3d32035-34ff-47ac-9320-3534ffa7ac79_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/a3d32035-34ff-47ac-9320-3534ffa7ac79_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cscVRCfXYgxlXOSuGgp7gQ0ybJ6A1IWMJM7Xkk_HyWdw.jpg"/>
+    </item>
+    <item>
+      <title>Bør vi legge ned ungdomspolitikken?</title>
+      <description><![CDATA[Fotballfolket kan bli like gode folkevalgte som ungdomspolitikere, mener tidligere AUF-er. 
+Og - staten har gjort utvalgte fiskeredere styrtrike. Innbyr til korrupsjon, mener Frp]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ae4fbc07-0c40-4947-8fbc-070c407947dc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ae4fbc07-0c40-4947-8fbc-070c407947dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JKgAQWmdOWtCEzAAhVguCQfvVfQ5TXQn6zJpIcCJgSsA.jpg"/>
+    </item>
+    <item>
+      <title>Bilistene og klimamålet</title>
+      <description><![CDATA[Miljødirektoratet har kommet med tiltak for å kutte utslipp fra biler. Dette grenser til kommunisme, mener Frp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e6cd8c09-4e91-4405-8d8c-094e91a405ce_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e6cd8c09-4e91-4405-8d8c-094e91a405ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:55</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NHp0vuCf3jQTo2ycQ-m08gWP-fN3uEPrGu0aisjAYb9Q.jpg"/>
+    </item>
+    <item>
+      <title>Listhaug eller Stoltenberg?</title>
+      <description><![CDATA[Krig og krise treff bankkontoen. Har Frp-leiaren eller finansministeren den beste økonomiske oppskrifta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/eaa4f8ff-3f16-4f44-a4f8-ff3f160f4478_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/eaa4f8ff-3f16-4f44-a4f8-ff3f160f4478_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PlCm1RJ7tAJvrDWzMkjAFw1kRjgu-zCv7li9N7lAJq5A.jpg"/>
+    </item>
+    <item>
+      <title>Nei og atter nei til vindkraft</title>
+      <description><![CDATA[Norge trenger kraft, men ingen kommuner vil ha vindkraft. 
+NHO-sjef og ordfører ber nasjonale politikere gripe inn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/19c5602b-1b00-4cd3-8560-2b1b00ccd3ac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/19c5602b-1b00-4cd3-8560-2b1b00ccd3ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:45</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 08:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tJHrsXz_gKGFsuFOc3H5FgqkDkWDkDPpxSq9VQS5Q-Lg.jpg"/>
+    </item>
+    <item>
+      <title>Bane Nors kuttliste</title>
+      <description><![CDATA[Bane Nor varsla stopp og utsetting av store jernbaneprosjekt. Før dei beklaga. Men kva er realiteten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/5158e9fa-70dc-418c-98e9-fa70dc018cf8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5158e9fa-70dc-418c-98e9-fa70dc018cf8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:04</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W7unbDJcsBUh-5X_v9qGCAG-Zu_kpWLmSJXB3KQkEjiQ.jpg"/>
+    </item>
+    <item>
+      <title>Hvor går Senterpartiet?</title>
+      <description><![CDATA["- Når vi kan sitte i regjering med SV, kan vi også sitte i regjering med Frp", sier lederen i Senterungdommen.
+Kan Senterpartiet skifte side?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/52f914b9-9edf-43da-b914-b99edf43da83_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/52f914b9-9edf-43da-b914-b99edf43da83_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:52</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nQr-LZdOjufapUmvzsD6UgNcm9h0LEL931fF4UBy7-Ng.jpg"/>
+    </item>
+    <item>
+      <title>Verdistrid på høgresida</title>
+      <description><![CDATA[KrF og Høgre sikrar skulegudstenester. 
+Men Høgre deler liberale Venstres syn på omstridde kjønnsråd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/125f9b82-6dc7-4a93-9f9b-826dc7fa93d3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/125f9b82-6dc7-4a93-9f9b-826dc7fa93d3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:13</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QKESI0RJugiFzjcLZjUKlQs4laA2QWGAB-NFH-mCqkdg.jpg"/>
+    </item>
+    <item>
+      <title>Israels aller beste venner</title>
+      <description><![CDATA[Israel mener de angriper Iran i selvforsvar. Norske fordømmelser går på autopilot og bidrar til stigmatisering av jøder, mener Israels venner i Stortinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/03b0f32d-a505-4f0f-b0f3-2da5055f0ffb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/03b0f32d-a505-4f0f-b0f3-2da5055f0ffb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K3zSVFEIlKOczTMZrrCQBwv3a8mdSpd3nMaTg3xbV8mg.jpg"/>
+    </item>
+    <item>
+      <title>Krig og norsk olje</title>
+      <description><![CDATA[Det meste av oljeproduksjonen i verden skjer i udemokratiske land og i urolige regioner.
+Vil det gjøre norsk olje attraktiv? Eller vil verden snu ryggen til fossil energi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ea0e82b1-f3ce-40fb-8e82-b1f3ced0fb05_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ea0e82b1-f3ce-40fb-8e82-b1f3ced0fb05_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReqKwgqUA6d_ebd1nfKHjg3ELzKctCMNqkAR8wGiAPJg.jpg"/>
+    </item>
+    <item>
+      <title>Blir det bedre i Iran nå?</title>
+      <description><![CDATA[En ny vår, et nytt prestestyre eller kaos og storkrig? Statsministeren og to norskiranere om krigen i Midtøsten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/327ca92f-3024-45e0-bca9-2f3024e5e0d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/327ca92f-3024-45e0-bca9-2f3024e5e0d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:01</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2g5UYCFXKldH4TzNuE_CBwYyxEbPROhozl4QNOq-y4qQ.jpg"/>
+    </item>
+    <item>
+      <title>Innstrammingsministeren</title>
+      <description><![CDATA[Justisminister Aas-Hansen vil sleppe inn færre ukrainske menn, og ho vil ha retursenter i andre land.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/caf0ccd7-9e28-420d-b0cc-d79e28e20d87_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/caf0ccd7-9e28-420d-b0cc-d79e28e20d87_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:04</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s-pYz6G3Lh0PeWFyTakZvQvX01ASmMry_h_aabKDI6oQ.jpg"/>
+    </item>
+    <item>
+      <title>Er fellesskolen i fare?</title>
+      <description><![CDATA[Stortinget overkjører regjeringen og redder internasjonal IB-linje.   
+Slik bygges den offentlige fellesskolen ned - bit for bit, advarer kunnskapsministeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/22b1a67a-cbc9-4800-b1a6-7acbc9a800bd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/22b1a67a-cbc9-4800-b1a6-7acbc9a800bd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SRfrarLxfSCe2OBHaXQPWA6iIal3I1mwtELrKImQhu-w.jpg"/>
+    </item>
+    <item>
+      <title>Politikk til salgs?</title>
+      <description><![CDATA[Byrådet anklages for å kjøpe seg flertall i Trondheim. Stygg og uanstendig kritikk, svarer byrådet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/012b1ee3-1906-4f9b-ab1e-e319068f9b6c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/012b1ee3-1906-4f9b-ab1e-e319068f9b6c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:51</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6kxSiECp1NZgAd5_LHUSag1NTjhDLur-Ul6PvNsC6ZKg.jpg"/>
+    </item>
+    <item>
+      <title>Er flyktning-dugnaden over?</title>
+      <description><![CDATA[Fire år etter Russlands stor-angrep mot Ukraina vil nokre kommunar ta imot færre flyktningar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/2a4908a4-c5e3-41c5-8908-a4c5e3c1c556_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2a4908a4-c5e3-41c5-8908-a4c5e3c1c556_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:02</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8a9r2kkPtb6bvWmVT5XSyQV_h_03sLy495JGEHP-4BTg.jpg"/>
+    </item>
+    <item>
+      <title>- Nobelkomitéen er en elefantkirkegård</title>
+      <description><![CDATA[MDG mener Nobelkomitéen sliter med troverdigheten etter Epstein-skandalen.
+Nå vil de ha et forbud mot eks-politikere i komitéen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/a8b26dff-7ddd-442e-b26d-ff7ddd342e09_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/a8b26dff-7ddd-442e-b26d-ff7ddd342e09_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:55</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NICzar5EEPOmOWfMsKNrNA-0PDTAHoe83G3YneKGfDXA.jpg"/>
+    </item>
+    <item>
+      <title>Kjøtt, vekt og klima</title>
+      <description><![CDATA[Trygve Slagsvold Vedum spiser pølser og kjøttkaker i protest mot ny kjøttavgift  Han pisker opp en forakt for gode helseråd, mener kommentator. Og glemmer klimaet, advarer MDG]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/cda69f3f-6af5-4ff1-a69f-3f6af54ff1f4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/cda69f3f-6af5-4ff1-a69f-3f6af54ff1f4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q1J685gj5g3sgv392NnJKgg0fN2GmBRWYNiwHua0dUAQ.jpg"/>
+    </item>
+    <item>
+      <title>Nobelkomitéens åpenhet</title>
+      <description><![CDATA[Nobelkomitéen vil ikke offentliggjøre gamle reiseregninger og gavelister. Hva vil Stortinget gjøre med det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/dad90709-aa1c-45ca-9907-09aa1c55cae7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/dad90709-aa1c-45ca-9907-09aa1c55cae7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:56</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hr-HG76vBWoJz1sC0T7UJwj6ud4KOO64yUU1fGCYdOeQ.jpg"/>
+    </item>
+    <item>
+      <title>160 kriminelle utlendingar</title>
+      <description><![CDATA[Det må bli lettare å sende kriminelle utlendingar ut, meiner både regjeringa og Frp. 
+Men er det mogleg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1bc05e96-3c70-4244-805e-963c70b24409_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1bc05e96-3c70-4244-805e-963c70b24409_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:12</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Jtg9XwnnHm7AzaZcsmzzJQIrAxSL-gyQiUOErYWFQZ1w.jpg"/>
+    </item>
+    <item>
+      <title>Klarer vi oss uten Google og Microsoft?</title>
+      <description><![CDATA[SV vil kaste ut amerikanske tech-giganter og lage en egen skyløsning for norske data. 
+Men er det allerede for sent?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e5471fc9-0bc6-42f6-871f-c90bc6f2f615_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e5471fc9-0bc6-42f6-871f-c90bc6f2f615_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_Z6LQtPVjgl3_NbSuXWoAAi3mWUuT22mY_1ZtYE8T_sg.jpg"/>
+    </item>
+    <item>
+      <title>Går nye Høgre til høgre?</title>
+      <description><![CDATA[Tok Høgre-landsmøtet partiet i blåare retning i saker som formuesskatt og EU?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/415e2971-1b7a-475d-9e29-711b7af75d30_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/415e2971-1b7a-475d-9e29-711b7af75d30_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:07</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W9aYGedeopaknTbbGqGZTQrB4TK5YUHQ7u8irCRI37RA.jpg"/>
+    </item>
+    <item>
+      <title>Skyggen over Høyre-landsmøtet</title>
+      <description><![CDATA[Vil Epstein-saken ødelegge for Ine Eriksen Søreide?
+I helgen velges hun til leder i Høyre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e28ce821-1fae-424c-8ce8-211fae424c36_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e28ce821-1fae-424c-8ce8-211fae424c36_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FdQmi_YmbJgjMDO2UZHfAgTWOISUvBSmdY1h7De-5-zA.jpg"/>
+    </item>
+    <item>
+      <title>Nedstemt om sjukehus</title>
+      <description><![CDATA[Strid om rekninga for sjukehusbygg gjer at helseminister Vestre får stortingsfleirtal mot seg. Igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/18b560d8-98b3-4576-b560-d898b3657611_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/18b560d8-98b3-4576-b560-d898b3657611_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:08</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fvz14qT9SJaXWoibz8-FRg4oJkif5JdTOxpkNMseGh5g.jpg"/>
+    </item>
+    <item>
+      <title>Erna Solberg gir seg etter 22 år</title>
+      <description><![CDATA[Ingen har sittet lenger som Høyre-leder. Noen mener hun burde sitte enda litt, i påvente av flere Epstein-avklaringer. Men ikke Erna Solberg. I dag oppsummerer hun 22 år med opp- og nedturer i Høyre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1d8f4e7c-a4f7-424a-8f4e-7ca4f7e24a0d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1d8f4e7c-a4f7-424a-8f4e-7ca4f7e24a0d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mpbBQwK9xYPMqeheooxk_A4xfzRjMKHeusFPKVOXURDg.jpg"/>
+    </item>
+    <item>
+      <title>Fredsnasjonen Norge</title>
+      <description><![CDATA[I morgen kommer palestinernes president til Norge.
+Bør vi fortsatt prøve å skape fred i Midtøsten, Colombia og Filippinene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9cdd2ceb-6bca-4e28-9d2c-eb6bca6e283a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9cdd2ceb-6bca-4e28-9d2c-eb6bca6e283a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:02</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CEuLeZ7FHOioW5C005YaAd-G_kab5O1nhPwX_EFNfIA.jpg"/>
+    </item>
+    <item>
+      <title>Norsk kultur under press?</title>
+      <description><![CDATA[Høyres Ola Svenneby vil bevare Norge, og frykter majoritetsbefolkningen er i ferd med å bli fremmedgjort. Hele integreringsdebatten har havarert, svarer AUF.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/95dc0d96-0eb9-49cc-9c0d-960eb969cc3a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/95dc0d96-0eb9-49cc-9c0d-960eb969cc3a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NQ8qO_Gk91m-p09Jk3UoEgVYjiK16KXtPlQlJdukWb7A.jpg"/>
+    </item>
+    <item>
+      <title>Klar for avgang... i 2032</title>
+      <description><![CDATA[Kvifor vart nytt dobbeltspor til Hamar plutseleg to nye år forseinka? Er toget gått for 2030?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/d49240df-56a7-41b5-9240-df56a721b5e4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/d49240df-56a7-41b5-9240-df56a721b5e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:02</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k6fJX-ashJZAlDgDJHJffQLRhlexICb76vqkUSak-odA.jpg"/>
+    </item>
+    <item>
+      <title>Nye omkamper om Melkøya</title>
+      <description><![CDATA[Flertall holder seg for nesa og sikrer elektrifisering av Melkøya. Men ikke Frp. Useriøs og uansvarlig oppførsel, tordner Tonje Brenna (Ap)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/a428499a-71ee-4795-a849-9a71ee1795fe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/a428499a-71ee-4795-a849-9a71ee1795fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6RliMqy6oKtUZDlqXUTWUw73213t5xy_hLf86tCbXV2g.jpg"/>
+    </item>
+    <item>
+      <title>Ulovlig snuoperasjon på Melkøya?</title>
+      <description><![CDATA[I morgen kan Stortinget snu 180 grader om elektrifisering av Melkøya.
+Det vil være i strid med loven, sier jusprofessor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/115b626a-75c1-46ee-9b62-6a75c156ee21_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/115b626a-75c1-46ee-9b62-6a75c156ee21_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X_Ha4i39atmYyXOWKUbQcge1TvAjg93HbUgTs09YrCeA.jpg"/>
+    </item>
+    <item>
+      <title>Epstein-skuggar over kongeriket Noreg</title>
+      <description><![CDATA[Kronprinsessa pleidde kontakt med overgriparen Epstein. I dag stemmer Stortinget for fortsatt monarki.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1ef67f26-3d7a-4edf-b67f-263d7a2edfb1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1ef67f26-3d7a-4edf-b67f-263d7a2edfb1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:04</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8m8lOYZupHQtN2K333iFfAYNcr6ho7rAp8WrOzxIK_FQ.jpg"/>
+    </item>
+    <item>
+      <title>Matkøene som ikke forsvinner</title>
+      <description><![CDATA[For to år siden diskuterte vi fattige i matkø i Norge. Hvorfor har ikke køene blitt kortere?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/54aa9d58-79fa-477e-aa9d-5879fa877ef8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/54aa9d58-79fa-477e-aa9d-5879fa877ef8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:00</itunes:duration>
+      <pubDate>Mon, 02 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IEn5pprJkavg6rmVtlQ6QAmX19ZpZZkKoOOGSHiT6Fxg.jpg"/>
+    </item>
+    <item>
+      <title>Høyre og ytre høyre</title>
+      <description><![CDATA[Høyre i Norge, Moderaterna i Sverige og toryene i Storbritannia sliter i skyggeland. Skal de følge etter velgerne, som nå går mot ytre høyre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4155e7b0-d19e-4d65-95e7-b0d19e4d6506_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4155e7b0-d19e-4d65-95e7-b0d19e4d6506_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k8Ihgds7lq-jpjB43xWMmQKqkx59Qw8wCnLdQWB0BvZw.jpg"/>
+    </item>
+    <item>
+      <title>Kvotekjøp i Zambia</title>
+      <description><![CDATA[Regjeringen kjøper kvoter i Zambia for å nå norske klimamål.
+Vi kjøper oss fri fra å kutte i Norge, advarer MDG.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e3cf74b0-fa1e-4d29-8f74-b0fa1e2d298d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e3cf74b0-fa1e-4d29-8f74-b0fa1e2d298d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:55</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 08:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WRL2DPwKMpRIfmX3xP-U8wyaZJc-_Qrr3g6Dhycj7LjQ.jpg"/>
+    </item>
+    <item>
+      <title>Fortsatt heilt konge</title>
+      <description><![CDATA[Eit storting med færre republikanarar sikrar fortsatt monarki.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/46b4ef10-29ee-4be1-b4ef-1029eebbe199_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/46b4ef10-29ee-4be1-b4ef-1029eebbe199_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fSOv-bxB__Xy5mVnZsx9rgTGYUCD6rKWnRISwP0swvUg.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan redde Oljefondet?</title>
+      <description><![CDATA[Halvparten av Oljefondets investeringer er i USA. 
+Selg nå, råder sjeføkonom. 
+Men hvem tjener på det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/dd982e88-2d3b-4cb6-982e-882d3b9cb606_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/dd982e88-2d3b-4cb6-982e-882d3b9cb606_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:13</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ofwLXO_v1t5ARnCiW5gSuQ73bW0q9ehU8riBaA4417Yg.jpg"/>
+    </item>
+    <item>
+      <title>Høyre vil straffe flyktninger som bryter "borgerkontrakt"</title>
+      <description><![CDATA[Høyre foreslår ny "borgerkontrakt" der brudd straffes med kutt i ytelser eller tap av permanent oppholdstillatelse. 
+- Et nytt lavmål i integreringsdebatten, svarer SV.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/edb9229a-0883-4e18-b922-9a0883be182e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/edb9229a-0883-4e18-b922-9a0883be182e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bvH0y2Uicc5FpKDSKhMRTAro26jn0rZRLuN-nl6XnT0A.jpg"/>
+    </item>
+    <item>
+      <title>Frp snur om Melkøya - Et svik, mener Rødt</title>
+      <description><![CDATA[Før valget kjempet Frp mot elektrifisering av Melkøya, men nå snur de.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/b08ad05c-accf-4c7a-8ad0-5caccfcc7a65_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/b08ad05c-accf-4c7a-8ad0-5caccfcc7a65_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hw-OXuDmdhcSbWuSpGJaQAq9rxleJ-0vopuSDS4EsnYw.jpg"/>
+    </item>
+    <item>
+      <title>Trump mot Europa</title>
+      <description><![CDATA[Trump langa ut mot Europa i Davos. Korleis opplevde statsministeren det? Kva er riktig svar?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9e08403e-8282-43f9-8840-3e828243f9fd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9e08403e-8282-43f9-8840-3e828243f9fd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vne5g5nxZnxVxqn7oHvJKAm1nJcxXPuLpAa8aEM0IeDg.jpg"/>
+    </item>
+    <item>
+      <title>Stortingspresidenten provoserer eksil-iranere</title>
+      <description><![CDATA[Eksil-iranere mener stortingspresident Masud Gharahkhani overser dem, samtidig som han favoriserer monarkister – iranere som støtter prins Reza Pahlavi i USA, dersom regimet i Teheran faller. Er han vår stortingspresident, spør de.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/122e9964-2766-42c9-ae99-642766b2c9be_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/122e9964-2766-42c9-ae99-642766b2c9be_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:00</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1iH0HAJtZ_brJls1tEXh1Qg6doIlta9O4T1Nl40uhWzw.jpg"/>
+    </item>
+    <item>
+      <title>Ett år med Trump - hva nå?</title>
+      <description><![CDATA[Har Norges forhold til USA noensinne vært dårligere? Og Venstre har evaluert valgkampen - hva gikk galt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/2f84cc20-242e-4529-84cc-20242ed5296f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2f84cc20-242e-4529-84cc-20242ed5296f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rsX9zsg9EsOKPendafWW2QLTIOg1tYWgDMyLFjMAVOFw.jpg"/>
+    </item>
+    <item>
+      <title>Norge inn i tollunionen?</title>
+      <description><![CDATA[EU gjengjelder USAs straffetoll. Bør Norge svare med å bli med i EUs tollunion?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/8fcdd7cf-4280-474f-8dd7-cf4280074fe6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/8fcdd7cf-4280-474f-8dd7-cf4280074fe6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dUl2fx4Z8h0HuK5d2RwOEgPCeZtTMuGLSkL9_ifRrGtg.jpg"/>
+    </item>
+    <item>
+      <title>Make Svalbard greit igjen</title>
+      <description><![CDATA[Svalbard er i spel, meiner ekspert. Då er det neppe heldig at det er problem med forsyningane til øya.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/db788a13-ed48-4f9e-b88a-13ed481f9efb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/db788a13-ed48-4f9e-b88a-13ed481f9efb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OUxIfisRfs-NDXHV03dregr_4GEzjSnwDQuLYXEZlj8w.jpg"/>
+    </item>
+    <item>
+      <title>SV-lederen om kritikken</title>
+      <description><![CDATA[SV-leder Kirsti Bergstø svarer på kritikken om dårlig styring, ultimatumet og utydelige løsninger i en intern evalueringsrapport.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/96350e68-0bf7-46bf-b50e-680bf786bfc7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/96350e68-0bf7-46bf-b50e-680bf786bfc7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 08:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uiLnz8gE9sY9MIcFjB4DjQaPL1s4iuZqQ6j6UO0VFQUQ.jpg"/>
+    </item>
+    <item>
+      <title>Regjeringen vil forlenge oljealderen</title>
+      <description><![CDATA[Regjeringen vil at oljealderen varer så lenge som mulig, og fortsetter å lete.
+Hvordan går det med samarbeidet med MDG da?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/41518ab5-d23a-417c-918a-b5d23a917c0e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/41518ab5-d23a-417c-918a-b5d23a917c0e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JBVEtKpR9zXRROMozcP1JgsWd-jakgLyu0pI26_A2DBw.jpg"/>
+    </item>
+    <item>
+      <title>Innføre arveskatt igjen?</title>
+      <description><![CDATA[Kan arveskatt for dei rikaste vere betre enn formuesskatt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/7f333571-02f3-46d9-b335-7102f396d9ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/7f333571-02f3-46d9-b335-7102f396d9ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NVy8auQeADLJOuGZEnXwLw_bsTeIRdmxj6EFiklc_PCw.jpg"/>
+    </item>
+    <item>
+      <title>Høyre vil ha færre kommuner</title>
+      <description><![CDATA[Høyres Nikolai Astrup vil kutte kraftig i antallet kommuner, og utelukker ikke tvang.
+– Høyre har tydeligvis ikke lært av forrige runde, sier Trygve Slagsvold Vedum.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/208a0cd3-68aa-4a73-8a0c-d368aa7a7384_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/208a0cd3-68aa-4a73-8a0c-d368aa7a7384_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dyFduGMKp99ucZCd2XtgVgve2wwsl_85HGWKt6TIxJFg.jpg"/>
+    </item>
+    <item>
+      <title>Skroter lærernormen</title>
+      <description><![CDATA[Er lærernormen en tvangstrøye for kommunene eller en sikkerhet for god læring i klasserommet?
+
+Kommisjon vil fjerne lærernormen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9cdf4093-0228-462a-9f40-930228662a43_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9cdf4093-0228-462a-9f40-930228662a43_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:02</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Md9fRsrdVskdVfGWEA2yTw1bp39SWn585AZIotQRwA9Q.jpg"/>
+    </item>
+    <item>
+      <title>Temperaturrekord i Norge i 2025</title>
+      <description><![CDATA[I dag diskuterer Stortinget regjeringens Plan for Norge.
+Klima er nedprioritert, mener Venstre.
+Men er det fortsatt "Vår tids viktigste sak"?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/3360c09a-0666-4144-a0c0-9a0666514467_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3360c09a-0666-4144-a0c0-9a0666514467_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:57</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gEPTMWPj2J87D9LenebuGgsjoPO_vHyEfSWOckcpCCLw.jpg"/>
+    </item>
+  </channel>
+</rss>

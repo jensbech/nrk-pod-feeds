@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Både Erlend og Steinar </title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>En tenketank for folk med lav intelligens.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:34:12 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Hakekorset som vindmølle</title>
+      <description><![CDATA[Hva er det ideelle utseendet for en statsleder? Og hva slags mat får deg til å fremstå som mest intelligent?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/8264bb28-b7ca-4512-a4bb-28b7caa5129b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/8264bb28-b7ca-4512-a4bb-28b7caa5129b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:56</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Tommelringen og andre identitetsmarkører</title>
+      <description><![CDATA[Steinar har blitt krenket av en idrettshall, og Erlend har blitt en OL-ikonoklast. Og hva slags identitetsmarkører finnes på høyre- og venstresiden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ea47c753-fd76-4990-87c7-53fd7669904c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ea47c753-fd76-4990-87c7-53fd7669904c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:54</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Erlend har vært i nød</title>
+      <description><![CDATA[Erlend har vært i nød og Steinar har fått høre at han ikke er sjefen i huset. Og er toalettet egentlig ferdig utviklet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/347b2391-a224-42fb-bb23-91a224b2fb82_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/347b2391-a224-42fb-bb23-91a224b2fb82_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:24</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Bingo under bakken</title>
+      <description><![CDATA[Kan aliens spise oss med god samvittighet? Og tenketanken tar for seg en verden uten andre menn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/75e22874-1a55-4f48-a228-741a554f4823_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/75e22874-1a55-4f48-a228-741a554f4823_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:41</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Å drite i andres bukser</title>
+      <description><![CDATA[Steinar vil at kriminelle skal forfølges til verdens ende. Erlend har løsningen på sykefraværet. Og når passer det å servere «Epstein-muffins»?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/17cc0bd2-45af-4081-8c0b-d245af508119_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/17cc0bd2-45af-4081-8c0b-d245af508119_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:13</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Hva hvis Epstein lever...?</title>
+      <description><![CDATA[Burde vi klone kong Harald? Hva er fremtidens verb? Og kan det hende at Jeffrey Epstein fortsatt lever?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1146aded-6a1d-4d38-86ad-ed6a1d3d38fe_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1146aded-6a1d-4d38-86ad-ed6a1d3d38fe_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:38</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Steinar på operasjonsbordet</title>
+      <description><![CDATA[Hvilke minner har høyest verdi? Ville man outsourcet bæsjing hvis man kunne? Og hvorfor har pedofile så mange filer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ba352d46-b4d0-4355-b52d-46b4d09355a3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ba352d46-b4d0-4355-b52d-46b4d09355a3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:06</itunes:duration>
+      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Den eldste leken i verden</title>
+      <description><![CDATA[Erlend har en teori som kan hjelpe landslaget. Steinar har en teori om menneskets utvikling. Og tenketanken rangerer natur!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/5465fe8e-8bb9-48d0-a5fe-8e8bb9e8d099_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/5465fe8e-8bb9-48d0-a5fe-8e8bb9e8d099_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:10</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Hotte babes trenger hjelp</title>
+      <description><![CDATA[Erlend har en ny geopolitisk strategi for Norge. Steinar har ny info om byllen på kjeven. Og hvor står egentlig Nissen politisk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1316ee2d-dc74-4521-96ee-2ddc740521e8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1316ee2d-dc74-4521-96ee-2ddc740521e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:23</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Den andre mellomkrigstiden</title>
+      <description><![CDATA[Hvordan kan vi distrahere Trump? Ødela David Bowie Vesten? Og både Erlend og Steinar har hatt gubbete øyeblikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ced35121-3900-40cb-9351-213900c0cbb2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ced35121-3900-40cb-9351-213900c0cbb2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:09</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er Steinars identitet?</title>
+      <description><![CDATA[Er vi sjef over vår egen identitet? Og hva er det absolutt verste man kan våkne opp til på soverommet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/02943677-f102-4005-9436-77f102e005b0_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/02943677-f102-4005-9436-77f102e005b0_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:57</itunes:duration>
+      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Deltids Kaptein Sabeltann</title>
+      <description><![CDATA[Steinar har funnet ut at følelsesregisterets ytterpunkter ikke er så spennende. Erlend har funnet ut at vi kan få mer lykke ut av hver krone.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f9ad399b-2b41-4b71-ad39-9b2b412b71ed_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f9ad399b-2b41-4b71-ad39-9b2b412b71ed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:38</itunes:duration>
+      <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>De smarte har lest seg bort</title>
+      <description><![CDATA[Hva er den minste mengden makt som kan gå noen til hodet? Og er de smarteste blant oss for fri i tanken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/5755347e-9f89-4724-9534-7e9f89c72430_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/5755347e-9f89-4724-9534-7e9f89c72430_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:08</itunes:duration>
+      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Lengsel etter apokalypsen</title>
+      <description><![CDATA[Erlend lever i fremtidens fortid, Steinar lever i nuet, og en lytter lengter etter apokalypsen. Og vil en falsk finger hjelpe deg som kriminell?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3dc4578c-14b7-47c8-8457-8c14b7c7c8c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3dc4578c-14b7-47c8-8457-8c14b7c7c8c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:04</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Nysgjerrig på atomkrig</title>
+      <description><![CDATA[Hvordan reagerer vi hvis et helt kontinent forsvinner? Hva gjør vi med ukrainske desertører? Og hvorfor er vi dummest i Norden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/e23e0a7b-73ec-40cf-be0a-7b73ec40cfd4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/e23e0a7b-73ec-40cf-be0a-7b73ec40cfd4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Integreringsmodellen: Tigermamma</title>
+      <description><![CDATA[Steinar har et forslag til bedre integrering. Erlend har et forslag til fremtidige «Spillet»-deltakere. Og hvordan ville mennesker vært med hale?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1c340478-b911-4562-b404-78b9118562aa_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1c340478-b911-4562-b404-78b9118562aa_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:09</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Post-woke er skummelt</title>
+      <description><![CDATA[Steinar beveger seg inn i sin fars domene. Erlend jobber på et manifest i det skjulte. Og er mennesket en fin skapning?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/01760563-4c3b-4f4a-b605-634c3b7f4ac3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/01760563-4c3b-4f4a-b605-634c3b7f4ac3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:18</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Steinars sorte hull</title>
+      <description><![CDATA[Steinar har fått nye bukser – og kanskje en ny religion. Erlend lurer på om fritidsklubbene bør innføre opptakskrav.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/e258bbf6-b5d7-4bc4-98bb-f6b5d70bc4d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/e258bbf6-b5d7-4bc4-98bb-f6b5d70bc4d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:38</itunes:duration>
+      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Et godt liv under bakken</title>
+      <description><![CDATA[Hvorfor er Steinar så glad i østlig kultur? Hva slags drømmesamfunn ser Erlend for seg? Og er det feminint å bruke håndvifte?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d85a9751-5433-448d-9a97-515433b48d17_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d85a9751-5433-448d-9a97-515433b48d17_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:39</itunes:duration>
+      <pubDate>Mon, 10 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Den beste kebaben</title>
+      <description><![CDATA[Er Erlend den nye Fredrik Solvang? Og hvorfor er det så mye stolthet knyttet til det å spise kebab?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/cf777a45-8bb4-4d74-b77a-458bb4bd745a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/cf777a45-8bb4-4d74-b77a-458bb4bd745a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:51</itunes:duration>
+      <pubDate>Mon, 03 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Jenter og sjokolademelk</title>
+      <description><![CDATA[Bør man straffe foreldre for barnas kriminalitet? Og hvorfor er Steinar plutselig mindre redd for døden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c3485a59-314c-45d3-885a-59314cc5d3c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c3485a59-314c-45d3-885a-59314cc5d3c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:39</itunes:duration>
+      <pubDate>Mon, 27 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Et historisk øyeblikk</title>
+      <description><![CDATA[Hvem i tenketanken gjør seg best som diktator? Og hva skjer med nasjonen hvis alle jenter mister fruktbarheten fra de fyller 13 år?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/7a58d458-9266-4601-98d4-589266660149_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/7a58d458-9266-4601-98d4-589266660149_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:57</itunes:duration>
+      <pubDate>Mon, 20 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Mannen med avfyringskoden</title>
+      <description><![CDATA[Kan Martin Lepperød drepe noen som er nedfryst? Og tenketanken er i det homoerotiske hjørnet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3005b4e8-9967-4c55-85b4-e89967cc5500_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3005b4e8-9967-4c55-85b4-e89967cc5500_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:07</itunes:duration>
+      <pubDate>Mon, 13 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Prosjekt Frontallapp</title>
+      <description><![CDATA[Burde man innføre en obligatorisk drikkedag i 10. klasse? Og Steinar har en plan for frontallappen sin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/17870494-c4a3-42b3-8704-94c4a362b327_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/17870494-c4a3-42b3-8704-94c4a362b327_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:54</itunes:duration>
+      <pubDate>Mon, 06 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>To tryllekunstnere i ett rom</title>
+      <description><![CDATA[Burde vi ta flere livsvalg – på kødd? Hvor ble det av gangsterne med verdighet? Og hvorfor hadde det blitt krasj mellom Steinar og Jens Stoltenberg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/45901b1b-b32a-4826-901b-1bb32a8826b7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/45901b1b-b32a-4826-901b-1bb32a8826b7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:21</itunes:duration>
+      <pubDate>Mon, 29 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Charlie Kirk og en vond telefon</title>
+      <description><![CDATA[Steinar drømmer om å bli intimitetskoordinator og Erlend må ta en ubehagelig telefonsamtale.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f9e6e50f-b540-49f0-a6e5-0fb540c9f0e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f9e6e50f-b540-49f0-a6e5-0fb540c9f0e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:45</itunes:duration>
+      <pubDate>Mon, 22 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Hanekamp: Erlend vs Steinar</title>
+      <description><![CDATA[Fører yoga til helseangst? Blir man et bedre menneske om man bytter ut porno med bilder av venner og bekjente? Og er Erlend og Steinar alfaen i sitt miljø?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d0ac2a6f-b323-46ba-ac2a-6fb32366ba96_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d0ac2a6f-b323-46ba-ac2a-6fb32366ba96_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:42</itunes:duration>
+      <pubDate>Mon, 15 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Miljøpartiets Hitler</title>
+      <description><![CDATA[Hvor viktig er det egentlig å være i kontakt med egne følelser? Og skal menn ha fucka tær?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/740d11cf-2320-43f1-8d11-cf2320e3f15e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/740d11cf-2320-43f1-8d11-cf2320e3f15e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:20</itunes:duration>
+      <pubDate>Mon, 08 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Dumme mannetanker</title>
+      <description><![CDATA[Hva er det minst mandige mandige menn gjør? Hva er kutymen for pulevenn i begravelse? Og en lytter har laget en ny stemmemodell.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/eb422110-47c9-4fd4-8221-1047c99fd4e2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/eb422110-47c9-4fd4-8221-1047c99fd4e2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:43</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Det lille mobbeofferet</title>
+      <description><![CDATA[Bør Norge ha nulltoleranse for cyberangrep? Hvem får Erlend til å snu i rulletrappa? Og hvordan oppleves filmen om hele livet til Steinar?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/a8bf0067-c3aa-4ef9-bf00-67c3aa4ef9ec_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/a8bf0067-c3aa-4ef9-bf00-67c3aa4ef9ec_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:23</itunes:duration>
+      <pubDate>Mon, 25 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Legg ned Norge nå</title>
+      <description><![CDATA[Hvordan takler Steinar 19 flåttbitt? Hvor viktig blir karisma for årets valg? Og tenketanken er totalt splittet om motorsyklister.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/975f322e-e814-443d-adc7-55211ddb0376_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/975f322e-e814-443d-adc7-55211ddb0376_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:49</itunes:duration>
+      <pubDate>Mon, 18 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Den nye kongefamilien</title>
+      <description><![CDATA[Hvordan ville Aristoteles vært på TikTok? Snakkes det mistenkelig lite om kloning? Og en ny konspirasjonsteori tar form.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/275c75e9-a32a-44f8-acd5-5afe5cfebff5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/275c75e9-a32a-44f8-acd5-5afe5cfebff5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Mon, 11 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Et norsk mutt hei</title>
+      <description><![CDATA[Erlend har fått en åpenbaring om norsk mutthet. Steinar har kjøpt seg bil. Og hvordan blir far-sønn dynamikk ødelagt av ChatGPT?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/5647d891-6d96-401c-b510-c83d78891407_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/5647d891-6d96-401c-b510-c83d78891407_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:13</itunes:duration>
+      <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Pipelydmannen</title>
+      <description><![CDATA[Er det ALLTID sunt å lese en bok? Har det gått inflasjon i fine kropper? Og hvordan kan man si at man er utbrent på en hip måte?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/65eb8793-3209-4c03-8b60-db070f6b220c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/65eb8793-3209-4c03-8b60-db070f6b220c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:30</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Ego Maradona</title>
+      <description><![CDATA[Hva er den beste håndskriften? Kan man lære ALT fra internett? Og tenketanken må brenne en ikke-religiøs bok.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/bd626334-8a00-4dc3-a45a-7089ebc85706_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/bd626334-8a00-4dc3-a45a-7089ebc85706_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:51</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Far, ikke gi opp</title>
+      <description><![CDATA[Hva er det motsatte av en hund? Og hvor langt skal man egentlig strekke seg for å passe på andres ting?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f905800f-45aa-4395-b28a-f9a534cd22cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f905800f-45aa-4395-b28a-f9a534cd22cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:51</itunes:duration>
+      <pubDate>Mon, 16 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Street values i Marrakesh</title>
+      <description><![CDATA[Steinar har en så klok tanke at Erlend lurer på om han har fått "hjelp hjemmefra". Erlend finner ut hva han skal bruke den mørke makten sin på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1aeb8921-d290-411d-a82d-6d6d2799c642_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1aeb8921-d290-411d-a82d-6d6d2799c642_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:42</itunes:duration>
+      <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Jentetur med en vri</title>
+      <description><![CDATA[Hvem i NRK er russisk spion? Og hvordan er det å være en sykt digg jente?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/0909f649-c504-4acc-90dc-207c52071d84_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/0909f649-c504-4acc-90dc-207c52071d84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:42</itunes:duration>
+      <pubDate>Mon, 02 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>11 dager og 31 år</title>
+      <description><![CDATA[Er det mandig å eie sin egen tomt? Og hvor mange mennesker må reddes for at Erlend og Steinar ofrer livet sitt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/22e8b988-9d71-4872-a12c-ccb31d88b32a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/22e8b988-9d71-4872-a12c-ccb31d88b32a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:07</itunes:duration>
+      <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Steinar har blitt nynazist</title>
+      <description><![CDATA[Mye har skjedd med Steinar siden sist og Erlend er i halshugge-humør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c2d27440-87c1-4d14-8f74-782f99839ffa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c2d27440-87c1-4d14-8f74-782f99839ffa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:50</itunes:duration>
+      <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Forakt for de rike</title>
+      <description><![CDATA[Steinar lurer på hvorfor han blir så flau på vegne av Jonas Gahr Støre. Og hvis hver by bare har én yrkesgruppe, hvilken yrkes-by velger du?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/70365b81-8c83-4d94-8584-74b3d3c5bf4f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/70365b81-8c83-4d94-8584-74b3d3c5bf4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:25</itunes:duration>
+      <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Ikke vær redd, Martin Ødegaard</title>
+      <description><![CDATA[Hvor høy skal menn få bli med "statspakka"? Og hvordan forholder vi oss når sexy romvesener ankommer jorda?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3f3bc872-1e5c-48e7-b0f7-98ac1d30d979_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3f3bc872-1e5c-48e7-b0f7-98ac1d30d979_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:25</itunes:duration>
+      <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Ærlig psykolog-tjeneste™</title>
+      <description><![CDATA[Erlend og Steinar har fått svar på hva som er det verste med å være kvinne. Og hva slags kvinne ville Erlend og Steinar vært?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2f3a99fe-de33-4f30-9f5c-704593121e83_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2f3a99fe-de33-4f30-9f5c-704593121e83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:34</itunes:duration>
+      <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Kysseleken</title>
+      <description><![CDATA[Hvis oransje tenner betyr sterke tenner, blir det attraktivt da? Og tenketanken finner verdens beste skattebetalingsritual.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ce5a8e5c-9708-41c4-bce1-164e3631bdb8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ce5a8e5c-9708-41c4-bce1-164e3631bdb8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:50</itunes:duration>
+      <pubDate>Mon, 21 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Den nye pønken</title>
+      <description><![CDATA[Erlend og Steinar får en dose med sannhetsserum hver. Hvem bruker de det på og hva spør de om?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/b4650cb3-a733-4c1a-8221-520273656bd2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/b4650cb3-a733-4c1a-8221-520273656bd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:02</itunes:duration>
+      <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Sammen om skammen</title>
+      <description><![CDATA[Hva er det mest uattraktive man kan være norgesmester i? Og ville menn født hvis de kunne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/dbdc2dbe-345a-4fb3-905a-223c0a0c07f8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/dbdc2dbe-345a-4fb3-905a-223c0a0c07f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:01</itunes:duration>
+      <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Guttekrig og jentekrig</title>
+      <description><![CDATA[Steinar lurer på om han har nådd nivå 2.0 av skuespilleryrket. Erlend har gjort en observasjon om krig og kjønn. Og tenketanken har noen råd til landslaget!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ed2a72c5-6ee4-49e0-8ca9-d7e7cd1966ae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ed2a72c5-6ee4-49e0-8ca9-d7e7cd1966ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:02</itunes:duration>
+      <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Drapet på Oscar Wilde</title>
+      <description><![CDATA[Steinar har blitt kalt for en snackboks. Erlend har låst seg inne på McDonalds. Og hvorfor er vi mennesker så tiltrukket av baller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/876fba49-648c-462f-bce5-bda86d62aa4e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/876fba49-648c-462f-bce5-bda86d62aa4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:38</itunes:duration>
+      <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Venstresidens mannsideal</title>
+      <description><![CDATA[Hvordan forholder man seg egentlig til en portal i rumpa? Og kan bærenett være ødeleggende for venstresidens mannsideal?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2cdc2083-9405-4c78-8e5f-fcf32fb48f26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/2cdc2083-9405-4c78-8e5f-fcf32fb48f26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:57</itunes:duration>
+      <pubDate>Mon, 17 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>The Equatorial War</title>
+      <description><![CDATA[Tenketanken er på krigsstien og vil lage propagandafilm for det norske forsvaret. Og hvorfor sleper barn store greiner etter seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ae3096e1-facd-48ca-aeb8-71b8889e2af4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/ae3096e1-facd-48ca-aeb8-71b8889e2af4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:30</itunes:duration>
+      <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+  </channel>
+</rss>

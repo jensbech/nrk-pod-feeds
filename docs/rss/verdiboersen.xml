@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Verdibørsen</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Ideer og analyser. For deg som vil bli klokere.
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:41:30 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Bare spre glede - Utilitarisme</title>
+      <description><![CDATA[Ex. Phil med Ole Martin Moen  - del 16]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/34b5e74d-fa65-4a86-b5e7-4dfa658a866d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/34b5e74d-fa65-4a86-b5e7-4dfa658a866d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:40</itunes:duration>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iNaDaGGrEv3E9sV5W5xelQFK8V84zSEheac2V_31uLbg.jpg"/>
+    </item>
+    <item>
+      <title>Det tredje riket 3:12</title>
+      <description><![CDATA[Hvordan kunne et moderne samfunn bli et brutalt regime? Del 3:  Riksdagen brenner. Opp av asken stiger Det tredje riket]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e7da9e59-41ba-4889-9a9e-5941ba38898e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e7da9e59-41ba-4889-9a9e-5941ba38898e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:44</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/noSXaCH0Lavp8p8__YYsww-3FeRcCQObZSPIJIlOJpyQ.jpg"/>
+    </item>
+    <item>
+      <title>Freud tilbyr ikke trøst</title>
+      <description><![CDATA[- Men psykoanalysen kan gi deg et friere liv, sier psykoanalytiker]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/4e94b138-2f15-40a3-94b1-382f1510a3e6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/4e94b138-2f15-40a3-94b1-382f1510a3e6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:46</itunes:duration>
+      <pubDate>Sun, 08 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DB4OImGgkzuTvYHi6lDCngJWZLbiiqY_m_h-cuVl67pA.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor så lojale mot Trump?</title>
+      <description><![CDATA[Fra å kalle Trump en idiot til å støtte ham 100 %. Hva er forklaringen?"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/a6a9bdbf-2b6f-4727-a9bd-bf2b6f7727e3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/a6a9bdbf-2b6f-4727-a9bd-bf2b6f7727e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:04</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 12:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JjT6DTCiDBq_O5xIIf2sZwh3WiWM50AtjlRMifB_x6rg.jpg"/>
+    </item>
+    <item>
+      <title>Krig uten ende</title>
+      <description><![CDATA[-Russland ligner mer og mer på Sovjetunionen og krigen binder folket til regimer, sier historiker.
+-Fred i Ukraina er langt unna.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/39562e75-c435-47b9-962e-75c435d7b9f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/39562e75-c435-47b9-962e-75c435d7b9f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:37</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 12:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xGq3stz3ihM3l12cDLfz0g6VU2pM9txNj5G0WbA0VS2Q.jpg"/>
+    </item>
+    <item>
+      <title>Terje Tvedt om norsk overmot</title>
+      <description><![CDATA[Norge ønsker å være en humanitær stormakt. Men nå, med Epstein-avsløringene, har glorien falmet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/160b95ef-2af6-4bc2-8b95-ef2af67bc21c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/160b95ef-2af6-4bc2-8b95-ef2af67bc21c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:16</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 15:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1ieU7f2LiBsWgBAlkxjt1gP-rnDuEGZOYmpjoIe6L8JA.jpg"/>
+    </item>
+    <item>
+      <title>Schopenhauer:Alt likner deg</title>
+      <description><![CDATA[Ex. Phil med Ole Martin Moen . Del 15]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/b18b0267-af83-49ed-8b02-67af8379ede3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/b18b0267-af83-49ed-8b02-67af8379ede3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:18</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dt939VfHK0EyyircXyZFxwJZI1qjYu5VEviCnveiGgdw.jpg"/>
+    </item>
+    <item>
+      <title>Det tredje riket 2:12</title>
+      <description><![CDATA[Hvordan kunne et moderne samfunn bli et brutalt regime? Del 2: Hvordan nazistene kom til makten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/35d24aa4-d170-4681-924a-a4d17006811c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/35d24aa4-d170-4681-924a-a4d17006811c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:27</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 10:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/noSXaCH0Lavp8p8__YYswwJq3iuXJOztdSPIJIlOJpyQ.jpg"/>
+    </item>
+    <item>
+      <title>Europa - en svak liten gris</title>
+      <description><![CDATA[Europa får kjeft og hån  fra øst og vest. Hvorfor det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/31c35370-a714-4ab7-8353-70a7148ab713_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/31c35370-a714-4ab7-8353-70a7148ab713_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:56</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 09:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZCz70SepPg0fH5R_p_s85AsRxxMyOGjtF2A5HVvjfG-g.jpg"/>
+    </item>
+    <item>
+      <title>Dyr i menneskets verden</title>
+      <description><![CDATA[Hadde det vært best for dyrene om mennesket forsvant?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/7feeae4e-6a04-450b-aeae-4e6a04e50b4b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7feeae4e-6a04-450b-aeae-4e6a04e50b4b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:12</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/00bBGCgiCAyH2xKkVqSAaAunK9omOt92vk_oLO5uvNmA.jpg"/>
+    </item>
+    <item>
+      <title>- Trump vil bli mer aggressiv</title>
+      <description><![CDATA[Ett år med Trump. Er USA fremdeles et demokrati? Historiker mener vi ikke har språk for det som skjer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/3f25b6ad-46be-4d79-a5b6-ad46be6d797d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/3f25b6ad-46be-4d79-a5b6-ad46be6d797d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:08</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hl4Rk8c-fmPxA2cW_w1p5wA-7Ikf6e6Mmgcr9Yx4lTyQ.jpg"/>
+    </item>
+    <item>
+      <title>Alt ligger implisitt. Kant</title>
+      <description><![CDATA[Ex. Phil med Ole Martin Moen. Del 14]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e1488354-6b0a-4612-8883-546b0a361218_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e1488354-6b0a-4612-8883-546b0a361218_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:09</itunes:duration>
+      <pubDate>Sun, 01 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CMIAhf0L7bEHe8iTgGZrgw9k0z7l76dTp9lCAsS_pG-A.jpg"/>
+    </item>
+    <item>
+      <title>Rovdyrenes tid</title>
+      <description><![CDATA[Hvordan autokrater og teknogiganter tar over verden. Vi snakker om Giuliano de Empolis bok og advarsel om en iskald framtid]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/0b53a895-22b4-42fa-93a8-9522b402fa8f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0b53a895-22b4-42fa-93a8-9522b402fa8f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:32</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 12:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1vWwKsD_ICV5p-cuDhMpWwM5zSDjbJlubTkpz0xqhVEw.jpg"/>
+    </item>
+    <item>
+      <title>Jernlovene</title>
+      <description><![CDATA[- Du kan ikke ringe et verdenspoliti. Jernlovene gjelder. Sånn lyder realismen. Miller og Hegseth er fan. 
+ Om teorien realismen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/34c6dd60-e7ad-448c-86dd-60e7ad348c68_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/34c6dd60-e7ad-448c-86dd-60e7ad348c68_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:00</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K4fgAuHb35PIIqcdh9PYQg4MflFWHZykQ-rZRpDO0l-Q.jpg"/>
+    </item>
+    <item>
+      <title>Det tredje riket  1:12</title>
+      <description><![CDATA[Hvordan kunne et moderne samfunn bli et brutalt regime? Del 1: 1918 -soldatene  kommer tilbake fra krigen. Hadde de virkelig tapt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/76ff1778-909c-4b8d-bf17-78909cbb8d43_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/76ff1778-909c-4b8d-bf17-78909cbb8d43_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:18</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/noSXaCH0Lavp8p8__YYswwCik5eeht289SPIJIlOJpyQ.jpg"/>
+    </item>
+    <item>
+      <title>Hopp av, Rubio!</title>
+      <description><![CDATA[- Snart for sent å forlate Trumpskuta. Men ting må skje fort - både blant republikanere og folk flest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/071174b7-dec1-436f-9174-b7dec1b36fcc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/071174b7-dec1-436f-9174-b7dec1b36fcc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:29</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ORkaaPSXzSAuZnFR7HMOwAMwOPveD-zCa7yUNnf_Ikdw.jpg"/>
+    </item>
+    <item>
+      <title>Når krigen kommer</title>
+      <description><![CDATA[Mental beredskap viktigere enn hermetikk
+Gjenhør fra mars 2025]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/58b8a4e7-e9ad-4779-b8a4-e7e9add779eb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/58b8a4e7-e9ad-4779-b8a4-e7e9add779eb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:38</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cEicECVlEXBum_S77ehBTQSlBbhZESNFGkqGjYGKXRwQ.jpg"/>
+    </item>
+    <item>
+      <title>Trumps revolusjonære kurs</title>
+      <description><![CDATA[Er det jungelens lov som gjelder nå?  Truer Trump sivilisasjonen?
+Verdibørsen spør Iver B Neumann]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/69a9bf7e-dc7b-4799-a9bf-7edc7bc799e8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/69a9bf7e-dc7b-4799-a9bf-7edc7bc799e8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:19</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fVgJ9Q_6ihSTjTYSB-QERw1brK67WFSIs-0uJM8UBN8w.jpg"/>
+    </item>
+    <item>
+      <title>Hyperpolitikk</title>
+      <description><![CDATA[Vi demonstrerer og raser som aldri før. Men ingenting endres]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ca058819-185e-4a13-8588-19185e2a13e9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ca058819-185e-4a13-8588-19185e2a13e9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:05</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5PUc4xnk5CWv5fb197BSswcgTkV9K1kTaC47i9z3xi3A.jpg"/>
+    </item>
+    <item>
+      <title>Når de rike drikker</title>
+      <description><![CDATA[- så går det ofte veldig bra! Hvordan kan det ha seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/704e9659-273c-418e-8e96-59273c618e4b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/704e9659-273c-418e-8e96-59273c618e4b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:40</itunes:duration>
+      <pubDate>Sun, 04 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vcWOJGa19yLhozsmxYSlVgbokAYMIUIwGXHH_7iIlkyA.jpg"/>
+    </item>
+    <item>
+      <title>Hva gjør det vakre med oss?</title>
+      <description><![CDATA[Filosof mener at vakker og klassisk kunst er bra for oss]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/d6fed168-1259-4b67-bed1-6812597b674b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/d6fed168-1259-4b67-bed1-6812597b674b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:18</itunes:duration>
+      <pubDate>Sun, 28 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cMBtFi8I5-FUmapGR6XfCQNzyArG03DVXeWFtu2E5lWA.jpg"/>
+    </item>
+    <item>
+      <title>Bryan Johnson: Evig liv mulig</title>
+      <description><![CDATA[Verdibørsen har intervjuet milliardæren  som vil leve evig og lage en "ikke  dø"  nasjon. - KI vil hjelpe oss, sier han]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e756e592-48ac-4496-96e5-9248ac249634_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e756e592-48ac-4496-96e5-9248ac249634_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:28</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 17:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q1i1fdlKKCvXhdimqg3wnwGpn8NWveULdwxLVyBRpYaA.jpg"/>
+    </item>
+    <item>
+      <title>Hva ser du egentlig? Empirisme</title>
+      <description><![CDATA[Ex. Phil med Ole Martin Moen   Del 13]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/568fe272-4356-4f27-8fe2-7243563f2756_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/568fe272-4356-4f27-8fe2-7243563f2756_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:35</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y7-yEptAPa9OEHcosiu5tgdGyXiafuIBaq4QFZSp5QjA.jpg"/>
+    </item>
+    <item>
+      <title>Er biohacking verdt det?</title>
+      <description><![CDATA[Mye å tjene på vår frykt for aldring.   Del 3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f64d027c-924f-492c-8d02-7c924f992c38_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f64d027c-924f-492c-8d02-7c924f992c38_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:13</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/erf6ASiGXGTFlX_xI9Kw4QlLC6l2vo27VR5LIz1z1u0w.jpg"/>
+    </item>
+    <item>
+      <title>Forakten i MAGA</title>
+      <description><![CDATA[Trump kalte somaliere for søppel. Hvordan forstå den stadige nedvurderingen av andre mennesker?
+
+Gjenhør fra 27.09.25]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cc22f0d4-fa79-4086-a2f0-d4fa79908607_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cc22f0d4-fa79-4086-a2f0-d4fa79908607_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:48</itunes:duration>
+      <pubDate>Thu, 04 Dec 2025 12:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UU1N63xzJHdsBucvWvZSiQqKtisXnr0TVhVcavnSbZrg.jpg"/>
+    </item>
+    <item>
+      <title>Evig liv?</title>
+      <description><![CDATA[Er biohacking en slags religion- evig liv i en frisk kropp?  Del 2]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f542cec9-713a-4cc2-82ce-c9713adcc213_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f542cec9-713a-4cc2-82ce-c9713adcc213_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:20</itunes:duration>
+      <pubDate>Sun, 30 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/erf6ASiGXGTFlX_xI9Kw4Q8j9y6SxZ8DhR5LIz1z1u0w.jpg"/>
+    </item>
+    <item>
+      <title>På vei  til 1600-tallet?</title>
+      <description><![CDATA[Skal det igjen bli greit å angripe små stater? Vi snakker om fredsforhandlingene for Ukraina. Og om Trumps trussel om dødsstraff]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/70144217-ad16-4dbc-9442-17ad16edbcd1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/70144217-ad16-4dbc-9442-17ad16edbcd1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:58</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WljoQP1bZTaSc-NZUI31igWYNfZqaZNjqOmjNTXFBZHQ.jpg"/>
+    </item>
+    <item>
+      <title>Plast - fantastisk og ille</title>
+      <description><![CDATA[Er plast blitt symbolet på mennesket?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f57bb196-44c7-4f2f-bbb1-9644c73f2f9c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f57bb196-44c7-4f2f-bbb1-9644c73f2f9c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:10</itunes:duration>
+      <pubDate>Sun, 23 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BZ_7QuHo6ILPr64KKvabqAOwVPsNmOGcQo8fWQdWJg_g.jpg"/>
+    </item>
+    <item>
+      <title>Biohack- meningen med livet?</title>
+      <description><![CDATA[- Det er naturlig  for mennesket å ville forbedre seg, sier filosof   Del 1]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1ded25c5-0c0b-4fe1-ad25-c50c0bafe1e4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1ded25c5-0c0b-4fe1-ad25-c50c0bafe1e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:33</itunes:duration>
+      <pubDate>Fri, 21 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/erf6ASiGXGTFlX_xI9Kw4Q2kk5aeFpvsBR5LIz1z1u0w.jpg"/>
+    </item>
+    <item>
+      <title>Tidenes "bad timing"?</title>
+      <description><![CDATA[- Samtidig som miljøproblemene ble store og synlige, ble nyliberalismen vår dominerende ideologi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/a28da7b1-fa04-4f40-8da7-b1fa047f406c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/a28da7b1-fa04-4f40-8da7-b1fa047f406c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:57</itunes:duration>
+      <pubDate>Sun, 16 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FjfyIikZ86La0ZgZ3RnGKwDhwDfTqWnKI0i_6ccbxRUA.jpg"/>
+    </item>
+    <item>
+      <title>Trump, BBC og kulturkrigen</title>
+      <description><![CDATA[Skal mediene skremmes til underdanighet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6430d042-2549-47da-b0d0-42254957da7f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6430d042-2549-47da-b0d0-42254957da7f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <pubDate>Fri, 14 Nov 2025 10:38:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mv3Hi8nrWxXd8H7jg3Mk-wLY3XvFuWOIutz4ajnUMx7Q.jpg"/>
+    </item>
+    <item>
+      <title>Trumps personlighet</title>
+      <description><![CDATA[Hvordan påvirker Trumps psyke politikken? Hva skjer når makt konsentreres rundt enkeltpersoner?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/93887f50-1b3e-470e-887f-501b3ed70e5e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/93887f50-1b3e-470e-887f-501b3ed70e5e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:38</itunes:duration>
+      <pubDate>Thu, 06 Nov 2025 12:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/guUP8-FaGJBj75hq4AIJJgpW9R98BdmzqH7VAO0wcrZw.jpg"/>
+    </item>
+    <item>
+      <title>Utvilsomt-Descartes</title>
+      <description><![CDATA[Ex. Phil med Ole Martin Moen - Del 12]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/8af35acd-95c7-4855-b35a-cd95c7785575_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8af35acd-95c7-4855-b35a-cd95c7785575_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:58</itunes:duration>
+      <pubDate>Sun, 02 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2ASORyrUl8-mdba8WJrgWwlm2zYZh-D_z794mOVgnGhQ.jpg"/>
+    </item>
+    <item>
+      <title>Ytre høyres ville vekst</title>
+      <description><![CDATA[Endringen som nå skjer i Europa, er historisk og ekstrem sjelden. Hvordan blir vår verden nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/d4bfc1e7-4bd8-41ce-bfc1-e74bd8e1cefc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/d4bfc1e7-4bd8-41ce-bfc1-e74bd8e1cefc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Fri, 31 Oct 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_8HcF91CqdvkDaycgeTMYgAL_kzJsnYqH8thjuvsNT-g.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan er det å være barn?</title>
+      <description><![CDATA[Filosof har skrevet bok om barn.  Da skriver han også om sinte barn og rasende foreldre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/daf87099-a220-4680-b870-99a220b68006_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/daf87099-a220-4680-b870-99a220b68006_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:53</itunes:duration>
+      <pubDate>Sun, 26 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OWI2uOntLaVHSlQm_HQOtwqWTnIdRHzDJAt9k8o6yDCg.jpg"/>
+    </item>
+    <item>
+      <title>Kina og andre verdenskrig</title>
+      <description><![CDATA[Hvordan brukes historien om  2. verdenskrig i Kina? Og hva skjedde?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5335ee72-19a0-407c-b5ee-7219a0107cd1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5335ee72-19a0-407c-b5ee-7219a0107cd1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:43</itunes:duration>
+      <pubDate>Fri, 24 Oct 2025 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Utp2KJXOQ8ulA0IjU7Pm_Aa1zF7KtHLtAyHsYDw-pamA.jpg"/>
+    </item>
+    <item>
+      <title>Trumpisme = fascisme?</title>
+      <description><![CDATA[Hva reiser seg i USA nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ee5d538d-dc06-4bdf-9d53-8ddc069bdf89_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ee5d538d-dc06-4bdf-9d53-8ddc069bdf89_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:15</itunes:duration>
+      <pubDate>Fri, 17 Oct 2025 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2z68vyicn_3qtc3y_izDoAvciM0SGg06IP7mC3HnKrqg.jpg"/>
+    </item>
+    <item>
+      <title>Dårlig latin. Renessansen</title>
+      <description><![CDATA[Ex. Phil med Ole Martin Moen - Del 11. Filosofi i renessansen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/8b17ae50-0e25-4ad9-97ae-500e250ad905_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8b17ae50-0e25-4ad9-97ae-500e250ad905_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:44</itunes:duration>
+      <pubDate>Sun, 12 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Qjk_mD4RgnoGNTtbz7KVyg2LelARUjBvB_ej39xcHw1w.jpg"/>
+    </item>
+    <item>
+      <title>Lynrask ferd mot diktatur?</title>
+      <description><![CDATA[Selvsensur og prepping for unntaket. Demokratiet i USA bygges ned]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/47df9642-e265-424f-9f96-42e265c24fd2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/47df9642-e265-424f-9f96-42e265c24fd2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:08</itunes:duration>
+      <pubDate>Thu, 09 Oct 2025 12:31:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7kEHW00RX91mzs2ATLhF8gpMvOJT5OAqMdB856Sc12Zg.jpg"/>
+    </item>
+    <item>
+      <title>Sokrates var elitesoldat</title>
+      <description><![CDATA[Filosofen Sokrates var kanskje den beste soldaten i Athen. Årsaken er hans  egen filosofi!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f546b1b5-35ff-4dfa-86b1-b535ffadfad0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f546b1b5-35ff-4dfa-86b1-b535ffadfad0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:02</itunes:duration>
+      <pubDate>Sun, 05 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FFq39S-Mzb61BoQevtqizwf910IkqZf9RUm71GpFQ83w.jpg"/>
+    </item>
+    <item>
+      <title>Ytre høyre vil ha korset</title>
+      <description><![CDATA[Er kristendommen i ferd med å bli kuppet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/94e7142b-27fe-4b66-a714-2b27fe9b6671_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/94e7142b-27fe-4b66-a714-2b27fe9b6671_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:04</itunes:duration>
+      <pubDate>Fri, 03 Oct 2025 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lH5MpuRnPgujeumNtuHHUwH0NHV8gY9gg_L4cZVTaW2Q.jpg"/>
+    </item>
+    <item>
+      <title>MAGAs "sado-konservatisme"</title>
+      <description><![CDATA[Hvordan skal vi forstå den store politiske vekkelsen som har hjemsøkt USA?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/dfe7e80f-47f6-4874-a7e8-0f47f648742e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/dfe7e80f-47f6-4874-a7e8-0f47f648742e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:47</itunes:duration>
+      <pubDate>Sat, 27 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sB0OZMM64Fw71eq2qLhyEwHelM1pEUjBne8wBRqMFCLA.jpg"/>
+    </item>
+    <item>
+      <title>Hva truer Europa?</title>
+      <description><![CDATA[2025 er året da en ny verdensorden vokser fram. - Det er dårlig nytt for Norge, sier Iver B. Neumann]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/27111146-3aa5-4dae-9111-463aa51dae19_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/27111146-3aa5-4dae-9111-463aa51dae19_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:49</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 12:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wAEvFQosFPa12k4bCCcFoggYRqKFYefrSPX_7p5zPgTg.jpg"/>
+    </item>
+    <item>
+      <title>Mister USA demokratiet nå?</title>
+      <description><![CDATA[Trump behandler militæret som et politisk virkemiddel, sier statsviter.  Vi snakker om vold, nasjonalgarden og polariseringen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f2e31671-a194-4b33-a316-71a194ab3386_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f2e31671-a194-4b33-a316-71a194ab3386_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:01</itunes:duration>
+      <pubDate>Fri, 19 Sep 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gNQr4yRJDpIk0fX14WCIcQvpVaQkeNw5DA7lINDgOv4A.jpg"/>
+    </item>
+    <item>
+      <title>Charlie Kirk og de 7 fjell</title>
+      <description><![CDATA[En spesiell teologi kan forklare aktivisten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6a42e078-57aa-4b53-82e0-7857aa9b53df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6a42e078-57aa-4b53-82e0-7857aa9b53df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <pubDate>Thu, 18 Sep 2025 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wnWbWEPr-xB1e-NOmFXfZgjct2Hki2ZdPTGz7-5LmCMw.jpg"/>
+    </item>
+    <item>
+      <title>Sadisme i Trumps USA</title>
+      <description><![CDATA[Å være slem er selve poenget. - Det vi ser er fascisme, sier historiker]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/3b71915c-1dc0-492a-b191-5c1dc0992a1a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/3b71915c-1dc0-492a-b191-5c1dc0992a1a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:39</itunes:duration>
+      <pubDate>Mon, 08 Sep 2025 09:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VkGSteVMus2MJEfOc5ds3QV2Go-Syi-3xIpxa6PAbyLQ.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan tenkte vikingene?</title>
+      <description><![CDATA[Hevn og ære - og magi. Vikingenes verden var annerledes, og helt ille hvis du var trell.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/9419e86c-acfe-41c5-99e8-6cacfe31c5e6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9419e86c-acfe-41c5-99e8-6cacfe31c5e6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:01</itunes:duration>
+      <pubDate>Thu, 04 Sep 2025 08:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZNSw9-7NG2DcON2iSB7jsAP3nCgv2t89fg6LY-2DurLQ.jpg"/>
+    </item>
+    <item>
+      <title>Nietzsche</title>
+      <description><![CDATA[Nietzsche leses av stadig flere. Han har ry som genial og farlig. Han rangerte mennesker, var for krig og snakket om slavemoral.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f9f7ecc2-b6aa-452b-b7ec-c2b6aa452ba0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f9f7ecc2-b6aa-452b-b7ec-c2b6aa452ba0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:56</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 10:11:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vkCD25lT-Ak8dOiTvu-WwwP4X3vMgmnkKEqwqtkPw12A.jpg"/>
+    </item>
+    <item>
+      <title>Venstreekstrem ble nynazist</title>
+      <description><![CDATA[Horst Mahler var venstreekstrem terrorist. Han endte som en av Tysklands mest kjente nynazister.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/67aa4fb0-281f-485c-aa4f-b0281f285cef_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/67aa4fb0-281f-485c-aa4f-b0281f285cef_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:40</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KjhWf5Cgn1ny9gHJMbK_-QzQuXj5D6AMWFnL_ixuaAfg.jpg"/>
+    </item>
+    <item>
+      <title>Nå trenger vi en utopi!</title>
+      <description><![CDATA[Kristopher Schau og Alexander Sandtorv savner utopien! Hvorfor drømmer vi ikke lenger om et bedre samfunn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/654c0979-2b9c-433f-954a-4329f61eab44_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/654c0979-2b9c-433f-954a-4329f61eab44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:31</itunes:duration>
+      <pubDate>Wed, 20 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/899J60nPqCZ6J6PrRWD4JAE2LcceAWymepuaJF9npLrQ.jpg"/>
+    </item>
+  </channel>
+</rss>

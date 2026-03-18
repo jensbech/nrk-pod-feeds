@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Etikketaten</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Kvar veke samlast tre kloke folk for å svare på små og store etiske spørsmål. Har du ei utfordring til panelet? Skriv til oss i appen NRK radio.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:36:06 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Jun 2025 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    <item>
+      <title>Viktig info: Gå til radioversjon for å høyre nye episoder!</title>
+      <description><![CDATA[Og stjernemarker oss gjerne der, så ser du når vi kjem ut med nye episoder kvar onsdag! Du kan også høyre oss i NRK P2 onsdagar kl. 12.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/fba72c1b-39e0-4163-bf32-e34cd9aeeb4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/fba72c1b-39e0-4163-bf32-e34cd9aeeb4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Wed, 04 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Kva gjer makt med oss?</title>
+      <description><![CDATA[Kan ein få makt utan å endre på kven ein er? Og kva har det å seie om unge folk droppar å lese klassisk litteratur til fordel for krim, fantacy og romantiske bøker?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/876ddba1-612b-4791-9a21-e6b869cb01aa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/876ddba1-612b-4791-9a21-e6b869cb01aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Wed, 28 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WG54QSe7uxF-FSjJ2z9e6g1jixVVpbW7QOQcUR0NkH3A.jpg"/>
+    </item>
+    <item>
+      <title>Kjæledyr spesial</title>
+      <description><![CDATA[Kva bør ein gjere med døde kjæledyr? Kan ein hund bli eit fullverdig familiemedlem? Og er det respektlaust å avlive hunden sin for å ta den med seg i grava? Advokat Geir Lippestad, hundetrenar Maren Teien Rørvik og dyreetikar Hannah Winther er på plass hos Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/0c2cdb24-5711-48fc-8ba9-7ee115b27c12_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/0c2cdb24-5711-48fc-8ba9-7ee115b27c12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 21 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C4IJcfqg8o-5cNHfCpbf8woQapY9IZdAl9FTcfQnjZZA.jpg"/>
+    </item>
+    <item>
+      <title>Øydelegg mobilen relasjonane våre?</title>
+      <description><![CDATA[Mobil spesial! Kva er digital utruskap? Kan ein KI-venn erstatte ein ekte venn? Og kan ein krevje mobilforbod rundt middagsbordet? Programleiar i P3 Arian Engebø, forfattar Michael Stilson og psykolog Svein Øverland er på plass hos programleiar Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/fbda17c8-17c5-4501-b93a-b72824d09971_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/fbda17c8-17c5-4501-b93a-b72824d09971_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 14 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hpyUYHCaJc0AihHkXL4uuwXwF6car3Fb0GIGfSnq01PQ.jpg"/>
+    </item>
+    <item>
+      <title>Klær og mote </title>
+      <description><![CDATA[Gjestar er journalist Morten Hegseth,  skreddar og dommar i Symesterskapet Andreas Feet og filosof Ragnhild Folkestad. Er skuleuniform ein god idé? Er det lov å stirre ekstra på folk som kler seg i skrikande farger? Og bør det vere aldersgrense på visse klesplagg? Gjestar er journalist Morten Hegseth,  skreddar og dommar i Symesterskapet Andreas Feet og filosof Ragnhild Folkestad. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/f5210ad8-785f-49c2-8f59-915fdea2f85b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/f5210ad8-785f-49c2-8f59-915fdea2f85b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 07 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5FRqAfhJMB9Dbah35R8s7Q373g5DUEfLXwCii3QwoLrw.jpg"/>
+    </item>
+    <item>
+      <title>Korleis snakke med dei du er ueinig med?</title>
+      <description><![CDATA[Korleis kan du ha ein god samtale med nokon du er totalt ueinig med? Kan det vere feil å vere høfleg i nokon samanhenger? Og kor open skal ein vere om at ein ikkje kan få barn? I panelet er skodespelar Assad Siddique, forfattar Lisa Esohel Knudsen og filosof Heine Holmen. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/60a99bcc-4a52-4f61-b80a-5f15d077571c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/60a99bcc-4a52-4f61-b80a-5f15d077571c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Wed, 30 Apr 2025 19:17:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Sow0f2JXW3XQzXeJeJDj3Q7f4O_Xd3IrQJYkOaXTIC7Q.jpg"/>
+    </item>
+    <item>
+      <title>Tilgi pappa før han dør?</title>
+      <description><![CDATA[Kva er rettferdig parøkonomi, hvis partnaren din tener dobbelt så mykje som deg? Ein lyttar har ikkje hatt kontakt med faren sin på mange år. No går livet hans mot slutten, og lyttaren spør: Bør eg ta eit siste farvel med han? Og er det greitt å gå med ei geopardkåpe som ein har arva?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/b91db514-0eea-4194-9549-91598fe1a7de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/b91db514-0eea-4194-9549-91598fe1a7de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Wed, 23 Apr 2025 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Kvifor elskar vi krim?</title>
+      <description><![CDATA[Kvifor elskar vi å lese krimbøker?  Er det ugreitt å kose seg med blodige drap? Og kva bør ein gjere med dagbøkene sine? Kaste dei, eller behalde dei? Forfatter Gunnar Staalesen, litteraturviter Janne Stigen Drangsholt og filosof Ragnhild Folkestad er med. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/2deec7dc-da9f-474c-a990-67b5e80860f1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/2deec7dc-da9f-474c-a990-67b5e80860f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Wed, 09 Apr 2025 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XSoQ9mWQ_sBgP2DQ5zWIMwV3HfDlSEU3GurADYXtVw2w.jpg"/>
+    </item>
+    <item>
+      <title>Er det dumt å være ydmyk?</title>
+      <description><![CDATA[Gjenhør med da programleder Silje Nordnes, Geir "fenriken" Aker, og filosof Heine Holmen satt i panelet. De diskuterer om det er bra å være ydmyk, om det å snakke om døden er løsninga for å bli kvitt dødsangst, og om man kan si til en kollega: Ta deg sammen, du er på jobb! Programleder er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/2c71ca7d-abb1-499a-bd40-4759873ca616_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/2c71ca7d-abb1-499a-bd40-4759873ca616_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:58</itunes:duration>
+      <pubDate>Tue, 01 Apr 2025 15:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tWHa9t7sQ1gIsa0v9aGFNgX-fhbJM6DbySFHT5iWxSmA.jpg"/>
+    </item>
+    <item>
+      <title>Løgn i politikken</title>
+      <description><![CDATA[President Donald Trump ljug. Det veit alle, også tilhengarane hans. Og likevel har dei tillit til han, korleis er det mogeleg? Politisk redaktør Torbjørn Røe Isaksen, AUF-leiar Gaute Skjervø og filosof Ragnhild Folkestad diskuterer. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/fa869174-1df8-44e9-be1b-2fbef338c80e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/fa869174-1df8-44e9-be1b-2fbef338c80e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/95fze4AmKlVXdedBBQbYnwvJ1ivavkorZSyEpS_RteOw.jpg"/>
+    </item>
+    <item>
+      <title>Historia gjentar seg, kvifor lærer vi ikkje?</title>
+      <description><![CDATA[Demokratiet vaklar over store deler av verda, og fascisme og høgreekstremisme står sterkare enn på lenge. Kvifor lærer vi ikkje av historia, når vi veit at den gjentar seg? Og ein lyttar spør: Kvifor handlar eg annleis enn det eg veit er godt? I panelet er politisk redaktør i E24 Torbjørn Røe Isaksen, AUF-leder Gaute Skjervø og filosof Ragnhild Folkestad. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/8c72abb3-94bd-4d44-b756-c73a655e9c14_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/8c72abb3-94bd-4d44-b756-c73a655e9c14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 19 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/95fze4AmKlVXdedBBQbYnwvJ1ivavkorZSyEpS_RteOw.jpg"/>
+    </item>
+    <item>
+      <title>Kvinner i usexy klær</title>
+      <description><![CDATA[Bør kvinner kle seg meir sexy enn menn? Skal ein prioritere jobb eller fritid når ein er utbrent? Og kva er eigentleg bullshit-jobbar? I panelet er komikar Martha Leivestad, TV-produsent Sarah Natasha Melbye og filosof Heine Holmen. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/42563c4d-c0b3-471f-ab26-8b6877635687_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/42563c4d-c0b3-471f-ab26-8b6877635687_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:28</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UYsGXl9AOucHN_GJtcAglQ06jlDd5IcvmQcB9bXezhRA.jpg"/>
+    </item>
+    <item>
+      <title>Mamma sin kjærast  har ein valdtektsdom</title>
+      <description><![CDATA[I panelet er redaktør i Subjekt Danby Choi, kulturredaktør i Bergens Tidende Jens Kihl og filosof Ragnhild Folkestad. Ein lyttar spør: mamma har blitt saman med ein mann som har blitt dømt for valdtekt. Korleis skal me forhalde oss til det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/98b270ab-8de4-4dd9-9b43-89daa42ee3ac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/98b270ab-8de4-4dd9-9b43-89daa42ee3ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:04</itunes:duration>
+      <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F1Wr55O7TxEnVAZGsrUrOAoEu6JwZL4pbpEmb33IOzGA.jpg"/>
+    </item>
+    <item>
+      <title>Kva er rettferdig parøkonomi?</title>
+      <description><![CDATA[I panelet er redaktør i Subjekt Danby Choi, kulturredaktør i Bergens Tidende Jens Kihl og filosof Ragnhild Folkestad.  Kva er rettferdig parøkonomi, hvis partnaren din tener dobbelt så mykje som deg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/2a78bbb2-0f47-4d07-ae98-6c33e84ab547_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/2a78bbb2-0f47-4d07-ae98-6c33e84ab547_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:23</itunes:duration>
+      <pubDate>Thu, 06 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F1Wr55O7TxEnVAZGsrUrOAoEu6JwZL4pbpEmb33IOzGA.jpg"/>
+    </item>
+    <item>
+      <title>Konfrontere venner som svikta?</title>
+      <description><![CDATA[I panelet er redaktør i Subjekt Danby Choi, kulturredaktør i Bergens Tidende Jens Kihl og filosof Ragnhild Folkestad. Da Beate vart sjuk, stilte ikkje vennene hennar opp for ho. Skal ho konfrontere dei, eller er ikkje slike venner noko å ta vare på?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/81fd1ca9-51cf-44a2-a13f-d2d34be0242a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/81fd1ca9-51cf-44a2-a13f-d2d34be0242a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:01</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F1Wr55O7TxEnVAZGsrUrOAoEu6JwZL4pbpEmb33IOzGA.jpg"/>
+    </item>
+    <item>
+      <title>Skjule sparepengar for partnar?</title>
+      <description><![CDATA[Gjestar er transaktivist Luca Espseth, KI-forskar Inga Strümke og filosof Heine Holmen. Er det greitt å ha ein hemmeleg sparekonto i tilfelle eit forhold tek slutt? Det handlar om økonomisk tryggleik, tillitt og openheit i forholdet ifølge paneldeltakarane.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/298ab656-4f35-47bc-be97-1b88cabc5862_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/298ab656-4f35-47bc-be97-1b88cabc5862_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:18</itunes:duration>
+      <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8ZR4urJmdlDYl5bFrNZXkgWreXAA7K_HR1YR7hioEwdg.jpg"/>
+    </item>
+    <item>
+      <title>Bør høge folk stå bakerst på konsert?</title>
+      <description><![CDATA[Med skodespelar Linn Skåber, journalist Jonas Skybakmoen og filosof Ragnhild Folkestad. Vi har fått inn eit forslag frå ei lita dame som stadig vekk opplever at høge folk stiller seg framfor ho på konsert. Ho foreslår ei løysing der alle får tildelt plassar basert på høgde. Er det ein god idé?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/76f1f549-8271-4379-ace9-42ec6fcb5322_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/76f1f549-8271-4379-ace9-42ec6fcb5322_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:37</itunes:duration>
+      <pubDate>Fri, 28 Feb 2025 11:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8w8Lv5KpEX4kmZ7wYh8NfArlL_dYWLl0dHW4EPqCc90g.jpg"/>
+    </item>
+    <item>
+      <title>Like barn leikar best?</title>
+      <description><![CDATA[Med transaktivist Luca Dalen Espseth, KI-forskar Inga Strümke og filosof Heine Holmen. Forskning viser at vi vel vennar basert på felles interessar, verdiar, utdanning og politisk ståstad. Han som bur i villaen oppi åsen, med feit lommebok, blir sjeldan bestevenn med han som bur i blokk. Kva gjer det med oss og verdiane våre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/530bcdf8-b67c-4fa7-8e3c-48ab5e082cf6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/530bcdf8-b67c-4fa7-8e3c-48ab5e082cf6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:38</itunes:duration>
+      <pubDate>Wed, 26 Feb 2025 08:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8ZR4urJmdlDYl5bFrNZXkgWreXAA7K_HR1YR7hioEwdg.jpg"/>
+    </item>
+    <item>
+      <title>Etisk shopping - finst det?</title>
+      <description><![CDATA[Gjestar er KI-forskar Inga Strümke, transaktivist Luca Dalen Espseth og filosof Heine Holmen, og dei diskuterer etisk handel. Tesla-skammen sprer seg etter at Elon Musk vart ein av Trump sine største støttespelarar, men er det rett at Tesla-eigarane skal stå til ansvar for hans verdiar? Finst eigentleg den "moralsk perfekte" bilen, og er det i det heile tatt mogleg å vere ein etisk korrekt forbrukar?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/f7e0c5f7-49b6-46da-9bab-e382ced0c787_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/f7e0c5f7-49b6-46da-9bab-e382ced0c787_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:51</itunes:duration>
+      <pubDate>Fri, 21 Feb 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8ZR4urJmdlDYl5bFrNZXkgWreXAA7K_HR1YR7hioEwdg.jpg"/>
+    </item>
+    <item>
+      <title>Vaksne som klagar over unge</title>
+      <description><![CDATA[Med skodespelar Linn Skåber, kommentator i Adresseavisa Jonas Skybakmoen og filosof Ragnhild Folkestad. Voksne har klaga over notidas ungdom i lange tider, men kvifor? Me skal prøve å forstå meir av dette fenomenet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/04f7946d-a081-410c-a604-b533f5f6d3f0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/04f7946d-a081-410c-a604-b533f5f6d3f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:01</itunes:duration>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8w8Lv5KpEX4kmZ7wYh8NfArlL_dYWLl0dHW4EPqCc90g.jpg"/>
+    </item>
+    <item>
+      <title>Tabu: Alkoholavhengig</title>
+      <description><![CDATA[Politikar Mímir Kristjánsson, artist Magnus Børmark og filosof Ragnhild Folkestad er gjester. Dei diskuterer lyttarspørsmålet om frykta for fulle foreldre, og om kvifor det er så vanskeleg å prate om alkoholproblem i dag.
+
+
+Emneord: Alkoholavhengighet, alkoholisme, bryllup, bryllaup, drikking, drikkekultur, alkoholproblem]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/fca91854-1a73-46a8-a1ce-f5b781717dc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/fca91854-1a73-46a8-a1ce-f5b781717dc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:07</itunes:duration>
+      <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UVw3sttoIf1-qWuam6ZOSwgpVM4_Su7pt3kEC06oeZtA.jpg"/>
+    </item>
+    <item>
+      <title>Skamfullt å snoke i skattelista?</title>
+      <description><![CDATA[Ein lyttar har snoka i skattelistene i fylla, og er redd noko skal finne det ut. Bør ho skamme seg? Det diskuterer skodespelar Linn Skåber, kommentator i Adresseavisa Jonas Skybakmoen og filosof Ragnhild Folkestad.
+
+
+
+Tags: Lønn, tabu, fylleangst, nysgjerrighet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/0361f7fb-d08c-459d-a978-6d58b4c2c07c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/0361f7fb-d08c-459d-a978-6d58b4c2c07c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:43</itunes:duration>
+      <pubDate>Thu, 13 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8w8Lv5KpEX4kmZ7wYh8NfArlL_dYWLl0dHW4EPqCc90g.jpg"/>
+    </item>
+    <item>
+      <title>Korleis sjonglere jobb og familie?</title>
+      <description><![CDATA[På dødsleiet er det mange som angrar på at dei prioriterte jobb framfor tid med barn og partner. Korleis skal ein klare å finne balansen når ein står midt oppi kvardagsstresset? Politikar Mímir Kristjánsson, artist Magnus Børmark og filosof Ragnhild Folkestad er på plass. 
+
+
+
+Tags: prioriteringer, småbarnsliv, småbarnsforeldre, foreldre]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/59b97890-7870-4915-a1e4-c43772965915_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/59b97890-7870-4915-a1e4-c43772965915_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:10</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UVw3sttoIf1-qWuam6ZOSwgpVM4_Su7pt3kEC06oeZtA.jpg"/>
+    </item>
+    <item>
+      <title>Tabu: Sjølvmord</title>
+      <description><![CDATA[Då ein ung gut tok livet sitt, var familien ueinige om dei skulle fortelja det til andre eller ikkje. Panelet som diskuterer dette dilemmaet er skodespelar Linn Skåber, kommentator i Adresseavisa Jonas Skybakmoen og filosof Ragnhild Folkestad.
+
+
+
+Tags: selvmord, psykisk helse, dødsfall, sorg, depresjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/88fc8cf6-73fb-47a5-adc8-85287e7b73c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/88fc8cf6-73fb-47a5-adc8-85287e7b73c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:44</itunes:duration>
+      <pubDate>Tue, 11 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8w8Lv5KpEX4kmZ7wYh8NfArlL_dYWLl0dHW4EPqCc90g.jpg"/>
+    </item>
+    <item>
+      <title>Hjelp, dama trur eg er slem</title>
+      <description><![CDATA[Med politikar Mímir Kristjánsson, artist Magnus Børmark og filosof Ragnhild Folkestad. Dei diskuterer korleis ein kan vise at ein er snill, når situasjonen ein er i kan oppfattast som skremmande for andre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/9035b88b-6175-4534-b6c8-c333d69857bb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/9035b88b-6175-4534-b6c8-c333d69857bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:56</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UVw3sttoIf1-qWuam6ZOSwgpVM4_Su7pt3kEC06oeZtA.jpg"/>
+    </item>
+    <item>
+      <title>Kva er sjel?</title>
+      <description><![CDATA[Psykolog Peder Kjøs, sametingspresident Silje Karine Muotka og forskar på religion og etikk Therese Bjørnaas er i panelet. I vårt effektive samfunn gløymer vi det som nærer sjela vår, skriv ein psykolog på nrk.no, og oppfordrar oss til å gjere meir av det som faktisk betyr noko for oss. Men kva er sjel?
+
+Tags: samisk, samer, katolisisme, animisme, ateisme, religion, livssyn, etikk, filosofi, psykologi]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/b1439ae2-6f3d-404c-9ffb-2585482ec84c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/b1439ae2-6f3d-404c-9ffb-2585482ec84c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:03</itunes:duration>
+      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2CwQNVuSXn_qVrOglXEVkwnLFKdyj4-JrhP9TiKaEuPw.jpg"/>
+    </item>
+    <item>
+      <title>Bra å vere helikopterforeldre?</title>
+      <description><![CDATA[Psykolog Peder Kjøs, sametingspresident Silje Karine Muotka og forskar på religion og etikk Therese Bjørnaas er i panelet. Dei diskuterer ulike foreldrestilar, og vi har fått inn eit brev frå ei såkalla helikoptermor. Har ungar i dag mindre friheit enn før?
+
+
+Tags: barneoppdragelse, oppdragelse, helikopterforeldre, foreldrestil, foreldrerolle, psykologi, samisk, samer, filosofi, etikk, verdier, moral]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/64c53ed1-21f6-4017-b137-67f204026874_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/64c53ed1-21f6-4017-b137-67f204026874_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:09</itunes:duration>
+      <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2CwQNVuSXn_qVrOglXEVkwnLFKdyj4-JrhP9TiKaEuPw.jpg"/>
+    </item>
+    <item>
+      <title>Er gentlemannens tid forbi?</title>
+      <description><![CDATA[Gjester er bistandsarbeidar Ayesha Wolasmal, lege og jurist Espen Rostrup Nakstad og filosof Ragnhild Folkestad, og vi spør: Er gentlemannens tid forbi, eller bør menn bere handleposen for dama? 
+
+
+Tags: gentleman, gentlemen, høflighet, gentlewoman, verdier, moral, etikk]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/465cbc25-bccc-434f-9ad3-3b43a6e2b637_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/465cbc25-bccc-434f-9ad3-3b43a6e2b637_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:05</itunes:duration>
+      <pubDate>Thu, 30 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2DEhdIyfqBXTaV1hj85JDw853EZWy4cqyh5a0UW9wwjQ.jpg"/>
+    </item>
+    <item>
+      <title>Korleis ta vare på seg sjølv i jobben?</title>
+      <description><![CDATA[I panelet er bistandsarbeidar Ayesha Wolasmal, lege Espen Nakstad og filosof Ragnhild Folkestad, og dei hyllar barnehagelærarar og omsorgsarbeidarar for den jobben dei gjer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/9181f525-8309-4e28-9b5d-3a644b9d2d53_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/9181f525-8309-4e28-9b5d-3a644b9d2d53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:11</itunes:duration>
+      <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2DEhdIyfqBXTaV1hj85JDw853EZWy4cqyh5a0UW9wwjQ.jpg"/>
+    </item>
+    <item>
+      <title>Tabu: Kroppslukt</title>
+      <description><![CDATA[Lukta av gammal sveitte, tåfis og dårleg ande er ikkje særleg flatterande. Men kroppslukt er jo noko av det mest naturlege i verda, så kvifor kvir vi oss for å snakke om det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/8f766835-3811-42d4-8645-5d3528cd7726_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/8f766835-3811-42d4-8645-5d3528cd7726_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:07</itunes:duration>
+      <pubDate>Tue, 28 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l4H_pr7dAIH-yKS3zUPSqAFmZfFawB6k6ejH6mvl4rTg.jpg"/>
+    </item>
+    <item>
+      <title>Forskjellsbehandling av søsken</title>
+      <description><![CDATA[I panelet er bistandsarbeidar Ayesha Wolasmal, lege Espen Nakstad og filosof Ragnhild Folkestad, og dei snakkar om forskjellsbehandling av barn. Det er få ting som skaper så mykje konflikt i familier enn pengar, så kva skal storesøster gjere når lillebror får meir pengar av foreldra enn ho gjer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/7701d291-5772-4b14-8546-14619b6f4292_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/7701d291-5772-4b14-8546-14619b6f4292_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:23</itunes:duration>
+      <pubDate>Thu, 23 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2DEhdIyfqBXTaV1hj85JDw853EZWy4cqyh5a0UW9wwjQ.jpg"/>
+    </item>
+    <item>
+      <title>Siste farvel med far?</title>
+      <description><![CDATA[Ein lyttar har ikkje hatt kontakt med faren sin på mange år. No går livet hans mot slutten, og lyttaren spør: Bør eg ta eit siste farvel med han? Miljøforkjemparen, transaktivisten og filosofen diskuterer. Programleiar er Kjersti Anderdal Bakken.
+
+
+Tags: død, døden, dødsleie, dødsleiet, familiekonflikter, familekonflikt, moral, etikk, verdier, filosofi]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/97928e12-9971-4310-84d3-7b222401a232_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/97928e12-9971-4310-84d3-7b222401a232_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WqpfxB5bJ6_lzsEXdvx7bQ6STtuap43eqSVx-Mnh318Q.jpg"/>
+    </item>
+    <item>
+      <title>Cuffing season og frykta for å binde seg</title>
+      <description><![CDATA[Men journalist Morten Hegseth, eks-politikar Trine Skei Grande,  og filosof Heine Holmen. Vinter betyr “Cuffing season”. Det er nemleg ein trend å finne seg ein vinterkjærast som ein kan varme seg på når det er mørkt og kaldt ute. Men når det nærmar seg vår er det takk og farvel, og vi gjer oss klare for nye eventyr.  Har vi blitt for feige til å ta risiko i kjærleiken? Eller er dette berre ei naturleg utvikling i takt med dagens datingkultur?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/0a99d2cf-5b36-4df4-8443-3ac963b62d83_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/0a99d2cf-5b36-4df4-8443-3ac963b62d83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:21</itunes:duration>
+      <pubDate>Tue, 21 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MQLqO4oQbOyJF5lvQ4ggtQi5jr-PhbnjPEg_1epWr_4A.jpg"/>
+    </item>
+    <item>
+      <title>Bekymrar du deg for framtida?</title>
+      <description><![CDATA[Programleiar i Trygdekontoret Thomas Seltzer, KI-forskar Inga Strümke, og filosof Heine Holmen. Undersøkingar viser at fleire er bekymra for kva som vil skje i framtida med tanke på økonomi, klima og krig, og det gjelder spesielt blant dei unge. Kva gjer dei mørke framtidsutsiktene med oss? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/5379ed5c-333a-43b2-93c6-3b00bfd95c45_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/5379ed5c-333a-43b2-93c6-3b00bfd95c45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:16</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l4H_pr7dAIH-yKS3zUPSqAFmZfFawB6k6ejH6mvl4rTg.jpg"/>
+    </item>
+    <item>
+      <title>All makt til KI</title>
+      <description><![CDATA[Programleiar i Trygdekontoret Thomas Seltzer, KI-forskar Inga Strümke, og filosof Heine Holmen diskuterer om dei ville latt ChatGPT styre livet sitt. Kan ein chatbot ta betre valg enn deg og meg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/9bad4ecc-4f5b-4a5f-bcd4-56e0a6eba581_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/9bad4ecc-4f5b-4a5f-bcd4-56e0a6eba581_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:07</itunes:duration>
+      <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l4H_pr7dAIH-yKS3zUPSqAFmZfFawB6k6ejH6mvl4rTg.jpg"/>
+    </item>
+    <item>
+      <title>Generasjon X, Y, Z</title>
+      <description><![CDATA[Kva er eigentleg skilnaden mellom X, Y og Z-generasjonen, og korleis er tida du veks opp på med på å forme deg som menneske? Motebibliotekaren, politikaren og filosofen diskuterer. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/5cc1aabb-5f29-4a3d-814e-9a1201e8e476_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/5cc1aabb-5f29-4a3d-814e-9a1201e8e476_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:08</itunes:duration>
+      <pubDate>Mon, 13 Jan 2025 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Bør gravferder vere ein fest?</title>
+      <description><![CDATA[Forsking viser at fleire ønsker ei meir personleg gravferd. No skal nemleg det unike livet til den som ligg i kista bli lagt vekt på. Før var det salmesang, bønn og presten som heldt tale, no vil vi høyre Elvis, ha turkis kiste og pårørande vil halde tala sjølv. Komikaren, kjemikaren og filosofen diskuterer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/005ec8fd-add8-41b8-a485-9faa2cc092dd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/005ec8fd-add8-41b8-a485-9faa2cc092dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:54</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Unge gutar pushar seg til det ekstreme</title>
+      <description><![CDATA[Klimaaktivist Gina Gylver, transaktivist Luca Espeseth og filosof Ragnhild Folkestad diskuterer. 2024 vart eit år der mange tok sjølvrealiseringa til eit ekstremt nivå. Fleire løper utan sko, dusjar i iskaldt vatn og droppar både måltider og sex. Men kvifor er dette med sjølvoptimalisering ein trend akkurat no?  Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/71f5d655-21ca-4f05-aae1-8ca9bdcca8f3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/71f5d655-21ca-4f05-aae1-8ca9bdcca8f3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:59</itunes:duration>
+      <pubDate>Tue, 07 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WqpfxB5bJ6_lzsEXdvx7bQ6STtuap43eqSVx-Mnh318Q.jpg"/>
+    </item>
+    <item>
+      <title>Kva bør bli ein trend i 2025?</title>
+      <description><![CDATA[Klimaaktivist Gina Gylver, transaktivist Luca Espeseth og filosof Ragnhild Folkestad diskuterer kva dei håpar blir ein trend i 2025. Dei pratar om digital detox, dommedagsdugnad og samfunnsengasjement. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/fbc5a6fe-7a5b-4d67-8e59-d5e372c58603_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/fbc5a6fe-7a5b-4d67-8e59-d5e372c58603_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:06</itunes:duration>
+      <pubDate>Fri, 03 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WqpfxB5bJ6_lzsEXdvx7bQ6STtuap43eqSVx-Mnh318Q.jpg"/>
+    </item>
+    <item>
+      <title>Omgitt av hersketeknikkar</title>
+      <description><![CDATA[Ein lyttar blir stadig forbigått av “cowboyar” som bryr seg null om god moral i arbeidslivet. Bør ho gjere det samme for å komme seg opp og fram? Filosofen, klovnen og journalisten diskuterer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/a0bac1eb-bf32-4221-b9e7-e969cd0e8f54_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/a0bac1eb-bf32-4221-b9e7-e969cd0e8f54_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:13</itunes:duration>
+      <pubDate>Thu, 02 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Kvifor pyntar vi oss?</title>
+      <description><![CDATA[Er det greitt å feire nyttårsaften i stillongs og ullsokkar? Eller bør vi feire overgangen til eit nytt år i dress og kjole? Journalisten, direktøren og filosofen diskuterer. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/aa534548-c39a-4a52-8175-99410654d87e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/aa534548-c39a-4a52-8175-99410654d87e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:53</itunes:duration>
+      <pubDate>Sun, 29 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MQLqO4oQbOyJF5lvQ4ggtQi5jr-PhbnjPEg_1epWr_4A.jpg"/>
+    </item>
+    <item>
+      <title>Stadig fleire bryt med foreldra sine</title>
+      <description><![CDATA[Foreldra dine har gitt deg livet, men er det dermed sagt at du skuldar dei noko? Legen, redaktøren og filosofen diskuterer, Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/a952f006-205b-4b70-b691-ae5e81ba4eba_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/a952f006-205b-4b70-b691-ae5e81ba4eba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:43</itunes:duration>
+      <pubDate>Sat, 28 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>The Good Place</title>
+      <description><![CDATA[Netflix-serien "The Good Place" handlar om livet etter døden. Gode mennesker kjem til den gode plassen når dei dør, men kva vil det seie å vere eit godt menneske? Filosofen, motebiliotekaren og politikaren diskuterer. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/149f9f23-5b7b-4f95-919c-4801ca057f57_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/149f9f23-5b7b-4f95-919c-4801ca057f57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:24</itunes:duration>
+      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Overvaking av barn</title>
+      <description><![CDATA[Kor mykje er det eigentleg greitt å overvake ungane sine? Barneombudet og Datatilsynet meiner at GPS-sporing av ungar er ei krenking av ungane sitt privatliv og personvern. Motebibliotekaren, politikaren og filosofen diskuterer. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/17d220fb-bc6a-429e-8321-78069699fdae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/17d220fb-bc6a-429e-8321-78069699fdae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:04</itunes:duration>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Tabu: Ensomhet</title>
+      <description><![CDATA[Journalist Morten Hegseth, direktør Trine Skei Grande og filosof Heine Holmen diskuterer. Det å innrømme at man er ensom, er tabu for mange. Hva er grunnen til det? Og er løsninga nødvendigvis å snakke om det?  Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/666d87c5-127c-4249-b411-0da2d6315647_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/666d87c5-127c-4249-b411-0da2d6315647_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:30</itunes:duration>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MQLqO4oQbOyJF5lvQ4ggtQi5jr-PhbnjPEg_1epWr_4A.jpg"/>
+    </item>
+    <item>
+      <title>Kva om vi droppar tradisjonane?</title>
+      <description><![CDATA[Tradisjoner seier noko om kven vi er, kor vi kjem frå, og kva verdiar som er viktige for oss. Men har vi ei plikt til å ta vare på dei?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/dedd0b17-7f17-4a2c-a02c-17be9077fd32_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/dedd0b17-7f17-4a2c-a02c-17be9077fd32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:21</itunes:duration>
+      <pubDate>Thu, 12 Dec 2024 09:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Konfrontere fordomsfull svigerfar?</title>
+      <description><![CDATA[Vi har vel alle sete rundt eit middagsbord og høyrt nokon hive ut ein kommentar som vi har tenkt at ikkje var innafor, men kva gjer vi da? I panelet er forfattar og transaktivist Luca Dalen Espseth, skodespelar Linn Skåber og filosof Ragnhild Folkestad.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/84d90901-f253-430f-8889-63c030edd229_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/84d90901-f253-430f-8889-63c030edd229_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:00</itunes:duration>
+      <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Risikere livet for andre?</title>
+      <description><![CDATA[Om du går forbi ein ungdomsgjeng som slåss, grip du inn eller feigar du ut? Me pratar om moralsk mot med ein filosof, ein komikar og ein kjemikar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/866bb841-e6eb-4d88-8837-10d3b5840a59_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/866bb841-e6eb-4d88-8837-10d3b5840a59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:59</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Ønskelister - yay eller nay?</title>
+      <description><![CDATA[Før skreiv vi ønskelister med blyant på eit ark, no kan vi legge dei inn i ein ønskelisteapp, og sende dei til familie og venner. Har julegåver mista sin sjarm? Kva skjer om me berre droppar det? Komikaren, kjemikaren og filosofen diskuterer. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/e195a50c-6069-4003-9e81-1978cff40003_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/e195a50c-6069-4003-9e81-1978cff40003_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:35</itunes:duration>
+      <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+    <item>
+      <title>Lykka er ikkje å bli millionær</title>
+      <description><![CDATA[Alle drømmer vi vel om å vinne ein feit pengepremie - millionar av kroner på konto. Rein lykke. Men undersøkingar viser at dei fleste lottomillionærar faktisk ikkje blir meir lykkelege. Så kva skjer eigentleg med oss når vi plutseleg blir rike? I panelet er  filosof Heine Holmen, klovn Viggo Venn og journalist Sarah Natasha Melbye. Programleiar er Kjersti Anderdal Bakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/etikketaten/f76ac2a3-da81-4a3c-9ee0-2a74ddcfac6a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/etikketaten/f76ac2a3-da81-4a3c-9ee0-2a74ddcfac6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:15</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/el6gX2yGodHfflMBT-12VgfxUdN27MNqtd6DrK1Yb6gQ.jpg"/>
+    </item>
+  </channel>
+</rss>

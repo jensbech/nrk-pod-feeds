@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Ekko</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. 
+
+
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:35:54 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 13:30:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Fra faste til forbruksfest</title>
+      <description><![CDATA[Ramadan oversvømmes av reklame og gode tilbud. Er muslimenes største høytid blitt 'den nye jula' der kommers møter tro?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/87aa71e6-9df2-4d5a-aa71-e69df2bd5a90_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/87aa71e6-9df2-4d5a-aa71-e69df2bd5a90_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:23</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cbkM2-wmt5lBLY56iwcV1gSk-2JZYIlammzYYvYN_onw.jpg"/>
+    </item>
+    <item>
+      <title>Når blir noe terror?</title>
+      <description><![CDATA[Eksplosjonen utenfor den amerikanske ambassaden etterforskes som terror, men hvor går grensene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/266441fc-5724-4291-a441-fc57241291ce_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/266441fc-5724-4291-a441-fc57241291ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:04</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DUnqJWsWm_R04D-mSjIjfghVQ-0NNv-dzOsDWStdm_ww.jpg"/>
+    </item>
+    <item>
+      <title>KI i krigføring</title>
+      <description><![CDATA[Tek-selskapet Anthropic saksøker Pentagon etter KI-strid. Skal teknologien eller staten setje grensene i krig? Kva om KI-en løper løpsk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/186b6703-6287-44d2-ab67-03628754d2f4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/186b6703-6287-44d2-ab67-03628754d2f4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:30</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 20:52:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/P13HxDkQpIW7CAj98bbJ3Qk97Wm28XATBcJHgRU-EC0g.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Borgerkrig i MAGA?</title>
+      <description><![CDATA[Krigen i Midtøsten splitter MAGA-bevegelsen - for Trump var jo fredspresidenten. Men krigsministeren følger Guds plan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/98d896f5-de21-46da-9896-f5de2176da6a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/98d896f5-de21-46da-9896-f5de2176da6a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:55</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DfSLKddWRHCp_2YMgHZiPA-UrpMdksNpUid--q_ncXJQ.jpg"/>
+    </item>
+    <item>
+      <title>Ungarn til valgurnene</title>
+      <description><![CDATA[Valget om en måned kan endre både Ungarns demokrati, maktbalansen i EU og sammensetningen av Putins allierte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1cb5b9a4-d9af-47f3-b5b9-a4d9af17f3b1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1cb5b9a4-d9af-47f3-b5b9-a4d9af17f3b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:52</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UpaF3aIXuwDdl4k52PTUIAe6A2-gyXQdMem7t-sz7KyQ.jpg"/>
+    </item>
+    <item>
+      <title>Glimt-magi og lagarbeid</title>
+      <description><![CDATA[Fotballaget Bodø/Glimt kan lære oss korleis vi også på arbeidsplassen kan skape lagånd og ein kultur der det er lov å feile.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b65e3158-eabe-4e55-9e31-58eabeae55af_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b65e3158-eabe-4e55-9e31-58eabeae55af_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:09</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LOuRyp_sy-8GTRNHZ2WInws37A-QyhmekXmFj0wWDtpQ.jpg"/>
+    </item>
+    <item>
+      <title>Kjemisk kastrering av pedofile</title>
+      <description><![CDATA[Sverige vil tilby kjemisk kastrering til personer dømt for overgrep mot barn. Men hvor frivillig er det? Og bør Norge følge etter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5b1beb2a-3f8e-4189-9beb-2a3f8e9189cc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5b1beb2a-3f8e-4189-9beb-2a3f8e9189cc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:18</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/plHZPl-LYFVpvvban-xPiw7lKD8GbRMyWTXF5ISg6uTA.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Midtøsten – et mareritt?</title>
+      <description><![CDATA[Iran-angrepene: Hvor lenge vil det vare?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6a9af331-d524-4143-9af3-31d524014304_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6a9af331-d524-4143-9af3-31d524014304_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:54</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Z26xAFQGv-_cjxRe451FKwGaJMeGLKxPwMnKYl--BusQ.jpg"/>
+    </item>
+    <item>
+      <title>Hvis russerne kommer</title>
+      <description><![CDATA[Norge gjør seg klar for det verste. Nå blir det flere soldater i Finnmark, mer luftvern, og plan for evakuering i nord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4bf6f862-c457-4a89-b6f8-62c457fa897d_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4bf6f862-c457-4a89-b6f8-62c457fa897d_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:22</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GO9x2Y2DW-gK5a0BUgwpDgT2icQNRmSYZzOJ6_Ra3x6w.jpg"/>
+    </item>
+    <item>
+      <title>Trumps hellige krig i Iran</title>
+      <description><![CDATA[Er krigen i Midtøsten egentlig en plan fra Bibelen? Vi ser på profetiene og de religiøse kreftene i  Trumps innerste sirkel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/866429e6-9a1e-426c-a429-e69a1ec26cb2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/866429e6-9a1e-426c-a429-e69a1ec26cb2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:03</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/M4861sYBLhUrvg_rkNpB3QbR9lUvjEpVtskDE6INJPaA.jpg"/>
+    </item>
+    <item>
+      <title>– Han har lurt med seg Trump</title>
+      <description><![CDATA[Kvifor angrip Trump og Netanyahu no, og kva står på spel for verda? Hilde Henriksen Waage, Sidsel Wold og Tove Bjørgaas svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/71b00db4-8f03-4855-b00d-b48f03e8559c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/71b00db4-8f03-4855-b00d-b48f03e8559c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dYOQMB5l8tS9WepwCBOUVgZFWRW16WNHjBhHBsFewvXg.jpg"/>
+    </item>
+    <item>
+      <title>Stubbs nye verdensorden</title>
+      <description><![CDATA[Verden slik vi kjente den finnes ikke lenger, mener Finlands president Alexander Stubb. Da er spørsmålet hvor veien går videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/887aa489-6df7-4f9e-baa4-896df7bf9e0a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/887aa489-6df7-4f9e-baa4-896df7bf9e0a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:19</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ynul4V0jqChBlKjPJ8J3BAUhLuFmhtoLS2xO1lmLJB3Q.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Fell han frå trona?</title>
+      <description><![CDATA[Han dreg på med show, toll og truslar, men meiningsmålingane stuper. Har presidenten mista bakkekontakten med sitt eige folk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/adb1cba1-fdd9-4ea9-b1cb-a1fdd93ea948_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/adb1cba1-fdd9-4ea9-b1cb-a1fdd93ea948_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:10</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i3Oh96JDEFGXDTn9lXQbkwS34Z2EQSGtzinUzfVXRZaA.jpg"/>
+    </item>
+    <item>
+      <title>Japans jernkvinne, verdens mektigste?</title>
+      <description><![CDATA[Hun er Japans første kvinnelige statsminister og noen kaller henne verdens mektigste kvinne. Hvordan vil hun bruke makten sin?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/89c75918-06cf-4f10-8759-1806cf3f1045_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/89c75918-06cf-4f10-8759-1806cf3f1045_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:10</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uhtwOk7Ke_Hsn4ttmWKAUQIbJsINCArtKzEUHxWPVu6A.jpg"/>
+    </item>
+    <item>
+      <title>Klimakrise? Det er jo iskaldt!</title>
+      <description><![CDATA[Iskald vinter gjør flere skeptiske til klimakrise, har de grunn til det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2c311617-4cfc-45ba-b116-174cfc25bae4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2c311617-4cfc-45ba-b116-174cfc25bae4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:37</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UgPu0o9dN0p-37qHvBlMkwWGvh_Hwx7YRaSZgC7prFcw.jpg"/>
+    </item>
+    <item>
+      <title>Putins «patriotfabrikk»</title>
+      <description><![CDATA[Korleis har fire år med fullskalakrig mot Ukraina endra kvardagen, skulane og fridommen i Russland?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/65cea8c4-a9d3-4cae-8ea8-c4a9d38cae17_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/65cea8c4-a9d3-4cae-8ea8-c4a9d38cae17_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:37</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kpPqNVaeizPU6bjacfuJNwwYRLDn2mASy1jaoymkSNVg.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Hillarys hevn</title>
+      <description><![CDATA[Clinton anklager Trump for forræderi. Er det et personlig oppgjør eller et forsøk på å redde USAs sjel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a5393631-f7c0-411a-b936-31f7c0811ab9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a5393631-f7c0-411a-b936-31f7c0811ab9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:16</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XMoLL0oyOBPSI1wo_rOxZA04IcFy8svblQ9dBjpXqvgA.jpg"/>
+    </item>
+    <item>
+      <title>Hvem er Mossad?</title>
+      <description><![CDATA[Har Jeffrey Epstein jobbet for Israels etterretningstjeneste Mossad?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/69368c8a-f313-4edf-b68c-8af3131edf04_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/69368c8a-f313-4edf-b68c-8af3131edf04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:50</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GUoCdJi0cYtpRmo7QeZrowTXqloGjY-TW6CQMWh8osAw.jpg"/>
+    </item>
+    <item>
+      <title>Mediejakta på ungdommen</title>
+      <description><![CDATA[Hvis du er tjue, følger med i tiden og forventer effektivitet, da er du interessant for mediene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06ee4bbd-5c77-4b5b-ae4b-bd5c778b5baf_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06ee4bbd-5c77-4b5b-ae4b-bd5c778b5baf_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:22</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZjGsaVZF7PQB4RKH7tLnaQJztFFSjhhzKXC9fDftGs_A.jpg"/>
+    </item>
+    <item>
+      <title>For privat med ChatGPT?</title>
+      <description><![CDATA[Vi deler private og intime opplysninger med KI.  Hva gjør det med oss å aldri bli motsagt, og hvor havner informasjonen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/75770a88-9023-4c56-b70a-889023cc5623_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/75770a88-9023-4c56-b70a-889023cc5623_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:39</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PoP8SRDbXzN61TRH8AiQXQMFp9pR4ucqIfeC-cw4yLWg.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Slipper han unna?</title>
+      <description><![CDATA[Epstein-skandalen avslører mange, men Trump har sluppet unna til nå. Hvordan kan det ha seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e117b45f-51a1-4411-97b4-5f51a124110b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e117b45f-51a1-4411-97b4-5f51a124110b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:46</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o9mugofMIA-T4gdapwco5wdAPw-PwFPMfbnDQNE98MgQ.jpg"/>
+    </item>
+    <item>
+      <title>Dårlig lesing truer demokratiet</title>
+      <description><![CDATA[Når langlesing blir en ferdighet for de få, skapes nye klasseskiller som truer vår felles forståelse.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d5e1e147-a0f3-446c-a1e1-47a0f3d46c5a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d5e1e147-a0f3-446c-a1e1-47a0f3d46c5a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:46</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-K4L9oanD4Mp_OzAvdAm2gB1DJp8hOMxmXOD2qgiaesw.jpg"/>
+    </item>
+    <item>
+      <title>Norsk korrupsjon</title>
+      <description><![CDATA[Eks-statsminister og toppdiplomatar etterforskast etter Epstein-avsløringane. Er vi for naive?  Ekspertane svarer på dine spørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3a265d4c-497d-40e9-a65d-4c497da0e933_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3a265d4c-497d-40e9-a65d-4c497da0e933_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:15</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dVaYbMmS4ZCfYiLvLLEv8gH3iXjkci6VjTrgBCwe4pBg.jpg"/>
+    </item>
+    <item>
+      <title>Når straff blir hjelpen</title>
+      <description><![CDATA[Flere dømmes til tvungent psykisk helsevern. Må det en dom til før hjelpen kommer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/22674f9e-4a5a-41b7-a74f-9e4a5a31b752_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/22674f9e-4a5a-41b7-a74f-9e4a5a31b752_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:11</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yhCfRln4vXuSCJzWF06y8A1VYEX8SkxkL0qacrJwnKug.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Epstein og Maga-plask</title>
+      <description><![CDATA[Kvifor har Trump kome så lett unna Epstein-filane? Og er MAGA-tilhengjarane i ferd med å falle frå? USA-ekspertane svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ba9c8d2e-2b72-4c71-9c8d-2e2b72bc71ca_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ba9c8d2e-2b72-4c71-9c8d-2e2b72bc71ca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:21</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bdmhzlsr-inISeEFRosczwNAGa9tVO6_NBYpFvEtO_-w.jpg"/>
+    </item>
+    <item>
+      <title>Epstein og dårlig dømmekraft</title>
+      <description><![CDATA[Epstein-avsløringene viser norsk dømmekraft på avveie. Men hva betyr det å innrømme dårlig dømmekraft?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3dcf55ad-c8ee-4339-8f55-adc8eee3395f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3dcf55ad-c8ee-4339-8f55-adc8eee3395f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:45</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6JmumY57SUVoGsd8PesflAKFsPFwMDsYHJRAcOMdoV0A.jpg"/>
+    </item>
+    <item>
+      <title>Urfolk i skvis mellom stormaktene</title>
+      <description><![CDATA[Over hele Arktis skjerper nå stormaktene kampen om kontroll og herredømme, mens urfolkene lever inneklemt i maktkampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0dd75eef-4e43-41f1-975e-ef4e4371f163_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0dd75eef-4e43-41f1-975e-ef4e4371f163_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:44</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UM82z0QSmlFUSari9-08aAcfea86JzXON9P5XwHR5Eyw.jpg"/>
+    </item>
+    <item>
+      <title>Journalistikk eller grafsing</title>
+      <description><![CDATA[Rettssaka mot Marius Borg Høiby startar. Korleis skal media dekkje saka utan at det blir for mykje?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8b84b1ee-5f00-4408-84b1-ee5f004408a5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8b84b1ee-5f00-4408-84b1-ee5f004408a5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:35</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 10:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KaS9q90c1OV0gOV-qbcfmQPOH0v4NGDPAnNqW4P42TXA.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: The Boss angriper</title>
+      <description><![CDATA[Når ICE-aksjonene ender i drap og Bruce Springsteen maner til kamp: Ser vi starten på en ny amerikansk borgerrettighetsbevegelse?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/59a7f7b2-e25f-4e4d-a7f7-b2e25f5e4da9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/59a7f7b2-e25f-4e4d-a7f7-b2e25f5e4da9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:51</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iQvGufZb3gFkEsSQEJF32QyJAjgjwwPaXM6yk-hkqPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Minnesota koker: Hvorfor akkurat her?</title>
+      <description><![CDATA[Mange i Minnesota protesterer mot ICE. Hva er det med historien deres som forsterker engasjementet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3c84409a-43e5-4a0d-8440-9a43e54a0d08_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3c84409a-43e5-4a0d-8440-9a43e54a0d08_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:44</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oCfCStuCahqpgNsPQF0kigsVyGjbtGSz2NOw3dSvPesw.jpg"/>
+    </item>
+    <item>
+      <title>Pengane strekker ikkje til</title>
+      <description><![CDATA[Kvifor får fleire dårleg råd og kommunar raude tal når Noreg er så rikt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f850325f-b4ce-4f0c-9032-5fb4ce3f0cd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f850325f-b4ce-4f0c-9032-5fb4ce3f0cd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:25</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1rklXAVgj2afqr0EB835ZQoDjXoyvDu7fhC8_RaVrhvA.jpg"/>
+    </item>
+    <item>
+      <title>Trumps metode: The Art of the Deal</title>
+      <description><![CDATA[Han virker helt uforutsigbar. Men nøkkelen til å forstå Trump kan være å lese boka hans fra 1987.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a08b010e-804a-4d21-8b01-0e804a0d21bd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a08b010e-804a-4d21-8b01-0e804a0d21bd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:33</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r9zKHfaZFrY4tKIEjiPiVQDyEYTBUFbDj-bV4YBDR_TQ.jpg"/>
+    </item>
+    <item>
+      <title>Mikhail elsker jobben i barnehage</title>
+      <description><![CDATA[Få menn vil jobbe i barnehage. Hva gjør at noen velger det likevel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/60e389b9-bc8d-41b3-a389-b9bc8df1b315_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/60e389b9-bc8d-41b3-a389-b9bc8df1b315_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:58</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 08:54:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-te2_T7mAP07H1mczpbwfwmhB7Y-CfNlfTXFz2XOCLWA.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA:  Hva nå, Europa?</title>
+      <description><![CDATA[Rammeavtale og ikke militærmakt på Grønland. Og straffetoll avlyst. Hva er egentlig status nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4f83b672-3112-463e-83b6-723112063eaa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4f83b672-3112-463e-83b6-723112063eaa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:58</itunes:duration>
+      <pubDate>Thu, 22 Jan 2026 14:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yFwIGfzCG7DLwkooxhlwxAzehvVgbiS7L61SrJjPfPgg.jpg"/>
+    </item>
+    <item>
+      <title>Dansk hygge mot Trumps sinne</title>
+      <description><![CDATA[Etter eit tøft møte med USA-toppar tente Lars Løkke Rasmussen pipa. Var det berre nikotinsug eller eit nøye planlagt signal?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d56c06d6-430c-45fb-ac06-d6430ca5fb64_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d56c06d6-430c-45fb-ac06-d6430ca5fb64_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:47</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oS0QyjF3Q9jiEShvlNr1JQa2RhlFADAx6zAjPoc7_C4A.jpg"/>
+    </item>
+    <item>
+      <title>Hva er greia med Davos?</title>
+      <description><![CDATA[Fine ord, lukkede rom og Donald Trump i sentrum. Hvorfor drar verdens mektigste til denne fjellandsbyen i Sveits år etter år?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9cec118f-4b3c-4d03-ac11-8f4b3c8d03a3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9cec118f-4b3c-4d03-ac11-8f4b3c8d03a3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:07</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7upbx66VyNSa4VfqOBOBYAubr7Ex0FyydxnyQ1yvSxDA.jpg"/>
+    </item>
+    <item>
+      <title>Designet for et kort liv?</title>
+      <description><![CDATA[Hva er grunnen til at mange av tingene vi har, har så kort holdbarhet? Lages tingene våre bevisst for å ikke vare evig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0673064b-7c2c-42d7-b306-4b7c2cc2d73c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0673064b-7c2c-42d7-b306-4b7c2cc2d73c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:30</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PcorF6yLsgwjT8h00Ro2qw8xrIi_qvAoOqoOIcVnkHrA.jpg"/>
+    </item>
+    <item>
+      <title>Den mektige Fifa-presidenten</title>
+      <description><![CDATA[Han deler ut fredspris og knyt tette band til verdas leiarar. Men kva er det Gianni Infantino eigentleg prøver å oppnå med Fifa?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f8ac19b2-1173-44c3-ac19-b2117364c353_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f8ac19b2-1173-44c3-ac19-b2117364c353_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:45</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AEyJdpQ73qBqs5Hr9KSSEw0WmOHfTzoMnqXF2ekM21rQ.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Gir seg ikke</title>
+      <description><![CDATA[Trump sier det er psykologisk viktig for ham å eie Grønland, men hva tenker ekspertene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06941078-700a-48f7-9410-78700aa8f705_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06941078-700a-48f7-9410-78700aa8f705_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:49</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YU32Ixzlu3wHiPoKv1vp6A3XPQn9aPE8IfWrXZtgxWqg.jpg"/>
+    </item>
+    <item>
+      <title>Vannkopper: Den skjulte demens-faren?</title>
+      <description><![CDATA[Har du hatt vannkopper kan du senere får helvetesild, som gir økt risiko for demens. En vaksine reduserer riskoen betydelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7ac61da8-1fe4-4e86-861d-a81fe43e8618_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7ac61da8-1fe4-4e86-861d-a81fe43e8618_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:08</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nhMuSkeFP7db-bB6M7kAaAHe0OB1UZ6-ADOzDezYYyCA.jpg"/>
+    </item>
+    <item>
+      <title>Trump forsyner seg av verda</title>
+      <description><![CDATA[Stormakter har ofte tatt land dei vil ha. Er Trump sin draum om Grønland berre gamaldags maktspel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7e99d012-f5bc-4a75-99d0-12f5bc9a75ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7e99d012-f5bc-4a75-99d0-12f5bc9a75ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:24</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T5nWliwch0GStzUI7v09Qw29oDVyjfZOCMLA0rfekYkA.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor hjelpe gründere?</title>
+      <description><![CDATA[I statsbudsjettet for 2026 kuttes det i midler til gründere. Hva blir konsekvensene og hvem sitt ansvar er det å hjelpe gründerne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/de646b07-c902-4e2f-a46b-07c9025e2f02_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/de646b07-c902-4e2f-a46b-07c9025e2f02_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:09</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 14:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o3b7Wb3ihk1YPBQsQhN6RQYTQn7Gdv41qtVfbO2huJJw.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Farlig enkel mann?</title>
+      <description><![CDATA[Er Trump så enkel og historieløs at han helt mangler forståelse av verden og allianser, spør en lytter. Ekspertene svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a888379-e77d-4dc5-8883-79e77d7dc5ed_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a888379-e77d-4dc5-8883-79e77d7dc5ed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:54</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gB5OGmX6Rm-cGn23_sAUIQ7K5bPfeNQ1LCPiA6o6XuDw.jpg"/>
+    </item>
+    <item>
+      <title>Hvor mye tjener du?</title>
+      <description><![CDATA[Lønn er et tabu for mange. Snart kommer nye regler som skal gjøre det mer åpent hva kollegaen din tjener.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f180b54e-d514-4d90-80b5-4ed5143d906a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f180b54e-d514-4d90-80b5-4ed5143d906a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:44</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GDjJZlh4ds-qeK1OnpU1qAx-UgXaRIs-QK82m0XrIMFA.jpg"/>
+    </item>
+    <item>
+      <title>Kan nokon stoppe Trump?</title>
+      <description><![CDATA[Trump bryt reglar og truar allierte. Kva kan verda gjere når ein stormakt tek seg til rette? Ekspertane svarer på dine spørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b73e4900-7e1a-496c-be49-007e1af96c6d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b73e4900-7e1a-496c-be49-007e1af96c6d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:31</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jot5Q0ZpYfNgeJwWJ-aMHAsEy7GKDgsQhlK9j6NtkN7A.jpg"/>
+    </item>
+    <item>
+      <title>Slutt å "være deg selv"</title>
+      <description><![CDATA[Selvrealisering er det skumleste ordet filosofen vet om. Hør hvorfor det kan være en befrielse å slutte å lete etter seg selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3b51b388-a9c8-4e98-91b3-88a9c8ae9863_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3b51b388-a9c8-4e98-91b3-88a9c8ae9863_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:22</itunes:duration>
+      <pubDate>Mon, 05 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-oAgBCnqplUMQwNrGNVYaAe6yfwRvcUs45kwNfokkMHA.jpg"/>
+    </item>
+    <item>
+      <title>Året 2025, hørt fra Ekko</title>
+      <description><![CDATA[Det heftigste året vi kan huske er straks historie. Hva skjedde egentlig og hva betyr dette for oss i tiden som kommer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f5a56fa9-1291-4a24-a56f-a912911a2419_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f5a56fa9-1291-4a24-a56f-a912911a2419_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:54</itunes:duration>
+      <pubDate>Wed, 31 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6blobCKNzQLkGeXGvAu01Q8m9pGYmcqcXz4WVunbJfGQ.jpg"/>
+    </item>
+    <item>
+      <title>Er 2025 musikkens siste år?</title>
+      <description><![CDATA[KI lager nå musikk i massevis. Hva skjer med kvalitet, autentisitet og eierskap når algoritmen skriver låta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/943c68b0-240f-4c69-bc68-b0240ffc6930_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/943c68b0-240f-4c69-bc68-b0240ffc6930_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:55</itunes:duration>
+      <pubDate>Tue, 30 Dec 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WuwMDop3qItD4fBAM-L8DwLDw_SaufrS-AucXhS6sRdA.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor er julemusikken så trist?</title>
+      <description><![CDATA[Den nye julemusikken er ofte sår og melankolsk. Har jula fått en mørkere lyd, og hva gjør trist julemusikk med oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2416f2b4-5d80-4c20-96f2-b45d800c2084_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2416f2b4-5d80-4c20-96f2-b45d800c2084_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:01</itunes:duration>
+      <pubDate>Mon, 29 Dec 2025 09:52:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2mMVcliNgG0spUAuixEPMA41qdI7e5yjXr6_LQ-MFx8w.jpg"/>
+    </item>
+    <item>
+      <title>Høgtlesing er gull</title>
+      <description><![CDATA[Nokre minutt kan vere nok for barns språk- og hjerneutvikling. Vanskeleg å finne tid, ro og bok? Slik kjem du i gang!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/980b6437-7ca9-49c8-8b64-377ca919c877_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/980b6437-7ca9-49c8-8b64-377ca919c877_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:42</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pdNHswAlWL6LrMTbPheM6wOQR3Ikc0Jxbkx8xSCunthQ.jpg"/>
+    </item>
+  </channel>
+</rss>
