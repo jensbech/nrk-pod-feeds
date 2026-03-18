@@ -64,7 +64,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
             logging.info(f"  Found new episode {episode_title} from {episode_date}")
             new_episode = True
 
-    if not new_episode:
+    if not new_episode and ep_count != 0:
         logging.info("  No new episodes found since feed was last updated")
         return None
 
