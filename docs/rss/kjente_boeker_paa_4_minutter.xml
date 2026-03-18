@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Kjente bøker på 4 minutter</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Alt du burde ha lest, men ikke fikk tid til! Utakt har fått hjelp av forfatter og professor Janne Stigen Drangsholt. Briljere med kunnskapen i sosiale lag, og ingen vil kunne avsløre at du ikke har lest bøkene.
+
+
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:19:50 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 10:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    <item>
+      <title>"Northanger Abbey" av Jane Austen</title>
+      <description><![CDATA[Catherine tror fiksjon og virkelighet er en og samme ting]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c43789ba-546c-4e8d-952a-ef5c5546f7d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c43789ba-546c-4e8d-952a-ef5c5546f7d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:38</itunes:duration>
+      <pubDate>Wed, 19 Feb 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"The Mysteries of Udolpho" av Ann Radcliffe</title>
+      <description><![CDATA[Gotisk Scooby-Doo med hemmelige ganger, besvimelser og guffen stemning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a50393cf-84e0-4353-9ffa-b8a6471997a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a50393cf-84e0-4353-9ffa-b8a6471997a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:54</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Trollmannen fra Oz" av Lyman Frank Baum</title>
+      <description><![CDATA[Ung jente blir brikke i det skitne maktspillet til en så kalt trollmann]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0781dd03-e680-4fd4-ae4e-625a14b2c3fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0781dd03-e680-4fd4-ae4e-625a14b2c3fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:21</itunes:duration>
+      <pubDate>Wed, 05 Feb 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Greven av Monte Cristo" av Alexandre Dumas</title>
+      <description><![CDATA[Mann rømmer fra fengselet og tar hevn]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/1d31f834-c52d-40e2-a298-aa0cc5b54a8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/1d31f834-c52d-40e2-a298-aa0cc5b54a8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:59</itunes:duration>
+      <pubDate>Wed, 29 Jan 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Vidunderlige nye verden" av Aldous Huxley</title>
+      <description><![CDATA[Alle er ruset, ingenting blir gjort]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2e9dcf06-7888-4482-9fe0-043cf8ec5078_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2e9dcf06-7888-4482-9fe0-043cf8ec5078_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:08</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Robinson Crusoe" av Daniel Defoe</title>
+      <description><![CDATA[Første sesong av Robinson-ekspedisjonen (den uten Christer Falck)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c41f9418-3b33-42f8-a8e7-1e58fa6dde12_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c41f9418-3b33-42f8-a8e7-1e58fa6dde12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:34</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Heksejakt" Av Arthur Miller</title>
+      <description><![CDATA[En jakt etter hekser blir en heksejakt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/3caf51e2-a238-4edf-b793-dc20f5f89b73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/3caf51e2-a238-4edf-b793-dc20f5f89b73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:17</itunes:duration>
+      <pubDate>Wed, 18 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Ivanov" av Anton Tsjekhov</title>
+      <description><![CDATA[Alle er veldig russiske og hovedpersonen tar sitt eget liv]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/7c905176-822a-49fd-98ec-a62a12844f59_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/7c905176-822a-49fd-98ec-a62a12844f59_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:40</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Perlen" av John Steinbeck</title>
+      <description><![CDATA[Det er ikke bare enkelt å eie verdifulle ting]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/efef00a6-3065-4e3d-9242-877758becbda_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/efef00a6-3065-4e3d-9242-877758becbda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:48</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"The Faerie Queene" av Edmund Spenser</title>
+      <description><![CDATA[Selvhjelpsbok for riddere som ikke ønsker å være drittsekker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/26d7df43-b417-4a92-9498-faa4e8c067a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/26d7df43-b417-4a92-9498-faa4e8c067a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:26</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Beowulf" (ukjent forfatter)</title>
+      <description><![CDATA[Helt dreper monster og drage dreper helt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/75a5c8a9-6e9b-489c-9a75-be7b474e9ac1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/75a5c8a9-6e9b-489c-9a75-be7b474e9ac1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:29</itunes:duration>
+      <pubDate>Wed, 20 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Piranesi" av Susanna Clarke</title>
+      <description><![CDATA[Ung mann går seg skikkelig vill i sitt eget hode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/5ea45ea3-8eb8-4037-b0e1-b5545bdda031_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/5ea45ea3-8eb8-4037-b0e1-b5545bdda031_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:50</itunes:duration>
+      <pubDate>Wed, 13 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Den dagen Nils Vik døde" av Frode Grytten</title>
+      <description><![CDATA[Mennesker trenger mennesker]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/61645c58-45bf-4896-b73d-07ef824fc233_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/61645c58-45bf-4896-b73d-07ef824fc233_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:29</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Gå aldri fra meg" av Kazuo Ishiguro</title>
+      <description><![CDATA[Oppvekstskildringer bli aldri de samme igjen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/350dccac-da77-4b9f-bbcc-dc3e60f78391_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/350dccac-da77-4b9f-bbcc-dc3e60f78391_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:01</itunes:duration>
+      <pubDate>Wed, 30 Oct 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"I who have never known men" av  Jacqueline Harpman</title>
+      <description><![CDATA[Platons hulelignelse...bare med kvinner]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0498ae8a-ffb1-44dd-86fc-63886e9544dd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0498ae8a-ffb1-44dd-86fc-63886e9544dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:52</itunes:duration>
+      <pubDate>Wed, 23 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Nervøse tilstander" Av Tsitsi Dangarembga</title>
+      <description><![CDATA[Livet er ikke enkelt for smarte og frihetssøkende jenter i et dumt og ufritt patriarkat]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/4d8c0459-2f67-42f9-9488-2b3ad2cb9ecb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/4d8c0459-2f67-42f9-9488-2b3ad2cb9ecb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:56</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"En tid for alt" av Karl Ove Knausgård</title>
+      <description><![CDATA[Noah var sørlending og måker er nihilistiske engler]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/708a124e-63ad-4cae-a3c6-dffa49ed3fc5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/708a124e-63ad-4cae-a3c6-dffa49ed3fc5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:28</itunes:duration>
+      <pubDate>Wed, 09 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Like sant som jeg er virkelig" av Hanne Ørstavik</title>
+      <description><![CDATA[Mor og datter, i evighet...Amen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/dbec3296-abfe-47e9-a90f-1e4198af9e6f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/dbec3296-abfe-47e9-a90f-1e4198af9e6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:03</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Mitt liv (1939-1986)"  av Gro Harlem Brundtland</title>
+      <description><![CDATA[Det er typisk norsk å være Gro]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/964007a0-4ad8-44f6-bc47-bd4027ebaee8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/964007a0-4ad8-44f6-bc47-bd4027ebaee8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:12</itunes:duration>
+      <pubDate>Wed, 25 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Sofies verden" av Jostein Gaarder</title>
+      <description><![CDATA[Ung jente undrer seg, eldre mann forklarer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c19948d9-2e74-4542-abd3-74973c606997_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c19948d9-2e74-4542-abd3-74973c606997_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:30</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Døden på  Oslo S" av Ingvar Ambjørnsen</title>
+      <description><![CDATA[Unge detektiver og sosiale utfordringer på Torshov]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c4d2f112-47d7-4bd3-ba50-b43743566420_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/c4d2f112-47d7-4bd3-ba50-b43743566420_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:22</itunes:duration>
+      <pubDate>Wed, 11 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Det norske folkesprogs gramatik" av Ivar Aasen</title>
+      <description><![CDATA[Spynorsk mordliste!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/453b1c1d-23a4-44da-a49f-cdadf4b4cc35_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/453b1c1d-23a4-44da-a49f-cdadf4b4cc35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:08</itunes:duration>
+      <pubDate>Wed, 04 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Norske folkeeventyr" av Asbjørnsen og Moe</title>
+      <description><![CDATA[Troll er dumme, Askeladden lur og jenter er prinsesser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2d65e07e-8b2a-4480-9c80-afe640035457_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2d65e07e-8b2a-4480-9c80-afe640035457_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:30</itunes:duration>
+      <pubDate>Wed, 28 Aug 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Nordlands Trompet" av Petter Dass</title>
+      <description><![CDATA[Liv, levnet og landskap i Nord-Norge]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/6d7bd8da-9798-492d-9bb2-9ab2f21a6a74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/6d7bd8da-9798-492d-9bb2-9ab2f21a6a74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:07</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Erasmus Montanus" av Ludvig Holberg</title>
+      <description><![CDATA[Ung mann bruker universitetsutdannelsen sin til å skremme folk på bygda]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2ebb94e5-6296-4f11-9923-cbe62d726ae9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2ebb94e5-6296-4f11-9923-cbe62d726ae9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:51</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Folk og røvere i Kardemommeby" av Torbjørn Egner</title>
+      <description><![CDATA[Lat politimester har griseflaks når røvere bare vil bidra til samfunnsregnskapet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/425f8c7c-59d1-4ee8-8f2a-1cdbc4f5a05b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/425f8c7c-59d1-4ee8-8f2a-1cdbc4f5a05b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:00</itunes:duration>
+      <pubDate>Wed, 12 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Amtmannens døtre" av Camilla Collett</title>
+      <description><![CDATA[Rekk opp hånden alle som tror kvinner elsker å ofre seg for andre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a908abfa-d5ac-433b-9b73-8cecd4386a12_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a908abfa-d5ac-433b-9b73-8cecd4386a12_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:25</itunes:duration>
+      <pubDate>Wed, 29 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Naiv. Super." av Erlend Loe</title>
+      <description><![CDATA[Mann havner i fosterstilling etter å ha tapt i krokket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/cacfa88d-3dc7-4fb7-9a7d-1a2b30cfbaa8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/cacfa88d-3dc7-4fb7-9a7d-1a2b30cfbaa8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:05</itunes:duration>
+      <pubDate>Wed, 22 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Mennesket og maktene"  av Olav Duun</title>
+      <description><![CDATA[Det siste verket som Duun skrev.  Det handler om menneskene på øya som opplever en stor flom. Det får fram det beste og det verste i dem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f2929ac0-47f1-4f74-84a6-a65a55d937fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f2929ac0-47f1-4f74-84a6-a65a55d937fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:16</itunes:duration>
+      <pubDate>Wed, 15 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Beatles" av Lars Saabye Christensen</title>
+      <description><![CDATA[Hvor er det blitt av alle gutta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/44f874c5-1d28-4a2f-9c01-7fba6ced6f04_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/44f874c5-1d28-4a2f-9c01-7fba6ced6f04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:18</itunes:duration>
+      <pubDate>Wed, 08 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Line" av Axel Jensen</title>
+      <description><![CDATA[Jente og en ganske problematisk matador. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/26f4b587-5d8e-483c-a4d8-1b58899bab40_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/26f4b587-5d8e-483c-a4d8-1b58899bab40_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:20</itunes:duration>
+      <pubDate>Wed, 01 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Is-slottet"  av Tarjei Vesaas</title>
+      <description><![CDATA[Is-slottet må ikke forveksles med is-folket!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/82a292d4-2b21-48be-8f1f-8cf146912b1d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/82a292d4-2b21-48be-8f1f-8cf146912b1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:23</itunes:duration>
+      <pubDate>Wed, 24 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Åtte små, to store og en lastebil" av Anne-Cath. Vestly</title>
+      <description><![CDATA[Alt kan fikses hvis man har godt humør og passer på hverandre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b7409d14-f8e7-4582-b021-db371c8b6574_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b7409d14-f8e7-4582-b021-db371c8b6574_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:16</itunes:duration>
+      <pubDate>Wed, 17 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Markens grøde" av Knut Hamsun</title>
+      <description><![CDATA[Som sesong 1 av "Der ingen skulle tru at nokon kunne bu"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0ee0e2e9-dfc3-4d73-b153-28801973163f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/0ee0e2e9-dfc3-4d73-b153-28801973163f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:05</itunes:duration>
+      <pubDate>Wed, 10 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Voluspå" </title>
+      <description><![CDATA[Gudene skaper verden og 5 minutter senere kommer damene og ødelegger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b6c66295-437c-49d7-902a-3c42c24141e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b6c66295-437c-49d7-902a-3c42c24141e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:33</itunes:duration>
+      <pubDate>Wed, 03 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title> "Heimskringla" av Snorre Sturlason</title>
+      <description><![CDATA[Her er det konger opp i mente, ispedd litt kringle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f4d38b1a-9230-47e5-b7ac-d6a0fc86786d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/f4d38b1a-9230-47e5-b7ac-d6a0fc86786d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:06</itunes:duration>
+      <pubDate>Wed, 20 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Lausgjengar - notat frå eit utstadig liv" av Fumiko Hayashi</title>
+      <description><![CDATA[Det er ikke bare i Hamsun sin bok "Sult" at noen går rundt i byen.  Vi skal til Japan på 1920-tallet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a134efb8-92a4-4f66-98f4-882a30fdc1a8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/a134efb8-92a4-4f66-98f4-882a30fdc1a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:04</itunes:duration>
+      <pubDate>Wed, 13 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Vandringa" av Kristofer Uppdal</title>
+      <description><![CDATA[Tredje bind fra romanserien "Dansen gjennom skuggeheimen". Vi følger livsreisen til Kal Ølstad som blir til "Øl-Kalle".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2aba521a-3f79-4ebd-bb00-de518e5a2d26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/2aba521a-3f79-4ebd-bb00-de518e5a2d26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:15</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title> "Den hemmelige historien"  av Donna Tartt</title>
+      <description><![CDATA[En "omvendt kriminalroman" fra 1992 - Der både offer og gjerningspersoner avsløres med en gang. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/03b90a60-0dab-4e3a-84b5-79d6771ef8ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/03b90a60-0dab-4e3a-84b5-79d6771ef8ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:47</itunes:duration>
+      <pubDate>Wed, 28 Feb 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title> "Soga om Gunnlaug Ormstunge" </title>
+      <description><![CDATA[Islendinge-soga som du leste på videregående skole, men som du har fortrengt.
+Sagaen skildrer en romantisk konflikt mellom skalden Gunnlaug Ormstunge, hans rival Ravn Ånundsson og Helga Torsteinsdatter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/27c4d5d6-2000-48e3-8544-036a5666e095_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/27c4d5d6-2000-48e3-8544-036a5666e095_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:49</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Orestien" av Aiskhylos</title>
+      <description><![CDATA[Mor dreper far, sønn dreper mor, bystaten opprettes. Gresk tragedie fra 458 fvt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/326512e6-33af-4fcd-a432-d3374fb84ec5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/326512e6-33af-4fcd-a432-d3374fb84ec5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:51</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Utvidelse av kampsonen" av Michel Houellebecq</title>
+      <description><![CDATA[En surmaga data-ingeniør oppdager at han mangler dametekke, og skylder på samfunnet. Fransk klassiker fra 1994.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/46272d9a-142c-4fa4-935f-842460292b6b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/46272d9a-142c-4fa4-935f-842460292b6b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:08</itunes:duration>
+      <pubDate>Tue, 07 Jul 2020 12:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>" En veloppdragen ung pikes erindringer" av Simone de Beauvoir</title>
+      <description><![CDATA[Dette er Simone de Beauvoirs skildring av egen barndom og ungdomstid i Frankrike tidlig i århundret]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/1def76d8-8b58-4e79-b47d-39426c18c241_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/1def76d8-8b58-4e79-b47d-39426c18c241_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:16</itunes:duration>
+      <pubDate>Tue, 30 Jun 2020 12:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"An-Magritt (Nattens brød)" av Johan Falkberget</title>
+      <description><![CDATA[Å kjøre kull og malm på Røros er ikke bare-bare.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/4de907dc-5e3c-476e-805a-e813b5a85bb8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/4de907dc-5e3c-476e-805a-e813b5a85bb8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:38</itunes:duration>
+      <pubDate>Tue, 16 Jun 2020 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Allis sønn" av Magnhild Haalke</title>
+      <description><![CDATA[Magnhild Haalkes debutroman fra 1935 fikk strålende anmeldelser hjemme og ute, blant annet i New York Times, men "Allis sønn" er likevel en litt glemt klassiker. Romanen gjenutgis våren 2020]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/9001f3f8-bb94-4231-b3d5-a8f493392966_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/9001f3f8-bb94-4231-b3d5-a8f493392966_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:59</itunes:duration>
+      <pubDate>Tue, 09 Jun 2020 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Absalom, Absalom!"  av William Faulkner</title>
+      <description><![CDATA[Hvis du tror at dette er en musikal, så tar du feil. Faulkner skriver trist, mørkt og vakkert om tiden før, under og etter den amerikanske borgerkrigen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/10052cdc-a90c-44f7-9c28-cd4d746a31a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/10052cdc-a90c-44f7-9c28-cd4d746a31a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:47</itunes:duration>
+      <pubDate>Tue, 02 Jun 2020 09:28:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title> "Brødrene Karamasov"  av Fjodor Dostojevskij </title>
+      <description><![CDATA[Historien om tre brødre, tre svært ulike ungdommer. Dette var Fjodors siste verk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b572cf88-4d75-4827-b3e9-17ddb7289512_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/b572cf88-4d75-4827-b3e9-17ddb7289512_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:27</itunes:duration>
+      <pubDate>Mon, 25 May 2020 23:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Lolita" av Vladimir Nabokov </title>
+      <description><![CDATA[Dette er boka som vår lærer ikke liker. Men den kalles en klassiker, så da går vi i gang. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/fe824490-b94d-4c99-9cbb-4e13f9b03165_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/fe824490-b94d-4c99-9cbb-4e13f9b03165_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:06</itunes:duration>
+      <pubDate>Tue, 19 May 2020 10:17:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Anna Karenina" av  Leo Tolstoj</title>
+      <description><![CDATA[Er gresset grønnere på den andre siden? Anna Karenina, bryter sitt ekteskap og forlater til slutt sin sønn for å leve ut sin kjærlighet med en annen. Var det lurt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/16c17bf1-8eea-4f16-9fec-4649ac5ff37c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/16c17bf1-8eea-4f16-9fec-4649ac5ff37c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:13</itunes:duration>
+      <pubDate>Tue, 12 May 2020 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+    <item>
+      <title>"Middlemarch" av George Eliot</title>
+      <description><![CDATA[Hvorfor skjer det alltid så mye på den engelske landsbygda og hvorfor heter George egentlig Mary Ann ?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/1e6844ee-7c57-43fa-b15f-fdef8434146c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjente_boeker_paa_4_minutter/1e6844ee-7c57-43fa-b15f-fdef8434146c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:42</itunes:duration>
+      <pubDate>Tue, 05 May 2020 08:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA.jpg"/>
+    </item>
+  </channel>
+</rss>

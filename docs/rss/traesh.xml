@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Træsh</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Ingrid Moholt Waaler tar deg med gjennom jungelen av deilig, søplete popkultur.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:24:03 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 12:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ.jpg"/>
+    <item>
+      <title>Takk for nå &lt;3</title>
+      <description><![CDATA[En trist beskjed, men også prat om nyinnspillingen av "Wuthering Heights" og Netflix-suksessen "Unknown Number".
+
+V I<3 DERE! Tusen takk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/fa70c60d-ae65-49fa-b0c6-0dae65d9fa27_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/fa70c60d-ae65-49fa-b0c6-0dae65d9fa27_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:44</itunes:duration>
+      <pubDate>Mon, 08 Sep 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4jcUJiPmDIWlNoUti4j8uAI8q_c78CjzIR7HBTXoYVpA.jpg"/>
+    </item>
+    <item>
+      <title>Anna Nor Sørensen: Cardi B i ny rettssak</title>
+      <description><![CDATA[Rihanna markerer 20-årsjubileum, Cardi B leverer komediegull i retten, og North Wests antrekk skaper sterke reaksjoner på internett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/eebe9651-f688-4728-be96-51f688972805_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/eebe9651-f688-4728-be96-51f688972805_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:03</itunes:duration>
+      <pubDate>Thu, 04 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zcU3rtCwNQZg12IDAs6GzQgNgPKwq5bK9pAd8p7vRIUQ.jpg"/>
+    </item>
+    <item>
+      <title>Er "the Kardashians" irrelevante?</title>
+      <description><![CDATA[Adelina lurer på om Kardashian-klanen er ferdig for godt, mens Ingrid anbefaler Audrey Hoberts nye album.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/8c86bbab-463a-4d1f-86bb-ab463a0d1f94_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/8c86bbab-463a-4d1f-86bb-ab463a0d1f94_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:38</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQ5cZgdg3HFQWZSiC1rafn-Q.jpg"/>
+    </item>
+    <item>
+      <title>Silje Nordnes: Hva skjer med Lil Nas X?</title>
+      <description><![CDATA[Lil Nas X går viralt, Serena Williams reklamerer for slankesprøyte, og Aubrey Plaza er endelig tilbake etter en tøff tid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/45226647-1e17-4abf-a266-471e176abf68_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/45226647-1e17-4abf-a266-471e176abf68_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:13</itunes:duration>
+      <pubDate>Thu, 28 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HHA4G362gAtywciHpIe58gHKgLMLQ7zYwKXraeQ33hKg.jpg"/>
+    </item>
+    <item>
+      <title>GAP/Katseye og "The Big Three"</title>
+      <description><![CDATA[Yas, Toni og Shakira gjør det stort i i-D Magazine, mens GAP leverer årets beste denim-reklame.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/2840f412-ec05-4cbb-80f4-12ec05acbb0e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/2840f412-ec05-4cbb-80f4-12ec05acbb0e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:59</itunes:duration>
+      <pubDate>Mon, 25 Aug 2025 12:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQ5cZgdg3HFQWZSiC1rafn-Q.jpg"/>
+    </item>
+    <item>
+      <title>Ramón: "Glee"-forbannelsen</title>
+      <description><![CDATA[Zara Larsson får sitt virale gjennombrudd, vi dykker ned i Glee-forbannelsen, og er Taylor Swift den neste Super Bowl-headlineren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/eeda22ad-d696-4b0d-9a22-add696fb0d46_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/eeda22ad-d696-4b0d-9a22-add696fb0d46_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:50</itunes:duration>
+      <pubDate>Thu, 21 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/S-xIRBW2o9UpbTbZaVovBgiq5siVZPI3tYuP4zfK2EFQ.jpg"/>
+    </item>
+    <item>
+      <title>Hva i alle dager, E.L.F?</title>
+      <description><![CDATA[Sminkemerket E.L.F med reklamebommert og nok en "The Summer I Turned Pretty"-anbefaling fra Adelina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/90c95017-8de1-47a4-a773-4928424fee31_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/90c95017-8de1-47a4-a773-4928424fee31_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:08</itunes:duration>
+      <pubDate>Mon, 18 Aug 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQ5cZgdg3HFQWZSiC1rafn-Q.jpg"/>
+    </item>
+    <item>
+      <title>St. Sunniva: Er Taylor Swift kynisk?</title>
+      <description><![CDATA[Demi Lovato og Joe Jonas gjenforenes på scenen, Taylor Swift teaser nytt album, og Sophie Turner får mammahets på sosiale medier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/6cbba574-b22a-489d-982a-6602a9c8592b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/6cbba574-b22a-489d-982a-6602a9c8592b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:13</itunes:duration>
+      <pubDate>Thu, 14 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/81D_lRCw0s2gVoPL_wS4RgBmmVmH1q7p5fWEcEdFB59Q.jpg"/>
+    </item>
+    <item>
+      <title>Freakier Friday og Las Culturistas</title>
+      <description><![CDATA[Lindsay Lohan er endelig tilbake, Las Culturistas' prisutdeling samler folket og selvfølgelig litt Charli-prat<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/47109450-cbbf-43e5-a324-87b34f9186a1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/47109450-cbbf-43e5-a324-87b34f9186a1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:23</itunes:duration>
+      <pubDate>Mon, 11 Aug 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQ5cZgdg3HFQWZSiC1rafn-Q.jpg"/>
+    </item>
+    <item>
+      <title>BONUS: Love Island UK 2025&lt;3</title>
+      <description><![CDATA[Vi oppsummerer sommerens vakreste eventyr. Er du enig? Uenig? Send det inn i appen NRK Radio!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/7f442375-05dd-431f-8984-3cf44ee2aeb3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/7f442375-05dd-431f-8984-3cf44ee2aeb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:16</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 06:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qJIWWCEfUPPO9XvqEVzRrg0ZEFGSdmkai-IllRjLeXnA.jpg"/>
+    </item>
+    <item>
+      <title>Alt internett snakket om i sommer</title>
+      <description><![CDATA[Utroskap på Coldplay-konsert, Charli XCX giftet seg, Justin Bieber slapp nytt album og Lena Dunham er endelig tilbake på skjermen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/0efd3052-f03e-49fc-9fdd-c134fc05313b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/0efd3052-f03e-49fc-9fdd-c134fc05313b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:55</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PUMCnj2qJU2SwOeH6PdI0wxd2_cvT5panyGgXF79k5Vw.jpg"/>
+    </item>
+    <item>
+      <title>Elevatorgate</title>
+      <description><![CDATA[Adelina er med i dagens sommerspesial, og vi tar deg tilbake til da Solange Knowles gikk løs på Jay-Z i en heis. Hva var det som skjedde?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/463e51b4-3db2-4dec-8ed8-32f5db1cfa00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/463e51b4-3db2-4dec-8ed8-32f5db1cfa00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:18</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/G5xqEJhmjKZb6KNyFc2VYAtHXCgKUskyk-6R7pa3-5Aw.jpg"/>
+    </item>
+    <item>
+      <title>Fra Brennifer til Brangelina</title>
+      <description><![CDATA[Trekantdramaet mellom Brad Pitt, Jennifer Aniston og Angelina Jolie var på alles lepper i 2004. Hvordan gikk vi fra «Brennifer» til «Brangelina»?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/b781f33e-46c0-4110-baed-1c593b41226a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/b781f33e-46c0-4110-baed-1c593b41226a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:44</itunes:duration>
+      <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vffsFfIT1u8SSv_Kdnv_jw2g9-tt-IA9AC0H5aRTInnw.jpg"/>
+    </item>
+    <item>
+      <title>Tenåringene som ranet Hollywood</title>
+      <description><![CDATA[Hvordan klarte en gjeng ungdommer å rane noen av verdens største kjendiser? Vi tar deg med gjennom historien om The Bling Ring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/89a904db-2047-46e8-b4a3-8d5186606996_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/89a904db-2047-46e8-b4a3-8d5186606996_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:02</itunes:duration>
+      <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QLEKTscFxY1VDnKVEmC11QSKQb3Xi0maeFUPuczgIP7A.jpg"/>
+    </item>
+    <item>
+      <title>Puppeglippen som rystet verden</title>
+      <description><![CDATA[Da Janet Jacksons pupp ble sett av 140 millioner, skapte det vill furore! Det så ut som en glipp, men var alt egentlig planlagt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/20d90bb8-1f5b-4939-86fb-0e41a373eeea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/20d90bb8-1f5b-4939-86fb-0e41a373eeea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:47</itunes:duration>
+      <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MwBHlJxv-srMn8jtThT2Ew6ESRe1CHQq7tenIc41485A.jpg"/>
+    </item>
+    <item>
+      <title>Brendan Frasers fall og comeback</title>
+      <description><![CDATA[Hva skjedde egentlig med Brendan Fraser? Bli med på hans reise fra personlig tragedie til hans rørende comeback til Hollywood.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/9ade2329-76f6-4fe0-8ff6-c5df69285b34_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/9ade2329-76f6-4fe0-8ff6-c5df69285b34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:45</itunes:duration>
+      <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Pf7qagVV6BHL1jka-_Z-qw2DnbHecGlZfX_HLFqx9s_w.jpg"/>
+    </item>
+    <item>
+      <title>Je suis Tiny Chef</title>
+      <description><![CDATA[Tiny Chef har fått en trist beskjed fra Nickelodeon, mens BBC prøver så godt de kan å sensurere Kneecap på Glastonbury.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/ad84f4ee-dbd0-4282-9d14-5b4e2a092e0c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/ad84f4ee-dbd0-4282-9d14-5b4e2a092e0c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:24</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQ5cZgdg3HFQWZSiC1rafn-Q.jpg"/>
+    </item>
+    <item>
+      <title>Morten Hegseth: Må alle ha en podkast?</title>
+      <description><![CDATA[Alec Baldwins talemelding til datteren går viralt, Bezos-bryllupet i Venezia får gjennomgå, og har Benson Boone blitt litt kul?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/97966e8f-dcb0-4a85-a2b1-c73607baddc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/97966e8f-dcb0-4a85-a2b1-c73607baddc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:04</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GTVG_zACK4-2G45xQG7TsAIQgnO0AKpdj1-LV8m9GwuA.jpg"/>
+    </item>
+    <item>
+      <title>Endelig: Love Island UK-prat</title>
+      <description><![CDATA[En Love Island-debrief, og en hyllest til både Dua Lipa og Beyonce, som begge imponerer på sine turneer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/7cadb0a5-f3ba-4b58-a84a-e24b55a8686b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/7cadb0a5-f3ba-4b58-a84a-e24b55a8686b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:11</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQ5cZgdg3HFQWZSiC1rafn-Q.jpg"/>
+    </item>
+    <item>
+      <title>Gisle Agledahl: Forelska i KI</title>
+      <description><![CDATA[Justin Bieber tar et oppgjør med paparazziene, kjendiser strømmer til gatene under No Kings-protester, og Doja Cat kaller en fan 'musty'.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/a930b23e-e61a-4055-9ee5-7290d1371701_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/a930b23e-e61a-4055-9ee5-7290d1371701_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:32</itunes:duration>
+      <pubDate>Thu, 19 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FzVzPYuqkzUEyYn2sTlK7gYAg_RO_CSYoc2vrWvxQgow.jpg"/>
+    </item>
+    <item>
+      <title>Sabrina Carpenter splitter internett </title>
+      <description><![CDATA[Sabrinas Carpenter nye album splitter folket, og det er endelig duket for ny sesong av Love Island UK!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/822d500e-2b6c-4626-8578-10e001e5147d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/822d500e-2b6c-4626-8578-10e001e5147d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:40</itunes:duration>
+      <pubDate>Mon, 16 Jun 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Anna Nor Sørensen: Queerbaiter Billie Eilish?</title>
+      <description><![CDATA[Burberry har lansert en ny, stjernespekket sommerkampanje, Trump og Musk krangler på SoMe, og Billie Eilish har fått ny kjæreste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/f1aba3d1-0f5d-41f3-b702-efdcea126409_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/f1aba3d1-0f5d-41f3-b702-efdcea126409_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:21</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rkoTB6t_H9S1KF79brDUaAgRsMAhTU1I1s8NrWNHSaiQ.jpg"/>
+    </item>
+    <item>
+      <title>Hva skjer, Justin og Hailey?</title>
+      <description><![CDATA[Nytt drama på Bieber-fronten, Sabrina med ny låt, og har Ingrid gått litt vel hardt ut med sin kjærlighet til And Just Like That?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/55be1eb9-bb80-4ffd-83e8-f546fb856a38_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/55be1eb9-bb80-4ffd-83e8-f546fb856a38_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:28</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>God pinse!</title>
+      <description><![CDATA[Hallo i pinsen! Vi kommer tilbake i morgen<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/f3b4411a-5d18-47aa-8252-2fc0f33729b3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/f3b4411a-5d18-47aa-8252-2fc0f33729b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:28</itunes:duration>
+      <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Ruben: Kjendisbadevann til salgs</title>
+      <description><![CDATA[Sydney Sweeney selger badevannet sitt til fans, Miley Cyrus har sluppet nytt album, og vi tar et dypdykk i historien bak PRIDE-bevegelsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/ca6e93fd-7007-4843-8c19-61ac924eeec9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/ca6e93fd-7007-4843-8c19-61ac924eeec9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:34</itunes:duration>
+      <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8ePs1VeO1xHZdytw1ZPWGgCFFlI-qRajcmI7fkDdaWSg.jpg"/>
+    </item>
+    <item>
+      <title>Carrie Bradshaw er morsom igjen</title>
+      <description><![CDATA[Taylor Swift med en enorm seier, og et gledelig gjensyn med "And Just Like That".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/c05204ef-267d-4006-9d09-3ac8ccb3ad00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/c05204ef-267d-4006-9d09-3ac8ccb3ad00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:34</itunes:duration>
+      <pubDate>Mon, 02 Jun 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Arian Engebø: Hvorfor hater alle Benson Boone?</title>
+      <description><![CDATA[Justin Bieber bommer totalt i sin hyllest til kona, Benson Boone blir slaktet på nett, og er Juicy Tubes-comebacket et tegn på at verden går under?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/980b4a6b-bd7a-4395-8ca3-28a489497548_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/980b4a6b-bd7a-4395-8ca3-28a489497548_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:42</itunes:duration>
+      <pubDate>Thu, 29 May 2025 15:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T7bJDKOPysqD2nc0DR1o2wsM9oHoZfaeVbosdyYGF0jg.jpg"/>
+    </item>
+    <item>
+      <title>"Affeksjonsverdi" og "Overcompensating"</title>
+      <description><![CDATA[Joachim Trier det stort i Cannes (igjen), mens "Overcompensating" gjør det stort på Amazon Prime.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/2fd38192-6fc4-4057-bc96-f1b1039e2e00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/2fd38192-6fc4-4057-bc96-f1b1039e2e00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:21</itunes:duration>
+      <pubDate>Mon, 26 May 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>StSunniva: Nei takk, #skinnytok</title>
+      <description><![CDATA[SkinnyTok tar av på sosiale medier, Kris Jenner sjokkerer med nytt utseende, og er utroskapsryktene rundt White Lotus-casten endelig lagt død?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/6eb841fc-c0ed-4197-bf46-2516fec1ec1c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/6eb841fc-c0ed-4197-bf46-2516fec1ec1c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:33</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KZ8k86YXOLfhjHXcW8GJQgy_OxknOcnemHnKAQsbJ5sw.jpg"/>
+    </item>
+    <item>
+      <title>Rihanna-låt og Chris Brown-arrestasjon</title>
+      <description><![CDATA[Rihanna er endelig ute med ny musikk, og Chris Brown beviser nok en gang at han er en kjip fyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/d64baa1e-6aa7-435b-bcc4-7493e5fd415d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/d64baa1e-6aa7-435b-bcc4-7493e5fd415d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:39</itunes:duration>
+      <pubDate>Mon, 19 May 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Nate Kahungu: P Diddy risikerer livstid</title>
+      <description><![CDATA[Katy Perry blir latterliggjort på internett, P Diddys rettsak har omsider startet, og hvem er Trumps feite, nevrotiske venn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/bbf19001-d2d8-421f-9e93-bfc400f56374_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/bbf19001-d2d8-421f-9e93-bfc400f56374_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:47</itunes:duration>
+      <pubDate>Thu, 15 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LTAWVgf3cMSbtdW2_CfHdgg4NCfjcR3x5UfUOeyno7RQ.jpg"/>
+    </item>
+    <item>
+      <title>Harry Styles på Petersplassen</title>
+      <description><![CDATA[Harry Styles er pave-fan og Lea Michele avkrefter ti år gammelt rykte – kan hun lese allikevel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/dce60410-e679-46d0-9eb5-818390f7b82a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/dce60410-e679-46d0-9eb5-818390f7b82a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:09</itunes:duration>
+      <pubDate>Mon, 12 May 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Anine Olsen: «Bye, sister» 2.0</title>
+      <description><![CDATA[Rihanna avslører graviditet på den røde løperen, vi får gjensyn med Frustrerte fruer-universet og James Charles er nok en gang i sentrum av en skandale.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/d48c47ae-2b89-4046-bb21-8f103458aaa1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/d48c47ae-2b89-4046-bb21-8f103458aaa1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:19</itunes:duration>
+      <pubDate>Thu, 08 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wGzDEdcPl9cFcR7JNU0klQwj7w2GkiAbn1W46ajF-CxQ.jpg"/>
+    </item>
+    <item>
+      <title>Gaga-rekord og Euphoria-drypp</title>
+      <description><![CDATA[Lady Gaga har opptrådd for 2,1 millioner (!)  mennesker i Brasil, og innspillingen av Euphoria sesong tre er endelig i gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/599eb39d-b4be-4d99-a31e-b2512bc3ab26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/599eb39d-b4be-4d99-a31e-b2512bc3ab26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:28</itunes:duration>
+      <pubDate>Mon, 05 May 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Martha Leivestad: PROTECT THE DOLLS</title>
+      <description><![CDATA[T-skjorteaktivisme sprer seg i Hollywood, B. J. Novak med ny kjæreste (som IKKE er Mindy Kaling), Beyoncé turnerer igjen og Gwyneth Paltrow har begynt å spise ost. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/a01b505f-bfd9-45bd-8779-eacd58dac2fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/a01b505f-bfd9-45bd-8779-eacd58dac2fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:42</itunes:duration>
+      <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Bu4tv_-KoXfeFIl05sQSVgA1ows0Eim3iYk_WqqfZ4AQ.jpg"/>
+    </item>
+    <item>
+      <title>Jojo Siwa-brudd og Katy Perry-flopp</title>
+      <description><![CDATA[Celebrity Big Brother ble spikeren i kista for Jojo Siwas forhold, mens Katy Perry klarer på ingen måte å reise seg etter rom-fadesen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/3d41aede-533c-4e63-bf21-adc644b80ea8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/3d41aede-533c-4e63-bf21-adc644b80ea8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:09</itunes:duration>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Ramón: Wendy's vs. Katy Perry</title>
+      <description><![CDATA[Addison Rae imponerer med ny musikk, kinesiske fabrikker går viralt i kjølvannet av handelskrigen, og fastfoodkjeden Wendy's og Katy Perry krangler på nett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/6e0d5947-b400-401f-a8b9-1a769ba37bcb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/6e0d5947-b400-401f-a8b9-1a769ba37bcb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:51</itunes:duration>
+      <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zyMkI165859djXGeZLAxFQnx0Ne8hngcDveXg0ILuNHA.jpg"/>
+    </item>
+    <item>
+      <title>Coachella #2 og paven </title>
+      <description><![CDATA[Pave Frans er død, og er det beef mellom Green Day og Charlie XCX?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/c818866e-ad09-4f45-b8c6-956af4d98d31_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/c818866e-ad09-4f45-b8c6-956af4d98d31_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:01</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 12:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Adelina Ibishi: Romferd fra helvete</title>
+      <description><![CDATA[SNL-sketsj  får internett til å se rødt, Katy Perry har vært romturist, og den 23 års lange feiden mellom Madonna og Elton John er endelig over.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/2a7c3b89-6978-4ed3-b257-a67ad71534ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/2a7c3b89-6978-4ed3-b257-a67ad71534ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:28</itunes:duration>
+      <pubDate>Thu, 17 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hCByfLZ5A0LL9Twp5xhTEwK6uFYb8xggepvTovZlmlHg.jpg"/>
+    </item>
+    <item>
+      <title>Coachella og Lorde-sommer 2025</title>
+      <description><![CDATA[Vi debriefer første helg med Coachella, og GLEDER oss til ny musikk fra Lorde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/c27a4f03-aca9-4f4f-9b61-d1bcf5474972_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/c27a4f03-aca9-4f4f-9b61-d1bcf5474972_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:10</itunes:duration>
+      <pubDate>Mon, 14 Apr 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Mathilde Ullum: En innføring i internettslang</title>
+      <description><![CDATA[Black Mirror er endelig tilbake med ny sesong, en arrestasjonsvideo går viralt, og vi gir deg en oppdatering på det siste innen internettslang!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/76dade72-18e6-44b6-adeb-840707bd3cc5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/76dade72-18e6-44b6-adeb-840707bd3cc5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:34</itunes:duration>
+      <pubDate>Thu, 10 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PMP-WLtEwJLuJ-RI3z50UQWP0SAFhtgEH_tH13srzUpw.jpg"/>
+    </item>
+    <item>
+      <title>White Lotus-spesial</title>
+      <description><![CDATA[En sesong er ferdig – hva synes vi? Alt om White Lotus sesong tre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/bd2e8c6c-227e-482f-9fc5-0b50de8d1a91_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/bd2e8c6c-227e-482f-9fc5-0b50de8d1a91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:26</itunes:duration>
+      <pubDate>Mon, 07 Apr 2025 12:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Christina Vukicevic: Bieber på alles lepper</title>
+      <description><![CDATA[..for hva er greia med insta-raptusen hans natt til mandag? Vi snakker også om de fire (!) nye Beatles-filmene og hyller noe litt harry treningstøy.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/273280b3-a2e1-4ac6-8a1c-46049255b67c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/273280b3-a2e1-4ac6-8a1c-46049255b67c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:24</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AlyhNySLVQuA3mXrh-QM_AezvN79ZElJhGApU9CjlovQ.jpg"/>
+    </item>
+    <item>
+      <title>"Adolesence" og ekte tenner på TV</title>
+      <description><![CDATA[Ingrid har sett "Adolesence" på Netflix, mens Adeline fryder seg over å se ekte tenner i "White Lotus".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/e5b13854-94cb-4a4b-bfcf-f861a1e1e434_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/e5b13854-94cb-4a4b-bfcf-f861a1e1e434_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:26</itunes:duration>
+      <pubDate>Mon, 31 Mar 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Silje Nordnes: Er Hailey Bieber stalker?</title>
+      <description><![CDATA[Silje gir Ingrid en aha-opplevelse når det gjelder Selena Gomez og Hailey Bieber. Og hva tenker egentlig Silje Nordnes om håndjobben i White Lotus?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/5f0a4c49-9133-4d2e-965e-48cb8e313578_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/5f0a4c49-9133-4d2e-965e-48cb8e313578_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:51</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lxflhEV3YDYLf_4s-P38lgL0c5PjD3oLtcI8fQIPl0Pg.jpg"/>
+    </item>
+    <item>
+      <title>Mandagsrapport: Selena Gomez og Elon Musks datter</title>
+      <description><![CDATA[Adelina gleder seg over å ENDELIG få noe fett fra Selena Gomez, mens Ingrid har lest om Elon Musks datter (som hater faren sin) i Teen Vogue.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/55f5cc4c-93a4-426a-964f-2a1b665798ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/55f5cc4c-93a4-426a-964f-2a1b665798ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:10</itunes:duration>
+      <pubDate>Mon, 24 Mar 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xh5YDX1NBHAVuUAnKo_FEQBtrsK8K8-31ssTsY2oQE1Q.jpg"/>
+    </item>
+    <item>
+      <title>Øyunn Krogh: Joni Mitchells blackface-fortid</title>
+      <description><![CDATA[Vogues smakløse hyllest til "Hairspray" får kritikk, Joni Mitchell blir kansellert, og familien til dømte Ruby Franke snakker ut for første gang]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/cc0ebc34-ef90-41a8-9388-15f2d1aec1d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/cc0ebc34-ef90-41a8-9388-15f2d1aec1d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:41</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ArUyZy7sWn7Lqu5LvFlYlQ18YnsKkLubfLmqtDV1Qh0A.jpg"/>
+    </item>
+    <item>
+      <title>Mandagsrapport: Jason Isaacs' penis og Kanyes nye låt</title>
+      <description><![CDATA[Jason Isaacs vil ikke snakke om penisen sin, mens Kanye Wets vil (dessverre) lage låt med Diddy og North West.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/fc865cbc-5bfa-4b51-ad20-f9b574c26a36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/fc865cbc-5bfa-4b51-ad20-f9b574c26a36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:45</itunes:duration>
+      <pubDate>Mon, 17 Mar 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iFDMRODWMANX_9M1BE3XpgswXJKVkN02Vfl7PklZsDeg.jpg"/>
+    </item>
+    <item>
+      <title>Gaute Berg Næss: Spiser eliten havfruer?</title>
+      <description><![CDATA[... Mange tror nemlig det! I tillegg går en video av Timothée Chalamet som avviser Kylie Jenner viralt,  og vi tar et dypdykk i saken om Casey Anthony.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/c415b3e6-d23f-4d1f-8442-ae7449bc5f02_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/c415b3e6-d23f-4d1f-8442-ae7449bc5f02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:11</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4kZPRcbTxzAmBjn2Q6oqoQJ9KY7aHxmtOLx17gI-PmDA.jpg"/>
+    </item>
+    <item>
+      <title>Mandagsrapport: "With Love, Meghan" og Gagas "Mayhem"</title>
+      <description><![CDATA[Fanny Andersen er vikar! Vi snakker om hatet på Meghan Markle og Lady Gagas nye album.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/traesh/5de8636c-0827-477a-b0d3-bfecdb886f10_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/traesh/5de8636c-0827-477a-b0d3-bfecdb886f10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:31</itunes:duration>
+      <pubDate>Mon, 10 Mar 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ.jpg"/>
+    </item>
+  </channel>
+</rss>

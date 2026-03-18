@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Hvordan møttes dere? </title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Hvordan møter man den rette? Hør morsomme, romantiske og pinlige historier om hvordan kjente par møtte hverandre og fant kjærligheten.  </description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:19:23 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/OD3v6WqJ1GtvBmx6BvV_-Q7T5Wi8xtzlVb0I9PLhWb9w.jpg"/>
+    <item>
+      <title>Niklas Baarli og Benjamin Silseth</title>
+      <description><![CDATA[Niklas brukte et P3-intervju til å sjekke opp Benjamin. Det skulle vise seg å funke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/95f60bf3-ce5b-4038-a67b-7070e5a9d54d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/95f60bf3-ce5b-4038-a67b-7070e5a9d54d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:53</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u8YYgnCQZzEm8acQ6iBFIwSzGmScdDOazziPwJnPp6jw.jpg"/>
+    </item>
+    <item>
+      <title>Ingrid Vik Lysne og Andreas Feet</title>
+      <description><![CDATA[Ingrid syntes at symesterskap-dommer Andreas var spennende og mystisk. Og takket være Jenny Skavlan, så ble det de to.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/0b6742d3-bfa1-4325-8924-eff633b21ae0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/0b6742d3-bfa1-4325-8924-eff633b21ae0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:41</itunes:duration>
+      <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FCbslUuV8ssIIJ2PWTI18wC8TrtdPJnzBXpyKEuKbN6g.jpg"/>
+    </item>
+    <item>
+      <title>Malin Falch og Stinius Maurstad</title>
+      <description><![CDATA[Malin og Stinius syntes begge flørting var vanskelig. Men så deltok de i datingserien «Love IRL» – og fant ekte kjærlighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/bbe6d036-78a8-4d6f-b8cd-15b069da72f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/bbe6d036-78a8-4d6f-b8cd-15b069da72f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:25</itunes:duration>
+      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vqeiNvaSkWMgtlKdwX2GVQx6j1BraF5K8fSnCy2g6GAg.jpg"/>
+    </item>
+    <item>
+      <title>Marte Fredriksen og Geir Kåre Nyland</title>
+      <description><![CDATA[MMA-utøveren GK følte at livet var over da han havnet i rullestol etter en stupeulykke. Men så møtte han Marte, som bar på sin egen historie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/a6f3d4d7-ca4b-4b43-8219-c3f4721104cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/a6f3d4d7-ca4b-4b43-8219-c3f4721104cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:53</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8d_8kLWx9gV6Vv8xufNSBAQBFRC8zCwifkCuYBz8kwhw.jpg"/>
+    </item>
+    <item>
+      <title>Christel Alsos og Finn-Erik Rognan</title>
+      <description><![CDATA[Christel var så lei seg etter et samlivsbrudd at hun nesten avlyste deltakelsen i «Hver gang vi møtes». Men nettopp der møtte hun drømmemannen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/c3da3504-f926-4d4f-a565-c78b51e3831f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/c3da3504-f926-4d4f-a565-c78b51e3831f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:51</itunes:duration>
+      <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BntkIMwINZYWFM5mro1w5ggJ0WXgekgLKF5e_TwxnBrw.jpg"/>
+    </item>
+    <item>
+      <title>Lan Marie Berg og Eivind Trædal</title>
+      <description><![CDATA[Lan Marie og Eivind ble paret opp/forsøkt koblet flere ganger før de til slutt innså at de var ment for hverandre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/334d056e-4820-4c40-ae3c-6bd10b505320_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/334d056e-4820-4c40-ae3c-6bd10b505320_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:41</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VD5ENMEXkdjhP6vUmNfSNQg2pkYvT9KNTR-stYZp9j8Q.jpg"/>
+    </item>
+    <item>
+      <title>Astrid Uhrenholdt Jacobsen og Ingeborg Djupnes</title>
+      <description><![CDATA[Et spørsmål fra faren fikk Astrid til å innse at det aldri er for seint å lete etter den rette.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/10e46fcb-69a7-4498-a951-e4de0885a6a5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/10e46fcb-69a7-4498-a951-e4de0885a6a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:45</itunes:duration>
+      <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Zj9K_eg7wlZfQ5hs5jreagpgi7MUwcy2L6SsWSuoGGNA.jpg"/>
+    </item>
+    <item>
+      <title>Maria Stavang og Magnus Devold</title>
+      <description><![CDATA[Maria lærte hjemme at man ikke skal forelske seg på jobb. Likevel var det akkurat der hun fant sin aller første kjæreste, Magnus. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/04df58aa-48f0-4918-911a-f0defc551a05_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/04df58aa-48f0-4918-911a-f0defc551a05_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:01</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NEEFZ7yboHe4BW2e0s-qog_REivJqw2GYQxVznKo98XQ.jpg"/>
+    </item>
+    <item>
+      <title>Maiken Blom Snersrud og Cengiz Al</title>
+      <description><![CDATA[Cengiz Al fant tidlig drømmejenta på dansegulvet. Selv om han ble berømt over natten, mistet han ikke følelsene for ungdomskjæresten Maiken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/138ed6b0-7d43-4006-b406-76096df7cfdd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/138ed6b0-7d43-4006-b406-76096df7cfdd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:07</itunes:duration>
+      <pubDate>Wed, 10 Apr 2024 09:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vu1xK3dWH79FJ2tbu8MEIgtqts5AWBjnEGHPdPtZ3oAw.jpg"/>
+    </item>
+    <item>
+      <title>Ingeborg Heldal og Halvor Haugen</title>
+      <description><![CDATA[Takket være H'en kommer Ingeborg Heldal og Halvor Haugen på samme gruppe på Journalisthøyskolen. Det blir starten på et over 20 år langt forhold.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/a70a57a2-a8bd-4cee-a563-7bd0d1955b9d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/a70a57a2-a8bd-4cee-a563-7bd0d1955b9d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:20</itunes:duration>
+      <pubDate>Wed, 03 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UayeXs5Hn_ck4wRkrFS98AW8sCaaNIKMtXjr2SkSpy8g.jpg"/>
+    </item>
+    <item>
+      <title>Rosell Utne Berge og Stig-André Berge</title>
+      <description><![CDATA[Stig-André møter Rosell i brytemiljøet da hun er 12 år og han er 19. Etter å ha vært treningskamerater i årevis, kysser de en dag på vektrommet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/f553499b-bff9-4b50-8fc0-d39983815ed8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/f553499b-bff9-4b50-8fc0-d39983815ed8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:25</itunes:duration>
+      <pubDate>Wed, 27 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WIqlWvPXGGIyuIWiigDDAQ8KM9etoRfNEGaVbWdxlPdA.jpg"/>
+    </item>
+    <item>
+      <title>Jennie Sofie Lie Pickl og Tarjei Svalastog</title>
+      <description><![CDATA[Jennie Sofie syntes det var vanskelig å stole på gutter. Men da hun møtte Tarjei, kunne ikke en gang strenge koronatiltak holde dem fra hverandre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/5c5a1ce3-6bd0-464d-a072-1c0e84900b88_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/5c5a1ce3-6bd0-464d-a072-1c0e84900b88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:36</itunes:duration>
+      <pubDate>Wed, 20 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/09d9RncAxiX091vsdiDCFwjPalZUNyWXsL9ZcQ0FniVA.jpg"/>
+    </item>
+    <item>
+      <title>Angelica Omre og Didrik Solli-Tangen  </title>
+      <description><![CDATA[Da Didrik Solli-Tangen så Angelica på byen, følte han med en gang at han kjente henne. Det skulle vise seg at han faktisk hadde sett henne før...]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/654194d9-138d-4aa8-b455-b4fbd26a9816_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/654194d9-138d-4aa8-b455-b4fbd26a9816_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:21</itunes:duration>
+      <pubDate>Wed, 13 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZO3WqKsIi-835971k_2NWgbjqtv0mDWOwrqGJIflyW_Q.jpg"/>
+    </item>
+    <item>
+      <title>Nadia Ansar og Abid Raja  </title>
+      <description><![CDATA[Abid og Nadia var begge lovet bort til et søskenbarn da de falt for hverandre. Etter mange års kamp ble deres umulige kjærlighet mulig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/40540649-1ecb-4de7-a935-dcf5fba512dc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/40540649-1ecb-4de7-a935-dcf5fba512dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:15</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bJEhGgjtpD7MUNN8Q9k1ig2ouPRBqdPPA0eRTeMglGEQ.jpg"/>
+    </item>
+    <item>
+      <title>Carina Olset Hovda og Tor Øyvind Hovda</title>
+      <description><![CDATA[Da Carina matchet med en åtte år yngre fotballspiller, så hun for seg en kort affære. Bare en uke senere slettet begge Tinder-profilen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/50771172-adf6-4120-b944-ad9bf24cc6a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/50771172-adf6-4120-b944-ad9bf24cc6a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:20</itunes:duration>
+      <pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-vtgKiobNYIzDmiMiBxokAFHjLVNcX5vaZ_4pde2a-2A.jpg"/>
+    </item>
+    <item>
+      <title>Henrik Asheim og Simon Stisen </title>
+      <description><![CDATA[Ateist og høyremann Henrik Asheim forelsker seg i Tinder-daten Simon, som er tidligere pastor og KrF-politiker. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/6853fac9-01f6-4a6f-be1c-e2319caa905b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/6853fac9-01f6-4a6f-be1c-e2319caa905b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:52</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aB7sPduWvM2HqgsJlIqKwgr5TjHjYUBviCdZ0Lu8Eerw.jpg"/>
+    </item>
+    <item>
+      <title>Emilie Voe Nereng og Michael Hansson  </title>
+      <description><![CDATA[Emilie hadde brutt ut av en forlovelse, malt sin nye leilighet rosa og var klar for endelig å være singel og fri. Så dukket drømmemannen Michael opp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/3036390e-e6fa-4100-9c48-231171b47d1a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/3036390e-e6fa-4100-9c48-231171b47d1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:19</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X5Joi3u3R9DchAUJPe5I7g5Cd1wa9iLU7AyRWymodTnA.jpg"/>
+    </item>
+    <item>
+      <title>Oda Sigstad og Magdi Ytreeide Abdelmaguid</title>
+      <description><![CDATA[På første date sier 19 år gamle Oda; «Pappa er syk, det er 50 prosent sjanse for at jeg kommer til å arve sykdommen». Det skremmer ikke Magdi. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/74e29a98-b009-475a-b93d-44f841f57864_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/74e29a98-b009-475a-b93d-44f841f57864_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:08</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zKSNie1PIJHfnDKA2l1w3QUSjrcugERNGZ_YNU6Q9iLw.jpg"/>
+    </item>
+    <item>
+      <title>Ella Marie Hætta Isaksen og Lars Kristian Rosness </title>
+      <description><![CDATA[Ella Marie Hætta Isaksen møter Lars gjennom musikken. Og etter en konsert tyr han til en hvit løgn for å få sjansen til å bli bedre kjent med henne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/ec8c9357-37db-412a-9458-9fb703fa5bcd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/ec8c9357-37db-412a-9458-9fb703fa5bcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:30</itunes:duration>
+      <pubDate>Tue, 11 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x38rMAtT2xVFUW_0rq-noQu_NQzyvmCJS1Qf8BJwPULA.jpg"/>
+    </item>
+    <item>
+      <title>Martine Halvorsen og Christian Kåsastul </title>
+      <description><![CDATA[Martine Halvorsen blir kjent med Christian Kåsastul på Snapchat. Han avlyser to ganger før han endelig våger å møte henne på tredje forsøk.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/0b211b0e-7814-4fa9-b333-36c103784a72_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/0b211b0e-7814-4fa9-b333-36c103784a72_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:51</itunes:duration>
+      <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r55RtY0LaAyeOxM_yPL9_wIv4qVQoaW7SKizzgbEjStg.jpg"/>
+    </item>
+    <item>
+      <title>Tonje F. Garvik og Lene Sleperud </title>
+      <description><![CDATA[Tonje F. Garvik har nettopp kommet ut av et langt forhold og er overhodet ikke interessert i å møte noen, men så møter hun blikket til Lene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/05c8f207-f969-4fcd-bf37-75cd413f668a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/05c8f207-f969-4fcd-bf37-75cd413f668a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:55</itunes:duration>
+      <pubDate>Tue, 28 Mar 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9tJMPGbxo92uMfjDMOvN3glQIirZLkqgbApmhhvPHLEg.jpg"/>
+    </item>
+    <item>
+      <title>Ingeborg Senneset og Jimmy Øien</title>
+      <description><![CDATA[Ingeborg Senneset ble avstandsforelsket i Jimmy Øien via hans Instagram konto. Men det måtte en felles kampsak til, før hun turte å kontakte ham.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/ca5bdb9b-43f1-4d39-b51d-38c066353f4d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/ca5bdb9b-43f1-4d39-b51d-38c066353f4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:17</itunes:duration>
+      <pubDate>Tue, 21 Mar 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W6OP4dMjbO4DdgXkIv6fQghbuRQeGj0-s3LQRTE5gYbg.jpg"/>
+    </item>
+    <item>
+      <title>Guro Fostervold Tvedten og Håvard Tvedten </title>
+      <description><![CDATA[Håvard Tvedten var stjernespiller og Guro jobbet som sportsreporter, da det oppstod «ulovlige» følelser mellom dem under Håndball VM.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/c33a1a50-5187-46b5-a231-a5ac632fac61_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/c33a1a50-5187-46b5-a231-a5ac632fac61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:19</itunes:duration>
+      <pubDate>Tue, 14 Mar 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vxfZGNj_WUWUQSvDI_k1WgFh3xH0k385vTDeHOT5JH0A.jpg"/>
+    </item>
+    <item>
+      <title>Aina Haugaard og Kaveh Rashidi </title>
+      <description><![CDATA[Kaveh Rashidi sin søster får kreft og dør. Sorgen binder Kaveh og søsterens bestevenninne sammen, og siden har det vært de to.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/857e6d60-921b-42cb-84f9-4b040774c744_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/857e6d60-921b-42cb-84f9-4b040774c744_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:38</itunes:duration>
+      <pubDate>Tue, 07 Mar 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DDZr_IUwGnutWshG0lw4agNN2HZvt7XvNM6adC2PY0DQ.jpg"/>
+    </item>
+    <item>
+      <title>Tamanna Agnihotri og Jonas Lavik </title>
+      <description><![CDATA[Tamanna Agnihotri hadde aldri trodd at hun skulle ende opp med en «vassekte Trønder». Men en kaffedate med Jonas endret alt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/7cc1bc93-b571-404c-8f43-d8bfeb9029e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/7cc1bc93-b571-404c-8f43-d8bfeb9029e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:33</itunes:duration>
+      <pubDate>Tue, 28 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qC_DRBnJYUJ2fQc4KKdi9gXdPw6ekbfoA8h6U1FmtPWw.jpg"/>
+    </item>
+    <item>
+      <title>Josephine Leine-Granlie Ramm og Nicolay Ramm </title>
+      <description><![CDATA[Nicolay Ramm blir så sjarmert av Josephine, over pølsegryta på et julebord, at han inviterer henne på date. Og til hans store overraskelse takker hun ja.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/5df4c84f-44d2-43aa-a1a8-3fcc5d747a82_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/5df4c84f-44d2-43aa-a1a8-3fcc5d747a82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:20</itunes:duration>
+      <pubDate>Tue, 21 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NwMFZn7zTFWfcVaypygRGg90QbGuDbirtLdU6b6XHM6A.jpg"/>
+    </item>
+    <item>
+      <title>Victor Sotberg og Kenneth Karijord </title>
+      <description><![CDATA[Victor Sotbergs kusine brukte ett år på å få spleiset Victor med Kenneth. Da de til slutt møttes, viste det seg å være kjærlighet ved første blikk.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/4b19dbd4-451b-4e71-8db8-c490453c07fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/4b19dbd4-451b-4e71-8db8-c490453c07fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:49</itunes:duration>
+      <pubDate>Tue, 14 Feb 2023 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cwAdGE1NGZCeoKc7VzpokQIklWY_Ti_VYWT-187gSkYg.jpg"/>
+    </item>
+    <item>
+      <title>Sandra Lyng og Lasse Joachim Langerud </title>
+      <description><![CDATA[Da Sandra Lyng fikk høre at en fremmed mann hadde uttalt at hun skulle bli mor til hans barn, inviterte hun ham over og tok imot ham med et kyss.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hvordan_moettes_dere_/1c0fbc46-7b0d-451e-9daf-502787616e74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hvordan_moettes_dere_/1c0fbc46-7b0d-451e-9daf-502787616e74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:04</itunes:duration>
+      <pubDate>Tue, 14 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GHBrt1sep9564y2QihFlLwsHg8YUP2YS9FsxD4C8vebg.jpg"/>
+    </item>
+  </channel>
+</rss>

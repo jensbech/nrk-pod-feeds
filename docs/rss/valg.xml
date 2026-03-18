@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Valg</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Hør debatter, innslag og intervjuer fra NRKs valgdekning.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:24:21 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 12:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/HVmwxKtHy37PuEI9sPy7MgSNqqUscjH82az-U0R-Odww.jpg"/>
+    <item>
+      <title>Fremskrittspartiet</title>
+      <description><![CDATA[Det er ingen hemmelighet at Frp vil legge ned Sametinget, men listetopp Ellen Eriksen vil ikke selv inn for å legge deŧ ned.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/61c9f091-8c03-4526-89f0-918c0325269e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/61c9f091-8c03-4526-89f0-918c0325269e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:14</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHmvkOb_97BrSbETrw2FvgbTZMdH7HunKMHQdzRNm4XQ.jpg"/>
+    </item>
+    <item>
+      <title>Industri- og næringsparti</title>
+      <description><![CDATA[Listetoppen var på havet, og sendte fylkesleder Agnar Johansen i utspørring. Det er første gang de har liste i sametingsvalget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/ecfdb0a7-ceed-411c-bdb0-a7ceed211ce6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/ecfdb0a7-ceed-411c-bdb0-a7ceed211ce6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:08</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mawbNQKf7LguHHkTXjn-2AnGK5Io6W-3NWz_I4kOj9Xg.jpg"/>
+    </item>
+    <item>
+      <title>Olgeš</title>
+      <description><![CDATA[Lars Filip Paulsen mielas galget sámi mánát oažžut albma julevsámegiel oahpahusa go bajásšaddet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/60d97a2e-d65c-421b-997a-2ed65c821b27_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/60d97a2e-d65c-421b-997a-2ed65c821b27_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:04</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xex1YEWu7FAUj8oovFaTBAqlEuy-_4eAL7EzKhHb7ucw.jpg"/>
+    </item>
+    <item>
+      <title>Norgga Sámiid Riikkasearvi</title>
+      <description><![CDATA[Silje Karine Muotka mielas leat dat eará presideantaevttohasat buori olbmot, muhto politihkkalaččat ii sáhte doarjut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/4760a704-1346-4cef-a0a7-0413463cef51_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/4760a704-1346-4cef-a0a7-0413463cef51_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:20</itunes:duration>
+      <pubDate>Thu, 28 Aug 2025 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iKpmGQAAmME9ElOzG6n0dw0rLwmxxZndj6tja8qABe8w.jpg"/>
+    </item>
+    <item>
+      <title>Samefolkets parti</title>
+      <description><![CDATA[En av sakene i denne valgkampen har berørt Ann-Elise Finbog personlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/d07fc0df-30da-44d9-bfc0-df30da74d9b7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/d07fc0df-30da-44d9-bfc0-df30da74d9b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:01</itunes:duration>
+      <pubDate>Tue, 26 Aug 2025 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N_U3P27XuuXLcEhn9y1bnwh3CDGQVHeWZ3dtV9nH-_-Q.jpg"/>
+    </item>
+    <item>
+      <title>Sámeeatnanlista</title>
+      <description><![CDATA[Sápmelaččat galget stivret Sámedikki, oaivvilda listonjunuš Sissel Gaup.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/faa1560c-8947-462f-a156-0c8947c62fe2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/faa1560c-8947-462f-a156-0c8947c62fe2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:50</itunes:duration>
+      <pubDate>Tue, 26 Aug 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BdxeHXrqpmSut1Dfuy6lEwNcLQF-QzF15pMTjc7m6EpQ.jpg"/>
+    </item>
+    <item>
+      <title>Senterpartiet</title>
+      <description><![CDATA[Samenes nasjonaldag bør ikke være en fridag, mener Tor Mikkola. Hva annet opptar partiet i denne valgkampen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/ea992696-4f0d-49df-9926-964f0d09dfed_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/ea992696-4f0d-49df-9926-964f0d09dfed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:25</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yw8gETKB79Gb17N4bxuuCgqVhFORk1SdPJuDw0ce9svw.jpg"/>
+    </item>
+    <item>
+      <title>Johttisápmelaččaid listu</title>
+      <description><![CDATA[Boazodoallu lea dehálaš ášši Berit Marie Eirai, muhto mat leat vel su váibmoáššit?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/306cd576-8e0d-401a-acd5-768e0d101a98_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/306cd576-8e0d-401a-acd5-768e0d101a98_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:46</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TO7JsEMF9Cl9-wZTnNdG8wtcr4UsAWuRpienGnjM1g5A.jpg"/>
+    </item>
+    <item>
+      <title>Bargiidbellodat</title>
+      <description><![CDATA[Presideantaevttohas Svein Atle Somby oaivvilda juoga lea dáhpáhuvvan; sámediggi ja sápmelaččat leat hádjánan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/3df6784d-4eb0-4ac4-b678-4d4eb08ac44f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/3df6784d-4eb0-4ac4-b678-4d4eb08ac44f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:57</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qaXtHHt5ww0OYyNMwsDRDwDGla5-ArIfapbthol1PTBg.jpg"/>
+    </item>
+    <item>
+      <title>Nordkalottfolket</title>
+      <description><![CDATA[Vi er hovedmotstanderen til NSR, sier Vibeke Larsen, presidentkandidaten til det største opposisjonspartiet på Sametinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/997515ef-e655-4223-b515-efe655422308_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/997515ef-e655-4223-b515-efe655422308_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:24</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/akkddgep-9n_R8R4TO16hg4pR36U3AkpuKtlFK_RXAYQ.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Kringkastingsorkestret </title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Kork gir deg musikk for alle stemninger og anledninger.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:20:36 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 05:32:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg.jpg"/>
+    <item>
+      <title>Himmel på jord</title>
+      <description><![CDATA[Med Kurt Nilsen. Nick Davies dirigerer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/44aed594-8fb1-4553-aed5-948fb1d55388_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/44aed594-8fb1-4553-aed5-948fb1d55388_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:58</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Santa Baby</title>
+      <description><![CDATA[Ingrid Helene Håvik synger. Bjarte Engeset dirigerer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/395416e9-4926-49dc-9416-e94926a9dceb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/395416e9-4926-49dc-9416-e94926a9dceb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Jul i Svingen</title>
+      <description><![CDATA[Odd Nordstoga synger og Ingvild Habbestad spiller nyckelharpa. Bjarte Engeset dirigerer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/e6e2f30c-0f85-4383-a2f3-0c0f85538332_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/e6e2f30c-0f85-4383-a2f3-0c0f85538332_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:51</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Tre nøtter til Askepott</title>
+      <description><![CDATA[Lars Andreas Aspesæter spiller piano og leder Kork.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/9bfb1811-28ab-42ae-bb18-1128ab32ae6c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/9bfb1811-28ab-42ae-bb18-1128ab32ae6c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:38</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Nordnorsk julesalme</title>
+      <description><![CDATA[Med Ella Marie Hætta Isaksen. Christian Eggen spiller piano og dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/b48b800d-61d7-42ed-8b80-0d61d7d2ed3a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/b48b800d-61d7-42ed-8b80-0d61d7d2ed3a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:50</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>All I Want For Christmas Is You</title>
+      <description><![CDATA[Med Dee Dee Bridgewater. Jochen Neuffer dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/ae3e0f71-2111-4ab8-be0f-7121118ab89f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/ae3e0f71-2111-4ab8-be0f-7121118ab89f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:38</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Julekalender-ouverture</title>
+      <description><![CDATA[Kjent musikk fra flere julekalendre. Ingar Bergby dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/460b36c1-3c57-4f88-8b36-c13c57ff880b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/460b36c1-3c57-4f88-8b36-c13c57ff880b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:14</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:07:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>O helga natt</title>
+      <description><![CDATA[Med Nils Bech. Lars Andreas Aspesæter leder  orkesteret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/a930096b-9f08-4bdf-b009-6b9f085bdfe9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a930096b-9f08-4bdf-b009-6b9f085bdfe9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:21</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:08:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Carol of the bells</title>
+      <description><![CDATA[Oslo Fagottkor synger. Dirigent er Daniela Musca]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/bd340d86-3b5b-4342-b40d-863b5bf3427f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/bd340d86-3b5b-4342-b40d-863b5bf3427f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:51</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:09:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>White Christmas</title>
+      <description><![CDATA[Med Emelie Hollow. Bjarte Engeset dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/081f598a-4251-48b9-9f59-8a425158b9d7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/081f598a-4251-48b9-9f59-8a425158b9d7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Jeg synger julekvad</title>
+      <description><![CDATA[Kajsa Balto synger på nordsamisk. Med Karoline Bjørhei på trommer, Aleksander Sjølie på gitar og Ragnhild Tronsmo på cello. Erik Arvinder, dirigent]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/762a05cd-86ef-479c-aa05-cd86ef979cb1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/762a05cd-86ef-479c-aa05-cd86ef979cb1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:11:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Nøtteknekker-suiten, Marsj</title>
+      <description><![CDATA[Terje Boye Hansen dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/67a8c3bd-9611-45e0-a8c3-bd961125e099_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/67a8c3bd-9611-45e0-a8c3-bd961125e099_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:27</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:12:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Stjernesludd</title>
+      <description><![CDATA[Kim Rysstad synger. Karl-Johan Ankarblom har arrangert og dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/2d92e82b-4f81-4e06-92e8-2b4f816e0607_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2d92e82b-4f81-4e06-92e8-2b4f816e0607_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:02</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:13:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>When You Wish Upon A Star</title>
+      <description><![CDATA[Med Metteson. Bjarte Engeset dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/92cc375f-c901-4980-8c37-5fc901b98066_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/92cc375f-c901-4980-8c37-5fc901b98066_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:06</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:14:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Stjerneballett, fra Reisen til julestjernen</title>
+      <description><![CDATA[Cathrine Winnes dirigerer Kork.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/00d3a2d5-d0c4-4af9-93a2-d5d0c49af9b4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/00d3a2d5-d0c4-4af9-93a2-d5d0c49af9b4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:55</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Når snøen smelter</title>
+      <description><![CDATA[Med Astrid S.  Lars Andreas Aspesæter dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/16e62adf-e93f-4c8a-a62a-dfe93f8c8a57_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/16e62adf-e93f-4c8a-a62a-dfe93f8c8a57_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:58</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:16:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Jul etter jul</title>
+      <description><![CDATA[Fremført av No. 4. Dirigent er Lars Andreas Aspesæter]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/75748814-935f-4e24-b488-14935f0e24ef_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/75748814-935f-4e24-b488-14935f0e24ef_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:40</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:17:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Let it Snow! Let it Snow! Let it Snow!</title>
+      <description><![CDATA[Med Kurt Nilsen. Nick Davies er dirigent.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/fbd313fc-fbfe-4b41-9313-fcfbfe9b417e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/fbd313fc-fbfe-4b41-9313-fcfbfe9b417e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:38</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:18:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Kanefart I måneskinn fra Tante Pose</title>
+      <description><![CDATA[Terje Boye Hansen dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/cdf74dc8-e9ff-4a73-b74d-c8e9ff2a7320_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/cdf74dc8-e9ff-4a73-b74d-c8e9ff2a7320_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:12</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:19:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>For Unto us a Child Is Born</title>
+      <description><![CDATA[Med Oslo domkor, dirigert av Vivianne Sydnes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/acffe42f-4f9c-41bb-bfe4-2f4f9c21bb0c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/acffe42f-4f9c-41bb-bfe4-2f4f9c21bb0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:48</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Hem'att tel jul</title>
+      <description><![CDATA[Med Eldar Vågan og Matoma. Dirigent er Lars Andreas Aspesæter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/42a6e3bc-1729-4427-a6e3-bc1729a427e9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/42a6e3bc-1729-4427-a6e3-bc1729a427e9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:32</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:21:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Have Yourself A Merry Little Christmas</title>
+      <description><![CDATA[Beharie synger. Lars Andreas Aspesæter dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/0b56674d-30ee-45a3-9667-4d30eec5a33c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/0b56674d-30ee-45a3-9667-4d30eec5a33c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:11</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:22:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Elv</title>
+      <description><![CDATA[Joni Mitchells River på norsk. Frida Ånnevik synger og Lars Andreas Aspesæter spiller piano og leder Kork.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/ed460303-a9d2-4469-8603-03a9d264694a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/ed460303-a9d2-4469-8603-03a9d264694a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:28</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:23:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Romjulsdrøm</title>
+      <description><![CDATA[Med Kim Rysstad. Karl-Johan Ankarblom dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/508ae536-990d-4c85-8ae5-36990ddc8526_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/508ae536-990d-4c85-8ae5-36990ddc8526_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:09</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:24:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Julekveld i skogen</title>
+      <description><![CDATA[Med Espen Beranek Holm og Live Maria Roggen. Dirigent er Ingar Bergby.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/a3621593-a579-4e98-a215-93a5790e9822_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a3621593-a579-4e98-a215-93a5790e9822_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:52</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Rockin' Around The Christmas Tree</title>
+      <description><![CDATA[Christel Alsos synger. Musikalsk leder og pianist er Lars Andreas Aspesæter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/5533c106-1863-406c-b3c1-061863806c52_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/5533c106-1863-406c-b3c1-061863806c52_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:58</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:26:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Sleigh Ride</title>
+      <description><![CDATA[Terje Boye Hansen dirigerer Kork.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/b38ef111-9ef1-4ea8-8ef1-119ef17ea8de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/b38ef111-9ef1-4ea8-8ef1-119ef17ea8de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:01</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:27:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Mitt hjerte alltid vanker - Mov vaajmoe valve dohkoe</title>
+      <description><![CDATA[Marja Mortensson og Kim Rysstad synger på både sørsamisk og norsk. Karl-Johan Ankarblom dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/bc8613bc-71af-4588-8613-bc71af058831_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/bc8613bc-71af-4588-8613-bc71af058831_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:15</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:28:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>The Christmas Song</title>
+      <description><![CDATA[Silya synger. Terje Boye Hansen dirigerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/74ccc223-3eae-461a-8cc2-233eae261a12_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/74ccc223-3eae-461a-8cc2-233eae261a12_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:07</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:29:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Vinter og sne</title>
+      <description><![CDATA[Med Come Shine og dirigent Ingar Bergby.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/a776fa7e-5016-479d-b6fa-7e5016a79dda_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a776fa7e-5016-479d-b6fa-7e5016a79dda_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:37</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Home For Christmas</title>
+      <description><![CDATA[Maria Mena synger sin egen juleklassiker. Pianist og musikalsk leder er Lars Andreas Aspesæter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/75e180ce-0594-4105-a180-ce0594b1059f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/75e180ce-0594-4105-a180-ce0594b1059f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:17</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:31:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+    <item>
+      <title>Deilig er jorden</title>
+      <description><![CDATA[Med korene fra Oslo domkirke, dirigert av Vivianne Sydnes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/bbe90a16-35b8-4af6-a90a-1635b8caf6c4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/bbe90a16-35b8-4af6-a90a-1635b8caf6c4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:19</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 05:32:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
+  </channel>
+</rss>

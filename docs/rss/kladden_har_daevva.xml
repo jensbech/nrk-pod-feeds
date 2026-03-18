@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Kladden har dævva</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>En humorpodkast om døden. Martin Lepperød har dødsangst og han vil snakke om det.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:20:00 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA.jpg"/>
+    <item>
+      <title>Finalen med Lilli Bendriss</title>
+      <description><![CDATA[Kladdens aller siste episode med selveste Lilli Bendriss. RIP Kladden <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/cb81e1da-3bdf-46fc-b57c-bd6b4a9d3de9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/cb81e1da-3bdf-46fc-b57c-bd6b4a9d3de9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:19</itunes:duration>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vFaev0qPuZBM9qKFbNMbJwaqiWUUoWdVDAh4itK1ODTg.jpg"/>
+    </item>
+    <item>
+      <title>Öde Nerdrum, helst i mørket</title>
+      <description><![CDATA[Er det fordi han døde en gang, at han liker mørket så godt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/444a6f3c-1480-4ce3-9c2b-4bd7cf7ef816_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/444a6f3c-1480-4ce3-9c2b-4bd7cf7ef816_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:53</itunes:duration>
+      <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y1ADmzMcRYbASth1cblxZwwa-kEf2jKE0j4YwamCnwYw.jpg"/>
+    </item>
+    <item>
+      <title>Ingar Helge Gimle og hjertet</title>
+      <description><![CDATA[Ingar overlevde og klarer nesten å ikke være frynsete.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/e1d4e14e-6459-45de-9881-76ac924862cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e1d4e14e-6459-45de-9881-76ac924862cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:25</itunes:duration>
+      <pubDate>Mon, 02 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ej4JMtZs72E-2QKbdD1cpQvO_OQhS-pL8MZMxy3eJsrA.jpg"/>
+    </item>
+    <item>
+      <title>Elg, Benjamin Helstad! Elg!</title>
+      <description><![CDATA[Se opp for toget! Og elgen!!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f7c374e7-2481-4823-a4d1-3da69b1a9220_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f7c374e7-2481-4823-a4d1-3da69b1a9220_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:10</itunes:duration>
+      <pubDate>Mon, 25 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2Rwg3IDJ884MTHT3OrHR4Qo7hnRGOWkYrEew7-9Yysrg.jpg"/>
+    </item>
+    <item>
+      <title>Mayoo Indiran med visdomsordene</title>
+      <description><![CDATA[Martin blir satt ut av Mayoos livsvisdom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/c00f0d94-e981-41dd-ba6d-4d13c9e027d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/c00f0d94-e981-41dd-ba6d-4d13c9e027d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:11</itunes:duration>
+      <pubDate>Mon, 18 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i6NIH3SqSHOS1Vp5tmaJngN4y5e5w0wUDV94P0cAaRng.jpg"/>
+    </item>
+    <item>
+      <title>Tom Styve med kniv mot ryggen</title>
+      <description><![CDATA[Ikke la verandadøra stå åpen og pass på kjøkkenknivene deres, folkens!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/1ab8387b-f3bf-4721-be2f-152f4b6e904c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1ab8387b-f3bf-4721-be2f-152f4b6e904c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:34</itunes:duration>
+      <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cADg5duAcjdvr1aoJclGGgVYh4c5SUY9OcCxKHr0GISA.jpg"/>
+    </item>
+    <item>
+      <title>Anna of the North og spøkelsene</title>
+      <description><![CDATA[Er Anna Lotterud klarsynt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b0b90e61-3be4-4b1c-9ef2-cb96627736d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b0b90e61-3be4-4b1c-9ef2-cb96627736d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:42</itunes:duration>
+      <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8h-wTbeS8ZjkZalz957ocgB6Et_oePWDFLOc0PzKP__A.jpg"/>
+    </item>
+    <item>
+      <title>Javad El Bakali på biltaket</title>
+      <description><![CDATA[Hjerteoperert, påkjørt og full av dødsangst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/fa2a12a2-9e5f-4e03-920c-03b1e19c42eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/fa2a12a2-9e5f-4e03-920c-03b1e19c42eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:11</itunes:duration>
+      <pubDate>Mon, 28 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_9VBR9SW_cks9dd3RoAs0wM4_aoj5WwwUtWaqzztXvlA.jpg"/>
+    </item>
+    <item>
+      <title>Boikott døden med Erlend Mørch</title>
+      <description><![CDATA[Erlend vil ikke snakke om den. Men nå må han nesten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/d6c64148-78d7-4cbe-8bbf-f9d5fbe4f438_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d6c64148-78d7-4cbe-8bbf-f9d5fbe4f438_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:58</itunes:duration>
+      <pubDate>Mon, 21 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v0tkU6fP8v8o897yFGn1rAa429Ff8hjJ6BaJaf6ku3lQ.jpg"/>
+    </item>
+    <item>
+      <title>Viggo Venn - klovnen og døden</title>
+      <description><![CDATA[Ville Viggo blitt klovn hvis det ikke hadde vært for to dødsfall?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2d3c8eb5-8f9e-4e86-9c99-b1d5d4a6935e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2d3c8eb5-8f9e-4e86-9c99-b1d5d4a6935e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:00</itunes:duration>
+      <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FGnA2gOPL-0Hs3UZKaNLFQ9P_ubNXxAxHIfntzIOyh-Q.jpg"/>
+    </item>
+    <item>
+      <title>Jon Martin Henriksen og flystyrt'n</title>
+      <description><![CDATA[Jon Martin Henriksen har en egen teori om hvordan man lurer døden på fly. Og to dødsredde gutter skal til Praha!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/4ec08991-37a2-4c69-a9d9-411e7dddd3de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4ec08991-37a2-4c69-a9d9-411e7dddd3de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:40</itunes:duration>
+      <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qDuflMQVYFIp-sDW4AHOAA2YLcgF7KXGPR9Def8lA-Ew.jpg"/>
+    </item>
+    <item>
+      <title>Alon Fellus med en pen dame på ryggen</title>
+      <description><![CDATA[Alon og Martin får midtlivskrise når de innser at alt vi gjør er for å imponere andre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/50ef13c0-3c09-4ef3-b4d8-20733e25516d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/50ef13c0-3c09-4ef3-b4d8-20733e25516d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:22</itunes:duration>
+      <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mWFmyb0WVfvmp7BBzlPZTQk3e9rE5GevtKv7vZUZtNNg.jpg"/>
+    </item>
+    <item>
+      <title>Hans Magne Skard i likpose</title>
+      <description><![CDATA[Hans Magne Skard har satt opp soloshow om døden og tilbragt mye tid på innsiden av en likpose.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/dd8f89e3-5b22-4e2b-8ea6-fa39539734d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/dd8f89e3-5b22-4e2b-8ea6-fa39539734d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:13</itunes:duration>
+      <pubDate>Mon, 23 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hld0aA1oDcDuq9PIqESv0QrHM7-FLKYj4OTJ1wNL2xLA.jpg"/>
+    </item>
+    <item>
+      <title>Emil Meek og pulsåren</title>
+      <description><![CDATA[Blir man mer redd for døden når man sloss for livet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f90e8108-e18d-4ee6-9a8d-1a9577ff9eff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f90e8108-e18d-4ee6-9a8d-1a9577ff9eff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:51</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gXE8WxTWYk2L8zck3ULkJgqjWr-yYJdKAVxtUB6Inqaw.jpg"/>
+    </item>
+    <item>
+      <title>Mari Maurstad med hagle</title>
+      <description><![CDATA[Ganske redd, men klar for kamp!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/af0a7d3a-4bfc-401b-8b02-615e4b99ffcd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/af0a7d3a-4bfc-401b-8b02-615e4b99ffcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:05</itunes:duration>
+      <pubDate>Mon, 09 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cQphYMHPIc-aPuZOQxQhUgRH_WNgX6J-ZexRkZCrC8fA.jpg"/>
+    </item>
+    <item>
+      <title>Pål Tøien i motsatt kjørefelt</title>
+      <description><![CDATA[Har OnklP blitt voksen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b3dba6fd-26b1-4645-9edf-626632823dfe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b3dba6fd-26b1-4645-9edf-626632823dfe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:37</itunes:duration>
+      <pubDate>Mon, 02 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NV1dKh-lNuFx9IxD1O3VaQfVuise4huYrEhwB3RWjCZA.jpg"/>
+    </item>
+    <item>
+      <title>Mia Hundvin/hissigpropp</title>
+      <description><![CDATA[1000 spenn på Mia i kranglebattle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2f9eb04a-c6f4-4729-8903-acfe3ae92b09_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2f9eb04a-c6f4-4729-8903-acfe3ae92b09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:01</itunes:duration>
+      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2kS3aeeXQ1QKaPkZDQXUFgfpTMHZZydF82SINUv2m6tw.jpg"/>
+    </item>
+    <item>
+      <title>Én tåre fra Danby Choi</title>
+      <description><![CDATA[Danby har gjenoppdaget gråting.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/27846de3-e54d-4e2c-b0fd-24125b9d43a8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/27846de3-e54d-4e2c-b0fd-24125b9d43a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:52</itunes:duration>
+      <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/70c1GqQl9BrDaymUjz3UAQPEwU6y8cIgiitLzfoZjdeg.jpg"/>
+    </item>
+    <item>
+      <title>Ikke sovne, Stig Brenner!</title>
+      <description><![CDATA[Flere begravelser enn bryllup og ett stygt fall.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/03516a4e-9874-4120-b2af-d1c7e8b48b56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/03516a4e-9874-4120-b2af-d1c7e8b48b56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:48</itunes:duration>
+      <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VqmgDuf7PwBo63CptKPdOAvEqMvt3M7tfZjczIwFYs8g.jpg"/>
+    </item>
+    <item>
+      <title>Den gode samaritan: Nathan Kahungu</title>
+      <description><![CDATA[Neste gang Nate går forbi en slåsskamp, kommer han ikke til å prøve å stoppe den, for å si det sånn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b7a566f9-6916-4774-964a-f7524bb0ff39_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b7a566f9-6916-4774-964a-f7524bb0ff39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:25</itunes:duration>
+      <pubDate>Mon, 01 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9K8BzCbEmqQxX4RviahdEg8PeiAdfAyuTJ6sEn66iFUA.jpg"/>
+    </item>
+    <item>
+      <title>Kaveh Rashidi, dr. Death</title>
+      <description><![CDATA[Noen må jobbe med å bekrefte at du faktisk er død.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/ead3d1e6-37bf-43ae-b751-08d72bf83ad5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/ead3d1e6-37bf-43ae-b751-08d72bf83ad5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:41</itunes:duration>
+      <pubDate>Mon, 24 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qDzDo_1WHOv_TxyyfyLdUAiGMl5NSyQV54irMz2o6z1w.jpg"/>
+    </item>
+    <item>
+      <title>Hege Schøyen: kronisk bekymret</title>
+      <description><![CDATA[Glad i grubling, skal ikke skremmes, takk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/822fd2ef-d584-498f-ab29-85cd0636405e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/822fd2ef-d584-498f-ab29-85cd0636405e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:00</itunes:duration>
+      <pubDate>Mon, 17 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R6E61vKFJBjYcsBoPIqLLghooQ0lvQW1ixoXzCeyDP9A.jpg"/>
+    </item>
+    <item>
+      <title>Krasj med Kevin Kildal</title>
+      <description><![CDATA["Døden er gulroten som driver meg"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/0bc9ddc8-d2ac-4062-a311-0bebb098bccf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0bc9ddc8-d2ac-4062-a311-0bebb098bccf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:38</itunes:duration>
+      <pubDate>Mon, 10 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jZikdIuVJ8dE6NG-ZOBIJwtErF8GwCm2FZWPPmh0hXAw.jpg"/>
+    </item>
+    <item>
+      <title>Christine Dancke i skogens mørke</title>
+      <description><![CDATA[Kanskje redd for mye, men ikke døden eller alenetid i skogen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/dc86a6d7-8efe-4401-a6fc-8edea4fa5419_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/dc86a6d7-8efe-4401-a6fc-8edea4fa5419_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:01</itunes:duration>
+      <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yYtyTv4mM04jVfdSaNxDRgW9WijtplrJoww6yhDcuDbg.jpg"/>
+    </item>
+    <item>
+      <title>Christine Koht lever!</title>
+      <description><![CDATA[Hvordan er livet etter å ha overlevd en dødsdom?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/765bf9e7-e374-450b-a730-9a1210bb36c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/765bf9e7-e374-450b-a730-9a1210bb36c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:14</itunes:duration>
+      <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cYoNtnz7RhsD-uYyK1oEgQhdLpKqM2VR-zvSgm52DOuQ.jpg"/>
+    </item>
+    <item>
+      <title>Karina Hollekim utfor stupet</title>
+      <description><![CDATA[Karina har overlevd både fallskjermkrasj og Mission impossible-aktig helikopterulykke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/5d169e79-e7c0-4ea7-ad8c-1e202583ea49_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5d169e79-e7c0-4ea7-ad8c-1e202583ea49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:13</itunes:duration>
+      <pubDate>Mon, 27 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2ZxYbvS0ApIb0K3xcsxsPQ2Ko_M3C0Zhw14YXhPh9jvQ.jpg"/>
+    </item>
+    <item>
+      <title>Thomas Hylland Eriksen og livet sjøl</title>
+      <description><![CDATA[Thomas overlevde kreft og skrev bok om livets meninger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/3faa97e7-14d7-4061-b5ae-61291adc1e9b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/3faa97e7-14d7-4061-b5ae-61291adc1e9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:19</itunes:duration>
+      <pubDate>Mon, 20 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kDd_s_H6aAAb9Ou0bQDH6wNoWbbLPHkn5I6ZBmU9WNfw.jpg"/>
+    </item>
+    <item>
+      <title>Abubakar Hussains selvdestruktivitet</title>
+      <description><![CDATA[Abu gikk fra dyp depresjon til gladere dager med hjelp fra gode venner. Og en psykolog. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/d75ba130-6123-4215-937e-7abd7d73c132_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d75ba130-6123-4215-937e-7abd7d73c132_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:13</itunes:duration>
+      <pubDate>Mon, 13 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gn4P6U7YKnFNNOvgWxyNBwc02ZOL327gJClWewcyzr_A.jpg"/>
+    </item>
+    <item>
+      <title>Touché, Thomas "Fingern" Gullestad </title>
+      <description><![CDATA[Kan man dø av brukket ankel på microrampen? Ja, nesten faktisk. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/804a0f6d-da64-49b4-a0e9-1b78148026c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/804a0f6d-da64-49b4-a0e9-1b78148026c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:27</itunes:duration>
+      <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhOjlkX9Fw6h0aiGbK0sUQfh_eXOGG8oVI62H4sI1k8g.jpg"/>
+    </item>
+    <item>
+      <title>Fredrik Juell, prepping og rall</title>
+      <description><![CDATA[Fredrik stod ved roret på Berserk da stormen traff. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/a2fc43dc-9a69-4204-b90b-ef2440ad2bdd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a2fc43dc-9a69-4204-b90b-ef2440ad2bdd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:12</itunes:duration>
+      <pubDate>Mon, 29 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wrTa3w5NZP9BxNm8T1T8TgojTLTbliPczq0S3KNACpuw.jpg"/>
+    </item>
+    <item>
+      <title>Kan noen vekke Snorre Monsson?</title>
+      <description><![CDATA[Kan man dø av skam? Eller svelge en hel kjærlighet på pinne med pinne? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7e44690c-d9c0-4b61-bb52-36dcc5e84631_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7e44690c-d9c0-4b61-bb52-36dcc5e84631_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:43</itunes:duration>
+      <pubDate>Mon, 22 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_vSWGO4AcbUp6Y-NSKYb1ADdHOZZbKm089ExxDQaqfVw.jpg"/>
+    </item>
+    <item>
+      <title>Aune Sand og livskraften </title>
+      <description><![CDATA[Aune har ikke tenkt på døden før for noen måneder siden. Og nå har han plutselig dårlig tid. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/a7ddf49a-8d3e-413f-9e38-3debd7544ebf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a7ddf49a-8d3e-413f-9e38-3debd7544ebf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:36</itunes:duration>
+      <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rYAWhhfsiX4s-WuXhuMXlQy244dyVlO149--J8HB7IwQ.jpg"/>
+    </item>
+    <item>
+      <title>En betablokker til Steinar Sagen</title>
+      <description><![CDATA[Han døde ikke på bryllupsreise, det bare kjentes litt sånn ut. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/0239b00b-eae7-4c61-afc8-0129023b7047_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0239b00b-eae7-4c61-afc8-0129023b7047_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:42</itunes:duration>
+      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/op7ltpakELo8n0rByRmDBAiiH4YnJnqxNgpFBw42VKxg.jpg"/>
+    </item>
+    <item>
+      <title>Adelina Ibishi og bølgen</title>
+      <description><![CDATA[Folk tar ikke Adelinas fancy nær døden-opplevelse på alvor. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/2029da43-f7f4-4829-a2ed-a65eff46fb36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2029da43-f7f4-4829-a2ed-a65eff46fb36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:00</itunes:duration>
+      <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8NrQw4ZbS5oPiLEormKtogUnpp_UDlHN-sUMswxZTz_Q.jpg"/>
+    </item>
+    <item>
+      <title>Marlene Stavrum og dødens pumpe</title>
+      <description><![CDATA[Et brutalt møte med døden, og et tilfeldig møte med en veiarbeider. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/614a1df7-365c-48de-ba54-efabb99bd6b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/614a1df7-365c-48de-ba54-efabb99bd6b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:30</itunes:duration>
+      <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fZhh1TNO3V6WQxm8lWmmog9gCY4Sc4MsWd8NBQCtajow.jpg"/>
+    </item>
+    <item>
+      <title>Henrik Mestad, rett i strupehodet</title>
+      <description><![CDATA[Sånn overlever du en flykapring. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/58bca5c5-986b-46f7-93f5-ec68a2aabec6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/58bca5c5-986b-46f7-93f5-ec68a2aabec6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:19</itunes:duration>
+      <pubDate>Mon, 18 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o0JMPWuErCMzSaIW_sn2tQ4xGjtSl3jNA4npBGe1PhOg.jpg"/>
+    </item>
+    <item>
+      <title>Thomas Giertsen og skamfølelsen</title>
+      <description><![CDATA[Thomas har ikke like mye dødsangst som før. Men hverdagens små øyeblikk av skam derimot. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/d509944f-4f52-4ec5-9ea8-55a664f5ad4e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d509944f-4f52-4ec5-9ea8-55a664f5ad4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:46</itunes:duration>
+      <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mrAXCva1AfBl0v9xraDWgQ8nvB4tlsQV2Q-4OZyj-jJw.jpg"/>
+    </item>
+    <item>
+      <title>Ikke få panikk, Jonas Benyoub! </title>
+      <description><![CDATA[Jonas var sikker på at han skulle dø under musikkvideoinnspilling i skogen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7d8d6d49-45cb-4585-ac10-62d088fa682c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7d8d6d49-45cb-4585-ac10-62d088fa682c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:34</itunes:duration>
+      <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1xbTfzhb3kbdlpsy-xUDwQ1lRayUaNAYFJ-yOnAh82bA.jpg"/>
+    </item>
+    <item>
+      <title>Det er ingen lik på do, Silje Nordnes </title>
+      <description><![CDATA[Silje har nok katastrofetanker, men døden er hun ikke redd for. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/1a91c61e-5a2c-4ac3-9fc0-2a521584431b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1a91c61e-5a2c-4ac3-9fc0-2a521584431b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:29</itunes:duration>
+      <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5smMXtSEJjHxIeU9pXF72AAinrIqBpbKpBt893FGK1qQ.jpg"/>
+    </item>
+    <item>
+      <title>Tete Lidbom og sommerfugleffekten</title>
+      <description><![CDATA[Tete døde en gang. På ordentlig. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/da8ceef4-1a21-47d2-a046-91e133812160_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/da8ceef4-1a21-47d2-a046-91e133812160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:44</itunes:duration>
+      <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xcS-A1ztU2qSgvNHkdCLJwDPxYYi48ZG9hTxrVRh-rqg.jpg"/>
+    </item>
+    <item>
+      <title>Leo Ajkic må bare én ting</title>
+      <description><![CDATA[Redd for både døden og rasfare. Men tar det ellers med ro. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b228a159-a220-41b9-bee8-9c9ecab8b4b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b228a159-a220-41b9-bee8-9c9ecab8b4b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:48</itunes:duration>
+      <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DSls5Feq-n6lcL_EGE18dQs2Nr0_tZvO0zovbdqzYQDA.jpg"/>
+    </item>
+    <item>
+      <title>Renate Reinsve og dødsspådommen</title>
+      <description><![CDATA[Ikke hør på ALT legen din sier. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f869525b-b213-44e8-a3a8-fcc6e18d6531_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f869525b-b213-44e8-a3a8-fcc6e18d6531_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:46</itunes:duration>
+      <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H6JI4X_pjOVbfttUBiy_gQJdDyLZ0vaQJGzrjXeg__jg.jpg"/>
+    </item>
+    <item>
+      <title>Erlend Loe på ett hjul</title>
+      <description><![CDATA[Bruk hjelm og se opp for bjørn! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7f9daba0-1ab6-434f-93d7-07ec8b3da1ac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7f9daba0-1ab6-434f-93d7-07ec8b3da1ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:32</itunes:duration>
+      <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GjdbcMVhcupKR0-5Snh_FQme65C-97iYLa2XiLFFz5qg.jpg"/>
+    </item>
+    <item>
+      <title>Bård Ylvisåker, guffent med maskingevær</title>
+      <description><![CDATA[Kan prat om døden være starten på et nytt vennskap? En av to i studio er skeptiske. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/def1c996-8f2e-4f39-a54a-e907b682cf11_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/def1c996-8f2e-4f39-a54a-e907b682cf11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:26</itunes:duration>
+      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LJzMTzeT8KAbbuIUHmWJ4g0tc3Kj13GGYdjwQ_-J-hlQ.jpg"/>
+    </item>
+    <item>
+      <title>Det viktigste er at Siri Kristiansen overlever</title>
+      <description><![CDATA[Er ikke så redd for å dø, men litt redd for å tøffe seg for mye. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/f58f61b0-52d1-4e8a-abb2-8571901c74c6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f58f61b0-52d1-4e8a-abb2-8571901c74c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:10</itunes:duration>
+      <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QGqietmxsyW4T6eHl_aMkwNvfblRlDYDCYPGEB9ORp5A.jpg"/>
+    </item>
+    <item>
+      <title>Trond Viggos mørke fantasier</title>
+      <description><![CDATA[Trond Viggo har et kreativt mørke i seg, men han ville aldri gjort det. Ikke på ordentlig. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/8889a8cf-3317-4a55-9d93-04bf9a71545d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/8889a8cf-3317-4a55-9d93-04bf9a71545d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:59</itunes:duration>
+      <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CfFWU7KW0905_CjuwloNFQyuY68D9I5kOALcO1PkysIg.jpg"/>
+    </item>
+    <item>
+      <title>Espen Abrahamsens strippeklubbkveld</title>
+      <description><![CDATA[Premiere på nær strippeklubbdød! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/5b433d9f-e307-4c6a-8b58-ecf950254c6f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5b433d9f-e307-4c6a-8b58-ecf950254c6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:25</itunes:duration>
+      <pubDate>Mon, 01 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bVir96qLcn5N6RM-Xqfq6gkSsRKbEeTVrCwVJEZTwCwg.jpg"/>
+    </item>
+    <item>
+      <title>Sandeep Singhs livsfarlige tivoli</title>
+      <description><![CDATA[Sandeep kunne ha dødd i en karusell i India, men han klamret seg fast. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7c45c661-52d6-45f7-99c1-225e090ff1d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7c45c661-52d6-45f7-99c1-225e090ff1d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:51</itunes:duration>
+      <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B5Cp0JVeCtrDsU7CZ1t60AyYQVh6UjaIGWG2tYjgnemA.jpg"/>
+    </item>
+    <item>
+      <title>Til bunns med Isalill Kolpus</title>
+      <description><![CDATA[Hvem kan lære Isalill å svømme? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/b31a977e-ee14-4f30-9df2-490f83a1da73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b31a977e-ee14-4f30-9df2-490f83a1da73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:11</itunes:duration>
+      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H1HTn-ly-_OoOAn1V8DJMQvWRgf1-rAABcQPXqFOp9oA.jpg"/>
+    </item>
+    <item>
+      <title>Gucci-Gaute, "Hjelp" og fatterns nyre i boks</title>
+      <description><![CDATA[Gucci-Gaute hosta blod og mista synet, men han vil helst ikke være til bry.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/af3a9ffd-b8f0-4adc-b083-9e6a4a383644_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/af3a9ffd-b8f0-4adc-b083-9e6a4a383644_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:51</itunes:duration>
+      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HQWd8GghCBCJ6ftBU4X6fg-YBNhqz5QFeMdLMwDZ4nrA.jpg"/>
+    </item>
+  </channel>
+</rss>

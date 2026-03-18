@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Hør'a</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Ilyada, Sosh, Seppi og Arin åpner opp gjengen og inviterer deg til en ærlig prat om alt som er viktig. For dem. 
+Ris? Ros? Personlige problemer? Send mail til HORA@nrk.no</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:19:17 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    <item>
+      <title>TAKK FOR OSS &lt;3</title>
+      <description><![CDATA[Tidenes siste Høra! Takk for alt! Høra ut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/0b3b4d12-c0bf-4621-a8bd-24ddc0479db8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/0b3b4d12-c0bf-4621-a8bd-24ddc0479db8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:48</itunes:duration>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Ariana Grande-effekten</title>
+      <description><![CDATA[Har Ariana Grande en magisk effekt på menn? Hva vil vi helst se en roadman gjøre? Og hvilken stor nyhet breaker vi i dag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/bf8d6a08-7d4f-4b2a-8430-672d72fab4ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/bf8d6a08-7d4f-4b2a-8430-672d72fab4ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:15</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Light Skinned</title>
+      <description><![CDATA[What's poppin!
+Folk vi ikke kan hate.
+Reklamer som følger oss gjennom livet.
+Kjærlighets-reunion.
+Utdrikningslag: Danse med kniv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/70183a3b-648e-450a-8b71-685ea2cb6c9c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/70183a3b-648e-450a-8b71-685ea2cb6c9c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:52</itunes:duration>
+      <pubDate>Fri, 14 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SFvnc3BJi-HllIB44t8MpQC7c17sJL2e_2zPRe1rTPjQ.jpg"/>
+    </item>
+    <item>
+      <title>Seksuell trakassering på jobb (dessverre)</title>
+      <description><![CDATA[Arin spår jentene på en helt ny måte, seksuell trakassering på arbeidsplassen og endelig Love Island-sesong<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/b233772a-1046-4e16-a085-0e67603554cc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/b233772a-1046-4e16-a085-0e67603554cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:41</itunes:duration>
+      <pubDate>Fri, 07 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Kan vi ta en prat?</title>
+      <description><![CDATA[Ilys dobbeltliv er avslørt, North West er verdens verste nepobaby og alle kjønnssykdommer stammer fra menn som har ligget med dyr?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/ca060d6e-3bad-40f9-989a-93b2e9280ac7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/ca060d6e-3bad-40f9-989a-93b2e9280ac7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:34</itunes:duration>
+      <pubDate>Fri, 31 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Tradisjonelle kjønnsroller: yey or ney</title>
+      <description><![CDATA[Arin har bursdagsrelatert rant, Seppi oppdaterer oss på Diddy og 50 Cent, og sammen diskuterer vi om mannen bør betale for mer enn dama.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/c02ab640-3c6d-48ec-9bce-e008cd743d91_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/c02ab640-3c6d-48ec-9bce-e008cd743d91_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:16</itunes:duration>
+      <pubDate>Fri, 24 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>La dem spise kake</title>
+      <description><![CDATA[17. mai er ute av kontroll, Ily har vært Karen (igjen), og Arin har banka opp noen. Gratulerer med dagen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/1f8106f2-8107-4aca-89b5-10559ff828cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/1f8106f2-8107-4aca-89b5-10559ff828cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:20</itunes:duration>
+      <pubDate>Fri, 17 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Vår tids Tupac og Biggie</title>
+      <description><![CDATA[Sosh forklarer beefen mellom Kendrick og Drake, Ily har sommericks, og Arin har opplevd kvinnehat. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/1f2a0927-09ac-44a7-9ffd-f1cfde27ac16_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/1f2a0927-09ac-44a7-9ffd-f1cfde27ac16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:32</itunes:duration>
+      <pubDate>Fri, 10 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Den var den før den var den </title>
+      <description><![CDATA[Ily har lagt igjen verdigheten på do, Arin skulle ønske hun hadde datet en dopdealer og Seppi mener Backback-kid var den originale David Mokel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/bcfb6d1d-7877-4ff3-bc8a-a56bd3a762e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/bcfb6d1d-7877-4ff3-bc8a-a56bd3a762e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:14</itunes:duration>
+      <pubDate>Fri, 03 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Kim Jong Un og løpske hester</title>
+      <description><![CDATA[Arin har sagt "jeg elsker deg" til en fremmed, Muskelbunt1 melder på TikTok, og noen har krasjet i bilen til Seppi (og stukket av?!).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/9df48fa9-8c1b-4601-b4d9-5860a0ab646f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/9df48fa9-8c1b-4601-b4d9-5860a0ab646f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:13</itunes:duration>
+      <pubDate>Fri, 26 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>På tide å vokse opp!</title>
+      <description><![CDATA[Sosh pusher 30, Arin skal starte burgersjappa Kurder King, Jojo Siwa stjeler låter og pandaer er ikke ekte (?).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/241b222a-ea65-49ad-929f-9cebfd4946de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/241b222a-ea65-49ad-929f-9cebfd4946de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:54</itunes:duration>
+      <pubDate>Fri, 19 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Anine Olsen regjerer</title>
+      <description><![CDATA[4nine fortsetter å imponere, gutter i albaya er spicy, og vi gruer oss til at generasjon blir gamle nok til å mobbe oss. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/adc807ad-e9af-49fe-9e90-1b4edcfbb843_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/adc807ad-e9af-49fe-9e90-1b4edcfbb843_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:28</itunes:duration>
+      <pubDate>Fri, 12 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Gynekologbesøk og Diddys fester</title>
+      <description><![CDATA[Sosh har hatt sin første tur til gynekologen, Ily er forbanna på Sats, og vi gir en oppdatering på P Diddy (og hun som var på festene). ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/132f4426-93f6-413b-b6c8-0977ff58dd20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/132f4426-93f6-413b-b6c8-0977ff58dd20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:41</itunes:duration>
+      <pubDate>Fri, 05 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Penetrasjon for arrestasjon </title>
+      <description><![CDATA[Sosh har blitt en slave til klokka, Kripos har lært seg hva "happy ending" betyr, og vi byr på våre dypeste skammer. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/d917000f-329e-4691-895f-f39267d2b1bf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/d917000f-329e-4691-895f-f39267d2b1bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:14</itunes:duration>
+      <pubDate>Fri, 29 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Gutter og rette joggebukser</title>
+      <description><![CDATA[Endelig nowruz: vi har puttet gullfisk i bolle, og Sosh forteller oss hvorfor. Arin har en ny beef med vekterne, og Ily har blitt Love Island-frelst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/e184287b-9ed0-4951-a65b-5f35e80ebaa1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/e184287b-9ed0-4951-a65b-5f35e80ebaa1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:30</itunes:duration>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Stive håndklær, stiv pikk</title>
+      <description><![CDATA[Hvor lenge kan vasken ligge i maskina? Kan man dø hvis man spiser meieriprodukter og fisk sammen? Og hvor høy aldersforskjell er innafor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/4dd7280a-0a9d-4997-be3f-e0d493750fdb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/4dd7280a-0a9d-4997-be3f-e0d493750fdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:56</itunes:duration>
+      <pubDate>Fri, 15 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Ikke la en sang redde livet ditt</title>
+      <description><![CDATA[E-sigaretter i tollen, Cyrus-drama, livreddende musikk og guilty pleasures. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/7cedeeb8-ad36-435e-94ba-00468921f11f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/7cedeeb8-ad36-435e-94ba-00468921f11f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:48</itunes:duration>
+      <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Odel, hvor er det?</title>
+      <description><![CDATA[Arin har driti seg ut, Seppi har skammet seg på ferie, Ily har ny bod, og vi lurer alle på hva som skjedde på Omah Lay-konserten i London. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/893d355b-9b30-475f-84e6-66f8e231a872_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/893d355b-9b30-475f-84e6-66f8e231a872_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:33</itunes:duration>
+      <pubDate>Fri, 01 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Busemøte og mangobeef</title>
+      <description><![CDATA[Ilys beef med Teams har blitt personlig, Arin er investert i en surdeig, og vi røper våre lowkey kjendisforelskelser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/d58e6f6e-0df7-42b6-99fb-01c2c93cd1e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/d58e6f6e-0df7-42b6-99fb-01c2c93cd1e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:58</itunes:duration>
+      <pubDate>Fri, 23 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Knuste hjerters dag</title>
+      <description><![CDATA[Sosh har fått hjertet sitt knust, Ily har blitt kalt feit av en svensk kollega, og vi legger voksesmerte-debatten død en gang for alle. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/338985f0-ecd4-4e5e-ba60-2dd4b104ab52_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/338985f0-ecd4-4e5e-ba60-2dd4b104ab52_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:11</itunes:duration>
+      <pubDate>Fri, 16 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Pene jenter bæsjer ikke</title>
+      <description><![CDATA[Ilys uhell med platetopp, tegn på høy bodycount, voksesmerter og selvfølgelig noen historier om å gjøre nummer to. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/dac98b51-e275-4cb6-ad03-8bf68c3a2fa4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/dac98b51-e275-4cb6-ad03-8bf68c3a2fa4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:06</itunes:duration>
+      <pubDate>Fri, 09 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Konspi og analsex i verdens lengste januar</title>
+      <description><![CDATA[Seppi åpner sitt mørke, lille hjørne, Arin har språkrant, og Sosh har vært på aketur. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/af883d4d-59c3-40f8-ba3b-ea245f31f779_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/af883d4d-59c3-40f8-ba3b-ea245f31f779_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:54</itunes:duration>
+      <pubDate>Fri, 02 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Du er hvem du spiser!</title>
+      <description><![CDATA[Kulinariske eventyr: Spise morkake.
+Stasi-Pappa.
+Autokorrekt gjør at Arin havner på kant med mamma.
+Utlending matte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/2b9b08d9-d87a-4baf-98eb-3eebe700747c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/2b9b08d9-d87a-4baf-98eb-3eebe700747c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:48</itunes:duration>
+      <pubDate>Fri, 26 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Bæsj, svette og tårer</title>
+      <description><![CDATA[Arin har hatt dårlig mage, Seppi har hatt dårlig mage, og Sosh hater Rema 1000. I tillegg: bursdagssminke og starstruck på fly. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/2d7b58df-5d2c-45cc-b1aa-328807aa46bb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/2d7b58df-5d2c-45cc-b1aa-328807aa46bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:13</itunes:duration>
+      <pubDate>Fri, 19 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>BONUS: Med halv respekt</title>
+      <description><![CDATA[Med all respekt er på seminar og vi har vikariert! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/6be9a812-8c36-4db6-ad23-29cf5718ac84_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/6be9a812-8c36-4db6-ad23-29cf5718ac84_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:37</itunes:duration>
+      <pubDate>Tue, 16 Jan 2024 15:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>BONUS: Vi er vikarer for MAR</title>
+      <description><![CDATA[Med all respekt er på seminar og vi har vikariert! ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/47b2423a-88c9-4bf0-99a9-362549d9a1ac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/47b2423a-88c9-4bf0-99a9-362549d9a1ac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Mon, 15 Jan 2024 16:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>iPad-kids er ute av kontroll</title>
+      <description><![CDATA[Seppi er konkurs OG prøver å forklare Epstein-skandalen, vi mimrer til EOS-egg og WOW-bag, og Ily har nådd enda et mål. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/653a9443-b775-42c2-8b5a-c79a404878f2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/653a9443-b775-42c2-8b5a-c79a404878f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:33</itunes:duration>
+      <pubDate>Fri, 12 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Parfymetraumer og pilegrimsreise</title>
+      <description><![CDATA[Nyttårsaftens eskapader, brudd i januar og parfymetraumer fra One Million og Ralph Lauren. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/0dc305c9-a250-4016-984d-30e529f97d70_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/0dc305c9-a250-4016-984d-30e529f97d70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:10</itunes:duration>
+      <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Skaff deg en tungeskrape!</title>
+      <description><![CDATA[Ily tar et oppgjør med dårlig ånde, vi spår 2024 og hjelper en lytter som har mistet venninnen sin til kjærligheten. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/fb84a9b2-4947-4bdc-8d7d-8e0bf8f78b97_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/fb84a9b2-4947-4bdc-8d7d-8e0bf8f78b97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:08</itunes:duration>
+      <pubDate>Fri, 29 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Kompani Arin </title>
+      <description><![CDATA[Hvem vil Arin ha med seg i krigen? Har spådommene våre fra i fjor blitt sanne? Og hvilke nyttårsforsetter gir lytterne oss?
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/eb66e376-d421-4bdf-93e1-72a5e7f38668_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/eb66e376-d421-4bdf-93e1-72a5e7f38668_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:45</itunes:duration>
+      <pubDate>Fri, 22 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>TikTok Wrapped 2023</title>
+      <description><![CDATA[Vi oppsummerer året på TikTok, Sosh gir oss en oppdatering på Selena Gomez, og Arin har (selvfølgelig) Crisean og Blueface-nytt.
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/94bd295a-e0a5-4d37-8f11-916ad1db0fc7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/94bd295a-e0a5-4d37-8f11-916ad1db0fc7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:17</itunes:duration>
+      <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>That thing, viktorianske barn og Blueface</title>
+      <description><![CDATA[Sosh forteller hva vi skal legge fra oss i 2023, Arin har oppdatering på Crisean Rock og Blufeace og vi sender viktorianske barn i koma. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/4e0728e4-4b07-4054-8434-5ebda5111f38_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/4e0728e4-4b07-4054-8434-5ebda5111f38_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:29</itunes:duration>
+      <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor er barn så slemme?</title>
+      <description><![CDATA[Sosh har blitt utsatt for barns ærlighet, Seppi søker jobb for bekreftelse og Arin holder lynkurs i flyetikette. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/0db6b2db-93af-4c6a-a997-0f1398bdc19d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/0db6b2db-93af-4c6a-a997-0f1398bdc19d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:05</itunes:duration>
+      <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Ufrivillig barnebursdag og fylleringing</title>
+      <description><![CDATA[Ily har feiret ufrivillig bursdag på Undergrunn, Sosh har sett Girls of Oslo, og Arins countryhjerte har våknet. 
+
+Send oss en mail: HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/2c55b468-ee35-4ec6-af3c-454af15b0f09_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/2c55b468-ee35-4ec6-af3c-454af15b0f09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:22</itunes:duration>
+      <pubDate>Fri, 24 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Den årlige vinterpsykosen</title>
+      <description><![CDATA[Hudpleiepsykosen er tilbake, vi icker av oss selv, og forteller om våre forbindelser til Drake og Lil Xan. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/ae78d41d-0e98-4ad8-a93a-943b85eab68a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/ae78d41d-0e98-4ad8-a93a-943b85eab68a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:00</itunes:duration>
+      <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Hudpleieren fra helvete</title>
+      <description><![CDATA[Seppi har blitt svindla, Arin har blitt slått gul og blå, Ily har satt mannlig kollega på plass og vi ser positivt på høstdepresjonen. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/d750c75d-d6e2-4bce-8cd6-3b34f6dc7796_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/d750c75d-d6e2-4bce-8cd6-3b34f6dc7796_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:47</itunes:duration>
+      <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Førstefødte utlendinggutter vinner alltid</title>
+      <description><![CDATA[Arin er sjalu på broren sin, Sosh har sett på Ungkaren og vi forteller hva vi ville gjort dersom typen var utro med søsteren vår. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/2347b8a1-b1dd-4d1e-91d1-ae7296db3350_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/2347b8a1-b1dd-4d1e-91d1-ae7296db3350_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:34</itunes:duration>
+      <pubDate>Fri, 03 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Velkommen til Synchronized Swim in the Menenzuela</title>
+      <description><![CDATA[Ily har gjort schenanigans i Berlin, mimring om strenge foreldre og en etterlengtet update fra vårt favoritt trekantdrama. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/8b59be77-361a-46e4-946d-cd5f49423290_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/8b59be77-361a-46e4-946d-cd5f49423290_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:04</itunes:duration>
+      <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Et oppgjør med influensere og situationships</title>
+      <description><![CDATA[Jada Smith er pick me, Ily er lei av "talking stage", og Arin har en høne å plukke med influensere. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/4253871b-d87f-4d04-94e5-e7e01aaee97d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/4253871b-d87f-4d04-94e5-e7e01aaee97d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:10</itunes:duration>
+      <pubDate>Fri, 20 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Er USA et sosialt eksperiment?</title>
+      <description><![CDATA[Arin må dumpe Kardashians, vi diskuterer "pretty privilege" og fordømmer folk med Pepsi Max som en del av personligheten sin. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/ad65e814-f3cd-4bcf-99d6-429357733186_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/ad65e814-f3cd-4bcf-99d6-429357733186_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:37</itunes:duration>
+      <pubDate>Fri, 13 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Kvoteutlendinger og sjalusi</title>
+      <description><![CDATA[Vi er "industry plants", Seppi har opplevd sjalusi, og Ily forklarer oss "boy math." 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/0f18fb33-f54d-4665-bef7-fe585bf37479_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/0f18fb33-f54d-4665-bef7-fe585bf37479_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:09</itunes:duration>
+      <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Den beste hevnen mot en utro eks</title>
+      <description><![CDATA[Kan man sende Jehovas vitner på eksen? Hva skjer med Central Cee og Madeleine? Og er det ok om typen sier du går for lettkledd?
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/85175c27-8b7b-4c7c-bb6f-3ef4b3dda625_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/85175c27-8b7b-4c7c-bb6f-3ef4b3dda625_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:05</itunes:duration>
+      <pubDate>Fri, 29 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>24 år gamle tenåringer med McMartii på besøk</title>
+      <description><![CDATA[Queen McMartii er vikar for Seppi, TikTok renner over av drama, og Ily har blitt voksen (?). 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/af7fe215-d6ce-4360-a95f-7900f9aa93c7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/af7fe215-d6ce-4360-a95f-7900f9aa93c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:15</itunes:duration>
+      <pubDate>Fri, 22 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Direktesendt fødsel og Merkur i retrograd</title>
+      <description><![CDATA[Merkur er endelig ute av retrograd, 4nine tar kampen, og Crisean Rock har føda på Instagram.
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/58222911-04b3-45af-88e6-f803cb016e08_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/58222911-04b3-45af-88e6-f803cb016e08_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:05</itunes:duration>
+      <pubDate>Fri, 15 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Iransk aften og drømmekidnapping</title>
+      <description><![CDATA[Seppi fantaserer om Stockholm-syndrom, Timothée Chalamander og Kylie har klina, og Sosh forklarer "girl math". 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/12f3fb28-0768-4a09-9486-939897fedcef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/12f3fb28-0768-4a09-9486-939897fedcef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:00</itunes:duration>
+      <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Bieber er tilbake</title>
+      <description><![CDATA[Bieber er lightskin igjen, Sosh har vært i skogen, vi leker to løgner og en sannhet og får utroskapsoppdatering fra lytter. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/bf0552bb-3695-4e9f-ae6d-f6f5e6060efe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/bf0552bb-3695-4e9f-ae6d-f6f5e6060efe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:29</itunes:duration>
+      <pubDate>Fri, 01 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Justice for tyrkisk rave</title>
+      <description><![CDATA[Fadderuketips, ting som får Arin til å føle seg som et 1800-tallsbarn, og navneforslag til ASAP og Rihannas nye baby.
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/f2b568c2-1c7f-4fee-9e8e-fa0c5c004575_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/f2b568c2-1c7f-4fee-9e8e-fa0c5c004575_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:17</itunes:duration>
+      <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Morten Ramm, kriminelle kids og dotanker</title>
+      <description><![CDATA[Morten Ramm i Pakistan har formet Sosh, Ily har tenkt og bæsja, Seppi tar opp dodebatten, og Arin forteller deg hvem du er. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/48861df8-09e5-495c-8f9d-a397fee9e552_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/48861df8-09e5-495c-8f9d-a397fee9e552_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:24</itunes:duration>
+      <pubDate>Fri, 18 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Ting som gir Arin personlig flom</title>
+      <description><![CDATA[Rasisme på nachspiel, kjærlighetsproblemer fra lytter, ting vi synes er HOT hos gutter, Tory Lanez og ... Hans. 
+
+Send oss en mail! HORA@nrk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/2cb1cb23-13cd-4596-b3f6-39992ee17dfe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/2cb1cb23-13cd-4596-b3f6-39992ee17dfe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:47</itunes:duration>
+      <pubDate>Fri, 11 Aug 2023 07:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+    <item>
+      <title>Red nail theory og illusjonen bro code</title>
+      <description><![CDATA[Lizzo er kansellert for å angivelig ha gjort seksuell trakassering og kroppsskampåføring. Den kontroversielle og tidligere homofobiske Jesusinfluenderen Manylandy har kommet ut av skapet som Demi Bifil. Arin kan se hva slags personlighet du har ut fra fargen på neglene, jentene diskuterer late kvinners girl dinner og om det egentlig finnes noen bro code. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hoera/801be8c0-889e-4094-a1b9-cfed680719cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hoera/801be8c0-889e-4094-a1b9-cfed680719cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:26</itunes:duration>
+      <pubDate>Fri, 04 Aug 2023 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA.jpg"/>
+    </item>
+  </channel>
+</rss>

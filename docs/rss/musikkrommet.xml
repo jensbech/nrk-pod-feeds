@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Musikkrommet</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Anna Nor Sørensen og Jakob Naustdal gir deg de gode historiene bak musikken du bryr deg om. Og den du ikke visste at du digger. 
+Musikkrommet ble produsert fram til og med 2024 og episodene er laget for å høres når som helst. </description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:21:40 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2024 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/9RC0yu1YgUPSu7PdUdmFRA-mkjHjLiLi2-zNUvYGneLg.jpg"/>
+    <item>
+      <title>Tyler, the Creator: Endelig voksen?</title>
+      <description><![CDATA[15 år etter debuten virker det som Tyler, the Creator har blitt voksen. For på sitt åttende album, “Chromakopia” er han mer personlig enn noen gang, både på godt og vondt.  Dette er den siste episoden av Musikkrommet. Redaksjonen takker for følget  til slutten av episoden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/55a91bea-a59b-4751-9e8c-9d6369657f52_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/55a91bea-a59b-4751-9e8c-9d6369657f52_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:18</itunes:duration>
+      <pubDate>Thu, 05 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UG3sAhSN0QyZG3Y-hwNUTQzPZjJS7e48C1Mt6SAu7ckw.jpg"/>
+    </item>
+    <item>
+      <title>Kygo: Norges største superstjerne</title>
+      <description><![CDATA[P3 Gull-aktuelle Kygo er kanskje verdens mest kjente nordmann, og har med sin tropiske EDM fått mange titalls millioner fans over hele kloden. Hvordan ble han så stor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/8938d6ee-9c3b-49c5-a656-7c2311c0a932_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/8938d6ee-9c3b-49c5-a656-7c2311c0a932_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:10</itunes:duration>
+      <pubDate>Thu, 21 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8JRaMwGFuggtiK-g1lW3LgqJZEYglmpH6WA-_ChFrNNw.jpg"/>
+    </item>
+    <item>
+      <title>Anakin Justin: Gjør trønderdialekt sexy</title>
+      <description><![CDATA[Anakin Justin fra Klett utenfor Trondheim ble tidligere i høst kåret til «Årets Urørt» under finalen på Rockefeller. Han overbeviste både publikum og juryen med sin tilbakelente rapstil og trønderske dialekt.  Men hvordan havna 20-åringen der?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/6cb62bc7-9c91-487e-8cb0-8766bc710a2f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/6cb62bc7-9c91-487e-8cb0-8766bc710a2f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:12</itunes:duration>
+      <pubDate>Thu, 07 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y44jc6fVtYgV4hiL4ebRMA0wcwqLSOqe44BPjOni805Q.jpg"/>
+    </item>
+    <item>
+      <title>Interpolering: Gamle sanger om igjen</title>
+      <description><![CDATA[Gjenbruk av tidligere utgitt musikk i nye låter har blitt vanlig de siste 40 årene, men i det siste virker det som det er blitt mer utbredt. Det føles som flere hits inneholder deler av musikk man har hørt før. Hva er egentlig interpolering og hvorfor er det blitt så vanlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/7bfc7650-4fc0-4b18-8fd8-4ee588e953d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/7bfc7650-4fc0-4b18-8fd8-4ee588e953d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:29</itunes:duration>
+      <pubDate>Thu, 31 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZtZ7uZeCHST1Ha3prjUkJg_rIa57rnzDGGg62mjvK7Ow.jpg"/>
+    </item>
+    <item>
+      <title>Sabrina Carpenter: Gir fullstendig faen</title>
+      <description><![CDATA[Sabrina Carpenters poplåter med selvsikre og morsomme tekster har regjert på radio og Spotify i år, og hun har tatt 60 år gamle listerekorder. Hvordan klarer hun det når det virker som hun bare gir faen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/8c24acc8-0507-4015-9a2e-94bea65e7a71_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/8c24acc8-0507-4015-9a2e-94bea65e7a71_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:13</itunes:duration>
+      <pubDate>Thu, 17 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-_te_84eeDI9cqHt8GW5DwuS0D_H8fhNLiNL1m4cSDIw.jpg"/>
+    </item>
+    <item>
+      <title>Ramón: Et oppgjør med seg selv</title>
+      <description><![CDATA[Siden gjennombruddet med "Ok, jeg lover" i 2022 har Ramón berørt et stadig voksende publikum med sine nære og ærlige låter. Samtidig har han tatt avstand fra en stor del av seg selv. Den tar han et oppgjør med på sitt andre album "Torres Tivoli". Hvordan har oppveksten påvirket dette albumet og hvordan har han endelig klart å omfavne sine spanske røtter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/26a176db-cfa4-42c9-be2d-745d90221a70_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/26a176db-cfa4-42c9-be2d-745d90221a70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:34</itunes:duration>
+      <pubDate>Thu, 10 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/y4JyORJ_yu9w1BSf92SoCAD75IWtWTS_IaMHzwFq1ENg.jpg"/>
+    </item>
+    <item>
+      <title>Leonard Cohen: Mannen, myten og Marianne</title>
+      <description><![CDATA[Leonard Cohen var det enorme litterære talentet som ble musiker for å få flere til å høre diktene hans. Med låtene sine gjorde han sex religiøst og religion sexy, men hvordan var karrieren hans før og etter at han fant kjærligheten med norske Marianne Ihlen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/16d4a96c-6105-410f-ae5a-7806f046edae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/16d4a96c-6105-410f-ae5a-7806f046edae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:45</itunes:duration>
+      <pubDate>Thu, 26 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JbDiYdSd7QMFWb9w3EKpSQy2Da_1_rrE9R4R0e2ELd5w.jpg"/>
+    </item>
+    <item>
+      <title>Chappell Roan: Ikke bare "Good Luck, Babe!"</title>
+      <description><![CDATA[Chappell Roan har på kort tid blitt din favorittartist sin favorittartist. Nylig ble hun kåret til årets beste nye artist, hun har en megahit i “Good Luck, Babe!” og spilt store festivaler. Tilsynelatende har hun fått suksess over natten, men i virkeligheten har hun jobbet målrettet og veien til toppen har vært lang og hard. Hva skjedde da hun endelig fikk det hun ønsket seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/654a68b8-1d78-4c63-b097-ad5c525d2a95_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/654a68b8-1d78-4c63-b097-ad5c525d2a95_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:28</itunes:duration>
+      <pubDate>Thu, 19 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Dk-jIREsomEU7NxvxUB1tQLXRa22Fcdo5Gh462Avd6Gw.jpg"/>
+    </item>
+    <item>
+      <title>Yoguttene: Kan alle rappe?</title>
+      <description><![CDATA[Yoguttene ble et undergrunnsfenomen med sin Bergens-trap og fristiler på starten av forrige tiår. Hva betyr egentlig «$vai», hvordan fant de ut at de kunne rappe, og var fjorårets album egentlig et comeback? Jenny Skavland og Onge Anka svarer når Yoguttene gjør sin aller første podkast noensinne – tatt opp live på Øyafestivalen i august.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/2a77759d-9358-4250-a065-5cfa751da6c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/2a77759d-9358-4250-a065-5cfa751da6c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:35</itunes:duration>
+      <pubDate>Thu, 12 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m5wQlkBrnr9nnLZWTMSKkw0BPvdtLtpLJMPLmkjtP6xQ.jpg"/>
+    </item>
+    <item>
+      <title>Oasis: Det umulige comebacket</title>
+      <description><![CDATA[Gjenforeninga til Oasis ble behørig dekket da det ble kjent i slutten av august. Hvorfor er det så store nyheter at Liam og Noel Gallagher er sammen igjen, og blir konsertrekka i 2025 bra? Musikksjef i NRK Mats Borch Bugge svarer på spørsmålene ved å gå gjennom karrieren til brødrene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/9a2912ac-f313-4d2e-bc17-cb0396fb8f74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/9a2912ac-f313-4d2e-bc17-cb0396fb8f74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:03</itunes:duration>
+      <pubDate>Thu, 05 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-uWwydZnNbaOJ3olNjzRoQbCjVkc5-bHGEJHzFIjZFqA.jpg"/>
+    </item>
+    <item>
+      <title>Rosa Faenskap: Det behagelige stedet der man kan skrike</title>
+      <description><![CDATA[Hvorfor kaller Rosa Faenskap musikken sin for både en kjærlighetserklæring og en krigserklæring mot svartmetall? Dét og mye annet lurte Anna og Jakob på da de møtte gitarist og vokalist Emil Vestre på Øyafestivalen i august.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/07450e67-c866-4b48-a21b-e2f34e1402ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/07450e67-c866-4b48-a21b-e2f34e1402ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:19</itunes:duration>
+      <pubDate>Thu, 29 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O18_Ql3IUhQaQTL0vu_Ukge4I_EJPhQ0zsZa2lFC-hOg.jpg"/>
+    </item>
+    <item>
+      <title>Charli XCX: Mer enn en brat</title>
+      <description><![CDATA["Brat summer" er over. Hvordan gikk albumtittelen til Charli XCX viralt og ga henne sine første hits på nesten ti år? Og viktigere,  hvem er hun egentlig og hva handler musikken bak begrepet om?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/a9b3e0da-eea7-483f-832e-dcfbf7f98ae2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/a9b3e0da-eea7-483f-832e-dcfbf7f98ae2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:45</itunes:duration>
+      <pubDate>Thu, 22 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/a6NNQr8cYhA3ZVSleyJb_wTO9c85nFVtuxjeb1xoK7mg.jpg"/>
+    </item>
+    <item>
+      <title>Moyka: Fra Nesbyen til Netflix</title>
+      <description><![CDATA[Moyka har bygd musikerkarrieren stein for stein. Men hva skjedde da hun endelig nådde milepælen som et debutalbum er – og hvordan kom hun seg videre til fjorårets oppfølger? Og hvordan havnet låta hennes i siste scene i Netflix sin hit-serie "Young Royals"? Anna og Jakob møtte Moyka etter konserten hennes på Øyafestivalen for en prat om dette og mer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/8a7f03ea-9b7c-4a1f-b14d-a7b07a778d3b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/8a7f03ea-9b7c-4a1f-b14d-a7b07a778d3b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:23</itunes:duration>
+      <pubDate>Thu, 15 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yaUrFzdP18BXJvW8jRBHtALnGeJVi5QExOkX6b8YHUlA.jpg"/>
+    </item>
+    <item>
+      <title>Lemaitre: Blir ikke mer moro enn du lager sjæl</title>
+      <description><![CDATA[Gjennom sin snart 15 år lange karriere har Lemaitre gang på gang befestet sin posisjon blant Norges dyktigste produsenter innen elektronika. Hvordan får de til det? Og hvordan har reisen fra gutterommet på Ullern i Oslo, til store mansions i Los Angeles vært?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/6fa092b4-de3f-4996-ad19-1a1d7cbaec10_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/6fa092b4-de3f-4996-ad19-1a1d7cbaec10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:33</itunes:duration>
+      <pubDate>Thu, 20 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ce3F2mpQ09NY_kQyzkjfAg7mhxW56WGeK5FqEZyuRn3g.jpg"/>
+    </item>
+    <item>
+      <title>Gabrielle: Pop-pioneren</title>
+      <description><![CDATA[Gabrielle gjorde pop på norsk stuereint da hun debuterte i 2011. Nå er "Gabby" aktuell med sitt femte album på 12 år, men selv om hun har brukt de årene godt er hun likevel redd for tiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/ad629b91-8594-4d93-a92b-2717959857f8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/ad629b91-8594-4d93-a92b-2717959857f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:28</itunes:duration>
+      <pubDate>Thu, 13 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VJhU0VWzCUcozIy7fRRwZgioFbedcVCUUpAbxCxa6eSg.jpg"/>
+    </item>
+    <item>
+      <title>Billie Eilish: Stemmen til Gen Z</title>
+      <description><![CDATA[Billie Eilish er en av klodens aller største popstjerner og har vokst opp i rampelyset siden hun ga ut sin første låt som 13-åring. Nå har hun nettopp gitt ut sitt tredje album og den enorme fanskaren hyller henne. Billie Eilish fremstår som stemmen til sin generasjon, men hvorfor vil hun ikke være det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/f1cbba25-1af3-45a8-952d-b3e9a9d984b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/f1cbba25-1af3-45a8-952d-b3e9a9d984b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:46</itunes:duration>
+      <pubDate>Thu, 30 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ae2ubkzakqoZ-og3G1D_SQH7CqUG_ygbvZ3aNie0Xxcg.jpg"/>
+    </item>
+    <item>
+      <title>Marcus &amp; Martinus: Barnestjernenes voksesmerter</title>
+      <description><![CDATA[Marcus & Martinus ble oppdaget som bittesmå knøtt i MGPjr og ble enorme stjerner for de yngste i årene etter. Men å kvitte seg med barnestjernestempelet da de ble eldre var ikke lett, så hvordan fant tvillingene løsningen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/b207d868-a136-445a-b353-617d587eeac6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/b207d868-a136-445a-b353-617d587eeac6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:31</itunes:duration>
+      <pubDate>Thu, 09 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4D9okZ3uyr7IiUZRD1sGTw07zv_5UxfbeTVWkqVmccRg.jpg"/>
+    </item>
+    <item>
+      <title>Beyoncé: Svart countrys skjulte historie</title>
+      <description><![CDATA[Beyoncé ble i år historisk som den første kvinnelige svarte artisten som topper country-listene i USA. Hvorfor har ikke det skjedd før? Og hvordan børster det nye albumet hennes "Cowboy Carter" støv av en dyster historie om countrysjangeren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/5d0e21e4-770f-4ebf-a488-e2ee54027c2a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/5d0e21e4-770f-4ebf-a488-e2ee54027c2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:55</itunes:duration>
+      <pubDate>Thu, 25 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GRGA0SVJt4UQFwiJiJkMnA-bEzFZVmM8OE119R5OqGiw.jpg"/>
+    </item>
+    <item>
+      <title>Amy Winehouse: Berømmelsens pris</title>
+      <description><![CDATA[Da Amy Winehouse gikk bort i 2011 ble fansen sjokkert, men ikke overrasket. For historien hennes er en moderne tragedie, og livet hun levde er nå blitt en kinofilm. Hva var det med artisten og personen Amy Winehouse som engasjerte en hel verden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/5b737574-dc4d-455e-acbc-19701c3c1498_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/5b737574-dc4d-455e-acbc-19701c3c1498_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:53</itunes:duration>
+      <pubDate>Thu, 11 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nYrMTF48vRrlNcv0rUfKGAtu1BjEeN4f2fcJ5FobVW1A.jpg"/>
+    </item>
+    <item>
+      <title>Kurt Cobain: Hatet å bli elsket</title>
+      <description><![CDATA[5. april var det 30 år siden Kurt Cobain døde og etterlot seg en enorm fanskare i sjokk og tårer. For på starten av 1990-tallet hadde bandet hans Nirvana gjort den alternative rocken til verdens mest populære musikk. Hvordan skjedde egentlig det og hva var det som gjorde Kurt Cobain til et ikon?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/6966bc0b-6b7f-4f54-b43a-023ebc6684f5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/6966bc0b-6b7f-4f54-b43a-023ebc6684f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:21</itunes:duration>
+      <pubDate>Thu, 04 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/t0IOSPFYqcy8d_SPZpjS6Ql8MbPOHf454i754TTmfDJA.jpg"/>
+    </item>
+    <item>
+      <title>Tyla: Sør-Afrikas nye stjerneskudd sprer amapiano</title>
+      <description><![CDATA[Med låta “Water” fikk Tyla ikke bare en hit med debutsingelen, den unge artisten fra Sør-Afrika satte også en ny sjanger på kartet. Hvem er Tyla og hvordan fikk hun den sør-afrikanske subsjangeren amapiano inn på de vestlige hitlistene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/a476aa24-4172-4191-b8e3-17c4f50fabb4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/a476aa24-4172-4191-b8e3-17c4f50fabb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:38</itunes:duration>
+      <pubDate>Thu, 28 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9xOMqaEZ4BeDoOXGFYrPmg6NEwWYmdKgim7hc0ulLuUQ.jpg"/>
+    </item>
+    <item>
+      <title>Radka Toneff: Den store stemmen som stilnet</title>
+      <description><![CDATA[I Norges storslagne jazzhistorie pekes Radka Toneff på som en av de største stemmene vi har hatt. Hva gjorde henne så enestående? Håvard Bråthen er regissør i NRKs nye TV-serie «Jazzeventyret» og gir oss historien til Radka Toneff.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/40f2d217-914d-4c26-a258-191ca2608a18_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/40f2d217-914d-4c26-a258-191ca2608a18_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:07</itunes:duration>
+      <pubDate>Thu, 14 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BNItxfk0_6w1N46AdOSI3wVC4oogYMoXWM_Hu4fWZyFA.jpg"/>
+    </item>
+    <item>
+      <title>Ora the Molecule: Den nye discodronninga</title>
+      <description><![CDATA[Bak artistnavnet Ora the Molecule skjuler det seg en norsk-guatemalsk kvinne ved navn Nora Schjelderup som har vært på en reise verden rundt siden hun var barn. Hvordan endte hun opp med å lage discoen sin alene i en hytte i skogen ved Tyrifjorden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/bd242a37-c94d-44ee-ab99-422a24d864dc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/bd242a37-c94d-44ee-ab99-422a24d864dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:03</itunes:duration>
+      <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5aSFdcYkZ3opEvnMuqdiAAIm9n5_iJ74DWZC3F0p1wyQ.jpg"/>
+    </item>
+    <item>
+      <title>Fay Wildhagen: Den store selvransakelsen</title>
+      <description><![CDATA[Artisten og ikke minst gitaristen Fay Wildhagen mistet den store lidenskapen i livet da hun var i starten av tjueåra. For å klare å lage sitt tredje album måtte hun anerkjenne at hun har hatt det dårlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/b9a2fe5b-dac7-4342-8ef2-8c23f2032ad2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/b9a2fe5b-dac7-4342-8ef2-8c23f2032ad2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:45</itunes:duration>
+      <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j0ka2YqYTZheQReM2_IGXQIsNF5Q-gl7mF28MxbIruFA.jpg"/>
+    </item>
+    <item>
+      <title>Ole Paus: Derfor ble han sensurert av NRK</title>
+      <description><![CDATA[Da Ole Paus gikk ut av tiden før jul i fjor mistet hele Norge en av de største låtskrivere vi har hatt. Men hvorfor ble mannen som var kjent for både alvor og humor i sangtekstene sine sensurert av NRK?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/d3cdc7c2-d1b8-4ce6-836d-79ae4a7a0c6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/d3cdc7c2-d1b8-4ce6-836d-79ae4a7a0c6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:27</itunes:duration>
+      <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pu2_e7W7FTrS4OMXOLbCqwTY9WhAQS9uv2ui22v55fmw.jpg"/>
+    </item>
+    <item>
+      <title>Murder on the Dancefloor: Tilbake på hitlisten etter 22 år</title>
+      <description><![CDATA[Sophie Ellis-Bextor er tilbake på hitlistene med sin største låt, 22 år etter at den ble utgitt. Anna snakker med Arian Engebø fra StudioP3 om hvordan låta havna der, og hvorfor den bare er én av mange gamle hits som gjør comeback.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/9c1bf944-d52f-4db3-9020-ff1d07ee5663_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/9c1bf944-d52f-4db3-9020-ff1d07ee5663_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:56</itunes:duration>
+      <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pl8YDS835DvSIP7Gsw5ftAdJIzudUwFCABhPu3rkYnyA.jpg"/>
+    </item>
+    <item>
+      <title>Dagny: Kunsten å snu på kjipe situasjoner</title>
+      <description><![CDATA[Hvordan går man fra å ha toer i musikk og manglende motivasjon, til å inspirere internasjonale stjerner og selge ut Oslo Spektrum? Artisten Dagny besøker Anna i Musikkrommet og forteller om veien hennes til å bli en av landets mest populære popstjerner. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/f6cb3c7f-ee8d-4da3-85a0-fac7bdf1ca74_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/f6cb3c7f-ee8d-4da3-85a0-fac7bdf1ca74_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:12</itunes:duration>
+      <pubDate>Thu, 28 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T0Bby6jxHPMab29u2AsWAwY__CNyKBOZR2E0fRAbH9aA.jpg"/>
+    </item>
+    <item>
+      <title>Ane Brun: Motgang gjør sterk</title>
+      <description><![CDATA[Ane Brun brakdebuterte for 20 år siden, og er siden blitt en internasjonalt anerkjent artist som spiller med legender fra musikkhistorien. Men det ingen visste var at hun samtidig levde musikerlivet med kronisk sykdom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/11ed9ee5-d922-4188-9bb3-6308695d8171_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/11ed9ee5-d922-4188-9bb3-6308695d8171_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:44</itunes:duration>
+      <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tTr3vAKN4NI00q96dTO77g811zIXeUNE6w5bK5skyW3w.jpg"/>
+    </item>
+    <item>
+      <title>Hillari: Klar for verden</title>
+      <description><![CDATA[Hillari vant Urørtfinalen tidligere i høst og den 18 år gamle artistens musikk er allerede blitt lagt merke til langt utenfor Norges grenser. Og ikke av hvem som helst,  en av de aller største i hiphop og RnB er blitt fan. Anna prater med Urørtsjef Nina Gjertsen om Hillaris gjennombrudd og veien videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/a66248d4-dafa-4d58-b2cf-f31a4ef5a13e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/a66248d4-dafa-4d58-b2cf-f31a4ef5a13e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:26</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/goo1AnFBzci61oPyjyyQ_QXlOZiTJlKpUuRQLVuRGd2A.jpg"/>
+    </item>
+    <item>
+      <title>SKAAR: Kampen mot galskap og bedragersyndrom</title>
+      <description><![CDATA[Nå er andre og avsluttende del av albumet “Mad Woman” ute, men hva mener egentlig SKAAR med den tittelen? Og hvorfor gjemmer hun seg ofte på do? Dette er bare noe av det vi fikk svar på da vi snakket med henne under årets Øyafestival.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/de91f96a-1a82-4385-92fe-74de5a273d32_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/de91f96a-1a82-4385-92fe-74de5a273d32_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:56</itunes:duration>
+      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GHS15CIoFbqJKsAfZ_qEYg9V3_r5Vryz4LuL6iNFpEmw.jpg"/>
+    </item>
+    <item>
+      <title>Kvelertak: Slik ble de Norges største rockeband</title>
+      <description><![CDATA[Kvelertak har turnert verden rundt og hengt med de største i rockehistorien. Men da de nylig ga ut sitt femte album begynte fansen å spekulere - betyr tittelen «Endling» at dette er slutten for bandet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/677892ce-7a02-4503-b550-07eaebb2bd70_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/677892ce-7a02-4503-b550-07eaebb2bd70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:51</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3BzfEdFJVdXZtvet0ZOu3wcMHyg1X0BFqWC84TAJiY0w.jpg"/>
+    </item>
+    <item>
+      <title>Ravi: Fortsetter å gi oss utadæsjælåpplevelse</title>
+      <description><![CDATA[Ravi har fått en renessanse! Artisten bak flere landeplager for 20 år siden har denne sommeren spilt utsolgte konserter for et ungt publikum som brukte bleier da han hadde sin storhetstid. Hvordan har Ravi fått til det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/dfb7d7c0-5395-4d32-bdf7-fb4b8b09393a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/dfb7d7c0-5395-4d32-bdf7-fb4b8b09393a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:05</itunes:duration>
+      <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HGStwMP88wlmr3iX9UnPcwo6NPmNCXXCh0YY1rgblhtQ.jpg"/>
+    </item>
+    <item>
+      <title>Kjartan Lauritzen: Til topps med Badebussen</title>
+      <description><![CDATA[I snart 10 år har Kjartan Lauritzen underholdt oss med feststemt og køddete rap på Balestrand-dialekt. Men det var først i sommer han endelig klarte å klatre helt til topps på hitlistene, og det med en barnelåt! Hvordan klarte han det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/dd1b9378-0206-4271-a162-f6147eb445d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/dd1b9378-0206-4271-a162-f6147eb445d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:37</itunes:duration>
+      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AK-RUkJvQDPlzGSLKK5BeQVvSRQhNVMTKWBPc-hMiojA.jpg"/>
+    </item>
+    <item>
+      <title>Jonas Benyoub: Endelig stolt</title>
+      <description><![CDATA[Det var først da Jonas Benyoub våget å dele sin egen usikkerhet at karrieren tok fart. Nå er han en av Norges mest ettertrakta artister, og han som gjorde Karpe enda kulere. Vi møtte rapperen på Øyafestivalen for å høre hvordan hans musikalske reise har vært til nå, og hva som skjer videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/6649b633-43d7-46f4-8209-09d34600d626_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/6649b633-43d7-46f4-8209-09d34600d626_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:09</itunes:duration>
+      <pubDate>Thu, 31 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lwaEGL5ZfA3oWR9Zt5BmAAsC7zKZ8GxM0KlOt-dQQd8A.jpg"/>
+    </item>
+    <item>
+      <title>Sinéad O'Connor: Nothing Compares 2 U</title>
+      <description><![CDATA[Hvem var Sinéad O'Connor utover hiten alle kjenner? Og hvorfor er det først etter hennes død at blir hun hyllet for sitt mot og for å være en rebell i musikken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/331d90c3-a51d-4362-9a4e-b36834c56a7a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/331d90c3-a51d-4362-9a4e-b36834c56a7a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:24</itunes:duration>
+      <pubDate>Thu, 24 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l3RRA4ek3K6ylBUCtZSrogNe7f4h69l6IEgAHRddpAGQ.jpg"/>
+    </item>
+    <item>
+      <title>Cezinando: Big d*ck is back in town</title>
+      <description><![CDATA[Hvordan gikk Cezinando fra det å være en eplekjekk ballettdanser og veslevoksen raptalent, til en følsom og kritikerrost superstjerne? Og har vi egentlig blitt noe klokere på møbeltyveriet nå når han er tilbake med ny plate?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/9f42f976-3f1f-4452-a100-331040e2cd45_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/9f42f976-3f1f-4452-a100-331040e2cd45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:37</itunes:duration>
+      <pubDate>Thu, 17 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9N0-m6SaSQuSKNkkM3IglgAQT7n-57NHmRbD2J0TPDtQ.jpg"/>
+    </item>
+    <item>
+      <title>Ice Spice: Hiphopens nye stjerne</title>
+      <description><![CDATA[23 år gamle Ice Spice har det siste året tatt hiphopverden med storm. Men hvem er hun? Det finner Jakob ut når han tar en prat med Nate fra StudioP3.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/76868a75-227c-4060-bd21-ad497980a1be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/76868a75-227c-4060-bd21-ad497980a1be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:28</itunes:duration>
+      <pubDate>Thu, 29 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9nzONcchDJlgyzDJ0BySYQO3Imta-k8c_GoVlewKr80A.jpg"/>
+    </item>
+    <item>
+      <title>Veronica Maggio: Soundtracket til livet</title>
+      <description><![CDATA[Anna og Arian snakker om hvordan Veronica Maggio har blitt den artisten som får flere generasjoner av kjærlighetshungrige nordmenn til å danse oss gjennom vanskene våre og bli glade igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/7cf45c35-93d7-4233-b43e-8d44e3e5ac2b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/7cf45c35-93d7-4233-b43e-8d44e3e5ac2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:53</itunes:duration>
+      <pubDate>Thu, 22 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b2f_BHHo8pVXfdXnrkOiHwIOQTMx82upe8zRS2eNUKDw.jpg"/>
+    </item>
+    <item>
+      <title>Tina Turner: Dronningen av rock 'n' roll</title>
+      <description><![CDATA[Tina Turner var en foregangskvinne i musikkhistorien og ble en levende legende og et ikon. Anna snakker med Ragna Nordenborg for å finne ut hvordan hun ble det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:27</itunes:duration>
+      <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vv6ObMSM0L-zrXaxkQmo2gwO8_eA1HRjsr3kEsFpq_dw.jpg"/>
+    </item>
+    <item>
+      <title>Metteson: Frihet til å være seg selv</title>
+      <description><![CDATA[Hva fikk den vellykkede skuespilleren Sverre Breivik til å bytte scene og bli artisten Metteson? Anna snakker med ham om veien til musikken, flyktig kjærlighet og det å finne ut hvem man er på tross av forventningspress.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/b9683c68-9a39-44eb-a848-de4094c7f478_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/b9683c68-9a39-44eb-a848-de4094c7f478_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:26</itunes:duration>
+      <pubDate>Thu, 01 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p1SzrpA8PbAy5-5av2HOng0Ejjgedz16jDtCDYd0AwQw.jpg"/>
+    </item>
+    <item>
+      <title>Eminem: Verdens beste rapper? </title>
+      <description><![CDATA[Eminem forandret rap-gamet da han gjorde sin entré på 90-tallet. Anna prater med sin nye kollega i Musikkrommet, Jakob Naustdal, om hvordan Eminem ble en av verdens største rappere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/24c9515b-a3ec-472a-a83d-bb768cb3135c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/24c9515b-a3ec-472a-a83d-bb768cb3135c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:41</itunes:duration>
+      <pubDate>Thu, 25 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4tCIkUVUQynP_Oxnfzo11g4F0IcxGC26J-3i6gMzLyew.jpg"/>
+    </item>
+    <item>
+      <title>Beharie: Fra sceneskrekk til Spellemann</title>
+      <description><![CDATA[Hvordan har Beharie gått fra å ha så mye sceneskrekk at han nekta å synge solo til å bli en Spellemann-vinnende soulartist?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/dcaf620e-6b7d-473c-8997-ac3bbf8a950f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/dcaf620e-6b7d-473c-8997-ac3bbf8a950f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:59</itunes:duration>
+      <pubDate>Thu, 18 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6H5TxG8s1uo6ap2DF8--YQCzqgSyMsEKXvwCAm5YO_-w.jpg"/>
+    </item>
+    <item>
+      <title>Ed Sheeran: Derfor sluttet han nesten med musikk</title>
+      <description><![CDATA[Ed Sheeran er i dag en av verdens aller største artister med enorme hits. Men nylig truet han med å avslutte karrieren. Anna prater med Ronny Brede Aase om hvorfor han gjorde det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/131a49f7-c848-42ee-b646-89bcd2f7c6ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/131a49f7-c848-42ee-b646-89bcd2f7c6ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:39</itunes:duration>
+      <pubDate>Thu, 11 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l4fsOmUqIWK4yN2878oRKwe32WOwwjihIMD7qVakSSTg.jpg"/>
+    </item>
+    <item>
+      <title>Susanne Sundfør: Først og fremst artist</title>
+      <description><![CDATA[Susanne Sundfør har alltid vært mystisk og uforutsigbar. Nå overrasker hun med det som må være årets varmeste og mest håpefulle album. Hvordan klarer hun å røre og forbløffe oss hver gang hun slipper ny musikk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/663ae45d-c2ab-4c4a-b365-57a0aabb8035_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/663ae45d-c2ab-4c4a-b365-57a0aabb8035_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:39</itunes:duration>
+      <pubDate>Thu, 04 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o_4igopV5q93GESYkOn5PQ0uuUMoYM4M6WEYLGEKqDfA.jpg"/>
+    </item>
+    <item>
+      <title>Peder Elias: Big in Korea</title>
+      <description><![CDATA[Hvordan har det seg at den norske artisten Peder Elias spiller for rundt 100 publikummere i sitt eget hjemland, men tiltrekker 10 000 i Sør-Korea? Anna har fått besøk av Peder Elias for å høre hvordan han opplever suksessen i Asia.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/8cf2e7b0-ac47-4592-bb6e-2fe7542f1578_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/8cf2e7b0-ac47-4592-bb6e-2fe7542f1578_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:22</itunes:duration>
+      <pubDate>Thu, 27 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r71HXjyIiSJxh61LeAv0NgsoIdRFNBstgd5p-F0Kc-pQ.jpg"/>
+    </item>
+    <item>
+      <title>Post Malone: Åpen Post</title>
+      <description><![CDATA[Post Malone slo igjennom over natta og er blitt kjent som en av de triveligste superstjernene, som er spesielt dedikert til fansen sin. Men bak det store smilet skjulte det seg problemer som gjorde at han nesten slutta med musikk. Anna snakker med superfan Benni Gjemble om hva som skjedde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/5a4059d6-e98d-4481-b029-b4bbd111215b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/5a4059d6-e98d-4481-b029-b4bbd111215b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:45</itunes:duration>
+      <pubDate>Thu, 20 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/58y7MwdkFUu6ngfhr7FtCQZmOEXf45ONRjICh0KQZOkQ.jpg"/>
+    </item>
+    <item>
+      <title>Karpe: Minner om Norge</title>
+      <description><![CDATA[Ingen har preget norsk musikkliv i dette årtusenet så sterkt som Karpe. De har bevist hvor stort hiphop kan bli i Norge, og speilet en side av samfunnet som tidligere ikke har blitt sett. Samtidig som de har skapt historiske øyeblikk, har Chirag og Magdi utvidet vår felles forståelse for begrepet «nordmann». ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/d07ea24f-e28b-43b9-a18d-fef92eccd8e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/d07ea24f-e28b-43b9-a18d-fef92eccd8e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:13</itunes:duration>
+      <pubDate>Thu, 13 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/doVvQI94viGx5KWjm8CThgd8sm2EhpQuojpjRdgd47jQ.jpg"/>
+    </item>
+    <item>
+      <title>Broiler: Hiten som endret afterski</title>
+      <description><![CDATA[Påske betyr party for mange, og Anna prater med gutta i Broiler for å finne ut om deres hitlåt «Afterski» var med å endre musikken som spilles på nettopp afterski. For har ikke den musikken fått en så tydelig stil at vi kan kalle det en helt egen sjanger? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/1d6ace38-dc8f-448b-809f-6e5d9463c75e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/1d6ace38-dc8f-448b-809f-6e5d9463c75e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:36</itunes:duration>
+      <pubDate>Thu, 06 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yk0_wwHJnVcHeRchcqAO1QLSaZS1c7YhvnFeRlWC2NGQ.jpg"/>
+    </item>
+    <item>
+      <title>Lana Del Rey: Slik gjorde hun "trist pike" stuerent</title>
+      <description><![CDATA[Hvordan ble Lana Del Rey det store forbildet til Billie Eilish, Olivia Rodrigo og flere av dagens største popstjerner? Og hvordan gjorde hun  «trist pike» stuerent?
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/be828701-49ba-45be-8cde-8504006f23bd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/be828701-49ba-45be-8cde-8504006f23bd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:54</itunes:duration>
+      <pubDate>Thu, 23 Mar 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gOD9b_7ReNYQE1gji5YmLwRCAB8NsxKdt8kcxBrs1z3Q.jpg"/>
+    </item>
+    <item>
+      <title>Pink Floyd: Det udødelige albumet</title>
+      <description><![CDATA[“Dark Side of the Moon” av Pink Floyd får stadig nye fans 50 år etter utgivelsen, og trender nå også på TikTok. Anna snakker med kollega Oddvin Aune om hva det er som gjør den udødelig, til tross for kontroversene knytta til bandet i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/aa7f3d83-89f4-4371-b0e6-e75914559b17_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/aa7f3d83-89f4-4371-b0e6-e75914559b17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:49</itunes:duration>
+      <pubDate>Thu, 16 Mar 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u7uABwi_24-dGRJ4AViKLAX6qYDOsiXtuIzncZ9-oFTw.jpg"/>
+    </item>
+  </channel>
+</rss>

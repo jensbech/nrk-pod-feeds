@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Julestemning med Live og Ronny</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Live Nelvik og Ronny Brede Aase har ulikt forhold til jul, men elsker å møtes i julekottet for en deilig og underholdende koselomme i den kanskje mest stressende tiden på året.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:19:36 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    <item>
+      <title>Juleinstrumenter i harmoni</title>
+      <description><![CDATA[På selveste julaften samles instrumentene til en siste felles sang, og Live og Ronny lukker pipa for denne gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/781f24f1-c3aa-4cb9-9f24-f1c3aa7cb96a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/781f24f1-c3aa-4cb9-9f24-f1c3aa7cb96a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:15</itunes:duration>
+      <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DUodQxALdliZ7IDfZVwAAw7wyonpyQbet0BrIxYS7z5A.jpg"/>
+    </item>
+    <item>
+      <title>Grøten før grøten</title>
+      <description><![CDATA[Det er episoden før episoden, med en vakker kjærlighetshistorie i pipa og Julestemnings egen “Grevinnen og hovmesteren”.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/0f62fc92-5632-4e8c-a2fc-9256324e8cc3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/0f62fc92-5632-4e8c-a2fc-9256324e8cc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:14</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hVOJLZlSRK-Ldnjo1CLDLwpsB_yjQloGL6wf5k9PLCMA.jpg"/>
+    </item>
+    <item>
+      <title>Ribberesterevolusjon</title>
+      <description><![CDATA[Årets siste frityreksperiment blir gjennomført, Lives samvittighet ringer og julens instrument kåres!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/c5d12733-8932-43f7-9127-33893223f760_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/c5d12733-8932-43f7-9127-33893223f760_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i45wWlfm0mhPg6oV1Jg3kg1lJhJ7UcqMgeGBtDAe2jfQ.jpg"/>
+    </item>
+    <item>
+      <title>Musikalsk frelser i kottet</title>
+      <description><![CDATA[Metteson fyller kottet med juleminner og vakre toner, når Live og Ronny inviterer til ny mini-julekonsert.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/9586cafb-48a2-42d3-86ca-fb48a2f2d3f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/9586cafb-48a2-42d3-86ca-fb48a2f2d3f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:32</itunes:duration>
+      <pubDate>Sun, 21 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mcyqSE0SwLCv8DjRLxymXA95LvG-AMlRHqsLKfRCgG7Q.jpg"/>
+    </item>
+    <item>
+      <title>Lubben pølse lørdag</title>
+      <description><![CDATA[I dag er det post-i-pipa spesial. En hel episode, utelukkende bestående av mails fra verdens mest innholdsrike og fantastiske innboks.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/4329908e-a11c-402f-a990-8ea11c302f5a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/4329908e-a11c-402f-a990-8ea11c302f5a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:21</itunes:duration>
+      <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/S4EHFqg-SJUXUoJdJ2r6wAOG8dRMmGw36L-7ZAYnVL2A.jpg"/>
+    </item>
+    <item>
+      <title>Dobbel heim til jul</title>
+      <description><![CDATA[Den tradisjonelle hjem-til-jul-miksen står for døren, og Live og Ronny har samlet historier fra turene hjem til jul.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/b72d51f2-fc35-42ca-ad51-f2fc35d2ca4e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/b72d51f2-fc35-42ca-ad51-f2fc35d2ca4e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:33</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o8Xtv_CUEXmnjWjwiCvd3gfRH4rsjhvR1JOd9IyAkZvA.jpg"/>
+    </item>
+    <item>
+      <title>Kryss det av!</title>
+      <description><![CDATA[Ronny må starte dagen langt utenfor komfortsonen, og Live har laget en streng sang for at han skal komme i mål til jul.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/d6005e23-1832-424e-805e-231832224e9d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/d6005e23-1832-424e-805e-231832224e9d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:16</itunes:duration>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GFnVQ5fdKix8L6WMeq9j5AJPgmWDyMgP0giJwvisRV-w.jpg"/>
+    </item>
+    <item>
+      <title>Sekkepipe og gaveskam</title>
+      <description><![CDATA[Ronny bekjenner sin gaveskam, og møter lite forståelse hos Live. En overraskende joker melder seg på i juleinstrumentkonkurransen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/a5ae166a-e173-41c3-ae16-6ae17391c3b7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/a5ae166a-e173-41c3-ae16-6ae17391c3b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:52</itunes:duration>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RHm5FJEMqzPNfIovn_LwGw8B_QRMqPT5e7OWJH3YJnpA.jpg"/>
+    </item>
+    <item>
+      <title>Samvittigheten ringer</title>
+      <description><![CDATA[Å bli fridd til under Die Hard, Ronnys samvittighet ringer, verdens varmeste innboks og malplassert tekst i korsang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/256ff654-32c0-4807-aff6-5432c09807dd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/256ff654-32c0-4807-aff6-5432c09807dd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:07</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/M7gye3hybrSlag8jSxeb9Qe6gDHnXZmH-EP_voxNsbig.jpg"/>
+    </item>
+    <item>
+      <title>Hev grisen!</title>
+      <description><![CDATA[Live og Ronny har gått julebukk med hundrevis av lyttere. Grisen døpes i en fontene av olje,og er trompet julens beste instrument?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/bcea1fe4-9616-4b2c-aa1f-e496166b2c7c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/bcea1fe4-9616-4b2c-aa1f-e496166b2c7c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:55</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tTxcfrfBIHK1LQKO32LiowDUbJn0-aDtVKZuRB2DJ8yg.jpg"/>
+    </item>
+    <item>
+      <title>Minikonsert med Dagny</title>
+      <description><![CDATA[Årets første juleartist er på besøk i kottet og serverer en sjelden akustisk opptreden. Live og Ronny korer på Love Actually-låt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/75ab6e1c-20d2-4be1-ab6e-1c20d25be132_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/75ab6e1c-20d2-4be1-ab6e-1c20d25be132_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:52</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k7FNpLVRzG-f50FH8i90cw5irEzNWl7-5Dtrh_NcvE8A.jpg"/>
+    </item>
+    <item>
+      <title>Luksuskatter</title>
+      <description><![CDATA[Live baker sine spinnville lussekatter og får en operaoverraskelse som går inn i sjelen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/0ea65c11-77cb-47b6-a65c-1177cb47b695_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/0ea65c11-77cb-47b6-a65c-1177cb47b695_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:31</itunes:duration>
+      <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T-E2Rr0YK3l42kgkb-4B-gVJO9hHafKv6S9sgCsnkpYw.jpg"/>
+    </item>
+    <item>
+      <title>Hardstyle og sykdomsmuffins</title>
+      <description><![CDATA[En intetanende lytter får en julebukk-overraskelse, det er kamel og esel i pipa og Ronnys hardstylist prøver seg igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/4746f8d2-7ad0-40f6-86f8-d27ad080f6f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/4746f8d2-7ad0-40f6-86f8-d27ad080f6f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:52</itunes:duration>
+      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3m6W9ouQrpzF9Hj7QEX9_wXHV34dlLtXFRHefGAHxG7w.jpg"/>
+    </item>
+    <item>
+      <title>Analogt til stede</title>
+      <description><![CDATA[Ronny har førjulspanikk, Live har med svenske skumnisser og en klokkespillentusiast river av julens aller mest kjente intro.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/1f21d494-f344-4602-a1d4-94f34496029f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/1f21d494-f344-4602-a1d4-94f34496029f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:44</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GL7kLbmYzqUQsb2zNeuqWwM9hxdy6bhe7b0KPqKsRMqQ.jpg"/>
+    </item>
+    <item>
+      <title>Kilegave og tysk juleschläger</title>
+      <description><![CDATA[Ronny bjudar på tysk juleschläger, Live får en overraskende hilsen fra Skottland og fasiten på ulvemysteriet er vakker og rørende.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/316c545b-830f-4b36-ac54-5b830feb36ad_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/316c545b-830f-4b36-ac54-5b830feb36ad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:17</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hy1E6L7KiWi09qVH9pJDHQmLoT8MYVePNGAsm4T6xxvQ.jpg"/>
+    </item>
+    <item>
+      <title>Lyden av ulv og minusgrader</title>
+      <description><![CDATA[Ronny kvisser Live i ulv eller barn, Live kvisser lytterne i kor og en overraskelsestelefon fastslår dato for årets julebukking.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/70a4d992-c25f-441b-a4d9-92c25fe41b9e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/70a4d992-c25f-441b-a4d9-92c25fe41b9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:13</itunes:duration>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fgnv3tCmxcK3Gh1UBJjZkwBXBzDHUpRKMgzyVj9pQ9cQ.jpg"/>
+    </item>
+    <item>
+      <title>Har vi fritert et mirakel?</title>
+      <description><![CDATA[Live vil restarte desember, Ronny har skapt episk materiale i gryta og en småbarnsmor reddes av fastlegen og Jussi Björling.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/d4e93351-c274-4540-a933-51c27425405e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/d4e93351-c274-4540-a933-51c27425405e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:05</itunes:duration>
+      <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SKzNLjvKoPwM_oTPXAdiDgLjui0Vz-pO39zpN1hwpMuQ.jpg"/>
+    </item>
+    <item>
+      <title>Barndommens julemorgen</title>
+      <description><![CDATA[To forvokste søsken gjenopplever juleminner fra barndommen med pysj og dyne i sofaen, og en veldig barnslig frokostmeny.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/78e7d128-a9f4-4398-a7d1-28a9f44398a8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/78e7d128-a9f4-4398-a7d1-28a9f44398a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:37</itunes:duration>
+      <pubDate>Sun, 07 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eMB0MjopuLfTMFs7T2kPgwDQVaq098JD8vuZzcdtsL5g.jpg"/>
+    </item>
+    <item>
+      <title>Jul med Nubben og Doppan</title>
+      <description><![CDATA[Live og Ronny oppsøker svenske juletradisjoner. Det blir Astrid Lindgren, snaps, rar julemat, og et helt nytt navn på programmet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/c8d7db11-a6bc-49ca-97db-11a6bc99ca08_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/c8d7db11-a6bc-49ca-97db-11a6bc99ca08_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:58</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tqQJX5ujXV0mlG1pFk0LeAG-cgebRrGJ06vqUWcLYxKg.jpg"/>
+    </item>
+    <item>
+      <title>Klementinens himmel og helvete</title>
+      <description><![CDATA[Ronny føler seg ydmyket etter hendelse på julegaveshopping, og Live blir rørt når årets felles julefilm avsløres.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/8fc54cfa-e28c-4095-854c-fae28ce0958e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/8fc54cfa-e28c-4095-854c-fae28ce0958e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:18</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/P121VEzdW_vSBuvEbFjelw_cG6oJBht2MzMgw5oJOpjQ.jpg"/>
+    </item>
+    <item>
+      <title>Litt meir snikande tiger</title>
+      <description><![CDATA[Live tror hun har funnet kuren mot strigråt og sammenbrudd i desember, og Ronny får en veldig overraskende, og litt vond, telefon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/b2afe1c8-4d29-4bf7-afe1-c84d29abf75b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/b2afe1c8-4d29-4bf7-afe1-c84d29abf75b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:01</itunes:duration>
+      <pubDate>Thu, 04 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fAP_Sey9jwhse6Q6trcWgwaOw0zavbijgt6qvkWXpcHg.jpg"/>
+    </item>
+    <item>
+      <title>Jerusalem på nynorsk</title>
+      <description><![CDATA[Live tester om det er julestemning i sminke og Ronny gleder seg over et helt vanlig år. Men hvilken julefilm skal vi se sammen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/6cd6654a-1a54-4fad-9665-4a1a540fadfc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/6cd6654a-1a54-4fad-9665-4a1a540fadfc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:31</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JMNb7rIG_oVJ0VPZ0kJabgOTEoN2HDMgXf3QSkBh_zUg.jpg"/>
+    </item>
+    <item>
+      <title>Koseråning og nesepilling</title>
+      <description><![CDATA[Hva er det beste juleinstrumentet? Live og Ronny gir en intens eksamenspeptalk, og Live lurer på om hun er i ferd med å miste det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/8694072d-4d91-4892-9407-2d4d914892ab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/8694072d-4d91-4892-9407-2d4d914892ab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:17</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rtZFPTNrH0MSxBGPUMw3tgCvWJj58SAFLe3ThKWClv4Q.jpg"/>
+    </item>
+    <item>
+      <title>En frityrstekt jul</title>
+      <description><![CDATA[Ronny presenterer julens friterte fristelser. Live har tuklet med ærverdige kortekster, og tårene triller av en rørende mail.
+
+Tell ned til jul med en ny episode hver dag, kun i appen NRK Radio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/8ee42937-119b-4958-a429-37119bb958e3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/8ee42937-119b-4958-a429-37119bb958e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:08</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/coINSAwHj-9S-9eWM7XssQlde8yHqygQBuuLufyfUySA.jpg"/>
+    </item>
+    <item>
+      <title>Offisiell åpning av julekottet</title>
+      <description><![CDATA[Endelig tilbake! Live og Ronny lager sin egen julekalender, og finner ut hvordan det går med Julestemning-paret, Ida og Tormod.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/a7f89cc1-c3fe-4a31-b89c-c1c3fefa319a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/a7f89cc1-c3fe-4a31-b89c-c1c3fefa319a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:57</itunes:duration>
+      <pubDate>Sun, 30 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    </item>
+    <item>
+      <title>Starten er hellig</title>
+      <description><![CDATA[Live og Ronny er tilbake med Julestemning. Premiere søndag 30. november.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/dead30f2-3c4d-4117-ad30-f23c4d2117a6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/dead30f2-3c4d-4117-ad30-f23c4d2117a6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:27</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA.jpg"/>
+    </item>
+    <item>
+      <title>En verdig, uverdig julaften</title>
+      <description><![CDATA[Live har med en intim gave til Ronny, julesanger skal atter parres, og det er avgjørelsens time for Live Giftekniv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/96a5f47d-7756-4df9-8fcd-a89ae41bd394_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/96a5f47d-7756-4df9-8fcd-a89ae41bd394_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:03</itunes:duration>
+      <pubDate>Tue, 24 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jaaoRBHvRTB28RAhGwCzkQe-AZy-Aa0GMB26c6rPVUFw.jpg"/>
+    </item>
+    <item>
+      <title>Tradisjonsrik lille julaften</title>
+      <description><![CDATA[Ronny har et nytt brev til nissen og Live et dikt - tradisjonen tro. Og så konfronteres de med fjorårets nyttårsforsetter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/28352f1c-e999-4844-b709-afe8e2afad6e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/28352f1c-e999-4844-b709-afe8e2afad6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:47</itunes:duration>
+      <pubDate>Mon, 23 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nbrH5Ov1pZPQcKDv1e5ICgijNLdQ-i8U059sziBo7SmQ.jpg"/>
+    </item>
+    <item>
+      <title>Tårevåt julekonsert</title>
+      <description><![CDATA[En av julens store sangfugler er på besøk i kottet. Og det blir gråtefjes og grinefest og varme juletanker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/c757772e-1dbc-428c-9711-91c21928d10a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/c757772e-1dbc-428c-9711-91c21928d10a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:11</itunes:duration>
+      <pubDate>Sun, 22 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2AX2Fayji4dg5eW8L1dMxw-J6SfONFmnJ1NaNalQtH1g.jpg"/>
+    </item>
+    <item>
+      <title>Post i pipa-spesial</title>
+      <description><![CDATA[Denne lørdagen titter Live og Ronny ekstra langt opp i pipa og leser de lange mailene og de varme ettertankene. Og litt tøys også.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/781f267a-20da-498b-9748-4ba2342533b3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/781f267a-20da-498b-9748-4ba2342533b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:22</itunes:duration>
+      <pubDate>Sat, 21 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RwqcV6hkIRhFI2g0hJ4DhQTaigP2fEp1V1QOssvAC7Bg.jpg"/>
+    </item>
+    <item>
+      <title>Lydsporet hjem til jul</title>
+      <description><![CDATA[Live og Ronny markerer den store reisedagen hjem til jul med et knippe spesielt utvalgte julelåter. Og en kjapp telefon til Odd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/8d7f895d-aded-4b90-86b5-400d7b4891ae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/8d7f895d-aded-4b90-86b5-400d7b4891ae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:54</itunes:duration>
+      <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XLuZDplmWjQZCKYo5B6bNw0vkoO7cTceWVkU_6ipXx7Q.jpg"/>
+    </item>
+    <item>
+      <title>Svin, sjokolade og sax</title>
+      <description><![CDATA[Lives siste kakestunt er ekkelt, men godt, Julestemnings lytterpar får det ultimate spørsmålet og Ronny har ny julesangrebus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/b07ba2e5-91b9-4a1c-a15b-4a921d46cdbd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/b07ba2e5-91b9-4a1c-a15b-4a921d46cdbd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:33</itunes:duration>
+      <pubDate>Thu, 19 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rpJ-DDAxQ_RUn0m2nbwgGAeZbaJxv77k-s_9fKVdjy6g.jpg"/>
+    </item>
+    <item>
+      <title>Live rører Ronny</title>
+      <description><![CDATA[Live lykkes endelig med å røre Ronny, en lytter har kullsvart “sykt barn”-rute i julebingo og det er total uenighet i juleretten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/e2037829-3f18-4004-9021-232208bf2dc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/e2037829-3f18-4004-9021-232208bf2dc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:47</itunes:duration>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N3vi82X26phbzHgp4sCBaQ6EM5NzMtuNxYG3qxWnbp2A.jpg"/>
+    </item>
+    <item>
+      <title>Sensor sensei</title>
+      <description><![CDATA[Lytterne har bestemt hvilken julefilm alle skal se, Ronny har vunnet fødeveddemålet og Live kvisser sin potensielle spleis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/229baaee-aded-4e64-8c29-dcec9b298526_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/229baaee-aded-4e64-8c29-dcec9b298526_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:35</itunes:duration>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VXuBxT0UBLB8Byt9AVO8pAp62uvQdrLyDblBXJ6GnuvQ.jpg"/>
+    </item>
+    <item>
+      <title>Eufori og rocka kakemann</title>
+      <description><![CDATA[Det har vært julebukk-eufori i møte med lytterne, og Live får hard dom for sitt seneste julekake-eksperiment.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/556a4fb1-fefa-4a5a-891f-67a4e236fed1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/556a4fb1-fefa-4a5a-891f-67a4e236fed1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:54</itunes:duration>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eP7GLAtbLj87qU2PORtX8QPDmipcDTH0WobEhOldkDUg.jpg"/>
+    </item>
+    <item>
+      <title>Peismusikk og dyne</title>
+      <description><![CDATA[Live og Ronny spiller låter å varme seg på, å roe ned til på et hektisk kjøpesenter eller til å komme litt i julestemning av.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/69022f2f-3295-446f-882e-117c3f7fec46_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/69022f2f-3295-446f-882e-117c3f7fec46_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:58</itunes:duration>
+      <pubDate>Sun, 15 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ad4gGvZK8nU1hcQueFVqVgRjOKN8AozzNfG7XxgFMHyA.jpg"/>
+    </item>
+    <item>
+      <title>Britisk pudding og gammel høne</title>
+      <description><![CDATA[Oh gosh yess, det er lørdag og klart for erkebritisk selskap. Live har pyntet seg med pels, og tenner på en gammel julepudding.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/379d180a-ecae-4ff3-bbfa-333fe123f43a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/379d180a-ecae-4ff3-bbfa-333fe123f43a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:34</itunes:duration>
+      <pubDate>Sat, 14 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_EYF_-pedZVfp1PlRPnX2goBGfflHWpC4XXBkwC_zCTA.jpg"/>
+    </item>
+    <item>
+      <title>Opera Lucia</title>
+      <description><![CDATA[En opprørt lytter stevner Live for juleretten, de nominerte julefilmene lanseres, og Live og Ronny prøver å fremprovosere fødsel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/72e40d7e-2ac1-4799-bd53-447cd7b8f282_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/72e40d7e-2ac1-4799-bd53-447cd7b8f282_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:31</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6LHZhgI5P5MGsZfcJcBVrgwntAqL-zbiT3HlzPPz0UAg.jpg"/>
+    </item>
+    <item>
+      <title>Klissete juletre og blind date</title>
+      <description><![CDATA[Det er gråtespesial i post i pipa, Ronny er klissete på hendene og Live instruerer lytterne Ida og Tormod på date.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/c75e5990-c252-4ac2-8e78-6e8358b7d101_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/c75e5990-c252-4ac2-8e78-6e8358b7d101_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:34</itunes:duration>
+      <pubDate>Thu, 12 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DZF5R6NcshY8bdN0fRkQlAFCqZrr143Mj3SmyFzK-H6A.jpg"/>
+    </item>
+    <item>
+      <title>Julebukke-gøy</title>
+      <description><![CDATA[Rampenissen har gjort comeback hjemme hos Live, men han er på sparebluss. Og Live og Ronny julebukker er student med eksamensnoia.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/431cd66f-288d-4bf6-a669-8b8a71f191ed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/431cd66f-288d-4bf6-a669-8b8a71f191ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:13</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/euKtKeLs1deThPlKW3EpVQF5TWznQL6V2xQMcGAL5N5Q.jpg"/>
+    </item>
+    <item>
+      <title>Kok i pipa</title>
+      <description><![CDATA[Live har bursdag og får en helt spesiell hilsen, mens Ronny har fått mye refs i innboksen etter sin gaveavtale.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/433429ca-696d-4508-b582-ce8d6e813c20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/433429ca-696d-4508-b582-ce8d6e813c20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:57</itunes:duration>
+      <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NsbSu6BZHq7l_ARMl3XXHAWO6mGi_qv63BARZm9qBR4g.jpg"/>
+    </item>
+    <item>
+      <title>Etikk og bakst</title>
+      <description><![CDATA[Live og Ronny diskuterer om Ronny skal bryte en avtale om julegaver. Og de dømmer en lytter hardt i juleretten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/fda15e0e-e1b0-4462-a3de-5aaf7251340a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/fda15e0e-e1b0-4462-a3de-5aaf7251340a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:09</itunes:duration>
+      <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D9tq_MBd32bT_oKv2Y_PrQllrG175pSmKRWnSfJsVtcg.jpg"/>
+    </item>
+    <item>
+      <title>Min mors brune pinner</title>
+      <description><![CDATA[Live og Ronny skal lage Lives favoritt fra barndommens jul: brune pinner. Men blir de like gode som mammas?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/32388f6c-522c-4a7f-a93c-ff2f8546e9e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/32388f6c-522c-4a7f-a93c-ff2f8546e9e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:24</itunes:duration>
+      <pubDate>Sun, 08 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C-bLBAoNoTiPzOWbrHFZrwdpMDhOCBd8eBYqZf5zyvUQ.jpg"/>
+    </item>
+    <item>
+      <title>Gønne på-miks</title>
+      <description><![CDATA[Live og Ronny inviterer til en koselomme full av julelåter som gir energi - et lydspor til vasking, julegavehandling eller fest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/ab69aacc-6517-43fd-a99c-025135ed4119_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/ab69aacc-6517-43fd-a99c-025135ed4119_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:34</itunes:duration>
+      <pubDate>Sat, 07 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hoF-MvwFttUHoV0wEjm6GQ8t1saNqWfE8Xma1xCDa3Yw.jpg"/>
+    </item>
+    <item>
+      <title>Ond stemor i kottet</title>
+      <description><![CDATA[Fredag i julekottet byr på polonese, julesangrebus og et nytt forsøk på å røre Ronny. Og så får Live kjeft av en ond stemor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/1f31974b-f403-4730-adf2-b2fe2062f52e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/1f31974b-f403-4730-adf2-b2fe2062f52e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:59</itunes:duration>
+      <pubDate>Fri, 06 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pMGsqoVvS-F7obUlMMccfwkxKoEFP2WlWLTdu5NyWuLA.jpg"/>
+    </item>
+    <item>
+      <title>Jakten på julekjærligheten</title>
+      <description><![CDATA[Ronny har blitt rørt til tårer av innboksen, og Live Giftekniv har valgt kandidaten hun skal prøve å finne kjærligheten til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/3aab995b-e36a-4fb3-8d26-31d553985769_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/3aab995b-e36a-4fb3-8d26-31d553985769_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:30</itunes:duration>
+      <pubDate>Thu, 05 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pJKNoUiKvRv9VS-1py_qfwoC4jc0vbloHvNMGF7KQC5g.jpg"/>
+    </item>
+    <item>
+      <title>Nissefars vaginale vei</title>
+      <description><![CDATA[Live bedømmer om Wenche Myhres julelåt er kinky. Og Ronny prøver seg på et reinsdyrs raut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/ba4fd8bb-cc34-48a6-aa49-0be503bfec5f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/ba4fd8bb-cc34-48a6-aa49-0be503bfec5f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:00</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4CCqIre7Xj1XN96eCwgjXgDZvC_VR0JfCdZdbUNplRjA.jpg"/>
+    </item>
+    <item>
+      <title>Gråtefjes og bingo</title>
+      <description><![CDATA[Live og Ronny ringer julebukk til en lytter som skal inn i en heftig førjulstid. Og Live har mistet det helt av en barnejulefilm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/241fee30-8733-4ece-bf8e-bf7ae153d387_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/241fee30-8733-4ece-bf8e-bf7ae153d387_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:45</itunes:duration>
+      <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AoTktOnMtOx_vm-7zPv3zAaIe8UW7LxBZlk5fW_h97VA.jpg"/>
+    </item>
+    <item>
+      <title>Julekulefødsel</title>
+      <description><![CDATA[Live har båret på agg siden lille julaften i fjor. Ronny må avgjøre om hun har rett i juleretten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/394e5652-b608-4934-9f7c-8cff565fe329_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/394e5652-b608-4934-9f7c-8cff565fe329_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:34</itunes:duration>
+      <pubDate>Mon, 02 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vc4vJ3_YWtTn9Y2uHel1XAffyvZLPh2Z9pUnMsDZWb3Q.jpg"/>
+    </item>
+    <item>
+      <title>Koselomma er åpen</title>
+      <description><![CDATA[Live og Ronny har flyttet inn i kottet! Ronny forteller om den heftige jula i fjor, og Live prøver å røre Ronny - utkledd som mat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/julestemning/2eaaea75-d6db-457b-b484-a3c5f8c91d15_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/julestemning/2eaaea75-d6db-457b-b484-a3c5f8c91d15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:43</itunes:duration>
+      <pubDate>Sun, 01 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UtNjcw8zYaLP9d2yxk66NQLqJwstYfKFsFCx0UBiKg4Q.jpg"/>
+    </item>
+  </channel>
+</rss>

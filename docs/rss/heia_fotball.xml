@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Heia Fotball</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Fotballpodkast med Sven Bisgaard Sundet, Tete Lidbom og interessante gjester. Lytt litt, lær litt, le litt, lev litt.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:18:56 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Apr 2025 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    <item>
+      <title>#392 Ada Stolsmo Hegerberg</title>
+      <description><![CDATA[OOOOH GJEST!
+Dagens gjest har markert seg som en av de beste fotballspillerne i verden! Hva er egentlig hemmeligheten? Er det gifflar og champagne, eller er det rett og slett trening, trening og atter trening? Det er en ære og en glede å presentere tidenes siste Heia Fotball-gjest: Ada Stolsmo Hegerberg!  
+Hør hva som skjedde da hun møtte Rodri i sminken, om historien bak 14, om hva som egentlig skjedde da hun forlot landslaget, og om hva som har endret seg nå!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/53494b78-fd5c-44d0-afef-e3d6b0be132f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/53494b78-fd5c-44d0-afef-e3d6b0be132f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:30:04</itunes:duration>
+      <pubDate>Fri, 04 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gtpxlVcsUn76ShMu0aFvfQN8mGdFYgbWeh8HfuPopb1w.jpg"/>
+    </item>
+    <item>
+      <title>Nye utfordringer</title>
+      <description><![CDATA[Nye utfordringer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/99f835c8-b023-4603-9f90-5b13b50601d1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/99f835c8-b023-4603-9f90-5b13b50601d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:28</itunes:duration>
+      <pubDate>Mon, 03 Mar 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Geordies og Champions League</title>
+      <description><![CDATA[Det er helt nydelig å ha Geordie og Svens medkommentator Patrick Sten Rowlands på besøk! Det blir Geordie-lore, og vi koser oss med sinnsykt mye bra CL-underholdning. Ancelotti er tidenes beste partyfikser og fotballsupporterbibelen AKA Essiensen begynner virkelig å ta form!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d9734604-e8d2-449b-9ffb-75933341af24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d9734604-e8d2-449b-9ffb-75933341af24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:44</itunes:duration>
+      <pubDate>Thu, 20 Feb 2025 12:46:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Ståles kamskjell og assistrekord</title>
+      <description><![CDATA[Vi har fantastisk besøk av selveste Mats Arntzen, Ståle har blitt servert Kamskjell, Tete har levert fantastisk hyllest i beste mgp-sendetid og det har blitt satt en historisk rekord! Så var det gjort!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/84526334-47ba-47a4-acab-2fc9448b8995_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/84526334-47ba-47a4-acab-2fc9448b8995_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:27</itunes:duration>
+      <pubDate>Mon, 17 Feb 2025 14:13:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Mushaga Bakenga og mobilfri tribune</title>
+      <description><![CDATA[Mushaga Bakenga og Mike Stilson er med oss i dagens utgave av Heia Fotball! Rosenborg er tilbake i manesjen, alt Dorsin gjør og lager blir til gull, og Mush vinner Sven og Mikes avlogga-hjerter når han foreslår mobilfri tribune!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/9e246e8d-0f89-4a8d-a53f-b04201fef894_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/9e246e8d-0f89-4a8d-a53f-b04201fef894_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:50</itunes:duration>
+      <pubDate>Thu, 13 Feb 2025 12:17:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>OBOS-ligaen og regelendringer!</title>
+      <description><![CDATA[Nok en deilig mandag med Ali i vikarstolen og twitterlegende Kim Midtlie er gjest! Gutta svarer på hvordan det går med optimismen i Vålerenga-leiren, og de kan melde om at det er god s i OBOS-ligaen. Kanskje burde VAR-forkjemperne ta seg en tur på kamp der?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/e51a1e79-a45f-4420-beab-d3cb0443ff5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/e51a1e79-a45f-4420-beab-d3cb0443ff5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:00</itunes:duration>
+      <pubDate>Mon, 10 Feb 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Burn for Arsenal og heia Rashford</title>
+      <description><![CDATA[Dan Burn og Newcastle senket Arsenal! Vi heier på Marcus Rashford, men hvorfor var det så stille på deadline day?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/5684a2f2-931c-4fe9-886c-d875f0160d36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/5684a2f2-931c-4fe9-886c-d875f0160d36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:55</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Alfies språk og Aleksanders DNA</title>
+      <description><![CDATA[Ali og Aleksander er med i studio! Sven fortsetter på bibelen for fotballsupportere, Aleksander har sletta 11 000 tweets på dass, og burde Lewis-Skelly skjerpe seg eller er det det som gjør fotball gøy?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/bc19c655-769b-4079-a2ae-067bd84e23a0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/bc19c655-769b-4079-a2ae-067bd84e23a0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:07</itunes:duration>
+      <pubDate>Mon, 03 Feb 2025 12:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Uendelig mye fotball!</title>
+      <description><![CDATA[Sven er ute med skade, men Tete og Torkil har mye å melde etter en sinnsyk CL-kveld. Det blir evaluering av kampene og format etter den mest heavy fotballkvelden, noensinne!!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/4dbfb0c2-2070-46a0-b09c-0901ada36d30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/4dbfb0c2-2070-46a0-b09c-0901ada36d30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:20</itunes:duration>
+      <pubDate>Thu, 30 Jan 2025 12:42:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Banebrytende forslag fra Sven og vanskelige debuter</title>
+      <description><![CDATA[Kristoffer Løkberg er med oss i studio og Sven har banebrytende nytt forslag til hvordan drive fotballklubb! Hvorfor er det så vanskelig å debutere for noen, men så lett for Løkberg? Burde fotballproffer sitte i VAR-rommet og hvor lenge kommer egentlig Ange til å sitte?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/35321705-f5e8-4c4e-b4b1-c417903651fe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/35321705-f5e8-4c4e-b4b1-c417903651fe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:19</itunes:duration>
+      <pubDate>Mon, 27 Jan 2025 12:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Solskjærs plan og CL-systemet</title>
+      <description><![CDATA[Det blir vanskelige ord med Sven Sundet. Vi lurer på hva planen til Solskjær egentlig er, det nye CL-systemet er ikke så verst likevel og er Norge verdens beste talentfabrikk eller ikke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/2057e373-f414-4ebf-bd69-2b85ef642612_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/2057e373-f414-4ebf-bd69-2b85ef642612_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:02</itunes:duration>
+      <pubDate>Thu, 23 Jan 2025 12:39:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan takle motgang: En united-supporters tips</title>
+      <description><![CDATA[Sven sitter inne for smugling av ulovlige ordspill, men frykt ikke! Ali og Marius er med i studio! Vi får United-supporterens tips til å takle motgang, er det point of no return for Amorim? Og er Røros Norges beste småby??]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/da41fb99-9842-4649-8dcf-6a8e7f941d61_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/da41fb99-9842-4649-8dcf-6a8e7f941d61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:29</itunes:duration>
+      <pubDate>Mon, 20 Jan 2025 12:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Fotballsupporternes 10. bud!</title>
+      <description><![CDATA[Ken er vikar for Tete i dag og Quisling er med i studio (eller Espen, da som han egentlig heter). Vi lager fotballsupporterens 10 bud, så har du innspill send det til oss! Vi får også innside i Espens bæsjevaner. Med andre ord: denne episoden må høres!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/b4ed6bc0-0dd5-49bd-a043-9a1f5a3b7da9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/b4ed6bc0-0dd5-49bd-a043-9a1f5a3b7da9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:41</itunes:duration>
+      <pubDate>Thu, 16 Jan 2025 12:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Bruno Forbannes og breaking news om Tetes veddemål</title>
+      <description><![CDATA[Fantastisk besøk av Hallvard Dyrnes som så vidt har klart å karre seg opp seng! Det blir breaking news om Tetes veddemål, Bruno Forbannes har blitt forbanna og hvem er egentlig fotballens Andrew Tate?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/9d6a297f-0210-41e8-a3a7-cfa77f186f41_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/9d6a297f-0210-41e8-a3a7-cfa77f186f41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:48</itunes:duration>
+      <pubDate>Mon, 13 Jan 2025 12:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Tete er savnet og hva lukter Salah?</title>
+      <description><![CDATA[Tete er savnet i en orkan på fjellet! Ali stepper derfor inn som vikar og med oss som gjest har vi Jonas som har kledd seg i legendarisk skjorte for anledningen. Vi får høre alt om da han møtte Mohamed Salah, og han gir oss svar på det viktige spørsmålet: hvordan lukter egentlig Salah? Og hva tenker EGENTLIG det norske folk om VAR?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/64f12d06-ebb5-43f5-8f0e-eb6d7a97d671_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/64f12d06-ebb5-43f5-8f0e-eb6d7a97d671_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:08</itunes:duration>
+      <pubDate>Thu, 09 Jan 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Premier League TOPP 20: Toppen</title>
+      <description><![CDATA[Kasper Wikestad og Espen PA Lervaag er med oss for å rangere den ultimate PL-tabellen, noensinne!! 
+I dag plasseres toppen og julefreden kan senke seg i de tusen hjem ... eller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/bb007856-51f8-4db2-b263-110f407b8e55_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/bb007856-51f8-4db2-b263-110f407b8e55_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:23</itunes:duration>
+      <pubDate>Mon, 30 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Premier League TOPP 20: Bunnen</title>
+      <description><![CDATA[Det er tid for bunnen og da er spørsmålet: hvem får den sure 21. plassen? I den deilige  julespesialen er Kasper Wikestad og Espen PA Lervaag med for å rangere den ultimate PL-tabellen, noensinne!!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/2f7d8f67-ce0c-41a9-ac7e-6918b69033c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/2f7d8f67-ce0c-41a9-ac7e-6918b69033c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:21</itunes:duration>
+      <pubDate>Sat, 28 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Premier League TOPP 20: Midten</title>
+      <description><![CDATA[God jul og god julespesial! Kasper Wikestad og Espen PA Lervaag er med oss for å rangere den ultimate PL-tabellen, noensinne!! Ljuger tabellen, er midten vanskeligst å plassere og hvilke må med?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/463c4da3-95a6-4bc0-a503-f3b85817c60e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/463c4da3-95a6-4bc0-a503-f3b85817c60e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:25</itunes:duration>
+      <pubDate>Thu, 26 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Juleavslutning: Årets spiller og drømmelag</title>
+      <description><![CDATA[Det er juleavslutning, Ken Wasenius-Nilsen og Ali Soufi-Grimsrud er på besøk. Vi kårer årets spiller, prøver å avgjøre VAR-spørsmålet en gang for alle, årets drømmelag settes opp og “Sven” serverer nydelig julekonsert!
+
+God Jul!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/35d32788-6862-4f1d-b8ab-25dbe29e381f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/35d32788-6862-4f1d-b8ab-25dbe29e381f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:53</itunes:duration>
+      <pubDate>Thu, 19 Dec 2024 13:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Litt fotballquiz med Devold, litt parodi og Lothefisk til jul?</title>
+      <description><![CDATA[Det blir selvfølgelig litt quiz med quizmester magnus devold i dag og fantastiske parodier fra både Tete og Magnus! Sven har felt en tåre for sitt kjære United og blir det sprengt Lothefisk til jul?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d8895d37-a7a3-4f70-8311-3361a6dddbde_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d8895d37-a7a3-4f70-8311-3361a6dddbde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:23</itunes:duration>
+      <pubDate>Mon, 16 Dec 2024 12:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Hvem skal ta over etter Horneland og Knuts kroppshår</title>
+      <description><![CDATA[Vi har fantastisk besøk av vår favoritt-fotballagent: Knut Høibraaten! Knut utroper hvem han synes burde ta over etter Horneland, han forteller om kroppshårene sine og hva han tenker om fotball som ikke er Bergensk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/e623d344-39ef-4942-b57d-5e62e63ee465_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/e623d344-39ef-4942-b57d-5e62e63ee465_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:39</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 11:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Lytterspørsmål og Lars Sivertsen</title>
+      <description><![CDATA[Et tomannsshow med Sven Bisgaard Sundet og Lars Sivertsen, Lars har oppdaget Kaffe-Cola og vi prøver å svare på så mange spørsmål som mulig! Er Peps storhetstid forbi og hvordan går det når Sven får eksamensoppgaven: Manchester United, drøft!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/3bc00fbf-745e-4247-8f79-cd8ba58ddb8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/3bc00fbf-745e-4247-8f79-cd8ba58ddb8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:10</itunes:duration>
+      <pubDate>Mon, 09 Dec 2024 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Kellehers keepertabbe, og Norges best kledde mann!</title>
+      <description><![CDATA[Tete har drømt om Davy Wathne, Emil er kåret til Norges best kledde! Sven blåser oss av banen med ordspill, og gjorde Kelleher en massiv keepertabbe eller må vi ta et årsstudium i fysikk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/b54fe45e-a99f-4471-a816-1d45ee7e310f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/b54fe45e-a99f-4471-a816-1d45ee7e310f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:08</itunes:duration>
+      <pubDate>Thu, 05 Dec 2024 13:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Årets eliteserie-øyeblikk, gullhatter og naken Kasper!</title>
+      <description><![CDATA[Vi har besøk av Simen Stamsø Møller som kårer årets eliteserie-øyeblikk. Tete har fått hatmelding fra 4-åring, og hva skjer med gullhatter? Gnistrer vi like mye i dag som en naken Kasper i garderoben?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/ad533f7b-9728-443c-87ef-32bb1093824c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/ad533f7b-9728-443c-87ef-32bb1093824c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:07</itunes:duration>
+      <pubDate>Mon, 02 Dec 2024 12:17:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>LFC best i verden og landslaget på kunstgress</title>
+      <description><![CDATA[Bodø/Glimt kan vinne på Old Trafford, men kan landslaget spille på kunstgress? Sven Bisgaard Sundet, Ken Wasenius-Nilsen og Ali Soufi-Grimsrud spør seg også om Liverpool er verdens beste lag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/21ddcc44-8b3d-4a9f-bfd7-f90883d18dca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/21ddcc44-8b3d-4a9f-bfd7-f90883d18dca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:19</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 13:12:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Tottenham under bordet, og æreløse fotballspillere</title>
+      <description><![CDATA[Martin Sleipnes tar turen innom og han har fått gulløl i Bergen, Tete har multitasket under maskorama og hør hvem Martin synes har mistet æren sin!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/76dc9260-07c1-4fda-b79a-e679de9f8d96_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/76dc9260-07c1-4fda-b79a-e679de9f8d96_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:14</itunes:duration>
+      <pubDate>Mon, 25 Nov 2024 12:37:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Vi lader opp til en fantastisk helg i norsk fotball!</title>
+      <description><![CDATA[Gunnhild Toldnes er med og vi lader opp til helgas kamper. Kommer brann til å choke i Molde-Brann kampen, og er det egentlig imponerende at lille Molde ikke har flere ledige hotellrom? Vi får også et innblikk bak kulissene til Premier League-podden hvor det åpenbart går hardt for seg, gunnhild forteller om kjøttsåret sitt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/f86465f9-e79b-4e03-b89a-5fc7072e81d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/f86465f9-e79b-4e03-b89a-5fc7072e81d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:16</itunes:duration>
+      <pubDate>Thu, 21 Nov 2024 13:37:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Er vi bedre uten Ødegaard?</title>
+      <description><![CDATA[Det har vært ei fantastisk uke for norsk fotball og Espen PA Lervaag er med for å analysere! Hva skjer med Haaland når han dør, blir det statue eller gate? Og hva er det vanligste navnet på Italienske restauranter i utkants-Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/3030745b-8b97-42ab-a784-55e2329cec4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/3030745b-8b97-42ab-a784-55e2329cec4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:00</itunes:duration>
+      <pubDate>Mon, 18 Nov 2024 12:16:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Landskamp, og hyllest av Solbakken</title>
+      <description><![CDATA[Emil er med og avslører behind the scenes fra “Bakrommet” med selveste Ole G. Vi fyrer opp til landskamp og hyller Ståle Solbakken med Svens Ståle-lek! 
+ENDELIG får vi svar: Hva søten skjer med Heia Fotball?! Skal vi slutte med portrettintervjuer??]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/f0c3724e-507f-40a3-b017-4ce7c0310f03_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/f0c3724e-507f-40a3-b017-4ce7c0310f03_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:25</itunes:duration>
+      <pubDate>Thu, 14 Nov 2024 11:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Chelsea er tilbake, og Lars serverer straffespark-rant!</title>
+      <description><![CDATA[Vi har fantastisk besøk av Lars Sivertsen, han serverer knallsterk straffespark-rant og stiller betimelig spørsmål: Er det for mye straffespark i fotballen? Har Maskoramadetektiv Tete avslørt Nils Johan Semb, og fungerer endelig Chelsea sin kjøpetaktikk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/475f81e1-5242-4544-9d87-8d84cda48e4d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/475f81e1-5242-4544-9d87-8d84cda48e4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:48</itunes:duration>
+      <pubDate>Mon, 11 Nov 2024 12:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Champions league, og burde Haaland droppe landslagskamper?</title>
+      <description><![CDATA[Dagens meny i Heia Fotball er proppfull av Champions League, Sven har reddet en liten gutt og burde Haaland droppe landslagskamper?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/4b201433-e53a-47dd-99ab-f3183085bc23_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/4b201433-e53a-47dd-99ab-f3183085bc23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:49</itunes:duration>
+      <pubDate>Thu, 07 Nov 2024 12:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Vi er i gang, og Emil har endelig tatt håret!</title>
+      <description><![CDATA[Endelig er vi i gang, det er deilig å være tilbake og Emil har innfridd etter veddemålstap i årets EM!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/196f88a7-fa91-4ee8-a78c-3b68834c21eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/196f88a7-fa91-4ee8-a78c-3b68834c21eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:47</itunes:duration>
+      <pubDate>Mon, 04 Nov 2024 13:38:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg.jpg"/>
+    </item>
+    <item>
+      <title>Nye tider i Heia Fotball!</title>
+      <description><![CDATA[Hør fra 4. november!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/989b2663-65c2-4b41-914b-ab733e57d01f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/989b2663-65c2-4b41-914b-ab733e57d01f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:02</itunes:duration>
+      <pubDate>Mon, 21 Oct 2024 16:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>Snakkis: ten Hag, laptoptriks og årets dommerøyeblikk</title>
+      <description><![CDATA[Panelet lurer på hvor lenge Erik ten Hag holder,  de hyller Mourinhos laptop-triks og Tete har opplevd årets dommerøyeblikk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/ad41e1eb-36c1-405f-91bd-21db99919744_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/ad41e1eb-36c1-405f-91bd-21db99919744_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:15</itunes:duration>
+      <pubDate>Mon, 30 Sep 2024 11:53:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>#391 Gerd Stolsmo</title>
+      <description><![CDATA[Fantastisk besøk av legende og blokkramp: Gerd Stolsmo!
+Hør om den utrolige sunndalsfotballen på 80-tallet. Om da Nils Arne Eggen prøvde å fjerne dem fra Lerkendal, om  jenter som står i enorme motkrefter og om hva Cristiano(Gerd er nemlig på fornavn) kalte henne i Monaco!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/c1b7d881-b279-41c2-b0b6-113d792c053f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/c1b7d881-b279-41c2-b0b6-113d792c053f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:59</itunes:duration>
+      <pubDate>Thu, 26 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ok_4ZE-x2Da3-kLmeBm6OQjgvwvue87jwWQ0ML1jd0ug.jpg"/>
+    </item>
+    <item>
+      <title>Snakkis: AI-Viaplay, sinnsro og skuvpasning</title>
+      <description><![CDATA[Endelig mandag og Jakob Naustdal er med oss! Tete har avslørt Viaplay, skuvpasning og Eliteserien er det beste Jakob vet, og Sven forklarer konseptet fotballtrener!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/28ca6738-40aa-4903-ba6a-18b8f0885691_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/28ca6738-40aa-4903-ba6a-18b8f0885691_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:12</itunes:duration>
+      <pubDate>Mon, 23 Sep 2024 12:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>#390 Cesilie Andreassen</title>
+      <description><![CDATA[En fantastisk episode med selveste Cesilie Andreassen! Hun er lagets raring, lagets antidoping-entusiast og muligens lagets kråkebollekunstner! Sven får nye sjokk når Cesilie avslører hvem som har vært i Ballstad, og får Tete endelig svar på hvor tung denne kongepokalen egentlig er?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/43607ca0-7b21-4780-abac-93e6ef180cf3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/43607ca0-7b21-4780-abac-93e6ef180cf3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35:44</itunes:duration>
+      <pubDate>Thu, 19 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v_PO0l6E9dhBtaaEnh_myw-DMTx3qs051T0dqjZ0_iWA.jpg"/>
+    </item>
+    <item>
+      <title>Snakkis: United, joint-feiring og forbilde?</title>
+      <description><![CDATA[Nate og Sven er glade fordi United endelig har vunnet igjen, fotballen er der den skal være, chelsea trenger barnevakt-coach, og er det påfallende hvor mange likheter det er mellom Nate og Martin Ødegaard?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/45304124-a5cf-4349-9862-e0e581ac0012_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/45304124-a5cf-4349-9862-e0e581ac0012_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:56</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 12:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>#389 Fredrik Pallesen Knudsen</title>
+      <description><![CDATA[En nydelig prat med en fyr som kan skimte med en utrolig bra Wikipediaside: Pallesen, Palldini, Europallen. Kjært barn har mange navn! Hør om hvordan han har fortjent omtalen som "innforjævli dårlig taper", om biljakt under fotballkamp og om den hemmelige pokémon-samlingen! Er Fredrik Pallistar Knudsen rett og slett en Pokémon med glins?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/948e4ee3-6e07-40c8-81be-cdcb50cdc68f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/948e4ee3-6e07-40c8-81be-cdcb50cdc68f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:50:35</itunes:duration>
+      <pubDate>Thu, 12 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1CKicwvSNu_a3KG1-jUmtwwMbEkhRcar9Q0b6QIQV4Gw.jpg"/>
+    </item>
+    <item>
+      <title>Snakkis: Ibra, RBK og sinne.</title>
+      <description><![CDATA[Tete har fortalt en vits som landet feil, Sven har fått McTominay-drakt i posten og Ali drømmer om Marko Ibrahimovic.
+
+I panlet: Tete Lidbom, Sven Bisgaard Sundet og Ali Soufi-Grimsrud.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/2f49291f-ec4f-41e3-9319-40f46f2a269e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/2f49291f-ec4f-41e3-9319-40f46f2a269e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:02</itunes:duration>
+      <pubDate>Mon, 09 Sep 2024 11:36:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>#388 Arnar Jahrmann Førsund</title>
+      <description><![CDATA[Vi har hatt helt nydelig besøk av en av fotball-Norges mest elskede, men også mest forhatte kultspillere noensinne: Arnar Førsund! Han overrasker med ny sveis: bakoversveis! Han har nemlig begynt å trene og oppdaget at det virker. Vi spør oss selv: Hvordan går det an å hate denne musikkelskende, sjarmerende og provoserende hyggelige fyren her?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/fee97d93-c058-4abd-a825-a2e0d3e3ffc8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/fee97d93-c058-4abd-a825-a2e0d3e3ffc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:57</itunes:duration>
+      <pubDate>Thu, 05 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uxc6ONMy3OLqF-cMwW-B-QuVPFR_urQUqBUEZEfltuGA.jpg"/>
+    </item>
+    <item>
+      <title>Snakkis: Pappaskjegget, Rosenborg og troféer</title>
+      <description><![CDATA[Det er skuffende å ikke levere på lag, derfor er det deilig at vi har verdens beste lag som selvfølgelig leverer i dagens snakkis! Hani har ledd for tidlig, hun er i forsvarsposisjon og leverer nye konsepter i sin drømme-Eliteserie! Salah har tatt en Tete Lidbom og Sven har lagd en jingle som får tårene til å trille i studio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/7c8f770b-d5a4-46cf-8e78-0078ef28e6fb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/7c8f770b-d5a4-46cf-8e78-0078ef28e6fb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:19</itunes:duration>
+      <pubDate>Mon, 02 Sep 2024 11:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>Snakkis: Emils Eliteserie, manken og lappen</title>
+      <description><![CDATA[ENDELIIIIIG MANDAG! Det er mye "muffins" på gang når vi går inn i vår 22 sesong! Vi melder om full overtenning i studio, Emil er med og endelig skal vi få svar på når manken MÅ gå, og vil Tete klare veddemålet mot RBK-spiller Sverre Nypan?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/d4cce28b-719a-4a62-8bb5-2067f4495487_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/d4cce28b-719a-4a62-8bb5-2067f4495487_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Mon, 26 Aug 2024 12:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>#387 Ole Sæter</title>
+      <description><![CDATA[Vi har hatt fantastisk besøk av fasitfyr Ole Sæter! 
+Han forteller åpent om da han gikk på en rugsprøsmell, sitt liv som Benjamin Button, vi får fantastiske grilltips av Optigrillmesteren! Og er Ole en trojansk hest fra Møre? 
+
+God sommer, FUCK OFF!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/39392059-b036-4ffa-9950-ada0f7df1ec9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/39392059-b036-4ffa-9950-ada0f7df1ec9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:06:11</itunes:duration>
+      <pubDate>Thu, 18 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0tsha9fpFSHC_pLCZxrqoAjJmwj-hA-U_U5ZAwQPGj9A.jpg"/>
+    </item>
+    <item>
+      <title>Heia EM - #22 Finale</title>
+      <description><![CDATA[Et nydelig EM er over og her kommer aller siste Heia EM-episode, Sven har blitt solbrent, Emil går en hårløs fremtid i møte, og Tete serverer aller siste Åges speisekarte. Takk for følget, god sommer og Alf Iversen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/2c843b3a-e779-4984-831f-ea02d9016197_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/2c843b3a-e779-4984-831f-ea02d9016197_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:12</itunes:duration>
+      <pubDate>Mon, 15 Jul 2024 12:42:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>Heia EM - #21 Emil Gukild</title>
+      <description><![CDATA[Takk for følget i hele EM! siste episode for denne gang ... TRIST! Det blir full circle med Emil som gjest, han har savnet oss og vi har savnet han! Emil er fortsatt håpefull for at håret kan reddes, Tete har tatt hull i ørene, og vi har rett og slett ballankoli!  
+
+PS. Det kommer en liten update etter finalen!
+
+Dagens kamp:
+Nederland - England: 1-2]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/43733dab-a636-49c8-904b-615850e51c26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/43733dab-a636-49c8-904b-615850e51c26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:33</itunes:duration>
+      <pubDate>Thu, 11 Jul 2024 02:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>Heia EM - #20 Ken Wasenius-Nilsen</title>
+      <description><![CDATA[Ken er gjest og vi konkluderer med at toppscorer-reglene er for dårlige. Frykt ikke. Vi har forslag til nye! Vi kårer EMs beste spææææller,  og det blir dyrt når Tete går gjennom veddemålsstatus. Natten tar en dramatisk vending når Sven muligens blir utsatt for et aldri så lite justismord!
+
+Dagens kamp:
+Spania - Frankrike: 2-1]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/b085f550-ae6f-4872-99d6-55dcc90d58a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/b085f550-ae6f-4872-99d6-55dcc90d58a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:33</itunes:duration>
+      <pubDate>Wed, 10 Jul 2024 01:14:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>Heia EM - #19 Torkil Risan</title>
+      <description><![CDATA[Tete motbeviser ryktene: Hater ikke Trondheim!
+Vi kårer topp 5 løk, Torkil er sint på alle, og er lurebytte det nye? Tete har et Christiano Ronaldo-øyeblikk og Sven er Bruno Fernandes, eller er han? 
+
+Dagens kamper:  
+England – Sveits: 5-3 
+Nederland – Tyrkia: 2-1]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/7df79024-55f4-4d28-84df-4b9077a98a85_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/7df79024-55f4-4d28-84df-4b9077a98a85_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:22</itunes:duration>
+      <pubDate>Sun, 07 Jul 2024 01:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>Heia EM - #18 Kristoffer Løkberg</title>
+      <description><![CDATA[Sven har kjøpt gave til Tete og stemningen i studio er til å ta og føle på når han åpner den! Blir det innertier? Kristoffer Løkberg forteller om sin fortid som fotballpionér i Norge, og i tillegg begir vi oss ut i en heftig gul kort-debatt!  
+
+Dagens kamper: 
+Spania - Tyskland: 2-1 
+Portugal – Frankrike: 3-5]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/f41ab1ed-33ad-4848-b72b-9d0d9f079fdc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/f41ab1ed-33ad-4848-b72b-9d0d9f079fdc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:44:50</itunes:duration>
+      <pubDate>Sat, 06 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+    <item>
+      <title>Heia EM - #17 Gunnhild Toldnes</title>
+      <description><![CDATA[Tete forutså Nederland som en dark horse, og vi lurer på: har de rett og slett lurt oss til nå? Gunnhild har en nemesis på den nederlandske banen, og hvilket lag er det mest trønderske? I tillegg får vi knalltips om hvilket nettsted som har de beste traktorpulling-videoene!
+
+Gårsdagens kamper: 
+Romania – Nederland: 0-3 
+Østerrike - Tyrkia: 1-2]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/heia_fotball/aba06860-9cc7-40f8-8615-a18060b87241_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/heia_fotball/aba06860-9cc7-40f8-8615-a18060b87241_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:12</itunes:duration>
+      <pubDate>Wed, 03 Jul 2024 12:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EZfs4Db3vsZAFno6a3I8JQZB4BzGel_DrWo75lnPcFnw.jpg"/>
+    </item>
+  </channel>
+</rss>

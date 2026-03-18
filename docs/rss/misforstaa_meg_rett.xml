@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Misforstå meg rett</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Komikerne Martha Leivestad og Galvan Mehidi gjør sitt beste for å ta sterke meninger på alvor. Litt på alvor, i hvert fall.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:21:20 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    <item>
+      <title>La de si n-ordet</title>
+      <description><![CDATA[Folkeskikk er viktig, men kanskje de eldre skal få litt slakk? Velkommen til den siste episoden!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/43116389-d57c-493d-9163-89d57ca93d1e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/43116389-d57c-493d-9163-89d57ca93d1e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:45</itunes:duration>
+      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Idrettens helter!</title>
+      <description><![CDATA[Hvorfor må alltid paraidrett legges til slutt – og alle «vanlige» folk har dratt hjem? Nå er det nok, mener Nora Svenningsen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/8138afb7-7b8d-4cf4-b8af-b77b8decf4cc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/8138afb7-7b8d-4cf4-b8af-b77b8decf4cc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:34</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WB9e7u9lBxcZTYnRKaeFNQiczu0hGjF_g1y44GUycT3w.jpg"/>
+    </item>
+    <item>
+      <title>Nei til likestilling</title>
+      <description><![CDATA[Fetisha Williams er på besøk, og ingen er trygge. Spesielt ikke menn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/f87afe42-5ca5-4830-bafe-425ca588301e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/f87afe42-5ca5-4830-bafe-425ca588301e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:28</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3QklM_pK98UI8ZRhXMvO2wG3rSuxNueH7mI9m9nt4kAw.jpg"/>
+    </item>
+    <item>
+      <title>Strava spesial</title>
+      <description><![CDATA[De som skulka gymmen på ungdomsskolen er de samme folka som er på Strava nå – det mener i alle fall årets nyttårsgjest, Tete Lidbom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/8f5c75ce-cf17-497f-9c75-cecf17d97f97_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/8f5c75ce-cf17-497f-9c75-cecf17d97f97_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:57</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j1JeXQ2DarAg8K7jeEa2Ngd9S-VonzbTlUyPhu7M_bSg.jpg"/>
+    </item>
+    <item>
+      <title>Nyttårstull!</title>
+      <description><![CDATA[Romjulsgjest Sigrid Bonde Tusvik mener det er et unødvendig press – så bare drit i nyttårsforsettene!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/ca1d3c90-35ee-484f-9d3c-9035eed84f17_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/ca1d3c90-35ee-484f-9d3c-9035eed84f17_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:17</itunes:duration>
+      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yTgQhB9Q34ihn7k7589C1AxT6mEny1DtGi2dxG2Nc9iw.jpg"/>
+    </item>
+    <item>
+      <title>Knekk nakken!</title>
+      <description><![CDATA[Julegjest Karsten Blomvik kommer med et hellig juleraseri mot kiropraktorer og alternativ medisin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/396318ba-050c-440c-a318-ba050c940c7a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/396318ba-050c-440c-a318-ba050c940c7a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:56</itunes:duration>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yM1S27ZNCi86u4qZi_jUCwCyBubcgcIgqTzE8n81eOsA.jpg"/>
+    </item>
+    <item>
+      <title>O helga taco!</title>
+      <description><![CDATA[Har menneskeheten kommet langt nok til at taco kan godtas som julemat?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/94fee844-f6a7-4e59-bee8-44f6a72e59f5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/94fee844-f6a7-4e59-bee8-44f6a72e59f5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:21</itunes:duration>
+      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Den store seriesvindelen</title>
+      <description><![CDATA[Må man ha alle strømmetjenestene, eller holder det med NRK TV? Og er dette skamløs promotering av egen kanal?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/18d455d4-3120-4baa-9455-d431206baa5b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/18d455d4-3120-4baa-9455-d431206baa5b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:27</itunes:duration>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Dansegulvet er herved ødelagt!</title>
+      <description><![CDATA[Martha har vært ute på byen og kan rapportere om noe forferdelig: Generasjon Z har ødelagt dansegulvet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/5d8ab819-5769-442c-8ab8-195769642c87_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/5d8ab819-5769-442c-8ab8-195769642c87_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:34</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Haaland og nepobabyer</title>
+      <description><![CDATA[Skavlan, Nerdrum, Oftebro og Schøyen – rent talent eller bittelitt nepotisme? Og hva gjør Martha i garderoben med Haaland?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/bc50b9ce-f1e8-4442-90b9-cef1e80442d1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/bc50b9ce-f1e8-4442-90b9-cef1e80442d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:19</itunes:duration>
+      <pubDate>Tue, 25 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Stillongs er flaut!</title>
+      <description><![CDATA[Nå er det vinter, og det betyr lag på lag på lag med klær. Men hvor mye klær kan vi ta på oss før Martha synes det blir pinlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/ea3770fb-7c83-44e7-b770-fb7c83c4e750_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/ea3770fb-7c83-44e7-b770-fb7c83c4e750_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:37</itunes:duration>
+      <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Syng norsk!</title>
+      <description><![CDATA[Martha elsker språket vårt – og er ganske forbanna på artister som bare synger på engelsk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/d5f5853c-7a43-4b79-b585-3c7a439b79b7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/d5f5853c-7a43-4b79-b585-3c7a439b79b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:03</itunes:duration>
+      <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Hvilken diagnose har du?</title>
+      <description><![CDATA[ADHD, OCD, BPD, PDF og JPG. Er det litt vel mange diagnoser nå, eller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/260fba29-e303-4a33-8fba-29e3034a33f0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/260fba29-e303-4a33-8fba-29e3034a33f0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:15</itunes:duration>
+      <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Spøkelses-spesial</title>
+      <description><![CDATA[Hva er verst: dame- eller herregjenferd? Er Martha og Galvan for gamle til å kle seg ut på halloween? Og hvem overlever episoden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/a11d3e29-92f2-4bd5-9d3e-2992f2ebd53a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/a11d3e29-92f2-4bd5-9d3e-2992f2ebd53a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:41</itunes:duration>
+      <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Gi meg skryt!</title>
+      <description><![CDATA[Kan det bli for mye skryt? Martha og Galvan kan ikke få nok.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/d44d4686-72a1-4ddd-8d46-8672a16ddd1f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/d44d4686-72a1-4ddd-8d46-8672a16ddd1f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:01</itunes:duration>
+      <pubDate>Tue, 21 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Skjera, slottet?</title>
+      <description><![CDATA[Sjaman, rus, engler og skandaler. Ja, så ble det helt vanlige folk av dem også!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/bb2fa035-da67-48c2-afa0-35da67d8c2b9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/bb2fa035-da67-48c2-afa0-35da67d8c2b9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:40</itunes:duration>
+      <pubDate>Tue, 14 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Pupp er pupp!</title>
+      <description><![CDATA[Hva er forskjellen på manne- og kvinnebryst? Dagens nakne tematikk er vanskelig, og alle blir avkledd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/6a8f0eac-9ccd-41a6-8f0e-ac9ccd81a69f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/6a8f0eac-9ccd-41a6-8f0e-ac9ccd81a69f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:46</itunes:duration>
+      <pubDate>Tue, 07 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Jeg trenger en hobby!</title>
+      <description><![CDATA[Martha er dritt lei telefonen sin og føler at hun lever i et vakuum. 
+Er det på tide å finne seg en hobby?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/d31a0c75-f12c-4484-9a0c-75f12c14840c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/d31a0c75-f12c-4484-9a0c-75f12c14840c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:15</itunes:duration>
+      <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Ja, vi elsker sykemelding</title>
+      <description><![CDATA[Nordmenn elsker å være hjemme fra jobben. Men når er det egentlig innafor å sykemelde seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/306a3b70-8f90-4a43-aa3b-708f905a43bb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/306a3b70-8f90-4a43-aa3b-708f905a43bb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:47</itunes:duration>
+      <pubDate>Tue, 23 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Valget ble TikTokifisert!</title>
+      <description><![CDATA[Martha og Galvan oppsummerer årets valgkamp og diskuterer hvem som er inhabile – i denne helt politisk uavhengige podkasten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/9661bdf7-29b1-42cd-a1bd-f729b132cda7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/9661bdf7-29b1-42cd-a1bd-f729b132cda7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:58</itunes:duration>
+      <pubDate>Tue, 16 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Leie eller eie?</title>
+      <description><![CDATA[Martha gikk fra å eie til å leie bolig. Galvan rister på hodet. Hva lønner seg egentlig mest? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/c9bde871-3e94-4790-bde8-713e94579043_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/c9bde871-3e94-4790-bde8-713e94579043_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:47</itunes:duration>
+      <pubDate>Tue, 09 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Sexy sikkerhetskontroll</title>
+      <description><![CDATA[Martha og Galvan irriterer seg over dårlig køkultur – men er faktisk en del av problemet selv, viser det seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/0d9cae16-625c-4a62-9cae-16625cba62e3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/0d9cae16-625c-4a62-9cae-16625cba62e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:38</itunes:duration>
+      <pubDate>Tue, 02 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Død over reality!</title>
+      <description><![CDATA[Kjendisene har tatt over tv-skjermen. 
+Hva skjedde med å se på vanlige folk? 
+Martha og Galvan går hardt ut!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/c5fe8ad4-0e46-41fb-be8a-d40e4661fbec_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/c5fe8ad4-0e46-41fb-be8a-d40e4661fbec_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:53</itunes:duration>
+      <pubDate>Tue, 26 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Fadderuke</title>
+      <description><![CDATA[Dette er episoden du som student skulle ønske du hadde hørt før fadderuka begynte. Sorry!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/abb33253-291a-40ee-8cc7-fde38062a5b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/abb33253-291a-40ee-8cc7-fde38062a5b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:22</itunes:duration>
+      <pubDate>Tue, 19 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Smak på maten!</title>
+      <description><![CDATA[Gjengen er tilbake i studio! 
+Galvan har blitt millionær i sommer og Martha kommer med tordentale til de som ikke smaker på maten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/0c7cfb47-fc9c-4819-8fcc-090c24249118_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/0c7cfb47-fc9c-4819-8fcc-090c24249118_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:45</itunes:duration>
+      <pubDate>Tue, 12 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Hvetebollen er meningsløs!</title>
+      <description><![CDATA[Ramón Andresen er ukas sommergjest! Han irriterer seg over folk som kjøper standard hvetebolle, når det finnes så mye annet godt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/b7b59240-5ebc-4650-88a3-5556b9dd7010_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/b7b59240-5ebc-4650-88a3-5556b9dd7010_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:00</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J2qEAddVKygR4Su77AUtFg_ygMtPOktcfHkmmk4bDRIw.jpg"/>
+    </item>
+    <item>
+      <title>Snakk sammen!</title>
+      <description><![CDATA[Alon Fellus er ukas sommergjest! Han mener at løsningen på verdensfreden er at vi alle skulle hatt et felles språk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/51dc188f-d205-4ba5-ab33-5f0149aa24d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/51dc188f-d205-4ba5-ab33-5f0149aa24d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:43</itunes:duration>
+      <pubDate>Tue, 29 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wp1ck7_jWgRYjDKif-7WoQtakg_pMMXWSxxSTnOPJ1Kw.jpg"/>
+    </item>
+    <item>
+      <title>Ikke elsk deg selv!</title>
+      <description><![CDATA[Populære Morten Hegseth har upopulære meninger – for eksempel om ikke-binære og det om å elske seg selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/325e251c-9cfe-4f2c-8cdd-95048c407048_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/325e251c-9cfe-4f2c-8cdd-95048c407048_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:36</itunes:duration>
+      <pubDate>Tue, 22 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/41AhGntAa6XSnOetZevwbQYx8z0CN01OzHk6tEBmpKcA.jpg"/>
+    </item>
+    <item>
+      <title>Terapi med Tønne</title>
+      <description><![CDATA[Lisa Tønne er ukas sommergjest! Hun driter i konseptet og gjør «Misforstå meg rett» om til en terapitime.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/580d3ddb-6c66-423f-a0e7-408a7773873b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/580d3ddb-6c66-423f-a0e7-408a7773873b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:38</itunes:duration>
+      <pubDate>Tue, 15 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KLnxsPPO8WkMiQfch05foAYG6Ay2KlOfJAbTsnfUIxKw.jpg"/>
+    </item>
+    <item>
+      <title>Jeg elsker furries!</title>
+      <description><![CDATA[Annika Momrak er ukas sommergjest! Hun slår et slag for en subkultur som ofte blir sett ned på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/6ea1b5cb-e4c9-4b07-845c-84b071bd9e73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/6ea1b5cb-e4c9-4b07-845c-84b071bd9e73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:37</itunes:duration>
+      <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5_EirzWWESUyH2bCfkzDOAWhUSXv_rp3PahaxScYBuGA.jpg"/>
+    </item>
+    <item>
+      <title>Bursdager må avskaffes!</title>
+      <description><![CDATA[Kristoffer Olsen er sommergjest! Han gir en forsinket gave til Martha og kommer samtidig med hard kritikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/ed1417ea-13e1-4254-981c-b5e1c115b6f1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/ed1417ea-13e1-4254-981c-b5e1c115b6f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:35</itunes:duration>
+      <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qM9MrjU3hgupd6JGYLZ9gwRlOvuKLV2PmLkFPk-nXTxg.jpg"/>
+    </item>
+    <item>
+      <title>- Psykisk helse starter i pikken</title>
+      <description><![CDATA[Martha vil aldri mer trene. Er det for seint å få treningslysten tilbake? Galvan drar et triks opp fra lomma. Bokstavelig talt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/38067bbf-2df3-46aa-b768-d186a8557f25_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/38067bbf-2df3-46aa-b768-d186a8557f25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:25</itunes:duration>
+      <pubDate>Tue, 24 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Festivalsommer</title>
+      <description><![CDATA[Festivalsommeren er her. 
+Galvan elsker det, men Martha har traumer og nekter å delta på sommerens høydepunkter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/87b140d5-10b5-4f28-8496-5a4f7813d0ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/87b140d5-10b5-4f28-8496-5a4f7813d0ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:13</itunes:duration>
+      <pubDate>Tue, 17 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Elsk meg!</title>
+      <description><![CDATA[Martha og Galvan leter etter den store kjærligheten. Når skal de innse at de må finne seg selv først?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/14ec56d7-2592-453e-9c77-83717763373e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/14ec56d7-2592-453e-9c77-83717763373e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:46</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Martha i et krabbeskall</title>
+      <description><![CDATA[Martha har vært på Maaemo og spist 2 cm krabbe for 2000 kroner. Galvan er sjokkert – det kunne han ALDRI funnet på å gjøre!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/b0f3e326-2610-40f5-82f8-184c56c05bce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/b0f3e326-2610-40f5-82f8-184c56c05bce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:40</itunes:duration>
+      <pubDate>Tue, 03 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Min livsløgn</title>
+      <description><![CDATA[Galvan er slem og Martha har null kontroll, men samma det, nå er det sommer!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/aed8f69f-d706-4afa-86f2-160111d9ad5d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/aed8f69f-d706-4afa-86f2-160111d9ad5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:29</itunes:duration>
+      <pubDate>Tue, 27 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Legg vekk mobilen da!</title>
+      <description><![CDATA[Hva skjedde med å se folk i øya når man prater? Og kan servicen på byen ta seg litt sammen? Martha og Galvan kjefter – men på hvem, egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/5a6285b2-a62e-44c8-ae08-55ea4f29b400_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/5a6285b2-a62e-44c8-ae08-55ea4f29b400_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:23</itunes:duration>
+      <pubDate>Tue, 20 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Nasjonaldagsfylla</title>
+      <description><![CDATA[17.mai er rett rundt hjørnet. Skal vi drikke oss drita, eller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/20c89754-2d8d-40de-8441-3ead8bc3757b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/20c89754-2d8d-40de-8441-3ead8bc3757b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:45</itunes:duration>
+      <pubDate>Tue, 13 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Verden går til helvete</title>
+      <description><![CDATA[Er det ikke deilig at det ikke er vår skyld?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/9bba3a87-e591-4da8-93a2-c46f7f10a49c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/9bba3a87-e591-4da8-93a2-c46f7f10a49c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:21</itunes:duration>
+      <pubDate>Tue, 06 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Alt var bedre før</title>
+      <description><![CDATA[Galvan savner eksen og podkastens produsent er bare SÅ ung og udugelig. 
+Men er det bare Martha og Galvan som har blitt for gamle?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/ecdd408e-028d-4587-a1dc-fe37000eb00f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/ecdd408e-028d-4587-a1dc-fe37000eb00f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:55</itunes:duration>
+      <pubDate>Tue, 29 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Generasjon Zs verste mareritt</title>
+      <description><![CDATA[Har «cringe» og «icks» blitt et fengsel. I så fall sitter Martha og Galvan inne. På livstid!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/ee590940-d60a-42e0-bdc1-3a59a7aa5ebf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/ee590940-d60a-42e0-bdc1-3a59a7aa5ebf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:51</itunes:duration>
+      <pubDate>Tue, 22 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Pupper og id</title>
+      <description><![CDATA[Martha og Galvan diskuterer religion. Er ligging kjedelig under ramadan?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/da077164-fe14-4d0e-a248-cfeea75d8ab2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/da077164-fe14-4d0e-a248-cfeea75d8ab2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:14</itunes:duration>
+      <pubDate>Tue, 15 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg.jpg"/>
+    </item>
+    <item>
+      <title>Ballesjekk</title>
+      <description><![CDATA[Galvan har vært hos den deilige legen sin, Martha la sin egen bæsj i søpla, og hva er best av filmer og serier?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/98d21464-9ebf-4d74-96a3-f30b6d34cf70_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/98d21464-9ebf-4d74-96a3-f30b6d34cf70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:12</itunes:duration>
+      <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+    <item>
+      <title>Galvan vil drepe for å få hår</title>
+      <description><![CDATA[Hva er naturlig skjønnhet? Martha og Galvan tar et dykk ned i et av samfunnets mørke hull]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/32998835-36ae-4f43-9458-015c36a4df76_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/32998835-36ae-4f43-9458-015c36a4df76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:12</itunes:duration>
+      <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+    <item>
+      <title>Galvan ble anmeldt for tyveri</title>
+      <description><![CDATA[Har nordmenn en iboende lyst til å være kriminell? Martha og Galvan diskuterer om vi skulle hatt en dag i året hvor alt er lov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/b88ab250-0ab2-48d6-9bbe-73d3452577d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/b88ab250-0ab2-48d6-9bbe-73d3452577d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:12</itunes:duration>
+      <pubDate>Tue, 25 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+    <item>
+      <title>Ungdomsskolen suger</title>
+      <description><![CDATA[Taperne Martha og Galvan synes karakterer i skolen er noe tull. Hvorfor det, skal tro?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/4a49b831-1884-4497-a220-405b56af3be2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/4a49b831-1884-4497-a220-405b56af3be2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:32</itunes:duration>
+      <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+    <item>
+      <title>Ski er dritkjedelig</title>
+      <description><![CDATA[Det har vært Ski-VM. Martha og Galvan har gitt faen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/00cd6845-b938-4a74-97c8-dd4ec9db3fa3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/00cd6845-b938-4a74-97c8-dd4ec9db3fa3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:43</itunes:duration>
+      <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+    <item>
+      <title>Ikke for tjukkaser!</title>
+      <description><![CDATA[Martha og Galvan med brannfakler om brukt mote.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/b9075681-1d6b-4e95-a362-f9774f9f2b0a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/b9075681-1d6b-4e95-a362-f9774f9f2b0a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:51</itunes:duration>
+      <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+    <item>
+      <title>Avholds er kjedelig</title>
+      <description><![CDATA[Martha og Galvan tar et dypdykk i seg selv og norsk drikkekultur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/5026d69e-22ac-46d2-b76a-ebbd9987b268_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/5026d69e-22ac-46d2-b76a-ebbd9987b268_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:03</itunes:duration>
+      <pubDate>Tue, 25 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+    <item>
+      <title>Beyoncé er oppskrytt</title>
+      <description><![CDATA[Det går en kule varmt når Martha og Galvan fyrer av brannfakler om musikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/misforstaa_meg_rett/58ac3058-085d-422e-a885-ce80b61868bb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/misforstaa_meg_rett/58ac3058-085d-422e-a885-ce80b61868bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:56</itunes:duration>
+      <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1VzVR-xu_YJtsYuvgkRqvQMH4Vx0GZFlODblHPU6KnHA.jpg"/>
+    </item>
+  </channel>
+</rss>

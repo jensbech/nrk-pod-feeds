@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Luođis luohtái</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:20:51 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Apr 2025 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    <item>
+      <title>Lávdebargu riggodahkan</title>
+      <description><![CDATA[Musihkkaoahpahus ja hárjehallan nanosmahttá mánáid iešdovddu.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/4659621f-5e46-4d84-bf30-c38fdce859d1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/4659621f-5e46-4d84-bf30-c38fdce859d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:15</itunes:duration>
+      <pubDate>Wed, 16 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Juoigat musihkkii</title>
+      <description><![CDATA[Juoigat musihkkii ii leat seamma go juoigat árbevirolaččat, go dalle báhcet dat mohkit mat leat árbevirolaš luođis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/fd1792be-7d42-42d9-9689-127f71d84806_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/fd1792be-7d42-42d9-9689-127f71d84806_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:32</itunes:duration>
+      <pubDate>Wed, 09 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luohtemátki</title>
+      <description><![CDATA[Son  lea miehtá máilmmi jođašan luđiin ja dál son čuoččasta SGP-lávdái  juoiggastit iežas neabi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/efdbe754-2ff4-47f4-a0e2-6196ecc5bcae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/efdbe754-2ff4-47f4-a0e2-6196ecc5bcae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:00</itunes:duration>
+      <pubDate>Wed, 02 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Dajahallamat</title>
+      <description><![CDATA[Dajahusain sáhttet leat čiekŋalat mearkkašumit ja lea juohkehačča duohken mo daid dulko.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/dd9dd01a-c872-4962-ab89-fdfc3e770e0f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/dd9dd01a-c872-4962-ab89-fdfc3e770e0f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:22</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Dovddu mielde juoigat</title>
+      <description><![CDATA[Olmmoš ii dárbbaš juoigat dušše luođi dihte, go juoiggadettiin sáhttá muitalit  suhtu, morraša, ráhkisvuođa dahje movtta.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/378e4931-e9a1-42cc-9e39-34b176f28485_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/378e4931-e9a1-42cc-9e39-34b176f28485_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:30</itunes:duration>
+      <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luohteárvvoštallan</title>
+      <description><![CDATA[Lea goalmmát geardde son árvvoštallá luđiid ja šuoŋaid mat leat mielde Sámi Grand Prixas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/65d1b140-71eb-4ba6-a784-f8b5314d4478_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/65d1b140-71eb-4ba6-a784-f8b5314d4478_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:53</itunes:duration>
+      <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C74JR32wlAwgZLoXast0bQGh-91LDWF_lIQnjFlKAxgg.jpg"/>
+    </item>
+    <item>
+      <title>Sarakka Juoiganmátki</title>
+      <description><![CDATA[Árbevirolaš juoigamis lea son iežas mielas easkaálgi]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/51c4fe5a-398b-49d0-a634-f181e18ae804_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/51c4fe5a-398b-49d0-a634-f181e18ae804_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:28</itunes:duration>
+      <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C74JR32wlAwgZLoXast0bQGh-91LDWF_lIQnjFlKAxgg.jpg"/>
+    </item>
+    <item>
+      <title>Musihkka oktasaš giellan</title>
+      <description><![CDATA[Amerihká eamiálbmogat jáhkke sápmelaččaid CIA-ageantan. Muhto go luohti gullui, de eahpádus maid jávkkihii.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/071d9c30-0b21-411d-8770-c4e280cd191d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/071d9c30-0b21-411d-8770-c4e280cd191d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:26</itunes:duration>
+      <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luohti jeđđeda</title>
+      <description><![CDATA[Luohti riegádii lossa dilis ja lei jeđđehussan ja attii ođđa vuoimmi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/ac10e5c2-d9d6-4e70-b416-7160213564c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/ac10e5c2-d9d6-4e70-b416-7160213564c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:07</itunes:duration>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Ráhkisvuođain juoiggadit</title>
+      <description><![CDATA[Prográmmajođiheaddji guovttos hirpmahuvvaba man poehtalaččat dajahusat leat luđiin, maid Biret Elle Láilá juoiggada dás.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/bcfaf528-3740-45e7-b4fd-50ea7110628e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/bcfaf528-3740-45e7-b4fd-50ea7110628e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C74JR32wlAwgZLoXast0bQGh-91LDWF_lIQnjFlKAxgg.jpg"/>
+    </item>
+    <item>
+      <title>Luohti eallá</title>
+      <description><![CDATA[Juoigit fertejit fievrredit viidaseappot luođi ja dajahallamiid vai seaillošedje, nu daddjui luohtelávddis Álttás ginttalbeaivve.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/ed293ed3-c3ae-4ba6-a100-a9fb0834ba53_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/ed293ed3-c3ae-4ba6-a100-a9fb0834ba53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:46</itunes:duration>
+      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Buoremus oasit</title>
+      <description><![CDATA[Dás gulat buoremus osiid vuosttaš áigodagas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/f8475933-fa0c-416d-9ca0-c508a4b1b597_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/f8475933-fa0c-416d-9ca0-c508a4b1b597_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:53</itunes:duration>
+      <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Vuoiŋŋalaš juoigan</title>
+      <description><![CDATA[Movttegis Máhtte lea moatte háve juoiggastan ipmilbálvalusas, sutnje lea lunddolaš ahte luohti maid gullá girkui.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/305941aa-b5d3-426e-a10f-ce8c8f041ff0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/305941aa-b5d3-426e-a10f-ce8c8f041ff0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:39</itunes:duration>
+      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luohtedoahpagat</title>
+      <description><![CDATA[Javzedit, rohttestit, rovggodit dahje juo vuovaidit. Otná oasis lea Ánde Somby guossin hupmat doahpagiid birra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/12f33aab-61e1-43b3-92b8-9cea6a83cbea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/12f33aab-61e1-43b3-92b8-9cea6a83cbea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:45</itunes:duration>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Go dajahusain leat riimmat</title>
+      <description><![CDATA[Várjjat-luđiin lea erenoamáš dajahallan ja guhkes fearánat. Øystein Birgitsen rohttesta ja muitala luđiid birra dán oasis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/5a671417-c84f-4eab-ba19-7b8d2f87d52e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/5a671417-c84f-4eab-ba19-7b8d2f87d52e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:24</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Miehtá máilmmi šaddá dovddusin</title>
+      <description><![CDATA[Lávre Johanin šaddá ságastallan movt luođi dahká dovddusin máilmmis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/2555f66d-36bd-4332-a4d9-26a515c1c7c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/2555f66d-36bd-4332-a4d9-26a515c1c7c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:15</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Dearvvašmuvvat luđiin</title>
+      <description><![CDATA[Juoigan šattai dálkkasin Máret Lajla Nedrejorda áhkkui go fáhtehalai dávdii ja návccahuvai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/57f20e94-e052-4f2c-a964-80aa2ec43cb4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/57f20e94-e052-4f2c-a964-80aa2ec43cb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:58</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Dovdnema dehálašvuohta</title>
+      <description><![CDATA[Dovnnažiin lea oahpahan mánáide miehtá sámi juoigat. Inga Biret Márjá Triumf searvá hupmat dovdnema dehálašvuođas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/586cc2f8-090c-45de-a81e-a3ec9255535e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/586cc2f8-090c-45de-a81e-a3ec9255535e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:29</itunes:duration>
+      <pubDate>Wed, 20 Nov 2024 09:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Vuostálastinluođit</title>
+      <description><![CDATA[Luođis lei guovddáš sadji go fámolaččaid vuostá galggai dáistalit. Ella Marie Hætta Isaksen muitala vásáhusaideaset fovseákšuvnnain.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/3b0f90ed-ed52-48a2-8bb0-71e0d39961b8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/3b0f90ed-ed52-48a2-8bb0-71e0d39961b8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:25</itunes:duration>
+      <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Ollesolmmožin šattai juoigannásttiin</title>
+      <description><![CDATA[Ii lean goasse almmolašvuođas juoigan ja máŋggas hirpmahuvve go vuohččan gulle su juoigamin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/f2fee5ac-95b2-4bc3-9d71-8c1a538d225d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/f2fee5ac-95b2-4bc3-9d71-8c1a538d225d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:09</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luođi geahččaledje jávohuhttit</title>
+      <description><![CDATA[Go gilde juoigat ja luođi birra hupmat skuvllas, de dat suhttadii Áillu muhto maiddai giktalii su álgit vel eambbo juoigat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/4ed5c3e7-dc09-426e-8b1f-e28f4b2d9519_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/4ed5c3e7-dc09-426e-8b1f-e28f4b2d9519_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:33</itunes:duration>
+      <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Čuojahit dološ luđiid</title>
+      <description><![CDATA[Dás leahkasteaba luohtegiissá.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/9f34294e-68b0-4af5-8e47-70069f57f211_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/9f34294e-68b0-4af5-8e47-70069f57f211_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:28</itunes:duration>
+      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luohtevuorká</title>
+      <description><![CDATA[Ol Johan Gaup lea guossin go son lea leamaš mielde almmuheamen luđiid mat leat luohtevuorkkás.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/e3b8d6d1-5ff5-4a86-98f5-a622f0f478cb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/e3b8d6d1-5ff5-4a86-98f5-a622f0f478cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:39</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luohtevuoigatvuođat</title>
+      <description><![CDATA[Gii eaiggáduššá luođi? Jurista čilge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/1539c038-4154-49c2-862b-beab95dc5e58_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/1539c038-4154-49c2-862b-beab95dc5e58_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:18</itunes:duration>
+      <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luođis máŋga oamasteaddji</title>
+      <description><![CDATA[Seamma luohti sáhttá leat juigojuvvon máŋgga olbmui. Muhto movt de go luohti beaggigoahtá ja buohkat dan juiget ovtta olbmui?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/31094f4e-ff0d-4603-88ad-32f9ad4c1987_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/31094f4e-ff0d-4603-88ad-32f9ad4c1987_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:04</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Luohtebidjan</title>
+      <description><![CDATA[Son lea vásihan ahte luohti dušše bođii sutnje, ja vásihii dan dušše luoikkasin ožžon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/20530b01-e948-4ed9-85a4-532b29c647b4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/20530b01-e948-4ed9-85a4-532b29c647b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:34</itunes:duration>
+      <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+    <item>
+      <title>Givssidanluođit</title>
+      <description><![CDATA[Maid dahkat dakkár luđiin, mii olbmui šaddá giksin?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/0e8ec546-ed07-4b01-9f38-6d99c2287c41_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/0e8ec546-ed07-4b01-9f38-6d99c2287c41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:53</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
+  </channel>
+</rss>

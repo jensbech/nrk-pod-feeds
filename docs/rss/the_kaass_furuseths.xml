@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>The Kåss Furuseths</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Ingen bør være alene på søndager! Else drar hjem til kjente personer for å finne god stemning og hyggelig selskap. Hjertelig velkommen skal du være! 
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:23:51 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Apr 2025 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    <item>
+      <title>Au revoir</title>
+      <description><![CDATA[Else har nyheter! Vi deler ut Ballegensere og ringer Tuva Fellman, Lillebolla og Tommy!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/4f0f4c49-62c0-41c5-a1d0-c7744cfbd030_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4f0f4c49-62c0-41c5-a1d0-c7744cfbd030_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:53</itunes:duration>
+      <pubDate>Sun, 20 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SYZHYBZlXIz-wksu9MXupAhpNwhpX80rMvwgy-ASbSEA.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Henning Bang</title>
+      <description><![CDATA[P3morgen-progamleder Henning Bang om å være bipolar, gjøre stand-up og god søvnrutiner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a1cfc83f-6082-4029-a4f9-4cfe0a7be97f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a1cfc83f-6082-4029-a4f9-4cfe0a7be97f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:14</itunes:duration>
+      <pubDate>Sun, 13 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hTFg38oUJJWaAeTGf7Ce6Aiv4JTzBq7MpMaIeR8DsVwg.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Gutta fra tv-serien «Bausjen»</title>
+      <description><![CDATA[Else deler en søndag med Torjus Tveiten, Jørgen Evensen og Eirik Hvattum Bjørnstad!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/008ecaf8-61cb-4fa5-9f53-5e61e8fbcfb4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/008ecaf8-61cb-4fa5-9f53-5e61e8fbcfb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:11</itunes:duration>
+      <pubDate>Sun, 06 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GKouAApQbwwYYKemy-W4dgpXR3LCaJ2nqds6XC5_hSZw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Cathrine Frost</title>
+      <description><![CDATA[Else og Cathrine Frost dykker ned i filosofiske tanker om skapelsen av liv. Forestillingen «Lykke til, Cathrine Frost» reiser Norge rundt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/b0ec699c-e130-4b6d-b306-62378022dab1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/b0ec699c-e130-4b6d-b306-62378022dab1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:22</itunes:duration>
+      <pubDate>Sun, 30 Mar 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Isvt9ISn8mLO_vRNF-hsIQA3kxo6CIS7p0d8Xf2fRS_g.jpg"/>
+    </item>
+    <item>
+      <title>Else går tur med: Jonas Gahr Støre</title>
+      <description><![CDATA[Statsministeren og Else tar en tur rundt Sognsvann i Oslo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/68c6f040-301b-42d0-866f-2f6099715e89_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/68c6f040-301b-42d0-866f-2f6099715e89_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:21</itunes:duration>
+      <pubDate>Sun, 23 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J4xr-kIiGGyeGoqB434R1Amk7NjQ3GLlwuQ4yV3AdzjQ.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Mathilde Storm</title>
+      <description><![CDATA[Skuespiller Mathilde Storm fikk spille sædcelle i den nye filmen Spermageddon. Du får også reisetips og røverhistorier fra en ekte globetrotter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d8d36ff5-e544-4cad-b738-1d7d23afd300_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d8d36ff5-e544-4cad-b738-1d7d23afd300_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:04</itunes:duration>
+      <pubDate>Sun, 16 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vs_GPAYD1UYNn4dtGjyn7wy85jLiJ53t31nLL2CTc3sg.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Lindis Hurum - Generalsekretær i Leger uten grenser</title>
+      <description><![CDATA[Kinofilmen «Før mørket» er basert på hendelser som Lindis har opplevd ute i felten. Else besøker Lindis på kontoret!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a180511f-3daa-4d7f-a2cf-c94daebbd63f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a180511f-3daa-4d7f-a2cf-c94daebbd63f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:39</itunes:duration>
+      <pubDate>Sun, 09 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/714TSz-uCHtn00JfAOIYjAAea1siVjNcJge8ggojzKGw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Vidar Villa</title>
+      <description><![CDATA[Else besøker artist Vidar Villa! Bryllupsplaner, ferjedrift og partylåter i fokus!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/1c3b2ea3-5883-476c-9d4f-05246ca163c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/1c3b2ea3-5883-476c-9d4f-05246ca163c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:40</itunes:duration>
+      <pubDate>Sun, 02 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gawuqcG29S-4yO9BVJuhjAf85fYeEq-wTS-Cd_elLtww.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Snorre Monsson</title>
+      <description><![CDATA[Snorre og Else om sinne, romantikk og mote]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/44723dfd-0a2e-4b3d-b357-04748e043831_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/44723dfd-0a2e-4b3d-b357-04748e043831_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:30</itunes:duration>
+      <pubDate>Sun, 23 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5gyfWT411Z5q3Z524IIv5ArIuKN8ORFABXXytXcZFdjg.jpg"/>
+    </item>
+    <item>
+      <title>Else drar på kino med: Dag Johan Haugerud</title>
+      <description><![CDATA[Filmregissør Dag Johan Haugerud om trilogien «Sex», «Drømmer» og «Kjærlighet»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/0d78379e-a709-4935-b68e-24deaa8ae488_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/0d78379e-a709-4935-b68e-24deaa8ae488_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:04</itunes:duration>
+      <pubDate>Sun, 16 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OqER9xSevPcI2N3ExS0NhAPHYvtrgGW2ZcboyOU_3usA.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Emma Ellingsen</title>
+      <description><![CDATA[Sminketips, historier fra modellivet og «Boksen»-prat]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/edfb9da9-2fde-455e-87b9-d97704388aae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/edfb9da9-2fde-455e-87b9-d97704388aae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:56</itunes:duration>
+      <pubDate>Sun, 09 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pIJOyvc9ehmcc-J3mrd5wA_Lzc8KFL_sCEoJwXq1u1hg.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Bobbysocks - Hanne Krogh og Bettan</title>
+      <description><![CDATA[Bobbysocks om fortid, nåtid… og paljetter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/87d63ff9-0494-4251-84b1-7dc122e43696_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/87d63ff9-0494-4251-84b1-7dc122e43696_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:48</itunes:duration>
+      <pubDate>Sun, 02 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zSmyzv7csBuJ-tGDDZQ1tgF_yArMb64c6Y0ipsV2HtXg.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Mads Hansen</title>
+      <description><![CDATA[Else besøker Det Hvite Hus i Lier! Mads om Boksen, nytt tv-program, konflikter... og gløgg!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/5e2ea2c6-49b2-426c-b46d-c8c4f64f0da1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/5e2ea2c6-49b2-426c-b46d-c8c4f64f0da1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:16</itunes:duration>
+      <pubDate>Sun, 26 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fIvpe6-iR8bUVoMmYq7fLA3FWPHoV1UGIToGGk_hRFNQ.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: David Mokel</title>
+      <description><![CDATA[David Mokel om Humoretaten, hvordan han fant publikummet sitt under covid og hotellvaner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c8ae75e3-a272-4026-8a1d-6c7c19f67c33_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c8ae75e3-a272-4026-8a1d-6c7c19f67c33_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:32</itunes:duration>
+      <pubDate>Sun, 19 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kEwRhEc_0SH6kn25fljr5ANAUBhmOQGSNc36vyabH_-A.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Fetisha Williams</title>
+      <description><![CDATA[Else og Fetisha om gode ADHD-rutiner, romvesener, og... heksekunst!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/4dbe431a-b6a5-443b-8b2c-bd3139fb0dd3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4dbe431a-b6a5-443b-8b2c-bd3139fb0dd3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:27</itunes:duration>
+      <pubDate>Sun, 12 Jan 2025 18:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ooHZ-6VlGenu5UNXn9MWfwbmAAabZEw9szX0fYCvmJtQ.jpg"/>
+    </item>
+    <item>
+      <title>Else grilles 2!</title>
+      <description><![CDATA[Else svarer på spørsmål på fra DEG som hører på! Takk for alle gode innsendelser!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/688bac42-c8fe-42b1-98b3-d2eedf26f4a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/688bac42-c8fe-42b1-98b3-d2eedf26f4a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:09</itunes:duration>
+      <pubDate>Sun, 05 Jan 2025 18:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vl2Hrn5cdrpn--R9Qy_VcQ9QF7gNR929tOmmpqdkj29Q.jpg"/>
+    </item>
+    <item>
+      <title>Secret Santa: Trond-Viggo Torgersen</title>
+      <description><![CDATA[Else og Trond-Viggo møtes for en romjulsprat om ensomhet, savn og juleglede!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/dbc8f46d-9f5e-4691-b960-310d21ddef8d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/dbc8f46d-9f5e-4691-b960-310d21ddef8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:53</itunes:duration>
+      <pubDate>Sun, 29 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Isr8TyWNMeRAlZxo8q4GXQE_YlfRT12MjCp7YKJu3k_A.jpg"/>
+    </item>
+    <item>
+      <title>Secret Santa: Lille-Bolla</title>
+      <description><![CDATA[Lillesøster Cecilie er ukas hemmelige nisse. Tante Else blir lykkelig - og vi får julestemningsfrembringende sang!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/1d6f70e9-5edc-47db-9361-00ebc0f7dabe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/1d6f70e9-5edc-47db-9361-00ebc0f7dabe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:41</itunes:duration>
+      <pubDate>Sun, 22 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OFGDFMHz7o1h1GJ-7dU1UQB0JALeysBROe5UfipkGhNQ.jpg"/>
+    </item>
+    <item>
+      <title>Secret Santa: Javad El Bakali (a.k.a: Utlending.memes)</title>
+      <description><![CDATA[Javad har røket ut av «24-stjernes julekalender», men dukker opp som Secret Santa hos Else.
+Han skal feire jul for første gang med kjæresten, han har skrevet ny bok... og vi tester ferdig-rømmegrøt som julemat!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/da4e035a-3f50-49fe-af26-b70e8f03ab7c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/da4e035a-3f50-49fe-af26-b70e8f03ab7c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:47</itunes:duration>
+      <pubDate>Sun, 15 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WSWTimOPBvfjs2ahqn-D_gjOTdl9QtK2olEd9SdtSKjA.jpg"/>
+    </item>
+    <item>
+      <title>Secret Santa: Silje Nordnes</title>
+      <description><![CDATA[Maskorama nærmer seg slutten, hvem er sangerne som er igjen?! Silje skal feire jul i Nepal – hvordan blir det? Ferdigjulemat skal testes! Julekjolen er på – la oss leke Secret Santa!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/b45215d3-45fc-476b-9c51-a6927b99b29d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/b45215d3-45fc-476b-9c51-a6927b99b29d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:50</itunes:duration>
+      <pubDate>Sun, 08 Dec 2024 17:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/g3zImViGgzTrF8yqPvMRjQtxW_ThScXeKwoHoztDNwCw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Didrik Solli-Tangen</title>
+      <description><![CDATA[Else blir møtt med julesang av Didrik Solli-Tangen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/e70e33d0-69ac-46e5-bf64-5df3ba01c8a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/e70e33d0-69ac-46e5-bf64-5df3ba01c8a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:39</itunes:duration>
+      <pubDate>Sun, 01 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yNFMkiJJvsnW6hnrEh9hiwQk8rdodSx_aj1m1OhVDfSw.jpg"/>
+    </item>
+    <item>
+      <title>Atle Antonsen: Sleggefett</title>
+      <description><![CDATA[Else og Atle snakket om hans nye band før det ble offisielt, den praten får du nå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/8c2adf3d-0650-473c-afc0-3fde4668bba8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8c2adf3d-0650-473c-afc0-3fde4668bba8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:56</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 12:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8AN6Y0p9GULWSOJT-uYnrwonWosE1ABZ07K9EauFxirw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Anna of the North</title>
+      <description><![CDATA[Anna Lotterud og Else snakker om hennes nye (norske) låt Hollywood Hills - og at det er kulere i New York enn i L.A. Andre temaer: angst, hund, fest med The Weeknd og reisetips for folk som skal på tur alene!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/6d38837a-55ad-4b63-bbd2-daa7ae0e2294_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/6d38837a-55ad-4b63-bbd2-daa7ae0e2294_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:07</itunes:duration>
+      <pubDate>Sun, 24 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SCIKGgWZC03aVSUFZIGpWwtIdOuWvh4riUm8T1Z19v0Q.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Isah</title>
+      <description><![CDATA[Isah drømmer om potetgull og kebab, men får Else Kåss på besøk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/73a36283-c09d-405e-915d-07117682b01d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/73a36283-c09d-405e-915d-07117682b01d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:12</itunes:duration>
+      <pubDate>Sun, 17 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lGpYtn2_TIejg0hnxh_CegrXeX3nB6kFtvkZFTMyNv3w.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Oslo fagottkor + Kari Slaatsveen</title>
+      <description><![CDATA[Radiolegende Kari Slaatsveen har skrevet historien om 20-årsjubilanten, Oslo fagottkor! «Fagottkorets lille rosa» heter boka. Else besøker Steinar og Roy Petter, som begge synger i koret!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/4045536b-78e4-40dd-ab7c-af486650995b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4045536b-78e4-40dd-ab7c-af486650995b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:47</itunes:duration>
+      <pubDate>Sun, 10 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CkAlU2GWrjOYm7DZ_O6VAQAMD_fiz8MhtwgmhY-BD3oQ.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Atle Antonsen</title>
+      <description><![CDATA[Else og Atle om «Kongen Befaler», lang rygg og flauhet og flass!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/56c7177f-fef6-4da5-91d2-5304a41f7c4a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/56c7177f-fef6-4da5-91d2-5304a41f7c4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:21</itunes:duration>
+      <pubDate>Sun, 03 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8AN6Y0p9GULWSOJT-uYnrwonWosE1ABZ07K9EauFxirw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Maja Lunde</title>
+      <description><![CDATA[Maja Lunde om ny julefilm, skjermvett og om å være ekstremt produktiv!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a46bb2a0-5246-4688-ba5a-7d8b646f0570_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a46bb2a0-5246-4688-ba5a-7d8b646f0570_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:07</itunes:duration>
+      <pubDate>Sun, 27 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UVhgrkkohRcl_RlkBJ4NBwtenNCAQ88QvI2jCY2LD_rw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Ahmed Mamow</title>
+      <description><![CDATA[Vi snakker om stjeling av toalettruller på hotell, kjærlighetssorg og livet med dusj... på badet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/ed54bddb-3043-47b6-a126-073eeb912ff1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/ed54bddb-3043-47b6-a126-073eeb912ff1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:16</itunes:duration>
+      <pubDate>Sun, 20 Oct 2024 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MQZNz3qc6yw455v5BFxljgEVBEQ8biK0iUgc1B7RjJIA.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Mia Hundvin</title>
+      <description><![CDATA[Mia Hundvin om å være flau, miste fingre og en mulig ADHD-diagnose.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d9919b9b-8cf0-476a-82bd-663fcc9ce480_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d9919b9b-8cf0-476a-82bd-663fcc9ce480_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:44</itunes:duration>
+      <pubDate>Sun, 13 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nft0DAQhvcZaFVYwi7MjNAlLmtWN9-THeDYnUU48atDw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Frida Homlung</title>
+      <description><![CDATA[Else og Frida om gæren ungdomstid, kunstnerforeldre og vitseskriving!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/23da19f2-e39c-4ab8-a409-bb75ebda5ca7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/23da19f2-e39c-4ab8-a409-bb75ebda5ca7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:21</itunes:duration>
+      <pubDate>Sun, 06 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/a45Z-Ats-7MUz7wIcd-QoQMCYHhSS1eXFh3DJGRB2KLA.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Ella Marie Hætta Isaksen</title>
+      <description><![CDATA[Else og Ella om aktivisme, bæsje i parforhold og frieri!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/2b4994a1-382d-4ae3-86d5-0bc52330ed51_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/2b4994a1-382d-4ae3-86d5-0bc52330ed51_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:12</itunes:duration>
+      <pubDate>Sun, 29 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gR__peS71eQ8j0AVKoO4TQwt2V-MHB3M1ZwJyqDVdE6Q.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Silya Nymoen</title>
+      <description><![CDATA[Silya og Else om høner, eplekake og roen på landet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/98ec478d-1d11-4d1b-9574-e8dd363d6b8e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/98ec478d-1d11-4d1b-9574-e8dd363d6b8e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:39</itunes:duration>
+      <pubDate>Sun, 22 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BgzNL1iNJZuKKMLSq-xBCw850lvxSoDyROWBmvJqeMtw.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Mathea Stensæth Josefsen</title>
+      <description><![CDATA[Else og Mathea Stensæth Josefsen spiller fløyte, snakker om parykk og drar på Frank Znort-konsert!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/d7e01498-5ba2-46d1-a075-7584393e818b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/d7e01498-5ba2-46d1-a075-7584393e818b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:13</itunes:duration>
+      <pubDate>Sun, 15 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r9ahxPmiI-03yNhvrWxT_AWc-3gEsz3fscmsOqmRfeqQ.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Odd-Magnus Williamson</title>
+      <description><![CDATA[Else og Odda om voksenkjeft, drøye vitser og botox!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/696bb8fd-6684-48bb-a822-5bd3c911391b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/696bb8fd-6684-48bb-a822-5bd3c911391b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:04</itunes:duration>
+      <pubDate>Sun, 08 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7IVjULipn27b0yEnKAW7ogBH4kLBLjd0TmR5j8TR8aIA.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Marlene Stavrum</title>
+      <description><![CDATA[Komiker Marlene Stavrum holdt på å dø av syreforgiftning - mer om det! Samt: insulinpumpe, kjærlighet og voksenstudier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/194c4f65-8081-4954-871d-a6a906e189e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/194c4f65-8081-4954-871d-a6a906e189e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:53</itunes:duration>
+      <pubDate>Sun, 01 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IA-7v1G-U3a7jpR5ZmSRawV3Vrz4VUeg9-6N_5Zb7bPg.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Kevin Kildal</title>
+      <description><![CDATA[Stand-up-komiker Kevin Kildal om da han åpnet pub samtidig som verden stengte ned, hans trøblete forhold til Skatteetaten - og brannalarmen går i leiligheten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/7dbcb797-eeeb-4858-adf1-f1920ba9703e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/7dbcb797-eeeb-4858-adf1-f1920ba9703e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:25</itunes:duration>
+      <pubDate>Sun, 25 Aug 2024 14:12:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OGMpz9i0mAflxL4f5M8KeAt0FzesFS3FfNe7tWkD7Jwg.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Henriette Steenstrup (og Henrik Mestad)</title>
+      <description><![CDATA[Else besøker sin gode venn Henriette Steenstrup, som er klar med ny sesong av Pørni. Henrik Mestad blir også med på kaffeslabberas i hagen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/0d28f5d6-5e7e-4402-a49c-78b8bae4d392_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/0d28f5d6-5e7e-4402-a49c-78b8bae4d392_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:48</itunes:duration>
+      <pubDate>Sun, 18 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mNcrQAAryf05fGCWAhpl6wLLf_J-l0BPQ5pOkvTX8VnA.jpg"/>
+    </item>
+    <item>
+      <title>Else grilles!</title>
+      <description><![CDATA[Sesongpremiere: Dr. Jones stiller deres spørsmål! Vi ringer Tommy! Snakker om tannbørstefarge, selvbruning - og Patrick Dempsey fra Grey's Anatomy. Neste uke er vi tilbake med vanlige episoder!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/654e1bcc-9e34-45c3-b6f8-c6384fd31788_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/654e1bcc-9e34-45c3-b6f8-c6384fd31788_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:56</itunes:duration>
+      <pubDate>Sun, 11 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vl2Hrn5cdrpn--R9Qy_VcQ9QF7gNR929tOmmpqdkj29Q.jpg"/>
+    </item>
+    <item>
+      <title>Reprise: Hyllest til B-mor</title>
+      <description><![CDATA[Vi hyller kjære B-mor, som sovnet fredelig inn til lyden av «Ja, vi elsker» og «hipp hurra!» på 17. mai 2022,  og som dermed gikk ut av et langt og godt liv med flagget til topps.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/8a7c7571-4a84-4228-9d7c-c93c639c1676_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/8a7c7571-4a84-4228-9d7c-c93c639c1676_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:16</itunes:duration>
+      <pubDate>Sun, 04 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    </item>
+    <item>
+      <title>Reprise: Ina Wroldsen, Gucci Thights og luktende ostepop</title>
+      <description><![CDATA[Superstjerne Ina Wroldsen tar turen til The Kåss Furuseths. Hun har med seg sin beste venninne, nemlig moren, som er ikledd bøttehatt for anledningen. Det viser seg at Ramona og Ina er overraskende like, mens Else prøver å lære seg Inas kranglemetoder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/6f5abccb-b18a-449b-9861-327851a31dc0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/6f5abccb-b18a-449b-9861-327851a31dc0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Sun, 28 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    </item>
+    <item>
+      <title>Reprise: Ingrid Gjessing Linhave, kidnapping og tommelsutting</title>
+      <description><![CDATA[Stemningen er på topp når MGP-general Ingrid Gjessing Linhave kommer på søndagsbrunsj!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/0a0b72d2-6947-4536-9f3a-4b15e703e0e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/0a0b72d2-6947-4536-9f3a-4b15e703e0e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:35</itunes:duration>
+      <pubDate>Sun, 21 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YiwyGYBQ_Pjqf0X9xFxAmABiN3dTuLwMSaBcwEa5GkSg.jpg"/>
+    </item>
+    <item>
+      <title>Reprise: Morten Ramm, snufsing, russetiden og politianmeldelse</title>
+      <description><![CDATA[Morten Ramm forteller om snufsingen som kostet ham seksti tusen kroner, om hva han synes om russetiden, og om hvorfor han anmeldte seg selv til politiet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/c9c57703-3943-4924-a624-26652cda57b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/c9c57703-3943-4924-a624-26652cda57b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:42</itunes:duration>
+      <pubDate>Sun, 14 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/El-sDeKtByOTpnqf5uYnsQy56kYIjP2B8po0IKke_wRw.jpg"/>
+    </item>
+    <item>
+      <title>Reprise: Jon Almaas, hønsenetting og kjæresterier</title>
+      <description><![CDATA[Selveste Jon Almaas kommer på besøk og søstrene er mildt sagt nervøse. Jon finner hønsenettingen til Else og mener bestemt at det kan brukes til noe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a2a84b1e-2994-4211-9ffc-979a7236afa4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a2a84b1e-2994-4211-9ffc-979a7236afa4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:30</itunes:duration>
+      <pubDate>Sun, 07 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ.jpg"/>
+    </item>
+    <item>
+      <title>Reprise: H.K.H. Kronprinsesse Mette-Marit</title>
+      <description><![CDATA[H.K.H. Kronprinsessen gjester søndagsbrunsj med Else, Cecilie og baby Finley. Kronprinsessen snakker om hvordan hun fikk drømmeprinsen på kroken, hvorfor hun er besatt av cowboystøvler, og hvem hun skyldte på da hun brakk halebenet på ski.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a3d6d4c6-1005-4216-874a-7d88b52df3e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a3d6d4c6-1005-4216-874a-7d88b52df3e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:23</itunes:duration>
+      <pubDate>Wed, 03 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1-auk-UbcXxMLPvLnJbdvAMIYGzRfCShlp_AiFGDRj0g.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Lars Berrum</title>
+      <description><![CDATA[Lars har sendt vekk samboer og barn for å få besøk av Else. De snakker om hvem som tok med penne pastaen og reggaen til Norge, hva Lars kan bidra til i hagelag, og hvordan det er å være en svevende fyr som vil angripe voksenlivet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/a6fc2feb-84c8-4db0-8433-36bb94349047_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/a6fc2feb-84c8-4db0-8433-36bb94349047_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:25</itunes:duration>
+      <pubDate>Sun, 23 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qhfhSg2FKCLLP60V9AQODA5T3aOxYG2vbc7D8Mr0y0Ug.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Synne Vo</title>
+      <description><![CDATA[Synne Vo har laget vafler, hun og Else leker jeg har aldri, og snakker om musikk og kjærlighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/35538032-5a66-4460-8ab8-c91ca5af061f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/35538032-5a66-4460-8ab8-c91ca5af061f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:07</itunes:duration>
+      <pubDate>Sun, 16 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nJowzzZi8LBCMCFeAaYtGw1Mb0bHv4gBEO-y0YdLVKUQ.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Erik Solbakken</title>
+      <description><![CDATA[Else og Erik bygger platting, snakker om kjærlighet, skummel sykkeltur og spiser vafler! Nydelig søndag!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/2f4d9192-f5f0-4012-9541-3f626d30b560_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/2f4d9192-f5f0-4012-9541-3f626d30b560_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:04</itunes:duration>
+      <pubDate>Sun, 09 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ed7838sq3_d2-9OYozWulg0NzmS9zFmRBVwSpWd-kCUQ.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Marit Larsen</title>
+      <description><![CDATA[Artist og superstjerne Marit Larsen slipper nytt album, en kjærlighetserklæring til kvinnene i sitt liv, og avslører hvem hun IKKE vil at skal covre låtene hennes!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/3e5fd459-cad5-4d61-a064-5f9a08a6fa34_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/3e5fd459-cad5-4d61-a064-5f9a08a6fa34_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:05</itunes:duration>
+      <pubDate>Sun, 02 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vPKN4n42_3HrmXUhOzjU5Q3JOe5l_fu0TDMAxri2qRyA.jpg"/>
+    </item>
+    <item>
+      <title>Else besøker: Martin Beyer-Olsen</title>
+      <description><![CDATA[Else besøker sin gode venn! Martin er i pappaperm, han har vært på Bali og blitt bitt av hund, kjøpt seg ny fløyte og prøvd gong-bad! Og vi får endelig avklart: Har Else prøvd seg på Martin en gang?!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/1b876c66-f43a-4285-a152-e11bd3d01020_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/1b876c66-f43a-4285-a152-e11bd3d01020_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:25</itunes:duration>
+      <pubDate>Sun, 26 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U-4eo4jAQLf85ZNMXk3oLggrKX-Jx4pigdp-gAxY8fuw.jpg"/>
+    </item>
+    <item>
+      <title>Else møter: Galvan Mehidi</title>
+      <description><![CDATA[Komiker, programleder, kurder og østfolding Galvan Mehidi tar oss med til sitt favoritt-søndagssted og deler historier om angst, bombing og pølser!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/0a17adbe-51e5-4cf5-9b66-de5f91af965d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/0a17adbe-51e5-4cf5-9b66-de5f91af965d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:22</itunes:duration>
+      <pubDate>Sun, 19 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2-bZeFC0sL-e3AN1TFByMAQ-PJktLKg93Uj4o2G_Tg0Q.jpg"/>
+    </item>
+  </channel>
+</rss>

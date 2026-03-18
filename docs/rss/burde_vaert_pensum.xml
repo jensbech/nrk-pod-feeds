@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Burde vært pensum</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Smarte folk deler kunnskap du gjerne skulle hatt, men aldri får tid til å lese deg opp på. I hver episode får du et dypdykk inn i temaer de selv mener burde vært pensum!</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:17:31 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    <item>
+      <title>Gaming kan redde familien</title>
+      <description><![CDATA[Gamer Christopher Robin Omdahl forklarer hva Fortnite er, så du skjønner hva barna dine driver med. Han mener at gaming kan skape sterke familiebånd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/d6fa1368-8113-4e1c-9a76-10e3461adb5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d6fa1368-8113-4e1c-9a76-10e3461adb5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:47</itunes:duration>
+      <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xX7H1xfabd0uuI5O18N6VQnJzpVHTyaaif5x1fPc29yg.jpg"/>
+    </item>
+    <item>
+      <title>Når bør du få barn?</title>
+      <description><![CDATA[Journalist Penny Wayne Claire Kembba forklarer det du må vite om den berømte biologiske klokka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e3b068da-e8fc-4f0b-8200-41f151927924_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e3b068da-e8fc-4f0b-8200-41f151927924_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:25</itunes:duration>
+      <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/88nRUN9cbZW-jRho3IjMdQUac63XwvSEqjcNvtd-2u4g.jpg"/>
+    </item>
+    <item>
+      <title>Ut på tur, alltid smørblid!</title>
+      <description><![CDATA[Speiderveteran Petter Schjerven gir deg oppskriften på hvordan du lekende lett kommer deg opp av sofaen og ut på tur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/8b894deb-6b23-4e4f-9fe9-a115ec691fb3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/8b894deb-6b23-4e4f-9fe9-a115ec691fb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:48</itunes:duration>
+      <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3H0gzRteYxpeGH9h4EEe5AnKaGzGDhXzOv7cJovxEKpw.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan lykkes med kjærligheten?</title>
+      <description><![CDATA[Filosof Kaja Melsom forklarer hemmeligheten bak et langt og lykkelig forhold.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e9436f7a-2524-4d35-ad4a-a8056981e3b7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e9436f7a-2524-4d35-ad4a-a8056981e3b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:50</itunes:duration>
+      <pubDate>Mon, 23 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BNa4jKzfLCxVqup7A2COtwMrRYS46bc28ILW5mArS33g.jpg"/>
+    </item>
+    <item>
+      <title>Kan vi stole på Nato?</title>
+      <description><![CDATA[Professor ved Forsvarets høgskole i Oslo, Tormod Heier, forklarer alt du må vite om verdens mektigste militærklubb.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/1d7bfc71-75a9-4a3a-89fb-b115cf7d0062_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/1d7bfc71-75a9-4a3a-89fb-b115cf7d0062_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:38</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan unngå tankekjør?</title>
+      <description><![CDATA[Formidler Dennis Siva Lie forklarer en metode som kan få deg opp og ut av negativt tankekjør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/fc831ada-5779-4f8b-b897-da867fa92791_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/fc831ada-5779-4f8b-b897-da867fa92791_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:36</itunes:duration>
+      <pubDate>Mon, 09 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HJjHYYg-joSMXEsVS841aQGwoMmEuykyg74ssqYjNt0g.jpg"/>
+    </item>
+    <item>
+      <title>Hva vil det si å være "woke"?</title>
+      <description><![CDATA[Vi blir mer og mer «woke», sier mange. Journalist Danby Choi forklarer hva det betyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/9ce0586b-f567-4642-ad5d-34b9d74d45ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/9ce0586b-f567-4642-ad5d-34b9d74d45ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:50</itunes:duration>
+      <pubDate>Mon, 02 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mlax2Oja_-AUM8WnJD62AAM9k70PcxcZXjhFLBkKRBQg.jpg"/>
+    </item>
+    <item>
+      <title>Kjønnssykdommer er ikke flaut!</title>
+      <description><![CDATA[Stadig flere blir smittet av kjønnssykdommer. Lege Ellen Støkken Dahl forklarer hvorfor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/4e591078-55d4-4548-8945-28280f989a4c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/4e591078-55d4-4548-8945-28280f989a4c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:43</itunes:duration>
+      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/A8wHEBu8uJ_HiRq6j0Wc0wCk34KT_phHwNreuHzehw3A.jpg"/>
+    </item>
+    <item>
+      <title>Genredigert mat kan redde verden</title>
+      <description><![CDATA[Biolog Sigrid Bratlie forklarer hvordan genredigert mat kan redde verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/3d63a666-2fe4-4a69-b54d-272a12f1edd2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/3d63a666-2fe4-4a69-b54d-272a12f1edd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:02</itunes:duration>
+      <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8MYd25uCWI4WeMHQJPps_Q8RQfsbpZD3kfvbenhPO--g.jpg"/>
+    </item>
+    <item>
+      <title>Sånn redder du liv</title>
+      <description><![CDATA[Lege Katarina Flatland forteller deg hvordan du redder liv]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/82927a68-8fa0-43a8-a996-4d3a590fd623_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/82927a68-8fa0-43a8-a996-4d3a590fd623_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:37</itunes:duration>
+      <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fY8wrXvW8I2jTWXOCP00MArq_IwEY4GG7TL4i9OOq_JQ.jpg"/>
+    </item>
+    <item>
+      <title>Leveren din er magisk</title>
+      <description><![CDATA[Lege Ida Kathrine Gravensteen forteller alt du må vite om kroppens mest fascinerende organ.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/47a42f5f-8525-4398-80d6-978c5a3ac9e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/47a42f5f-8525-4398-80d6-978c5a3ac9e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:50</itunes:duration>
+      <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sgvlEgMk00Vp9QLSRssa_QFsbzp_DosGqJwQCbNOg-yw.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan bli kriminell?</title>
+      <description><![CDATA[B-gjengens gudfar Ghulam Abbas forklarer hva du må gjøre for å bli kriminell.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/5fa4e2b5-d7eb-47d7-a8a7-1cbf0652c8c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/5fa4e2b5-d7eb-47d7-a8a7-1cbf0652c8c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:42</itunes:duration>
+      <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5-tT6gNr4my8RWHcv6F6JAMQuMdrdoFpo7VqQEqKsqXg.jpg"/>
+    </item>
+    <item>
+      <title>Er Grunnloven oppskrytt?</title>
+      <description><![CDATA[Livet ditt styres av en 210 år gammel lov. Jurist Anine Kierulf forklarer hvorfor. Medvirkende: Borgar Høgetveit Berg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/b253d5ef-e033-4b82-863f-0fb7285b2616_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b253d5ef-e033-4b82-863f-0fb7285b2616_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:46</itunes:duration>
+      <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Velkommen til overgangsalderen!</title>
+      <description><![CDATA[Derfor blir hun sur og svetter om natten. Lege Marianne Natvik forklarer alt du må vite om overgangsalderen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/05cbe4d6-13b5-413b-a905-3016ae463884_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/05cbe4d6-13b5-413b-a905-3016ae463884_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:51</itunes:duration>
+      <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RKI28SD4WLrecZGSmCDITwIU_BvvkJ9Ys9X5Psaszaqw.jpg"/>
+    </item>
+    <item>
+      <title>Jakten på den gode søvnen</title>
+      <description><![CDATA[Nevropsykolog Tomas Myklebust gir deg tips til hvordan du får sove godt om natten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e992689c-ac12-4682-9457-a6bb8bb17b0c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e992689c-ac12-4682-9457-a6bb8bb17b0c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:37</itunes:duration>
+      <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IazpP8fP1mIg9SYxL8BwywjOc-Cpjma-JgzE0f9Fx1zw.jpg"/>
+    </item>
+    <item>
+      <title>Den livsviktige soppen</title>
+      <description><![CDATA[Sopp kan avgjøre din fremtid her på jorden. Rettsmedisiner og soppkontrollør Ida Kathrine Gravensteen forklarer hvordan soppen holder liv i oss. Medvirkende: Jan Ola Fodnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/6132d5a3-0ba8-4219-9c04-e0f4bb7099ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/6132d5a3-0ba8-4219-9c04-e0f4bb7099ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sgvlEgMk00Vp9QLSRssa_QFsbzp_DosGqJwQCbNOg-yw.jpg"/>
+    </item>
+    <item>
+      <title>Du blir overvåket</title>
+      <description><![CDATA[Sikkerhetsekspert Jørgen Rørvik forklarer hvordan internett overvåker deg og hva du bør gjøre med det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/ce85c9ef-ba5a-4311-a84c-f29d42bdd288_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/ce85c9ef-ba5a-4311-a84c-f29d42bdd288_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:46</itunes:duration>
+      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u8r0844_GQMdazIJq6WY7Q8WrOwDQQJzhuDhsboMIikQ.jpg"/>
+    </item>
+    <item>
+      <title>Lyder i havet</title>
+      <description><![CDATA[Hvert døgn durer titusenvis av lasteskip rundt på verdenshavene. Marinbiolog Emilie Hernes Vereide forklarer hva støy gjør med livet under vann. Medvirkende: Lise Doksæter Sivle 
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/19923231-c52b-4080-89d9-e7e848317adb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/19923231-c52b-4080-89d9-e7e848317adb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:45</itunes:duration>
+      <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U4MfCeitijYBPJTyWBZsDAIHZDkbN5LY34yxBFevKl6w.jpg"/>
+    </item>
+    <item>
+      <title>Mental hjernetrim</title>
+      <description><![CDATA[Mentaltrener Bjørn Mannsverk lærer deg å fikse egne problemer ved å trene hjernen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/f7ef11ce-78c6-4e48-8304-02e05dbfaf53_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/f7ef11ce-78c6-4e48-8304-02e05dbfaf53_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:21</itunes:duration>
+      <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iJsAeL86hjvaiW4nDk7_ewFq2Cwe0g4CDGoZSyxN0ihg.jpg"/>
+    </item>
+    <item>
+      <title>Hva skjer hvis månen forsvinner?</title>
+      <description><![CDATA[Fysiker Andreas Wahl forklarer hvordan månen påvirker oss. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/695e75c9-35a7-4378-8187-4b56bd6c88bb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/695e75c9-35a7-4378-8187-4b56bd6c88bb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:46</itunes:duration>
+      <pubDate>Mon, 01 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uIOTmiKEJMkm8CTx2Anv-wACeQDbb-Gg4gwv-iblNuZQ.jpg"/>
+    </item>
+    <item>
+      <title>Hva gjør en statsråd?</title>
+      <description><![CDATA[Bli med næringsminister Jan Christian Vestre på jobb. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/f901f634-5014-4e37-bfb5-92e578eb505a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/f901f634-5014-4e37-bfb5-92e578eb505a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:08</itunes:duration>
+      <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva gjør du hvis krisa treffer?</title>
+      <description><![CDATA[Forfatter Egil Aslak Hagerup forteller hva du bør gjøre før krisa kommer til landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/3b9cb67e-1e81-49c2-beab-743463fddbff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/3b9cb67e-1e81-49c2-beab-743463fddbff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:37</itunes:duration>
+      <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan skille seg?</title>
+      <description><![CDATA[Skilsmissen til forfatter Sanna Sarromaa var grusom. Nå gir hun gode råd som minsker katastrofen. Medvirkende: Peder Kjøs.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/71117fd0-4670-4a4a-bc91-85f98eda9a8c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/71117fd0-4670-4a4a-bc91-85f98eda9a8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:39</itunes:duration>
+      <pubDate>Mon, 02 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan starte egen bedrift?</title>
+      <description><![CDATA[Gründer Martin Schütt forteller hva som skal til for å lykkes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/9cf3df78-2049-4a1e-88c3-618cf18f2ec6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/9cf3df78-2049-4a1e-88c3-618cf18f2ec6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:56</itunes:duration>
+      <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Komiker Alex Rosen synes vi vet altfor lite om Norges største krigshelt</title>
+      <description><![CDATA[Dette må du vite om krigshelten Tordenskiold. Han er omtrent ikke på pensum lenger. Det mener komiker Alex Rosen er en skandale.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/bb4dfd04-641f-4311-b554-c5fda457a103_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/bb4dfd04-641f-4311-b554-c5fda457a103_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:28</itunes:duration>
+      <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Aksjesparing for nybegynnere </title>
+      <description><![CDATA[Aksjer er vår tids sparebøsse. Økonomikommentator i NRK Cecilie Langum Becker forklarer hvordan du kan tjene penger på aksjer. Medvirkende: Truls Tollefsen og Eirik Bakke ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/dca3810b-2ac4-4dd2-8ba4-e422762a0bc3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/dca3810b-2ac4-4dd2-8ba4-e422762a0bc3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:20</itunes:duration>
+      <pubDate>Mon, 11 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor blir du mobbet?</title>
+      <description><![CDATA[Kjemiker og podkaster Alexander Sandtorv ble mobbet på skolen. Han vet hva mobbing er, og hvordan det er mulig å komme seg videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7874c7e5-4cb5-45e7-bda5-a824e0a6be36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7874c7e5-4cb5-45e7-bda5-a824e0a6be36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:54</itunes:duration>
+      <pubDate>Mon, 04 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Få kontroll på pengene!</title>
+      <description><![CDATA[Økonom Lene Drange gir deg oppskriften på hvordan du kan få råd til det du har lyst på. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/b49af788-cd78-4577-863d-6a64640a77be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b49af788-cd78-4577-863d-6a64640a77be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:25</itunes:duration>
+      <pubDate>Mon, 28 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Algoritmer er ingen spøk</title>
+      <description><![CDATA[Vi bruker like mye tid på nettet som vi bruker på å sove. Journalist Lena Lindgren forklarer hva algoritmer er, og hvordan de påvirker deg. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/260ff30d-aa50-4ef2-8ba2-3b5ed7f9d941_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/260ff30d-aa50-4ef2-8ba2-3b5ed7f9d941_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:57</itunes:duration>
+      <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er lykke?</title>
+      <description><![CDATA[Vi elsker å være lykkelige, men hva er det? Lege Kaveh Rashidi forklarer lykke og hva som skal til for å bli lykkelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/9cfea767-8932-422a-896a-08768610ffaa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/9cfea767-8932-422a-896a-08768610ffaa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:14</itunes:duration>
+      <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Er stress egentlig farlig?</title>
+      <description><![CDATA[Stress er vår tids største “bad guy” Psykologspesialist Henrik Børsting Jacobsen gir deg tips om hvordan giftig stress kan bli en superkraft. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/b15b3606-308d-4220-adfc-66aef3812845_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b15b3606-308d-4220-adfc-66aef3812845_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:42</itunes:duration>
+      <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er en god diskusjon?</title>
+      <description><![CDATA[Ofte ender diskusjonen i krangel. Filosof Einar Duenger Bøhn vil at du skal unngå krangelen, og gir deg tre kjøreregler for en god diskusjon. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/12bd704e-f79f-4140-8926-f813e6b249e4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/12bd704e-f79f-4140-8926-f813e6b249e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:43</itunes:duration>
+      <pubDate>Mon, 20 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan takler du hersketeknikker?</title>
+      <description><![CDATA[Hersketeknikker kan psyke deg helt ut. Journalist Hilde Sandvik forteller hva du bør gjøre når du utsettes for det. Medvirkende: Sofie Frøysaa]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/e15d0004-c981-401d-bfad-4c2508c7f533_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/e15d0004-c981-401d-bfad-4c2508c7f533_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:33</itunes:duration>
+      <pubDate>Mon, 13 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva tenker hunden</title>
+      <description><![CDATA[Hunden er ikke alltid menneskets beste venn. Hundetrener Maren Teien Rørvik forklarer hva hunden tenker og hvorfor det er viktig å forstå hunden for å lykkes med hundetreningen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7374732c-72b4-4788-a96f-13519dac2fe7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7374732c-72b4-4788-a96f-13519dac2fe7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:40</itunes:duration>
+      <pubDate>Mon, 06 Feb 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hjelp, jeg skal føde!</title>
+      <description><![CDATA[ Fødselslege Thorbjørn Brook Steen tar deg med på en fødsel fra start til slutt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/eaf517da-08fd-4a9c-8094-1485f1f5073c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/eaf517da-08fd-4a9c-8094-1485f1f5073c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:49</itunes:duration>
+      <pubDate>Mon, 30 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva gjør en stortingsrepresentant?</title>
+      <description><![CDATA[Hva skjer på Stortinget? Jusforsker Sofie Høgestøl tar deg med inn på Stortinget for å forklare hva en stortingsrepresentant jobber med. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/108ec696-6cee-4473-a773-29aa096a388e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/108ec696-6cee-4473-a773-29aa096a388e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:02</itunes:duration>
+      <pubDate>Mon, 23 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Det vidunderlige havet</title>
+      <description><![CDATA[Havet er en skattekiste. Marinbiolog Pia Ve Dahlen tar deg med på en spennende oppdagelsestur under vann. Medvirkende: Susanna Huneide Thorbjørnsen og Elisabeth Tønnessen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/b2cf7ab8-65af-4c8c-befa-3a0f5a9bfb24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/b2cf7ab8-65af-4c8c-befa-3a0f5a9bfb24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:53</itunes:duration>
+      <pubDate>Mon, 16 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Antibiotikakrisen</title>
+      <description><![CDATA[Kjemiker Alexander Sandtorv forklarer alt du bør vite om medisinen som forandret verden. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7e88fd11-4a7a-4ada-9e29-68c4d9bffa73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7e88fd11-4a7a-4ada-9e29-68c4d9bffa73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <pubDate>Mon, 09 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sth_HzEd1L_Zc-oheoLI1Q6_lnNWjjZ_fnxAbq3EjiBQ.jpg"/>
+    </item>
+    <item>
+      <title>La oss snakke om seksualitet </title>
+      <description><![CDATA[Seksualitet er mer enn sex. Spesialist i sexologisk rådgivning, Nanna Klingenberg, forklarer hvorfor du bør snakke med partneren din om sex. 
+
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:21</itunes:duration>
+      <pubDate>Mon, 02 Jan 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Liket etter døden</title>
+      <description><![CDATA[Patolog Line Aas Sandnes tar deg med på obduksjon for å forklare hva som skjer med kroppen etter at du dør. Medvirkende: Camilla Holten Gidske og Rune Sem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7a32b906-2cb8-4fe5-bc58-b5f0723f24ee_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7a32b906-2cb8-4fe5-bc58-b5f0723f24ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:19</itunes:duration>
+      <pubDate>Mon, 17 Oct 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er gjeld?</title>
+      <description><![CDATA[Økonomikommentator i NRK, Cecilie Langum Becker, forklarer det kjipe og det fantastiske med gjeld. Medvirkende: Bård Ove Molberg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/d2aa6938-acb5-41ea-af30-1bb662327d69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d2aa6938-acb5-41ea-af30-1bb662327d69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:42</itunes:duration>
+      <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvor farlig er radioaktiv stråling?</title>
+      <description><![CDATA[Radioaktiv stråling gjør mange redde. Men hvor redde bør vi være? Kjernefysiker Sunniva Rose gir deg svar. Medvirkende: Anders Magnus]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/2d2b48d0-677c-4308-8452-2d84095b5565_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/2d2b48d0-677c-4308-8452-2d84095b5565_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:50</itunes:duration>
+      <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Den mystiske fargen brun</title>
+      <description><![CDATA[Brødet i butikken er ikke brunt slik som du tror. Fysiker Andreas Wahl forklarer hvorfor han mener at fargen brun ikke finnes. Medvirkende: Eivind Stoud Platou ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/10c8f3f7-59a3-4af7-8e7d-12b9d204d53b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/10c8f3f7-59a3-4af7-8e7d-12b9d204d53b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:16</itunes:duration>
+      <pubDate>Mon, 26 Sep 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva skjer hvis Russland angriper Norge? </title>
+      <description><![CDATA[Tormod Heier, professor ved Forsvarets høgskole, forklarer hva som skjer hvis Russland går til krig mot Norge. Hadde vi klart å forsvare oss selv? Medvirkende: Stein Helge Kingsrød, Tor Ivar Strømmen, Thea Baastad og Christian Hole.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/96ac71c1-0b24-40ba-b1c7-86c1c2b8d47e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/96ac71c1-0b24-40ba-b1c7-86c1c2b8d47e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:26</itunes:duration>
+      <pubDate>Mon, 19 Sep 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Den deilige og farlige alkoholen</title>
+      <description><![CDATA[Kjemiker Alexander Sandtorv tar deg med på fest for å forklare hva alkohol er og hva det gjør med kroppen din. Medvirkende: Runar Døving]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/dfa5b0e3-8d13-47db-9ac1-cc9536c4683b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/dfa5b0e3-8d13-47db-9ac1-cc9536c4683b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:55</itunes:duration>
+      <pubDate>Mon, 12 Sep 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvem er du egentlig?</title>
+      <description><![CDATA[Hjerneforsker Kaja Nordengen tar deg med inn i hjernen for å vise hvordan personligheten din lages.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/72e15a5b-ab30-496b-8edf-db3a205eb0b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/72e15a5b-ab30-496b-8edf-db3a205eb0b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:35</itunes:duration>
+      <pubDate>Mon, 05 Sep 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Finnes det en Gud?</title>
+      <description><![CDATA[Hvis det finnes en Gud, hvorfor skjer det så mye kjipt i verden? Professor i filosof Einar Duenger Bøhn undrer seg over Gud. Medvirkende: Sunniva Gylver og Kristoffer Schau.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/d53e20cf-29af-4949-82aa-ace3886ac95c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d53e20cf-29af-4949-82aa-ace3886ac95c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:29</itunes:duration>
+      <pubDate>Mon, 29 Aug 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Det farlige nordlyset</title>
+      <description><![CDATA[Det har alltid vært noe mystisk og fantastisk med nordlyset. Fysiker Veronica Danielsen forteller hvorfor det magiske lyset også er et faresignal om en stor katastrofe. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/d13bfa45-aa27-4dfa-b7f5-2cf5701e9272_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/d13bfa45-aa27-4dfa-b7f5-2cf5701e9272_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:39</itunes:duration>
+      <pubDate>Mon, 22 Aug 2022 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er sykdom?</title>
+      <description><![CDATA[Sykdom handler om din kropp og ditt sinn, men skillet mellom syk og frisk er ikke alltid er så enkel. Lege Kaveh Rashidi forklarer hvem som bestemme om du er syk eller ikke. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/ae2355c6-933c-409f-8a71-6a8608f2ebe7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/ae2355c6-933c-409f-8a71-6a8608f2ebe7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:19</itunes:duration>
+      <pubDate>Mon, 22 Aug 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+    <item>
+      <title>Det gåtefulle atomet</title>
+      <description><![CDATA[Det å forstå atomet handler om å forstå livet og døden. Kjemiker Alexander Harald Sandtorv forklarer hvordan det gåtefulle atomet holder verden sammen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/316933e7-da13-424f-83b3-07f716e9b070_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/316933e7-da13-424f-83b3-07f716e9b070_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:48</itunes:duration>
+      <pubDate>Mon, 11 Apr 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA.jpg"/>
+    </item>
+  </channel>
+</rss>

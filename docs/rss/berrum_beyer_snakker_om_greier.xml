@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Berrum &amp; Beyer snakker om greier</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>En tretrinnsrakett der Berrum har noen greier, Beyer har noen greier og lytterne har sine greier. To venner som ser etter en venn til. </description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:17:02 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2025 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    <item>
+      <title>Markus Vangen: Bassengkjeller</title>
+      <description><![CDATA[Sercuritassen, Markus Vangen, er dagens gjest. Det blir preik om å være prestesønn, starte iskrem butikk og bassengkjelleren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/69dbf727-b256-4a38-9751-a818d8548e66_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/69dbf727-b256-4a38-9751-a818d8548e66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:23</itunes:duration>
+      <pubDate>Fri, 31 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uOnn_WzWd9jCmNGeRYKYmwRpZ5ixeaKv4gzRf4GDuy_g.jpg"/>
+    </item>
+    <item>
+      <title>Granca 6: Jeg er helt Bezos</title>
+      <description><![CDATA[Lars er helt Bezos på granca. Martin har venta på artikkel om egg. Sammen diskuterer de når frukten i butikk raser sammen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b3233967-8bb9-42cc-b5cb-fd1a56a1f0a3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b3233967-8bb9-42cc-b5cb-fd1a56a1f0a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:21</itunes:duration>
+      <pubDate>Tue, 28 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Annika Momrak: Buldring i bilen</title>
+      <description><![CDATA[Annika Momrak titter innom podden i dag. Det blir prat om buldring, bo i bilen og adhd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/672e6c3f-43d6-4b15-bd95-dde7394ceb49_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/672e6c3f-43d6-4b15-bd95-dde7394ceb49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:12</itunes:duration>
+      <pubDate>Fri, 24 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VA9-H7iHFn-90o74FtnqdQ0uAkC5GdOUih_g5lGAXA1w.jpg"/>
+    </item>
+    <item>
+      <title>Granca 5: ubesvart fra Rudberg</title>
+      <description><![CDATA[Lars har vært ute med Herodes Faslk og Rune Rudberg. Martin har tanker om Trumps innsettelse. Sammen diskuterer de henda i lomma med votter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e6803a86-5664-4fb3-a875-b10003d5135d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e6803a86-5664-4fb3-a875-b10003d5135d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:09</itunes:duration>
+      <pubDate>Tue, 21 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Aslak Maurstad: camo og dansematte</title>
+      <description><![CDATA[Aslak Maurstad er dagens gjest. Det blir prat om straming, dansematte og camo klær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/34f48ce0-469c-471b-9453-60284bd33d5d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/34f48ce0-469c-471b-9453-60284bd33d5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:42</itunes:duration>
+      <pubDate>Fri, 17 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-wjShNm5brFT_W9ftFuoVw1IUy8vsHQ6lsx3cnl9NYKQ.jpg"/>
+    </item>
+    <item>
+      <title>Granca 4: Greven, gamling og betting.</title>
+      <description><![CDATA[Lars har giftet seg. Martin har filma det. Sammen diskuterer de bållukt på klær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/744f830e-1931-40ad-b4f2-fb9e72fd70d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/744f830e-1931-40ad-b4f2-fb9e72fd70d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:45</itunes:duration>
+      <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Anne Lindmo: Hundre meter foran</title>
+      <description><![CDATA[Programleder Anne Lindmo er dagens gjest. Det blir preik om å gå på cafe og da Lars og Anne var på tur i skauen sammen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/809da086-cb39-459f-8648-80587e559c2e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/809da086-cb39-459f-8648-80587e559c2e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:30</itunes:duration>
+      <pubDate>Fri, 10 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Akb8qtUTT0m6goZLYiiFlgBrLLL6IaM3gdY-A5tj2txg.jpg"/>
+    </item>
+    <item>
+      <title>Granca 3: Koloniherre i calima</title>
+      <description><![CDATA[Lars er fanget inne på grunn av sandstorm. Martin har overhørt folk på restaurant. Sammen diskuterer de autentisk taco.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1598442f-e241-46c5-ab8b-0ac53c84f7fc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1598442f-e241-46c5-ab8b-0ac53c84f7fc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:47</itunes:duration>
+      <pubDate>Tue, 07 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Javad El Bakali: Hjerneskada?</title>
+      <description><![CDATA[Komiker Javad El Bakali er på plass. Det blir preik om Marokko, Javads nye bok og da han ble påkjørt som barn og mulig pådro seg en hjerneskade.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/3f75d654-1dc3-4cbd-8138-27f1ebef0693_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/3f75d654-1dc3-4cbd-8138-27f1ebef0693_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:38</itunes:duration>
+      <pubDate>Fri, 03 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Granca 2: Livet i hula er herlig</title>
+      <description><![CDATA[Lars har sett en huleboer. Martin har drekki på seg Alzheimer. Sammen diskuterer de å vaske bikkja med mannesjampo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5c5716e4-b205-44d7-9838-b5a8f692b533_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5c5716e4-b205-44d7-9838-b5a8f692b533_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:22</itunes:duration>
+      <pubDate>Tue, 31 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Odd Nordstoga: Fela i en yuccapalme.</title>
+      <description><![CDATA[Nasjonalskatt Odd Nordstoga er dagens gjest. Det blir prat om da en i bandet falt med fela i en yuccapalme og når i jula musikken hans stuper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/055db0bd-c91f-4301-8184-6f9e6d9672c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/055db0bd-c91f-4301-8184-6f9e6d9672c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:17</itunes:duration>
+      <pubDate>Fri, 27 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eAdR2c6fIAOL3sML8QrTsQXDVkAjvJEkPkG0GMOvvSzA.jpg"/>
+    </item>
+    <item>
+      <title>Granca 1: Det finnes ikke sokker nerrafor!</title>
+      <description><![CDATA[Lars er sokkeløs i granca! Martin har fisi uten å lukte det. Sammen diskuterer de om GT er den nye vinen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/851b6ecf-895d-446f-b085-310011be1e69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/851b6ecf-895d-446f-b085-310011be1e69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:26</itunes:duration>
+      <pubDate>Tue, 24 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Harald Rønneberg: Softis og chop suey</title>
+      <description><![CDATA[Talkshow konge Harald Rønneberg er gjest. Det blir prat om Østfold, Frogner, Senkveld og Chop suey!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/4feba5b6-3c60-46d7-aafc-6087cb0a3a65_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/4feba5b6-3c60-46d7-aafc-6087cb0a3a65_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:13</itunes:duration>
+      <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XLwovbjM55JMiXiM7EfcYAPvnRd_kIP8x26Xhi5Q-GiQ.jpg"/>
+    </item>
+    <item>
+      <title>God far, soon bedtime og julefinger</title>
+      <description><![CDATA[Lars og madamen har diskutert om gode fedre. Martin har funnet svensk motivasjon på Instagram. Sammen diskuterer de fenomenet julefinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/46c6c8f2-b3e7-449c-8e50-db90419a6cd0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/46c6c8f2-b3e7-449c-8e50-db90419a6cd0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:27</itunes:duration>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Admiral P: Mancave i Askim</title>
+      <description><![CDATA[Admiral P er dagens gjest. Det blir prat om våpnene i mancaven hans og hvordan kraftig bass gjør at du spyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5ea5777a-5750-4b20-8417-813214222b11_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5ea5777a-5750-4b20-8417-813214222b11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:29</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xWNZeG4FQRHwL3eq7xT8sA_6g3xeWhxELoFU4ovcMr8Q.jpg"/>
+    </item>
+    <item>
+      <title>Brett ut, velg purre og si onkel</title>
+      <description><![CDATA[Lars og Martin har fått beskjed om å velge purre på fin restaurant. Sammen diskuterer de om man skal slutte å si onkel og tante.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b1943dc5-dfc3-4718-98c9-0c8e1a4e0590_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b1943dc5-dfc3-4718-98c9-0c8e1a4e0590_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:52</itunes:duration>
+      <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Torbjørn Harr: Hilary Duff og barista</title>
+      <description><![CDATA[Skuespiller Torbjørn Harr er dagens gjest. Det blir preik om da han spilte i serie med Hilary Duff, Martins presidentverdige entré og da Torbjørn ble konfrontert av barista.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/145415f3-b625-40f4-bc6a-89088f1d6c41_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/145415f3-b625-40f4-bc6a-89088f1d6c41_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:27</itunes:duration>
+      <pubDate>Fri, 06 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/il7Ay1qUhgFeR3emI3OPSQa0LNkkpTlqU0LfYdz-qT9g.jpg"/>
+    </item>
+    <item>
+      <title>Firkantprikker, JEG HØRER IKKE og langt hår</title>
+      <description><![CDATA[Lars har feiret bursdagen til madamen. Martin har blitt oppringt på natta. Sammen diskuterer de om folk med langt hår har vond rygg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/efaac6da-be0f-4182-9b72-c95e99f8e1dd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/efaac6da-be0f-4182-9b72-c95e99f8e1dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:22</itunes:duration>
+      <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Dancing the conga: Spill musikk!</title>
+      <description><![CDATA[Indiebandet Dancing the conga er på plass i dag. Det blir preik om indirock, da noen ropte "spill musikk" på konsert og litt psykologi!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/51c5dae6-8cf4-4148-af7e-7d30a7ca9c43_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/51c5dae6-8cf4-4148-af7e-7d30a7ca9c43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:43</itunes:duration>
+      <pubDate>Fri, 29 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7E1pVi1EKMoy2xIPK7c-lgjpFu8wMYRNuB02H4yyaIeg.jpg"/>
+    </item>
+    <item>
+      <title>Fotovergang, bro code og rå potet</title>
+      <description><![CDATA[Lars har blitt truet av drosjesjåfør. Martin har plutselig fått en vanlig søndag. Sammen diskuterer de om rå grønnsaker er best.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/a638ccd4-8353-4349-aac3-9bc32fb0756d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/a638ccd4-8353-4349-aac3-9bc32fb0756d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:32</itunes:duration>
+      <pubDate>Tue, 26 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Ine Jansen: Urinhotell og spøkelser</title>
+      <description><![CDATA[Skuespiller Ine Jansen er dagens gjest. Det blir prat om beste og verste land, skuespillerlivet og om å jobbe med Linn Skåber.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b6a401a7-54bd-4ff0-97b4-8f011f557ed9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/b6a401a7-54bd-4ff0-97b4-8f011f557ed9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:14</itunes:duration>
+      <pubDate>Fri, 22 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aUHCeFCDSE_ziYVXgVBTkgNGgBN3GeigL5TgQHxpsjMg.jpg"/>
+    </item>
+    <item>
+      <title>Øl hører til, midlivs dj og beltehygiene</title>
+      <description><![CDATA[Lars har mata ungen som en fugl. Martin har vært ekte dj. Sammen diskuterer de om vi skal vaske belter eller ikke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/828528fc-6d93-4947-b449-a54c81576043_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/828528fc-6d93-4947-b449-a54c81576043_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:40</itunes:duration>
+      <pubDate>Tue, 19 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Ingar Helge Gimle: Et rom og kjøkken</title>
+      <description><![CDATA[Skuespiller Ingar Helge Gimle er dagens gjest. Det blir prat om hverdags-angst, masseflyttinga hans og en liten rolle i Skottland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/cc020d66-af09-44f3-a25c-9b44f587d0ed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/cc020d66-af09-44f3-a25c-9b44f587d0ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:57</itunes:duration>
+      <pubDate>Fri, 15 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7UYf2MAWqVi4JcLQftJBaAH7U_5T1AjqjOqp_S-Ik-MA.jpg"/>
+    </item>
+    <item>
+      <title>Hul five, nummen frontallapp og du er flink</title>
+      <description><![CDATA[Lars har gitt en solid high five. Martin synes det har blitt for kaldt. Sammen diskuterer de folk som sier "du er flink".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/7eddb10f-f6d9-498f-80ac-48e6f3db3420_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/7eddb10f-f6d9-498f-80ac-48e6f3db3420_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Tue, 12 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Girl in red:  Ukjent nemisis</title>
+      <description><![CDATA[Marie Ulven Ringheim er dagens gjest. Det blir prat om depresjon, hodeplagg og hvorfor Lars er Maries nemesis!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5de3f910-0ef4-49b0-8308-b03970a861a8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/5de3f910-0ef4-49b0-8308-b03970a861a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:16:38</itunes:duration>
+      <pubDate>Fri, 08 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4_rmtZtR9i4qXsHK5okf_AJOTdMQOeI1GKyeHnHbYLQw.jpg"/>
+    </item>
+    <item>
+      <title>Hissig lyd,  besserwisser og gå på mølla</title>
+      <description><![CDATA[Lars har hatt migrene i barnebursdag. Martin har vært rundt masse besserwissere og sammen diskuterer de å gå på tredemølle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/006a7702-179c-4b3e-ad0f-d2f4c16a7689_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/006a7702-179c-4b3e-ad0f-d2f4c16a7689_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:21</itunes:duration>
+      <pubDate>Tue, 05 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Unge Obi: Seig geit og Berghain</title>
+      <description><![CDATA[Artist Andreas Nesteby Obrenovic er dagens gjest. Det blir prat om Hovseter, da han spiste seig geit og utdeling av pris?!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/bc6e6182-c176-4728-b159-1b03dc81831e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/bc6e6182-c176-4728-b159-1b03dc81831e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:55</itunes:duration>
+      <pubDate>Fri, 01 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UgOJHRkZW8N9xoP7PRplsQ5meADJ0EMDNTCJD8XrlqFA.jpg"/>
+    </item>
+    <item>
+      <title>Negroni, Rogan rigging og skate klær</title>
+      <description><![CDATA[Lars har blitt påtvunget negroni. Martin har hatt ADHD i hagan. Sammen diskuterer de 40 år gamle menn i skateklær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/ab1cb1d6-bb40-4f91-98e3-e37ef3db137b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/ab1cb1d6-bb40-4f91-98e3-e37ef3db137b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:58</itunes:duration>
+      <pubDate>Tue, 29 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Ine Marie Wilmann: Ironisk filming og dyne fra taket.</title>
+      <description><![CDATA[Skuespiller Ine Marie Wilmann er dagens gjest. Det blir prat om da hun var på prøvefilming med Lars og da det falt en dyne fra taket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/0fa2e945-9c3b-4bd6-b3f6-9732f8da1ffb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/0fa2e945-9c3b-4bd6-b3f6-9732f8da1ffb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:41</itunes:duration>
+      <pubDate>Fri, 25 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y9OdqEBXYeuQxjZffOY5ggkvafindhNwjUdShnQG3BHQ.jpg"/>
+    </item>
+    <item>
+      <title>Ondt blikk, flomlasjon og dusklue.</title>
+      <description><![CDATA[Lars har møtt sur dame på Nationaltheatret. Martin har vært i andre gangs bryllup. Sammen diskuterer de voksne med dusklue.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/6a3f1490-0cd8-4fdb-8f6f-13a228c6a398_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/6a3f1490-0cd8-4fdb-8f6f-13a228c6a398_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:21</itunes:duration>
+      <pubDate>Tue, 22 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Solveig Kloppen: Snill og raggsokker</title>
+      <description><![CDATA[Programleder Solveig Kloppen er dagens gjest. Det blir prat om snillhet, om Solveig er litt for empatisk og litt om Bot og bedring]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/71a991d0-609d-47c7-9c48-1a19880f6314_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/71a991d0-609d-47c7-9c48-1a19880f6314_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:04</itunes:duration>
+      <pubDate>Fri, 18 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/333Ur9_3QEePac_0f8UdkAYyWx9x22QxTofIVjBtFlBQ.jpg"/>
+    </item>
+    <item>
+      <title>Hotshot, menthalvt og dobørste</title>
+      <description><![CDATA[Lars er ikke hotshot lenger. Martin har blitt utsatt for catfishing. Sammen diskuterer de hvor ofte man skal bytte dobørste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e11846c8-a162-44f5-afe6-04725dfc1fa3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e11846c8-a162-44f5-afe6-04725dfc1fa3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:31</itunes:duration>
+      <pubDate>Tue, 15 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Martin Lepperød: Børek-olje og klamydiadam</title>
+      <description><![CDATA[Komiker Martin Lepperød er dagens gjest. Det blir prat om klamydia-dammen på Roskilde og da han fikk en olje som kurerer kreft.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/27535452-3273-45a9-b4d2-daf37651517f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/27535452-3273-45a9-b4d2-daf37651517f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:09</itunes:duration>
+      <pubDate>Fri, 11 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pEF4rJipU6xT6BziXst5_gNEEsrXKjG6uOjM44kCdYmg.jpg"/>
+    </item>
+    <item>
+      <title>Nu rimmar vi, spydd børs og fjasiten på verden</title>
+      <description><![CDATA[Lars har kjøpt ny barnebok til sønnen. Martin har vært på Michelin restaurant i Berlin. Sammen gir de fjasiten på verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f798cd1b-59ce-4f8c-b106-7768845d5c3b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f798cd1b-59ce-4f8c-b106-7768845d5c3b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:05</itunes:duration>
+      <pubDate>Tue, 08 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Viggo Venn: Kenguru og mentor</title>
+      <description><![CDATA[Klovn Viggo Venn er innom. Det blir prat om å ha mentor, livet som klovn og da Viggo holdt på å bli drept av en kenguru.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/85b523a6-a1d8-436d-a8cb-57d641d683c2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/85b523a6-a1d8-436d-a8cb-57d641d683c2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:36</itunes:duration>
+      <pubDate>Fri, 04 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TYdwmOop6Hc9W9M_lUU3MQhfoSsqJy7XmlzpLC-OHWqw.jpg"/>
+    </item>
+    <item>
+      <title>Stang inn, øl på månen og få ut verden</title>
+      <description><![CDATA[Lars har gått fra stang ut til stang inn. Martin har blitt mobbet på konsert. Sammen diskuterer de lydisolert headsett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/fd37b72a-0b1a-419b-a346-34ab6eb046c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/fd37b72a-0b1a-419b-a346-34ab6eb046c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:06</itunes:duration>
+      <pubDate>Tue, 01 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Hans Olav Brenner: Energy is everything!</title>
+      <description><![CDATA[Programleder Hans Olav Brenner er dagens gjest. Det blir prat om skuespillerdrømmen, hvordan han intervjuer og da han var et nett-troll.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f9562e6e-93b6-4970-99fd-04581573e645_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f9562e6e-93b6-4970-99fd-04581573e645_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:14</itunes:duration>
+      <pubDate>Fri, 27 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yf_8YwcpE4UiHOcvf6lIuwi2rsIXewRDhRtwojzw5Ukw.jpg"/>
+    </item>
+    <item>
+      <title>Munnvarp, jeg tenker Sveits og langvokst</title>
+      <description><![CDATA[Lars har oppfylt en av to drømmer. Martin er lei av å bruke tid. Sammen diskuterer de om salt og pepper er frekt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/fa5bd731-1c23-4a07-af9a-31288aac937f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/fa5bd731-1c23-4a07-af9a-31288aac937f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:13:17</itunes:duration>
+      <pubDate>Tue, 24 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Nora Svenningsen: Vond ræv og paralympics</title>
+      <description><![CDATA[Komiker Nora Svenningsen er dagens gjest. Det blir prat om Paralympics og rumpesmerter inni hælja!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/2d2cdbbb-9303-4b54-bb65-64aa15a11f61_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/2d2cdbbb-9303-4b54-bb65-64aa15a11f61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Fri, 20 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yd3PegeQBFkjuH-rvMOHtwDqeNoNuVDvUnysqYOkFozw.jpg"/>
+    </item>
+    <item>
+      <title>Agatha Crisby,  Hvasser og skvatt du?</title>
+      <description><![CDATA[Lars har hatt forferdelig skjeggsveis. Martin lanserer lørdag den fjortende som fæl dag. Sammen diskuterer de skremming.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/622d5f26-d1e0-4106-9f38-273eb7b44370_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/622d5f26-d1e0-4106-9f38-273eb7b44370_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:11</itunes:duration>
+      <pubDate>Tue, 17 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Ingrid Gjessing Linhave: cardigan og inte rolig</title>
+      <description><![CDATA[Programleder Ingrid Gjessing Linhave er dagens gjest. Blir prat om navnet hennes, livet i nytt på nytt og da hun fikk beskjed om å ikke være morsom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/3c9b4209-08ed-4c6d-bafc-e838dcfb5dc8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/3c9b4209-08ed-4c6d-bafc-e838dcfb5dc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:19</itunes:duration>
+      <pubDate>Fri, 13 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sO9pe8krXR91Vnjq_9RufQtbxd1zufRAt4cPov_vE1_w.jpg"/>
+    </item>
+    <item>
+      <title>Legging, spre glede og katana</title>
+      <description><![CDATA[Lars ringer folk når de legger barn. Martin vil spre glede. Sammen diskuterer de å ha katana hjemme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/df69846a-846f-42d0-a642-58ed8016b63e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/df69846a-846f-42d0-a642-58ed8016b63e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:39</itunes:duration>
+      <pubDate>Tue, 10 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Hans Henrik Verpe: Når kappen faller</title>
+      <description><![CDATA[Tryllekunstner Hans Henrik Verpe er dagens gjest. Det blir prat om å løpe barbeint, trylling, og om det er bekmørkt når kappen faller.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/56d13cb0-02a3-4185-830f-bc1f8f70bcdf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/56d13cb0-02a3-4185-830f-bc1f8f70bcdf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:38</itunes:duration>
+      <pubDate>Fri, 06 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ppb_J2ALMg2i177IhaHM4wpnLVdsz7B0yMdWSzfESPzQ.jpg"/>
+    </item>
+    <item>
+      <title>Bjørnespising, inn &amp; ut og båsproblematikk</title>
+      <description><![CDATA[Lars spiser som en bjørn. Martin mener vi snakker for lite om de som er in og ut. Sammen diskuterer hvilken bås du skal velge på do.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f96b8795-ecd1-42ea-b88c-239d1dd8c6fd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/f96b8795-ecd1-42ea-b88c-239d1dd8c6fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:30</itunes:duration>
+      <pubDate>Tue, 03 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Asbjørn Slettemark: Tyske bad og balle-sketsj</title>
+      <description><![CDATA[Journalist Asbjørn Slettemark er innom. Det blir preik om bad i Berlin, hvordan det er å være anmelder og en naken sketsj Lars lagde med Asbjørn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/da4d1665-1ce7-40c5-851f-bae4328e986c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/da4d1665-1ce7-40c5-851f-bae4328e986c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Fri, 30 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o661spy5eDRvRCStfugTbwQ59C9CEzYGLo_JIgijTMYA.jpg"/>
+    </item>
+    <item>
+      <title>Trojansk nazi, tryggen på ryggen og bankekultur</title>
+      <description><![CDATA[Lars har lest landsloven. Martin har vært i hemmelig bryllup. Sammen diskuterer de å banke på dodøra når den er låst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/ee08bcd0-a7d8-4cf6-8aa8-07f0cff39ccd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/ee08bcd0-a7d8-4cf6-8aa8-07f0cff39ccd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:24</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Espen Abrahamsen: Kanke prate og hockey</title>
+      <description><![CDATA[Komiker Espen Abrahamsen er dagens gjest. Det blir preik om slapp kjeft, ishockey-livet og om å ta opp fag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/6c725d62-f56f-43e4-81d3-a7d9447e54ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/6c725d62-f56f-43e4-81d3-a7d9447e54ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:30</itunes:duration>
+      <pubDate>Fri, 23 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BggEr2x-KwKf_yiG6U1WMQUL4VQ7zGTBB2kWHV6OuVrg.jpg"/>
+    </item>
+    <item>
+      <title>Takle Fladen, retro vibe og transparens</title>
+      <description><![CDATA[Lars har ufrivillig takla Ida Fladen. Martin har vært dj klokka 14 på dagen. Sammen er de transparente.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e4547317-2002-43d9-8f9c-328d01458027_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/e4547317-2002-43d9-8f9c-328d01458027_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:27</itunes:duration>
+      <pubDate>Tue, 20 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+    <item>
+      <title>Pernille Sørensen: Ekkel før 12 og et løfte i fylla</title>
+      <description><![CDATA[Pernille Sørensen er dagens gjest. Det blir snakk om drømmen om å bli valgforsker, om hvordan hun ser vitser i farger og om den gangen hun ga Martin et løfte i fylla.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/05e3960f-5374-4038-aa0a-ffce189913c1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/05e3960f-5374-4038-aa0a-ffce189913c1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:53</itunes:duration>
+      <pubDate>Fri, 16 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OG4XBvbovIdkYcj-x10aOQz-BPHH04H6TMq5ci4it33Q.jpg"/>
+    </item>
+    <item>
+      <title>Gomle på skalk, Vind Berrum &amp; Håp Håpløshet</title>
+      <description><![CDATA[Lars har vært alene med ungen, Martin er bekymret for en føflekk på ryggen og begge slår et slag for å gomle på skalk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1f5ab654-c646-4119-acda-8248c2d186c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/berrum_beyer_snakker_om_greier/1f5ab654-c646-4119-acda-8248c2d186c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:19</itunes:duration>
+      <pubDate>Tue, 13 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q.jpg"/>
+    </item>
+  </channel>
+</rss>

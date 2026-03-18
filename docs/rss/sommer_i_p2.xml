@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Sommer i P2</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Utvalgte gjester forteller personlige historier. Trykk "Gå til radioversjon" for å høre episodene med musikk.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:23:16 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/N4nbxuJ1dfDyjjX197G9Ng1p9H1EKYMzDR5E1br6U6gg.jpg"/>
+    <item>
+      <title>Line Norman Hjorth</title>
+      <description><![CDATA[Hun skulle forsvare doktorgraden sin om det språklige spillet i rettsalen, men ble selv satt ut av spill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/d9daf9e2-de7c-452a-9035-f5ce59c61817_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/d9daf9e2-de7c-452a-9035-f5ce59c61817_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:22</itunes:duration>
+      <pubDate>Fri, 08 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ek30eUOgmL8zN20feF8QZQYTfMvg55FivzrBDjZH_Wgg.jpg"/>
+    </item>
+    <item>
+      <title>Sunniva Gylver</title>
+      <description><![CDATA[Da biskopen skjønte at mannen kom til å dø, måtte de elske hverandre og sørge på samme tid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/047f6fd6-0011-4d1f-8bc6-fbb3bd77ab04_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/047f6fd6-0011-4d1f-8bc6-fbb3bd77ab04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:51</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J_HjighbIPsToanlfbix4AtPLYelNenQfx_T0fGbRvRw.jpg"/>
+    </item>
+    <item>
+      <title>Maud Angelica Behn</title>
+      <description><![CDATA[Da sorgen var på sitt verste etter farens død, begynte hun å brette origami-fugler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/449d8dfe-48d4-4c62-bb00-81385936578a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/449d8dfe-48d4-4c62-bb00-81385936578a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:40</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PYux-bmyD-nCWIqk_hWvPQT-gc0kMuZIE1ITnEnPFxoQ.jpg"/>
+    </item>
+    <item>
+      <title>Hans Christian Holte</title>
+      <description><![CDATA[Moren har betydd mye for hvilke valg Nav-direktøren tar. Det tydeligste rådet hun ga var at han aldri måtte bli sjef i Nav.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/cb4612bd-f371-489d-b784-c074c580d29e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/cb4612bd-f371-489d-b784-c074c580d29e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:27</itunes:duration>
+      <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DosIb9UqLdIl-Cymk8mo1A8gaMDrgYtX0SRx-mPY3P2g.jpg"/>
+    </item>
+    <item>
+      <title>Freddy Kalas</title>
+      <description><![CDATA[Livet ble snudd på hodet da foreldrene skilte seg og måtte bryte med Smiths venner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ca74c252-4312-45f3-a433-53d30ba33342_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ca74c252-4312-45f3-a433-53d30ba33342_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:51</itunes:duration>
+      <pubDate>Sun, 03 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L-WOVDgrzVdp0yNND28e7gK3dVHMkmOAz8s-tmSSec1A.jpg"/>
+    </item>
+    <item>
+      <title>Thea Sofie Loch Næss</title>
+      <description><![CDATA[Hvem er jeg? Skriver skuespilleren i dagboken sin. Gjennom en rotløs ungdomstid leter hun etter et anker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/03744086-df3c-4ac3-9e0e-6bf4476b8df7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/03744086-df3c-4ac3-9e0e-6bf4476b8df7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:54</itunes:duration>
+      <pubDate>Sat, 02 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4I2jsktXYRHvUAy39yMwBQ69jgVno04hTHAVossamGRw.jpg"/>
+    </item>
+    <item>
+      <title>Hege Hellvik</title>
+      <description><![CDATA[Hun gråt på do fordi arbeidsdagen føltes uoverkommelig. Løsningen var å jobbe mindre og leve mer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/923373a1-9d08-44ee-bbc7-f05e70c4cdfa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/923373a1-9d08-44ee-bbc7-f05e70c4cdfa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:30</itunes:duration>
+      <pubDate>Fri, 01 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7aSXYe81ZqoiCDthMHvQbQsMW1JQnWcZXRVnS9TgH3pQ.jpg"/>
+    </item>
+    <item>
+      <title>Lars Svendsen</title>
+      <description><![CDATA[Blir du einsam viss du sluttar å håpe? Filosof Lars Svendsen går i djupna på håpets funksjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/976884f4-f02d-4e9f-aa20-2f98ad645dd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/976884f4-f02d-4e9f-aa20-2f98ad645dd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:17</itunes:duration>
+      <pubDate>Wed, 30 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SxdWA3ore-QyOCnRKSg3cw2Jv3A6KmbtrQ2vur2hmPSw.jpg"/>
+    </item>
+    <item>
+      <title>Janne Møller-Hansen</title>
+      <description><![CDATA[Lenge var ho den einaste kvinnelege pressefotografen i Akersgata. For den prisvinnande fotografen blei det ein fordel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/16a25382-6ae2-4109-90c0-e527c9bdca57_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/16a25382-6ae2-4109-90c0-e527c9bdca57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:35</itunes:duration>
+      <pubDate>Tue, 29 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5v0cjJ7zH3E07DTI-unWiQ8w03SRmAdv5ye8tzAeW68w.jpg"/>
+    </item>
+    <item>
+      <title>Nils-Ingar Aadne</title>
+      <description><![CDATA[Da samboeren døde brått og uventet, stoppet alt opp. Han måtte aktivt velge livet for å klare å gå videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e2fe7aa0-632f-4dcc-a099-b26a23d365c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e2fe7aa0-632f-4dcc-a099-b26a23d365c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:58</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/573mdCMxi2t6WDw8uxK-5QDMFNnXUy_rl1Ck1ibrQ12g.jpg"/>
+    </item>
+    <item>
+      <title>Amy Lightfoot</title>
+      <description><![CDATA[På en liten holme, et sted der ingen skulle tro at noen kunne bo, strikker hun sjøvotter og lager vikingseil for hånd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4e43593a-0c0e-4a24-800b-a18bd4f7f824_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4e43593a-0c0e-4a24-800b-a18bd4f7f824_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:43</itunes:duration>
+      <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y5pkpwReL5HAhb-7-Vm--QIo0L9OgA9fkNVIBWva1Y6w.jpg"/>
+    </item>
+    <item>
+      <title>Tinashe Williamson</title>
+      <description><![CDATA[Hun gjemte ansiktet i hetta for at ingen skulle se hudfargen hennes. Rasisme har gitt henne arr og sår som ikke vil gro.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b484a419-c398-4d2c-91e0-6471fcb516e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b484a419-c398-4d2c-91e0-6471fcb516e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:48</itunes:duration>
+      <pubDate>Fri, 25 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WpGVEHjJj1WGy-aQRL_nngfoUvOWN0v-oKDE0bc5nLYg.jpg"/>
+    </item>
+    <item>
+      <title>Thor Gotaas</title>
+      <description><![CDATA[Forfatteren trives best når han får snakke fritt om det som faller ham inn, uten manus. Her hyller han norsk sommer på 70-tallet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3682d8c2-8163-4cc6-8f25-3c427be4e7eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3682d8c2-8163-4cc6-8f25-3c427be4e7eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:29</itunes:duration>
+      <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jR7DYNOEhju4p8BGt_wgQgl-e1sDPJ_owTEj9O6mt9aA.jpg"/>
+    </item>
+    <item>
+      <title>Line Elvsåshagen-Resell</title>
+      <description><![CDATA[Hun er kjent for å fikse ting på TV. Men klarer hun å finne roen i livet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ef08f2ea-7760-4d1d-bd8b-b4c665858d2f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ef08f2ea-7760-4d1d-bd8b-b4c665858d2f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:30</itunes:duration>
+      <pubDate>Wed, 23 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0So7mnbb4MpBFWOQmYPX-gxxklOP0FejzRDUqIeEtU-w.jpg"/>
+    </item>
+    <item>
+      <title>Øystein Skotheim</title>
+      <description><![CDATA[Han overlevde terroren 22. juli, men følte likevel at livet var over. Etter 14 år fant han ordene som kunne romme følelsene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ce8f3349-1305-489e-b5a1-2516a98b4643_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ce8f3349-1305-489e-b5a1-2516a98b4643_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:05</itunes:duration>
+      <pubDate>Tue, 22 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TBUEg0BS8Wrmzo2zvjjKRACwSmL_3D5c0ynBAl5zoTVQ.jpg"/>
+    </item>
+    <item>
+      <title>Raymond Johansen</title>
+      <description><![CDATA[Han ville helst drive småbruk og være rørlegger. I stedet har han håndtert noen av de største krisene som har rammet Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5aee6a6b-d813-4bdf-b6e3-5e14a265b5c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5aee6a6b-d813-4bdf-b6e3-5e14a265b5c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:53</itunes:duration>
+      <pubDate>Sun, 20 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZCLnblsnqgqQhH6XoU2_0wlIkcVuQqO9AdvUOaRRCBHw.jpg"/>
+    </item>
+    <item>
+      <title>Bibi Fatima Musavi</title>
+      <description><![CDATA[Hvor kommer du fra? Spurte læreren første skoledag. Spørsmålet har hjemsøkt henne gjennom hele oppveksten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/895d2a65-afd6-401a-8919-01845cdad50f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/895d2a65-afd6-401a-8919-01845cdad50f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:30</itunes:duration>
+      <pubDate>Sat, 19 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Wsulo8QCBiP4mPJtL7w7kwhRlUIUC8xYVvdC_HxzxM8Q.jpg"/>
+    </item>
+    <item>
+      <title>Ingrid Storholmen</title>
+      <description><![CDATA[–  Det er farlig å leve, til slutt dør du av det. Hun fordypet seg i helsestatistikk og skrev roman om menneskene bak tallene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/0a036b5b-6e5a-4ad9-8f01-be0ccfc06892_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/0a036b5b-6e5a-4ad9-8f01-be0ccfc06892_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:08</itunes:duration>
+      <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DUHJi5aQJj2iCnRO_joyFgirKoZmP5QMg6E4ooFfBpnw.jpg"/>
+    </item>
+    <item>
+      <title>Eirik Krokås</title>
+      <description><![CDATA[Problemene kom brått den dagen komikeren tråkket i et jordvepsebol. Snikende problemer er verre å løpe fra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/454e23a6-bc27-4a54-b95e-7eb5c8317c1e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/454e23a6-bc27-4a54-b95e-7eb5c8317c1e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:26</itunes:duration>
+      <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e9zU2JBHdmB9O3hlRQsxhAihrz_kVkdPRAyXn2EQvegw.jpg"/>
+    </item>
+    <item>
+      <title>Niillas Somby</title>
+      <description><![CDATA[Aktivisten aksjonerte mot Alta-utbyggingen og ble Norges mest ettersøkte terrorist.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/1d5f372c-5c71-40b9-a847-3faff7f261a5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/1d5f372c-5c71-40b9-a847-3faff7f261a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:06</itunes:duration>
+      <pubDate>Tue, 15 Jul 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XM2y8TfES_0yjEsZmkbO-AUkrNpcQhdywDLGy9Hf_Zaw.jpg"/>
+    </item>
+    <item>
+      <title>Niillas Somby - samisk versjon</title>
+      <description><![CDATA[Maŋŋá nealgudemiid ja akšuvnnaid Álttá-áššis, báhtara sámeaktivista Kanádai, ja šattai Norgga eanemus ohccojuvvon terroristan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/8a0372ae-4eeb-421b-ab9b-8ee0aaab8dc8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/8a0372ae-4eeb-421b-ab9b-8ee0aaab8dc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:29</itunes:duration>
+      <pubDate>Tue, 15 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XM2y8TfES_0yjEsZmkbO-AUkrNpcQhdywDLGy9Hf_Zaw.jpg"/>
+    </item>
+    <item>
+      <title>Linnéa Myhre</title>
+      <description><![CDATA[Hun forsvant inn i en rosa fantasiverden der alt føltes trygt og godt. Der hadde hun full kontroll.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/dcadcc52-61a8-47ec-84f0-946977c35606_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/dcadcc52-61a8-47ec-84f0-946977c35606_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:23</itunes:duration>
+      <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-DvVZSpWFhczjoCWJtEpLQLWhXYlLg7iuA89TD9AO5tQ.jpg"/>
+    </item>
+    <item>
+      <title>Zaineb Al-Samarai</title>
+      <description><![CDATA[Organisert fotball ble redningen da hun kom tomhendt fra Irak til Norge. I dag er hun idrettspresident.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/25907bc9-0d0b-46a4-a5c8-37ea7b2c9f99_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/25907bc9-0d0b-46a4-a5c8-37ea7b2c9f99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:53</itunes:duration>
+      <pubDate>Sun, 13 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yO40fIpr4TvEeN4X1I75jAqdUuZfNgRBMiRLIoNdUD0g.jpg"/>
+    </item>
+    <item>
+      <title>Kathrine Kinn</title>
+      <description><![CDATA[Fast bestemt på å klare seg selv, drar hun fra Oslo for å finne seg en gård.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/12105f93-46d6-482e-921d-f08bbc890c4a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/12105f93-46d6-482e-921d-f08bbc890c4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:53</itunes:duration>
+      <pubDate>Sat, 12 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1cwWiNj8wG2-o5qf4kVK0wp1Bto6wqndIBFU_HkyZrtQ.jpg"/>
+    </item>
+    <item>
+      <title>Robert Mood</title>
+      <description><![CDATA[Som generalløytnant møtte han verdenskjente statsledere. Noen har skremt ham, og noen har inspirert ham. Hva er en god leder?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e3823d69-c158-4b95-9fc7-9c5d9be19381_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e3823d69-c158-4b95-9fc7-9c5d9be19381_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:33</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IdEUA97xizCPYxmcLHSXqghR7wxvA3NIzWqMgEJfRcVw.jpg"/>
+    </item>
+    <item>
+      <title>Katrin Glatz Brubakk</title>
+      <description><![CDATA[Med bagasjen full av såpebobler drar psykologen til Gaza for å hjelpe barna.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/8a0a4e9f-6917-4851-ad65-4545123846a8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/8a0a4e9f-6917-4851-ad65-4545123846a8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:23</itunes:duration>
+      <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AD47FwrU4JFfs2ZI_twz3QQvgr5jf77pgHAe2B_hG4og.jpg"/>
+    </item>
+    <item>
+      <title>Dag Sørås</title>
+      <description><![CDATA[Som ung elsket han Gud, og straffet seg selv når han syndet. Nå raljerer komikeren med alle religioner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/79d35749-ac3d-4c41-aa62-fd8401b521eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/79d35749-ac3d-4c41-aa62-fd8401b521eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:31</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Pm3_31PYY2saVDtGgpuDCQbQFQpXE7qYatFcyFJqwWjg.jpg"/>
+    </item>
+    <item>
+      <title>Amir Asgharnejad</title>
+      <description><![CDATA[Komikeren krasjet på sykkel og ble «Herr kunstmaler». Nå leter han etter livets honning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5cfcb159-9704-4549-951c-7bc0874d1109_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5cfcb159-9704-4549-951c-7bc0874d1109_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:58</itunes:duration>
+      <pubDate>Tue, 08 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DpRqF_5Fr5gIkoFHrjNsbwsynHWlfKvjU4hdBzbrvKsw.jpg"/>
+    </item>
+    <item>
+      <title>Fred Buljo</title>
+      <description><![CDATA[Før Eurovision var det utenkelig å joike på scenen. Nå vrenger han sjela si og ser for seg vidda mens han joiker for hele verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3ec8328c-9e5a-4942-b2d4-794680f0a1c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3ec8328c-9e5a-4942-b2d4-794680f0a1c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:02</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yn3JHuMJwNHwROBW08fSrwk3JCJPws2PdYJ_5b9K3Nug.jpg"/>
+    </item>
+    <item>
+      <title>Christine Koht</title>
+      <description><![CDATA[Ho trur ho lever til hausten, men er ikkje sikker. No vil Christine Koht gjere mest mogleg ut av augeblikka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b066067e-f7a9-4bef-af29-cfb78cd298e8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b066067e-f7a9-4bef-af29-cfb78cd298e8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:27</itunes:duration>
+      <pubDate>Sun, 06 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mv4Q_BJ6ApwUfxfjKnYSmQc5WoTpHAAR5d08AB4ttvRg.jpg"/>
+    </item>
+    <item>
+      <title>Hilde Sandvik</title>
+      <description><![CDATA[Ho ba fire kveldsbøner kvar kveld, og veit korleis det frelste blikket ser ut. No er ho livredd politisk-religiøs makt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/2ef7d4e4-24f9-47ed-9fef-62dc0e4bf760_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/2ef7d4e4-24f9-47ed-9fef-62dc0e4bf760_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:41</itunes:duration>
+      <pubDate>Sat, 05 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/86dEg0SFBYwvDx9vS_fw0QAXdFgAz-Ob5y0lehAM9ESw.jpg"/>
+    </item>
+    <item>
+      <title>Ronny Brede Aase</title>
+      <description><![CDATA[Treng vi fortelje kva avgrensingar folk har? Nei, seier Ronny. Som barn fekk han sykle til han tryna. Det er han glad for.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3404f5cc-99dc-4c54-a371-a8c69ddfb53f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3404f5cc-99dc-4c54-a371-a8c69ddfb53f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:58</itunes:duration>
+      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q4_emM9akLPkovlND7NDHw39EFMnhW_haUIiebA_dqsQ.jpg"/>
+    </item>
+    <item>
+      <title>Kjetil Gilberg</title>
+      <description><![CDATA[Pastoren liker ikke å krangle, men når han ser hvordan skeive blir behandlet i menigheten, tar han kampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/28dabb3f-338a-457c-a00b-b237df56a818_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/28dabb3f-338a-457c-a00b-b237df56a818_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:08</itunes:duration>
+      <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BDllF96oAPEuAMs7Hy5aRQTDUN2BxorpgW1JQ-P1-EXA.jpg"/>
+    </item>
+    <item>
+      <title>Olle Abstract</title>
+      <description><![CDATA[Ellevill festing tok brått slutt da DJ Olle «Abstract» fikk et møte med døden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e028d32e-06ec-411d-b447-ae5dd75f37a2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e028d32e-06ec-411d-b447-ae5dd75f37a2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:11</itunes:duration>
+      <pubDate>Wed, 02 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yWiLu-o6VFZ1nKW9wBa49gVQqkbsP-vLDc61VKpNNrAA.jpg"/>
+    </item>
+    <item>
+      <title>Maria Lavik</title>
+      <description><![CDATA[Odelsjenta tok sitt livs vanskelegaste val då ho ikkje tok over den 300-år gamle slektsgarden. Då fekk ho odelsskam.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b7d0faaa-8f75-4392-b3b8-50bfc3689e4f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b7d0faaa-8f75-4392-b3b8-50bfc3689e4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:42</itunes:duration>
+      <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f-swhu2ULD7qoBUauIXXOgvN6nQwp5Ll7Dd6PmrFjxpw.jpg"/>
+    </item>
+    <item>
+      <title>Emma Ellingsen</title>
+      <description><![CDATA[Må hun skrote drømmen om modellkarriere i USA?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/964af64f-83fd-4d8d-9ce3-b6d606e0dfe5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/964af64f-83fd-4d8d-9ce3-b6d606e0dfe5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:57</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O5s9tpDfwanXpckpD-8LAAC9OW0vCw5HzXs1ffbC5HBA.jpg"/>
+    </item>
+    <item>
+      <title>Henriette Steenstrup</title>
+      <description><![CDATA[Hun stupte ut i en klase med brennmaneter og lærte noe viktig om livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5339bd85-5a7e-477d-a9f6-89254223ce43_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5339bd85-5a7e-477d-a9f6-89254223ce43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:55</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pczxidpGEaZGyRyuPb9XhQKKmc2YiuqE4SMIs6w-0XFQ.jpg"/>
+    </item>
+    <item>
+      <title>Ola Hoftun Lillelien</title>
+      <description><![CDATA[Da han kom ut som skeiv, var han den eneste blant mannlige toppidrettsutøvere i Norge. Hvorfor var det så vanskelig å være åpen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/48705f3e-4e74-46be-b674-b3d10a916f7f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/48705f3e-4e74-46be-b674-b3d10a916f7f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:56</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xPguU80vAhYhYD5g096y5AFYNuhYaTHU6Pejz5WBqeow.jpg"/>
+    </item>
+    <item>
+      <title>Carl I. Hagen</title>
+      <description><![CDATA[Han drøymer om at døden skal kome brått og uventa ved talarstolen. No er han ferdig på Stortinget og ser tilbake på karrieren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ad9a85c7-53ef-478e-b320-ae428875d354_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ad9a85c7-53ef-478e-b320-ae428875d354_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:41</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vqmP1Q5LR4r6mFEQ9ws_sgiQXnDL1gf5ZVUh2XsLNkfg.jpg"/>
+    </item>
+    <item>
+      <title>Myra</title>
+      <description><![CDATA[Etter den dramatiske flukten sluttet rapartisten Myra aldri å flykte. En dag tok hun på seg rød parykk og dro fra fosterhjemmet...]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5d13ce36-d326-4c3a-9ff9-3b50aa53264f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5d13ce36-d326-4c3a-9ff9-3b50aa53264f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:34</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eL84JpHFpswCV9ve0zAt6gGCehbBbuzxDgQmHlWwg6Eg.jpg"/>
+    </item>
+    <item>
+      <title>Martin Beyer-Olsen</title>
+      <description><![CDATA[Hva driver en komiker til komplett utbrenthet? Martin Beyer-Olsen finner svar i familiehistorien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/d004e5d6-0daf-4166-87d9-fed818dbd66d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/d004e5d6-0daf-4166-87d9-fed818dbd66d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:31</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-rodKfbZaIm6RdyA6FaJRgbwSFaqT9v_LX-uEBrLFCgQ.jpg"/>
+    </item>
+    <item>
+      <title>Gina Gylver</title>
+      <description><![CDATA[Hvis ikkje du, kven? Viss ikkje no, når? Ho tar saka i eigne hender når verda brenn. Sjølv når det verste som kunne skje, skjer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/aee4482f-a7be-437e-8a90-bd9f1969d1a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/aee4482f-a7be-437e-8a90-bd9f1969d1a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:38</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9haqpqtDhwasaIZJ7mVCoA3zbZau7itloKc7iNiDuSYQ.jpg"/>
+    </item>
+    <item>
+      <title>Øystein «Pølsa» Pettersen</title>
+      <description><![CDATA[Han skjønte at han måtte ta grep da pastavannet kokte over og han skjelte ut sønnen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3060f353-68e5-4a46-b0a2-4ef5abca80e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3060f353-68e5-4a46-b0a2-4ef5abca80e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:09</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X1-SCx1W_oTtY7OhMXd-LwueOiko01uTGzb_I2Z9Le3Q.jpg"/>
+    </item>
+    <item>
+      <title>Marcus Wandt</title>
+      <description><![CDATA[Astronaut, fallskjermjeger og jagerfly-pilot. Første nordmann i verdensrommet har en helt egen skala for hva som er farlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/4c816bdb-d9c8-4df5-8de5-c3bf7e2c500c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/4c816bdb-d9c8-4df5-8de5-c3bf7e2c500c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:13</itunes:duration>
+      <pubDate>Fri, 09 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Nnacz_jxCGBmZzCX8Y7fmQQxwmIN6mHmYDDrG4XMA6ZQ.jpg"/>
+    </item>
+    <item>
+      <title>Mohammed Madi</title>
+      <description><![CDATA[Norsk-palestineren var blant de siste som ble reddet ut fra Gaza. Han var der  7. oktober i fjor, og kom seg ikke ut i tide.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/6b5bd55e-ea29-4b6a-b11c-defc6859ee10_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/6b5bd55e-ea29-4b6a-b11c-defc6859ee10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:10</itunes:duration>
+      <pubDate>Thu, 08 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/APO6fEh9itXsyQ9vpQ7c4AjTDZ_73VC_Sbbej7F5IpNQ.jpg"/>
+    </item>
+    <item>
+      <title>Frank Otto Pedersen</title>
+      <description><![CDATA[Lærere har «verdens viktigste jobb», men han druknet i papirarbeid og ville gi seg. Så husket han på elevene og kom tilbake.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/19a766f7-b069-4c29-be70-eba5cd91b326_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/19a766f7-b069-4c29-be70-eba5cd91b326_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:54</itunes:duration>
+      <pubDate>Wed, 07 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FZ2QcybzRMX2JdjYwldFoAh1kNyXxXVFW33-DJP_hjmw.jpg"/>
+    </item>
+    <item>
+      <title>Magnus Jonas Slagsvold Støre</title>
+      <description><![CDATA[Terapeuten spiste psykedeliske trøfler og endte på knærne i kornåkeren. For statsministerens sønn ble det en åndelig oppvåkning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/26eae18a-3dfc-4828-89b3-f883095e1f7b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/26eae18a-3dfc-4828-89b3-f883095e1f7b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:29</itunes:duration>
+      <pubDate>Tue, 06 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xykikQV3_HhVeaXkJKmJSgHFtOn9T8d33DCytXxN1jRg.jpg"/>
+    </item>
+    <item>
+      <title>Øyunn Krogh</title>
+      <description><![CDATA[Speilet kan være ditt beste redskap og din verste fiende. Influenseren kan egentlig ikke huske en dag hun har likt sin egen kropp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/345befa6-c21f-413d-b370-ea323c3903eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/345befa6-c21f-413d-b370-ea323c3903eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:28</itunes:duration>
+      <pubDate>Mon, 05 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vGtYR4COVBvtZnQESn0FRwU0vqZE0-t0CMgW5np2W4gw.jpg"/>
+    </item>
+    <item>
+      <title>Anette Trettebergstuen</title>
+      <description><![CDATA[Livet føltes ødelagt da hun mistet drømmejobben, og eks-ministeren har tenkt så mye på hva som gikk galt. Nå forteller hun.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/943aec03-a6b9-471f-b052-0bb79093aa16_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/943aec03-a6b9-471f-b052-0bb79093aa16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:11</itunes:duration>
+      <pubDate>Sat, 03 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HEhKKWxzB_oEDfWd5LmdzQbRygLKwrLhdwuCozyk7mMA.jpg"/>
+    </item>
+    <item>
+      <title>Knut Houge</title>
+      <description><![CDATA[Han fikk sjokk da han så seg selv i Makta. Nå forteller journalisten om gateslag, endeløse allmøter, dop og dritt i Skippergata 6.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/dd6dcdaf-027b-4433-94b8-2de068390030_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/dd6dcdaf-027b-4433-94b8-2de068390030_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:38</itunes:duration>
+      <pubDate>Wed, 31 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SIf735EDhWVSC7jVJRJang3B2BQgLgtkKwE3pT7SyqvQ.jpg"/>
+    </item>
+  </channel>
+</rss>

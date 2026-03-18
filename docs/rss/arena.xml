@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Arena</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>De brennbare sakene fra popkultur, media og tech. Programleder Jeannette Platou og utvalgte gjester gir deg det du trenger å vite.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:16:50 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw.jpg"/>
+    <item>
+      <title>«Makta» og «Sex»: Skallaparykk og rare drømmer!</title>
+      <description><![CDATA[Bli med behind the scenes på TV-serien «Makta» og filmen «Sex» med vennene og kollegene Thorbjørn Harr og Jan Gunnar Røise! I «Makta» spilte de Kåre Willoch og Reiulf Steen. I den prisbelønte filmen «Sex» spiller de to feier-kolleger som deler svært intime betroelser. Hvordan bruker de vennskapet når de jobber sammen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/d61c6de8-1214-4bb8-a7e4-4c1b0b5db914_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/d61c6de8-1214-4bb8-a7e4-4c1b0b5db914_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:11</itunes:duration>
+      <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VND8ORAirXCLw_m4AakiIw9t3ZGQY16_WdTZ8k1epUXg.jpg"/>
+    </item>
+    <item>
+      <title>Spiller boksebrødre i «Team Havnaa»:  -	Trente i nesten tre år!</title>
+      <description><![CDATA[Odin Waage trente i årevis, mens Tobias Santelmann ble flau av å skyggebokse i parken. Hør alt om boksetreningen, brødreforholdet og spenningen rundt hva familien Havnaa synes om filmen! Filmen «Team Havnaa» er basert på den ekte historien om brødrene Magne og Erling, og veien frem til Magnes VM-tittel i boksing i 1990.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/e6d90c62-6f33-462d-980c-d636f3437ac7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/e6d90c62-6f33-462d-980c-d636f3437ac7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:35</itunes:duration>
+      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZaDpNxAbWeVy8myQtMdcwAMWM6KRZ5vedDnpRXYJhwrw.jpg"/>
+    </item>
+    <item>
+      <title>Bestevenner laget Norges Oscar-håp: - Latter, neseblod og terapi!</title>
+      <description><![CDATA[Sammen står Norges Hollywood-stjerne Renate Reinsve og debutregissør Halfdan Ullmann Tøndel bak årets norske Oscar-kandidat, "Armand". Hvordan har de jobbet? Hvilke stjerner elsker filmen deres? Og hvilken scene gjorde at Renate lå rett ut i dagevis etterpå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/b8395217-2725-40f1-aa0e-00e11d82a3bc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/b8395217-2725-40f1-aa0e-00e11d82a3bc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:17</itunes:duration>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vrFT-Z8clYS8KzZUU2IxcgYPYkNXD9z6E4DW9wBa_JrQ.jpg"/>
+    </item>
+    <item>
+      <title>«Elskling»-skuespillerne: Folk sier filmen redda ekteskapet deres!</title>
+      <description><![CDATA[Skuespillerne Helga Guren og Oddgeir Thune stoppes på gata og klemmes av gråtende fremmede. Hvorfor sier folk at filmen "Elskling" fungerer bedre enn årevis med terapi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/5abca353-cbe0-41ab-8a9c-13ea23a3b5ce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/5abca353-cbe0-41ab-8a9c-13ea23a3b5ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:57</itunes:duration>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFitKLfd0DKCJdB0-5iSkQxrDSLmyEy5lWKOp-ZqqMXg.jpg"/>
+    </item>
+    <item>
+      <title>Kommer: Årets filmpar i Arena - Spør Elskling-skuespillerne!</title>
+      <description><![CDATA[Send inn dine spørsmål til paret fra filmen Elskling, Helga Guren og Oddgeir Thune. I desember får du filmgavepakker fra Arena. Vi har invitert noen av årets beste filmpar til fortelle om hvordan de jobber, sammen! Tobias Santelmann og Odin Waage, hva gjorde de for å bonde som de ekte boksebrødrene i den kommende filmen "Team Havnaa"? Og hvor langt pushet bestevennene Renate Reinsve og Halfdan Ullmann Tøndel hverandre på settet til "Armand"?  Thorbjørn Harr og Jan Gunnar Røise spiller begge i serien "Makta" og i filmen "Sex". Men visste du at de også er gode venner?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/2caad197-7a65-4896-a234-ceee7f1c0dfe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/2caad197-7a65-4896-a234-ceee7f1c0dfe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw.jpg"/>
+    </item>
+    <item>
+      <title>Alec Baldwin drepte fotografen: Hvordan kunne det skje?</title>
+      <description><![CDATA[Alt gikk galt da Hollywoodstjerna Alec Baldwin skjøt og drepte en filmfotograf på settet til filmen "Rust" i 2021. Nå er filmen vist for første gang, og moren til den døde fotografen raser over at Baldwin skal tjene penger på tragedien. Med: Kai Rødseth, stuntkoordinator. Torkil Risan, kulturjournalist NRK.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/1a4a36db-4dd5-46d9-9189-3f4ff764a375_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/1a4a36db-4dd5-46d9-9189-3f4ff764a375_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:48</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-Lt-zuDn3FhebXIqXpOJqAd_296MeevYueWjK_RuiBuQ.jpg"/>
+    </item>
+    <item>
+      <title>Oppgjør etter Paynes død: Hva koster det å bli stjerne som ung?</title>
+      <description><![CDATA[Etter Liam Paynes død har det blusset opp en debatt om musikkbransjens ansvar for artistenes mentale helse. Samtidig forteller nye filmer om hvordan den unge stjernestatusen påvirket – og gjorde stor skade på – både Avicii og Robbie Williams. Med: Inger-Johanne Borch Rove, psykolog og Marius Asp, musikkjournalist.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/0b97e50a-9ed8-42b7-9627-0d50fa1ecd19_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/0b97e50a-9ed8-42b7-9627-0d50fa1ecd19_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:46</itunes:duration>
+      <pubDate>Wed, 20 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5VCb-5NQZhj8WOiDR-HERwHDwLyWL_CE8PwJT6ueEbDA.jpg"/>
+    </item>
+    <item>
+      <title>Influensere tjener ville summer Snapchat</title>
+      <description><![CDATA[Norske influensere sier de tjener opptil 90 000 kroner dagen på Snapchat. Isabelle Eriksen er blant de største på Snap og avslører hvor mye penger hun tjener på det største sosiale mediet for unge i Norge nå.
+Med: Isabelle Eriksen og Alexander Slotten, teknologijournalist NRK.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/89366679-150b-44fb-b6df-12cd7fec6071_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/89366679-150b-44fb-b6df-12cd7fec6071_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:26</itunes:duration>
+      <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XqM33yg6omUnHZ1qE83g2gVeyMgYgZhZ19BHRE9KiRPg.jpg"/>
+    </item>
+    <item>
+      <title>Makeup er gullgruve for kjendisene</title>
+      <description><![CDATA[Selena Gomez og Rihanna er blitt dollar-milliardærer på sminkemerkene sine. I Norge satser influenserne Isabel Raad og Leah Behn på skjønnhetsprodukter. Hvorfor er miksen kjendis og sminke blitt SÅ stor business?
+Gjester: NRKs økonomikommentator Cecilie Langum Becker og kreativ leder i profilbyrået Max Social Vilde Darvik.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/a19eb7f8-d5f7-4413-8bae-c523ea42b7f4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/a19eb7f8-d5f7-4413-8bae-c523ea42b7f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:52</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zgnzrnOwI_tANvacIAtjBAenZMrzHSiHhL2npbczCnTg.jpg"/>
+    </item>
+    <item>
+      <title>Yama Wolasmal og Kyrre Lien: Krigsreporterne i Midtøsten</title>
+      <description><![CDATA[Endret 7. oktober spillereglene for reportere i krig? Yama Wolasmal (NRK) og Kyrre Lien (VG) har begge erfart hvor betent og krevende det er å dekke krigshandlingene i Midtøsten nå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/051dbd61-7988-4d70-be99-90a72bd96e73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/051dbd61-7988-4d70-be99-90a72bd96e73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:55</itunes:duration>
+      <pubDate>Thu, 31 Oct 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2zocqbT3sVXS161OfOLxlAf_fxA7QmW-3cfuDefHiw0Q.jpg"/>
+    </item>
+    <item>
+      <title>Omstridt Jonas-bok og Netflix-serie om Menendez-drapet</title>
+      <description><![CDATA[Hvorfor vil noen stoppe en bok om drapet på Jonas Aarseth Henriksen? Og kan Netflix-serien "Monsters: The Lyle and Erik Menendez Story" føre til gjenåpning av en gammel drapssak i USA? Hva skjer når true crime griper inn i ekte saker? Gjester: Advokat Jon Wessel-Aas og kulturjournalist Torkil Risan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/8f6de583-fa2d-4d22-9101-b321ddf491da_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/8f6de583-fa2d-4d22-9101-b321ddf491da_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:05</itunes:duration>
+      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FVK-rRbNJcsWWvEnbEa7Hgz4kBNRgdme2gZ0hGjzD81g.jpg"/>
+    </item>
+    <item>
+      <title>Fox-intervju og podkast-kjør: Hva er mediestrategien til Trump og Harris?</title>
+      <description><![CDATA[Harris har stilt i sex-podkast og Trump i flere podder med høy guttastemning-faktor. Hvorfor er podkast blitt så viktig i presidentvalgkampen? Hva er mediestrategien nå i innspurten før valget? Gjester: Medieviter Tellef S. Raabe og USA-ekspert Henrik Heldahl.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/b4e76091-1688-4511-9bb9-fe627c54e074_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/b4e76091-1688-4511-9bb9-fe627c54e074_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:23</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4p42QBPq4UasOog9-rLBQQg7govJq1NpCnhms4rbWsbw.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor er Telegram de kriminelles favorittapp?</title>
+      <description><![CDATA[Telegram flommer over av salg av våpen, dop og ekstremisme. Samtidig er det et av få steder der dissidenter og forfulgte kan kommunisere fritt. Appen deler ikke noe informasjon med myndigheter – helt til nå! Vi dykker inn i hvordan Telegram i praksis er "det mørke nettet" rett i lomma og om det kommer til å fortsette å være det? Med: Teknologijournalist Martin Gedde-Dahl og analytiker Håvard Lundberg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/a86e901d-900e-48d4-8b69-5a1826df79f4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/a86e901d-900e-48d4-8b69-5a1826df79f4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:11</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/y7GUu9o6FPUsjbjl3SrFsQkvSwY_tHqEDNn9B2GUZA0g.jpg"/>
+    </item>
+    <item>
+      <title>Er politikerne de nye realitystjernene?</title>
+      <description><![CDATA[FpU-leder Simen Velle er en av sju politikere som deltar i reality-tv serier i år. Velle skal klatre opp et fjell i TV2s storsatsing «Vokteren», og sier han gjør det for å kurere høydeskrekken. Men ligger det noe mer bak, sånn et år før valget? Med: Simen Velle, Vilde Schanke Sundet, medieforsker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/7f85957f-e18c-4458-9fd1-c3d59a7df65c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/7f85957f-e18c-4458-9fd1-c3d59a7df65c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:27</itunes:duration>
+      <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SsdJsAsqrfcLiKHT1H-XjwhD9bpsSoI-VD5M2kzQJhcw.jpg"/>
+    </item>
+    <item>
+      <title>Emmy-prisene 2024: Hva er de beste TV-seriene?</title>
+      <description><![CDATA[Prisene! Talene! Kjolene! Politikken! Alt du trenger å vite om årets Emmy-utdeling. 
+Gjester: Morten Hegseth og Inger Merete Hobbelstad]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/19d2889b-d54d-4c38-a270-6cd6c5153bc4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/19d2889b-d54d-4c38-a270-6cd6c5153bc4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:07</itunes:duration>
+      <pubDate>Mon, 16 Sep 2024 11:56:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ia5w-9a0QJj8TPFa9Ptw9wNidcSEO6UgFdx9kGXMLLgg.jpg"/>
+    </item>
+    <item>
+      <title>Sex på film: Hollywood er kåtere enn på mange år!</title>
+      <description><![CDATA["Sex is back!" skrev Hollywood Reporter nylig om filmfestivalen i Venezia, på grunn av filmer som Nicole Kidmans nye erotiske trhiller Babygirl, Daniel Craigs homoerotiske film Queer og den norske filmen Kjærlighet som fikk pris og som hylles for måten den fremstiller sex.  Så hvis det stemmer at "sex is back"; hvorfor har det vært borte? Og har sex på film endret seg?
+Gjester: Dag Johan Haugerud (prisbelønnet regissør av filmene «Sex» og «Kjærlighet») og Einar Aarvig, filmanmelder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/54c707b6-5616-4e99-a0d6-eaa077941071_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/54c707b6-5616-4e99-a0d6-eaa077941071_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:33</itunes:duration>
+      <pubDate>Wed, 11 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/12EqtQnN9nVRmU5pl2RecgwX6FUCbMFXIl_mBAoVQ_AQ.jpg"/>
+    </item>
+    <item>
+      <title>Fråtser media i Høiby-saken?</title>
+      <description><![CDATA[Mediedekningen av saken rundt Marius Borg Høiby er enorm og får nå kritikk. Private telefonsamtaler, filming på flyplass og på bar i Italia: Hvor går grensa mellom viktig journalistikk og grafsing? Med: Gard Steiro (redaktør VG), Mette Yvonne Larsen (advokat for den fornærmede kvinnen) og Kristin Skare Orgeret (journalistikkprofessor OsloMet).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/420ec745-337c-46c0-8a29-42158f5b4ae4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/420ec745-337c-46c0-8a29-42158f5b4ae4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:37</itunes:duration>
+      <pubDate>Wed, 04 Sep 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhbkM2BT0v0lCcj0mMdS_AxFQ3JTH8IUHvjD_tSo-E-g.jpg"/>
+    </item>
+    <item>
+      <title>Kan Quisling-filmen misbrukes av ekstreme krefter?</title>
+      <description><![CDATA["Quislings siste dager" er den første filmen om Norges verste naziforbryter. Vil filmen motvirke eller trigge ekstremisme i dag? Med: Erik Poppe, regissør og Cathrine Thorleifsson, ekstremisme-forsker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/0d90b32f-d1d0-4998-8634-e1cc1dfc854e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/0d90b32f-d1d0-4998-8634-e1cc1dfc854e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:44</itunes:duration>
+      <pubDate>Wed, 28 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K1nTEuTautllZc8FyJMQZAar-KNI3Ll0A22LnyIPmXvQ.jpg"/>
+    </item>
+    <item>
+      <title>Kan kjendisene avgjøre USA-valget?</title>
+      <description><![CDATA[Presidentvalg=kjendiskamp. Elon Musk, Amber Rose og Hulk Hogan heier på Trump. Mens Harris har Charli XCX og George Clooney og får låne låt av Beyoncé. Det brygger opp til kamp mellom Hollywood og tech-gutta i Silicon Valley i dette valget. 
+Hvor viktig er kjendis-støtten for hvem som vinner? 
+
+KILDER: Inger Merete Hobbelstad/kulturkommentator NRK og Are Tågvold Flaten/Amerikanskpolitikk.no]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/4ed270ae-2022-47b3-8d42-44a0dc232af8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/4ed270ae-2022-47b3-8d42-44a0dc232af8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:28</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/soecbngVQkGTED-Cf2V0owk3Mrn6Bs2DAGh-4Y6imTzg.jpg"/>
+    </item>
+    <item>
+      <title>Ny film og rettssak: Kamp om Michael Jacksons rykte</title>
+      <description><![CDATA[Hvordan skal vi forholde oss til Michael Jackson og musikken? 15 år etter poplegendens død brygger det opp til kamp om hvem han var.  
+En storfilm kommer til å fortelle én historie, mens en ny rettsak vil fortelle en annen. En om påståtte overgrep.
+Begge er ventet i april neste år, og det er nå et kappløp om å komme først. 
+Poplegende ELLER overgriper - må vi velge?
+Gjester: MJ-fan Jan Fredrik Karlsen og Inger Merete Hobbelstad, kulturkommentator]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/9bcc646b-d008-445f-a2ff-10add8237bd5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/9bcc646b-d008-445f-a2ff-10add8237bd5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:49</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nPxwq1muSYndakfQu-1s2gtUlsBSUIr-5dnqGBbNWs9g.jpg"/>
+    </item>
+    <item>
+      <title>«Baby Reindeer»: TV-historiens største løgn? Netflix saksøkes.</title>
+      <description><![CDATA[Kvinnen som ble avslørt som den ekte «Baby Reindeer»-stalkeren saksøker Netflix for 1,8 milliarder og mener serien er full av løgn. Netflix hevder historien er sann. Kan hun vinne over strømmegiganten? Med: Advokat Jon Wessel-Aas og serie-kjenner og kulturjournalist Torkil Risan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/312c087d-4852-4617-9b86-e9155333d631_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/312c087d-4852-4617-9b86-e9155333d631_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:04</itunes:duration>
+      <pubDate>Wed, 12 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IZkzU0BjNQdVZB6sEnd0wwCn6qK7mIXsgp12HcnLyafg.jpg"/>
+    </item>
+    <item>
+      <title>Kan vi stole på OpenAI etter skumle anklager og Scarlett-gate?</title>
+      <description><![CDATA[Hollywoodstjerna Scarlett Johansson er fly forbanna på skaperne av ChatGPT. Samtidig roper tidligere ansatte og styremedlemmer ut om sikkerhetsrisikoer, og den mektige OpenAI-sjefen Sam Altman anklages for løgner.
+Med: Tech-gründer Isabelle Ringnes og Eirik Solheim, teknologirådgiver og forsker ved Høgskulen i Volda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/2750007f-1d9a-4a5c-a4b7-d10a1802ea3a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/2750007f-1d9a-4a5c-a4b7-d10a1802ea3a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:49</itunes:duration>
+      <pubDate>Wed, 05 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PrVRRqKEiLYmPumQP6CNugC67csYcru734KlC--_CMEg.jpg"/>
+    </item>
+    <item>
+      <title>Johnny Depp vs Amber Heard: Ble vi manipulert?</title>
+      <description><![CDATA[Ekskona til Johnny Depp ble utsatt for massiv netthets i rettsaken om vold i nære relasjoner. En ny podkastserie påstår at flere hundre tusen av negative meldinger mot Amber Heard kom fra boter og trollfabrikker - og sporene leder blant annet til Saudi-Arabia. Medvirkende: Aslak Borgersrud, journalist i NRK Beta. Eskil Grendahl Sivertsen, ekspert på nettpropaganda og påvirkning ved Forsvarets Forskningsinstitutt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/9f6691eb-02b7-4fab-ba66-e44ecd1f9086_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/9f6691eb-02b7-4fab-ba66-e44ecd1f9086_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:38</itunes:duration>
+      <pubDate>Wed, 29 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TBciMX5YdXEqfrtFfQ1wnw7xn7mEeLlM6xCIXE8QpgZQ.jpg"/>
+    </item>
+    <item>
+      <title>Realitybølge, «Spillet» og tidenes villeste reality-serie</title>
+      <description><![CDATA[Alle medier satser på reality nå. «Spillet» ble en kjempesuksess på TV2, men sjangeren har vært seermagnet i årevis. Hør om den elleville japanske realityen der en mann ble sperret inne i over et år og ble livestreamet naken til millioner av seere - uten at han visste det! Martine Lunde forteller om livet på innsiden av realityseriene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/6fe989c4-c26f-4db8-94c0-1635999f5576_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/6fe989c4-c26f-4db8-94c0-1635999f5576_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:43</itunes:duration>
+      <pubDate>Wed, 22 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9HfoRyWtK8s1GKZGpg3TCQ5L6EKYltyGbNkj22GVnNhg.jpg"/>
+    </item>
+    <item>
+      <title>Swifties: kjærlighet, drapstrusler og penger</title>
+      <description><![CDATA[Taylor Swift har trolig verdens mektigste fanbase: Swifties. Hvorfor sammenlignes de med en religion og når tipper det hele over til the dark side? Med: Cecilie Langum Becker, Pia Skevik.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/853b1c69-c47f-4b90-a873-cb6c8cf2d59b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/853b1c69-c47f-4b90-a873-cb6c8cf2d59b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:30</itunes:duration>
+      <pubDate>Wed, 15 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/84JoAV3aO1kGXT5Qk9vPaw1IO7xOXQ79vcQwppKL6suQ.jpg"/>
+    </item>
+    <item>
+      <title>Eurovision: Krisehjelp døgnet rundt!</title>
+      <description><![CDATA[Israels deltakelse har skapt tidenes ESC-kaos: Malmö er i helspenn og er fylt av artister, fans, politi og demonstranter. Hva skjer på innsiden av Eurovision-sirkuset nå? Med: ESC-journalist i Aftonbladet Torbjörn Ek og Morten Thomassen, leder av den norske MGP- og ESC-klubben. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/0fb5a42c-229b-42c0-9d84-0d3523b16f7d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/0fb5a42c-229b-42c0-9d84-0d3523b16f7d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:08</itunes:duration>
+      <pubDate>Wed, 08 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0PU7vOp67eH-DIXaC_cGGQKX3ZnJLjlfdeQzTZAiXrdQ.jpg"/>
+    </item>
+    <item>
+      <title>På innsiden av Taylor Swifts rekord-turné</title>
+      <description><![CDATA[Verdens største turné inntar Europa. Hva foregår i kulissene av Taylor Swifts «The Eras Tour»? Sigrid tar oss med på innsiden av turnélivet. 
+Med: Sigrid Solbakk Raabe, Pia Skevik. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/01841a0e-61c0-43f2-a9e7-e9ee10a722e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/01841a0e-61c0-43f2-a9e7-e9ee10a722e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:49</itunes:duration>
+      <pubDate>Wed, 01 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/57DvziFr_-_U9anCeI9yVg7X7c93ozrrOxg92FAocJ9g.jpg"/>
+    </item>
+    <item>
+      <title>Slik lures russen av mektige aktører</title>
+      <description><![CDATA[Russeindustrien tjener fett på tenåringer med busser, klær og låter. En ny bok forteller om bransjens skyggesider og regjeringa varsler endringer. Hva skjer? Med: Gard Øksendal (Mankegard), forfatter Ivar Brandvol, kunnskapsminister Kari Nessa Nordtun. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/cdc2ea6b-5e21-47e1-b6df-6ddee52b2aaf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/cdc2ea6b-5e21-47e1-b6df-6ddee52b2aaf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:04</itunes:duration>
+      <pubDate>Wed, 24 Apr 2024 11:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MRT278IXzQn4A-3lS1f7TAfruSu4Doir2NFe_37UTYwQ.jpg"/>
+    </item>
+    <item>
+      <title>Hva er sex-anklagene mot mektige Sean "Diddy" Combs?</title>
+      <description><![CDATA[Rap-legenden og hiphop-mogulen Sean "Diddy" Combs anklages for grove overgrep. Hva blir konsekvensene? Er det bare toppen av isfjellet i musikkindustrien? Med: Ali Soufi-Grimsrud og Inger Merete Hobbelstad.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/8a774df3-d695-4ac2-9410-9a05bd3519c6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/8a774df3-d695-4ac2-9410-9a05bd3519c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:39</itunes:duration>
+      <pubDate>Wed, 17 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X2M2f8Aw54DuhQay6-9o-glsiJ7_Pxr2tL9Gyr6XRfwg.jpg"/>
+    </item>
+    <item>
+      <title>Hvor mye trøbbel er TikTok i?</title>
+      <description><![CDATA[Politikere i USA og Norge vil forby TikTok og EU etterforsker kaninhull-effekten. Vil dette bare blåse over, eller er TikTok i skikkelig trøbbel? Med: Anine Olsen, Hanne Sofie Lindahl, Ola Svenneby og Eirik Bergesen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/3cf59a97-87f8-4083-9277-dd1242130514_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/3cf59a97-87f8-4083-9277-dd1242130514_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:49</itunes:duration>
+      <pubDate>Wed, 10 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZNK9p7BMoZumeTKtCWhSZQKHkcRBCeF_MLB1jiGIvP5w.jpg"/>
+    </item>
+    <item>
+      <title>Mord, spenning og påske: Hvorfor er påskekrim så populært?</title>
+      <description><![CDATA[Påske=krim! Påskekrimmen har vært en spesiell norsk tradisjon i over 100 år. Hva tror årets unge påskekrim-skapere om fremtiden? Med Ruben Anda, Gustav Lie Gundersen, Erik Goplen og Siss Vik
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/0848c3d3-bfe8-4336-9591-3841bab0b114_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/0848c3d3-bfe8-4336-9591-3841bab0b114_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:40</itunes:duration>
+      <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zCkRDamq19UwuG0bguajRAajc9QNkQ68gLHNVDj4wcMg.jpg"/>
+    </item>
+    <item>
+      <title>Else gifter seg, Love is blind og dating-reality</title>
+      <description><![CDATA[Reality-serien "Love Is Blind" er på topplistene til Netflix. Else Kåss Furuseth dater menn på TV for å finne en hun skal gifte seg med i Spektrum. Hvorfor er dating-reality på TV så populært? Med: Else Kåss Furuseth, Vilde Schanke Sundet og Harlem Alexander.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/d783a06b-4ebe-461b-a94b-9aabb10393bf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/d783a06b-4ebe-461b-a94b-9aabb10393bf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:36</itunes:duration>
+      <pubDate>Wed, 20 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CXsXjs6MXQnLNVzStLUGIg5I3OUEBjrW0axBRpA_BwjQ.jpg"/>
+    </item>
+    <item>
+      <title>TikTok vs. Universal: Full krangel mellom musikkgigantene</title>
+      <description><![CDATA[Billie Eilish, Taylor Swift og Drake er fjerna fra TikTok. Bak ligger en betent konflikt mellom to musikkgiganter om penger og kontroll over musikken. Med: Sigrid Hvidsten, Gunnar Greve, Ida Tolou, Björn Jeffery.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/aba07a32-b9f7-444a-a9c0-7b94baa4e20f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/aba07a32-b9f7-444a-a9c0-7b94baa4e20f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:30</itunes:duration>
+      <pubDate>Wed, 13 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-eHnlgiZKiARjajMrmJB0AabHkLywNmgQdOk3m3wMrTA.jpg"/>
+    </item>
+    <item>
+      <title>Alt om Oscar-utdelingen 2024</title>
+      <description><![CDATA["Oppenheimer" var nattas store vinner under årets Oscar-utdeling, mens Barbie (og Ken) stjal showet. Ekstraepisode om vinnerne, taperne, talene, rød løper og en tabbe..!? Med: Inger Merete Hobbelstad og Morten Hegseth. Full oversikt over årets vinnere på: nrk.no/kultur. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/e9063014-5e02-44f2-83f9-889399e976f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/e9063014-5e02-44f2-83f9-889399e976f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:17</itunes:duration>
+      <pubDate>Mon, 11 Mar 2024 13:57:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PMgGwMRjlMVHgjzYuKIBnAaNOErDl6494hAAy1vxu__A.jpg"/>
+    </item>
+    <item>
+      <title>Elon Musk: Makt, krig, X og dop</title>
+      <description><![CDATA[Er tech-milliardæren som en James Bond-skurk? Han beskyldes for å fremsnakke Putin, bruke dop og at X er økende høyreradikal i et år med presidentvalg i USA. Bør han kontrolleres? Med: Martin Gedde-Dahl og Hanne Sofie Lindahl.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/06498f23-b172-4c4f-a809-6057557ce9da_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/06498f23-b172-4c4f-a809-6057557ce9da_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:31</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W6BUsdseB4hii2wQqptxaQGTql1eV4oW9aA0iwZI8xVw.jpg"/>
+    </item>
+    <item>
+      <title>Beyoncé+country: Hvorfor skaper det rabalder?</title>
+      <description><![CDATA[Beyoncé er første svarte kvinne på country-trona.Vil hun åpne dører for andre eller er det bare reinspikka business-strategi? Med: Pia Skevik, Malin Pettersen og Philip Rynning Coker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/928d8db5-984f-4e62-b1c8-068d05753a78_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/928d8db5-984f-4e62-b1c8-068d05753a78_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:49</itunes:duration>
+      <pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iYG-aAJLJmog6NQEB7tH9QVWdq8PkrtiuqSGFK4Ep_aw.jpg"/>
+    </item>
+    <item>
+      <title>Kan man lage kunst av andre mennesker uten lov?</title>
+      <description><![CDATA[Nikolai Torgersen og Lars Elling tegnet foreldrene mens de døde, uten å spørre. Er det greit? Hvor langt kan man gå i å utlevere andre i kunsten? (Se mer om Nikolai Torgersen i "Kunstnerliv" i NRK TV)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/aa3f6a65-8b87-4044-942c-f0c0e3b23f49_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/aa3f6a65-8b87-4044-942c-f0c0e3b23f49_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:16</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yw3coDQxJ7cKuoZgrjIIhAf7wz5AfjZEYnnZkdnDJUsA.jpg"/>
+    </item>
+    <item>
+      <title>Kan alle spille alle, uansett hudfarge?</title>
+      <description><![CDATA[Har utseende og bakgrunn noe å si for hvem som kan spille hvem på TV og film? Når passer det med fargeblind casting, som i "Makta", og når blir det helt feil? Med: Galvan Mehidi (skuespiller), Henrik Martin Dahlsbakken (regissør "Konvoi"), Lisa Esohel Knudsen (Minotenk)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/e29c7672-8d09-4d57-a3a2-865d2f5d38b7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/e29c7672-8d09-4d57-a3a2-865d2f5d38b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:10</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gno-yO_fzEXcjseDiwSGcAuQcKi5Hf_H2PxEvz0JtqrQ.jpg"/>
+    </item>
+    <item>
+      <title>True crime: Gikk "Mysteriet Adam" for langt?</title>
+      <description><![CDATA["Mysteriet Adam" er tidenes norske podkastsuksess, VGs Krimpodden er også på lyttertoppen. Hvor går grensa for hva de forteller om ofre og pårørende i krimsaker? NB Spoileralert! Med: Trude Lorentzen, Tor-Erling Thømt-Ruud og Ragna Lindboe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/cfb376f9-53b5-4cf3-a0a1-16f19839e824_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/cfb376f9-53b5-4cf3-a0a1-16f19839e824_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:25</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zZhNIGefenaq8-KrpIYK1AGvvHhyxjjj7DLD5NC94sGA.jpg"/>
+    </item>
+    <item>
+      <title>Er kroppsmangfold "ut"?</title>
+      <description><![CDATA[Supertynne jenter og muskuløse gutter: Hva skjedde med mangfoldet i motebransjen, i Hollywood og på sosiale medier? Med: Ida Elise Eide Einarsdottir fra KK, Sondre Huun fra ROS og Vilde Kristine Darvik fra Max Social.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/a0bb48f5-a6e0-4781-89db-f503d9c080f2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/a0bb48f5-a6e0-4781-89db-f503d9c080f2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:05</itunes:duration>
+      <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jDLicDxkPPLsf5hv5EO9dwXprSXDk96CgRgAn6aY36ug.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor er Eurovision viktig for Israel?</title>
+      <description><![CDATA[Boikott-krav, terrorfrykt og storpolitikk. Hvorfor er Russland utestengt, men ikke Israel? Med: Folkerettsforsker Cecilie Hellestveit, MGP-fanklubb-president Morten Thomassen og Bjørn Alexander Brem alias Gothminister. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/9df2caaa-f155-4b5c-8a47-3b5b579208ff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/9df2caaa-f155-4b5c-8a47-3b5b579208ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:43</itunes:duration>
+      <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Bgvbr1eQfUv6IBRZMZN1uw8Vbd741mMnjTGYSZUTsdRw.jpg"/>
+    </item>
+    <item>
+      <title>Er Kanye West farlig?</title>
+      <description><![CDATA[En av vår tids største artister anklages igjen for jødehat og påvirker både fans og høyreekstreme miljøer. Med: P3-musikkprodusent Ali Soufi-Grimsrud og ekstremisme-forsker Cathrine Thorleifsson. 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/a84efc4e-e054-4607-899f-6f093ba63a97_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/a84efc4e-e054-4607-899f-6f093ba63a97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:03</itunes:duration>
+      <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OkDcyL7EKRfAcBEYdjTRlgxlS83ZOExl7gKz3o3H9XFg.jpg"/>
+    </item>
+    <item>
+      <title>Kampen mot Disney</title>
+      <description><![CDATA[Elon Musk og Ron DeSantis er fly forbanna på Disney. Hvorfor det?
+Medvirkende: Eirik Løkke, USA-ekspert og rådgiver i Civita. Einar Aarvig, filmjournalist]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/bab94b7e-fba8-4253-badf-a40dc3bb309c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/bab94b7e-fba8-4253-badf-a40dc3bb309c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:57</itunes:duration>
+      <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQTw8c4fRP3yfJi86PV8lQeqPZ2tVWXlxwHTTw_dvbPw.jpg"/>
+    </item>
+    <item>
+      <title>Gikk media og true crime for langt i Tengs-saken?</title>
+      <description><![CDATA[Intime detaljer, fullt navn og bilde. Mannen som ble tiltalt for drapet på Birgitte Tengs har fått livet sitt brettet ut i media.
+Nå er han frikjent. Forsvarerne hans mener han har vært utsatt for mobbing i media og at true crime har preget deler av dekningen.
+Hvor langt kan journalister gå i jakten på sannheten i en krimsak?
+Med: Bjørn Olav Jahr, journalist og forfatter, Einar Tho, redaktør i Haugesunds Avis og Stian Bråstein, forsvarer for mannen som ble frikjent i Tengs-saken]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/166d4fe9-bad6-420d-83f6-270d4ae5fa06_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/166d4fe9-bad6-420d-83f6-270d4ae5fa06_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:01</itunes:duration>
+      <pubDate>Wed, 13 Dec 2023 15:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/miSzrsi_cbbSsMJo1NND2A-FlZ8o_p0igN31441vqK7Q.jpg"/>
+    </item>
+    <item>
+      <title>Bak kulissene i The Crown og Makta</title>
+      <description><![CDATA[«The Crown» og «Makta» topper Netflix og NRK. Hvor mye løgn og dårlig hukommelse er greit i TV-serier om virkeligheten? Med: The Crown-regissør Erik Richter Strand om dronningens død og Diana, Makta-forfatter Johan Fasting om Gro, Arbeiderpartiet og kunstneriske friheter og skuespiller Thea Sofie Loch Næss, som spiller en ekte person i «So Long, Marianne» om Marianne Ihlen og Leonard Cohen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/43c6e9a7-f61c-41b4-9a75-afc021995b60_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/43c6e9a7-f61c-41b4-9a75-afc021995b60_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:17</itunes:duration>
+      <pubDate>Wed, 06 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NYgUrolpYd4zehIhaGiBww6kqhjnTt8YKMxPzhOMu1GA.jpg"/>
+    </item>
+    <item>
+      <title>Er det for mange kjendiser på TV?</title>
+      <description><![CDATA[Det har aldri vært laget så mye kjendis-TV i Norge som nå. I tillegg til publikumsvinnere som "Skal vi danse", "Maskorama", "Farmen Kjendis" og "24 stjerners julekalender", dukker det stadig opp noe nytt. Hvorfor det, og kan det bli for mye? Med: Morten Hegseth, Aleksander Sæterstøl, Vilde Schanke Sundet, Hilde Apneseth.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/00f04e2a-1182-49ee-9257-678a22ceaffc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/00f04e2a-1182-49ee-9257-678a22ceaffc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:48</itunes:duration>
+      <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/o8Lh78UYBmkQPdhXkqatYg7lFYeYZYDa5Ha-rF5RIbVw.jpg"/>
+    </item>
+    <item>
+      <title>Rekordmange politiske skandaler og mediedekningen</title>
+      <description><![CDATA[Hvor hardt skal media kjøre på politikerne? Det har vært et ekstraordinært skandaleår i norsk politikk. Flere statsråder har gått av og saken med Erna Solbergs ektemann, Sindre Finnes, har fått enorm oppmerksomhet. Hvor går grensen for hvor mye en politisk skandale skal dekkes? Med: Martin Lægland, Emil André Erstad, Kim Arne Hammerstad. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/d497adb5-89ca-4949-8d23-dbb362ca5998_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/d497adb5-89ca-4949-8d23-dbb362ca5998_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:35</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q-g6YKhNibDlcOatYNXSugdAPjNbk0-zjx_rqfbAOPnw.jpg"/>
+    </item>
+    <item>
+      <title>Mark Zuckerberg: Venn eller fiende?</title>
+      <description><![CDATA[Hvorfor vil Mark Zuckerberg ha penga dine nå? Skal du betale for reklamefri Facebook/Instagram eller ikke? Hvor mektig er Meta-eieren, som hver måned samler 4 milliarder brukere på sine plattformer? Bør han stoppes? Med: Isabelle Ringnes, Ellen Aabol, Finn Myrstad. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/e783f6f4-bd8f-4fb4-a48a-967e815796c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/e783f6f4-bd8f-4fb4-a48a-967e815796c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:53</itunes:duration>
+      <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nv8YLIvZ41G9z5JBldI2ZgaM031-NqEpOPn-bw2vcayA.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor trengs feelgood på TV nå?</title>
+      <description><![CDATA[Hvordan bruker folk serier som "Friends", "The Office", "Suits" eller "Side om side" i krisetider? Og hva skjer med oss når nyhetsbildet er så heftig som nå? Med: Maskorama-programleder Silje Nordnes, Vidar Magnussen, Gry Rustad, Hallvard Moe og hjerneforsker Siri Leknes. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/edbe88ef-79dc-470a-acef-db55d072d7d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/edbe88ef-79dc-470a-acef-db55d072d7d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:23</itunes:duration>
+      <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NF2VNzuRZjEseJ-ll5rL8w4fGIyHOlT6hFj2ns9pxmTA.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor elsker vi å hate de superrike?</title>
+      <description><![CDATA[Kjøpefesten er over. På TV er de superrike skurkene, som i Succession. På sosiale medier ser vi anti-forbruk-trender, og the Kardashians mister popularitet. Er overforbruk blitt ukult? Med: Vilde Kristine Darvik, Cecilie Langum Becker, Einar Aarvig. 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/arena/02783403-641a-4463-802f-43ec567bf513_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/arena/02783403-641a-4463-802f-43ec567bf513_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:52</itunes:duration>
+      <pubDate>Wed, 01 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sXy0qplR2rYx-P7kBrQSTQmNXpFhQDps2UsUHFl4kGXA.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Utakt</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Vi har spist kjøttkaker fra 1945 og håndhilst på Phil Collins. Vi har både trikot og klokkestreng på kontoret. Sånn er Utakt også - litt av alt. Per Øystein Kvindesland og Bjørn Olav Skjæveland tenker høyt, ofte på sviktende grunnlag.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:24:18 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2025 10:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    <item>
+      <title>Historiens siste Utakt</title>
+      <description><![CDATA[Vi oppsummerer 16 år med Utakt. Takk for laget!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d5e67149-fe04-42a1-b0c8-2aefbe34abac_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/d5e67149-fe04-42a1-b0c8-2aefbe34abac_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:59</itunes:duration>
+      <pubDate>Tue, 25 Feb 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bakermester Harepus sjekker inn</title>
+      <description><![CDATA[Fulle bananfluer, Worcestershiresaus, håndskriftklasse og meisling i pensjonistblokk]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/e9d0d259-a6a4-4943-8b58-76d959481e73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/e9d0d259-a6a4-4943-8b58-76d959481e73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:54</itunes:duration>
+      <pubDate>Tue, 18 Feb 2025 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Gnav og latterkrampe</title>
+      <description><![CDATA[Verdens beste vits og en stoooor keeper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/6c923ff8-1453-4b30-9026-cc6a8d1484aa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/6c923ff8-1453-4b30-9026-cc6a8d1484aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:02</itunes:duration>
+      <pubDate>Tue, 11 Feb 2025 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Derrick-frakk og lang sædcelle</title>
+      <description><![CDATA[Dyslektiske spøkelser, vaksine i middagsselskap og gammelt nytt om Gullhår]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d8638134-0bc9-4b9e-9deb-e000b89af6a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/d8638134-0bc9-4b9e-9deb-e000b89af6a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:17:04</itunes:duration>
+      <pubDate>Tue, 04 Feb 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt er slutt og begraves i ei myr</title>
+      <description><![CDATA[Latter på boks og brannfarlig spill for modige barn]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/a9e950bd-20a1-4483-81a5-0af0ff88597c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/a9e950bd-20a1-4483-81a5-0af0ff88597c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:39</itunes:duration>
+      <pubDate>Tue, 28 Jan 2025 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Snøgg beksøm med gelenkstøtte</title>
+      <description><![CDATA[Kontrakt-klausuler, edderkopp-nytt, kransekakevits anno 2025 og årets mest deprimerende dag]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/6f9898e3-f6a0-400b-a87f-fd154c29ac00_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/6f9898e3-f6a0-400b-a87f-fd154c29ac00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:52</itunes:duration>
+      <pubDate>Tue, 21 Jan 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stavangersmurfens spede start</title>
+      <description><![CDATA[Spesialepisode: Fra 2018 da Stavangersmurfen kom på banen og Viking var på nivå 2]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/adbd372e-e3ef-4e1f-a416-f9b00d72a040_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/adbd372e-e3ef-4e1f-a416-f9b00d72a040_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:17</itunes:duration>
+      <pubDate>Tue, 14 Jan 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Jd4-apzmPQLpa8iGBBFaQdPlGlfK5ep3DTsyKVvj6jQ.jpg"/>
+    </item>
+    <item>
+      <title>Fly-fis-forskning</title>
+      <description><![CDATA[Smørbrødspyd, hanskerom, Robinson og midtlivskrise (for dyr)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/03bcddb0-711b-447a-825e-4abcd2b2b3e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/03bcddb0-711b-447a-825e-4abcd2b2b3e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:48</itunes:duration>
+      <pubDate>Tue, 14 Jan 2025 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Smaken av meisebolle</title>
+      <description><![CDATA[Stor-røyker skulle vært dø før han ble født og hva med julaften i mars?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/4beb8b55-49e0-417e-a63d-ab3daa72a590_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/4beb8b55-49e0-417e-a63d-ab3daa72a590_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:10</itunes:duration>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Nynning og "finn min brille"</title>
+      <description><![CDATA[Stavangersurfen takker av, diskvalifikasjoner og overvektige dyr]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/c4361697-2fe3-44cc-bd00-e3ceed057be5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/c4361697-2fe3-44cc-bd00-e3ceed057be5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:34</itunes:duration>
+      <pubDate>Tue, 31 Dec 2024 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kvelden før kvelden i Utakt</title>
+      <description><![CDATA[Cola-bacon og Jingle-Cats. Utakt byr på alternativ julestemning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/ca89e319-d5fc-434d-a639-768887707bc1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/ca89e319-d5fc-434d-a639-768887707bc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:50</itunes:duration>
+      <pubDate>Mon, 23 Dec 2024 22:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Elefanter og bi-inntekt</title>
+      <description><![CDATA[Påkledd hund med tissen ute og billige julevarer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/e9a810ae-6d99-4edc-9ba9-cb58c6d9393b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/e9a810ae-6d99-4edc-9ba9-cb58c6d9393b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:51</itunes:duration>
+      <pubDate>Wed, 18 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Liggesykkel og liggedusj</title>
+      <description><![CDATA[Julerekorder, svært høy feber og ringing versus melding.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d136d3a2-bd96-4f46-95df-ad0de1d034cd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/d136d3a2-bd96-4f46-95df-ad0de1d034cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:14:08</itunes:duration>
+      <pubDate>Tue, 10 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Musefangeren og flamingoen</title>
+      <description><![CDATA[Håndkle som ikke virker, reklamefri kino, to-seter på buss og høydeklasser i høydehopp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/af421e0f-1ae4-4d82-b6bb-a166f0f04138_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/af421e0f-1ae4-4d82-b6bb-a166f0f04138_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:03</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kamel-utleie og UFO i hagen</title>
+      <description><![CDATA[Svindyr bacon på burger, turist-påkjørsler og frityr og manikyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/bd5e18d7-19bb-45a0-93e6-786800f339ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/bd5e18d7-19bb-45a0-93e6-786800f339ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:19</itunes:duration>
+      <pubDate>Wed, 27 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Reklamasjon og duftlys</title>
+      <description><![CDATA[Kikker på adventskalendre, hører på Diskofil og eller en elling]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/a49e721e-5c18-4acb-8924-471c1055afa2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/a49e721e-5c18-4acb-8924-471c1055afa2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:29</itunes:duration>
+      <pubDate>Wed, 20 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Hjemmelekse i gjøk</title>
+      <description><![CDATA[Vi diskuterer mobil-batterier, bru-stjeling, tunnel-navn og iskrem-maskinen. Podkastpanelet ser på kjerringråd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/8067fefe-ca25-40a1-b3ef-1005ad20a478_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/8067fefe-ca25-40a1-b3ef-1005ad20a478_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:58</itunes:duration>
+      <pubDate>Wed, 13 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Stockholm spesial og gjøk-quiz</title>
+      <description><![CDATA[Skjæveland har vært i Stockholm, spådyr og spåmenn forbereder seg for USA-valg og KI lager nekrolog for Utakt-programlederne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/baa178e3-db4f-447d-85a9-d433a66e852a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/baa178e3-db4f-447d-85a9-d433a66e852a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:22</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Utakt parkerer over to plasser</title>
+      <description><![CDATA[Forklaringsbehov overfor ukjente, genial ringelyd, årets offentlige toalett og eksplosiv kunst]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/8c7ff253-6388-4029-97cf-cc56bdfb804c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/8c7ff253-6388-4029-97cf-cc56bdfb804c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:24</itunes:duration>
+      <pubDate>Wed, 30 Oct 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Hikking og hotellfrokost</title>
+      <description><![CDATA[Slår mobiltelefonen beina under opplæringen i fremmedspråk? Var det problemer da metaforen ble lansert?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/f69af27e-9d9d-456b-8dc3-fac9aa17ddb1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/f69af27e-9d9d-456b-8dc3-fac9aa17ddb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:29</itunes:duration>
+      <pubDate>Wed, 23 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Ananas-kunst og Temu-holikere</title>
+      <description><![CDATA[Vi følger skilt til rørlegger, vasker hjemmekontoret, kaster kunst og reiser til Mars.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/c6669721-12d7-4fc8-b563-6635f86e21c7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/c6669721-12d7-4fc8-b563-6635f86e21c7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:12</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bacon-sjokolade og 7175 erter</title>
+      <description><![CDATA[Trøst til de med flyskrekk, trippel Jumbo og sjefstast på datamaskinen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/ffa32780-e91a-4f8a-8d33-ea55efa5603a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/ffa32780-e91a-4f8a-8d33-ea55efa5603a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:57</itunes:duration>
+      <pubDate>Wed, 09 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Sykkelhjelm og do-avstemming</title>
+      <description><![CDATA[Verdens korteste fly-rute,  en farlig musikk-genre og mislykka flyve-forsøk. Colatesten jubilerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/f8e88e85-71db-455d-a085-4b586c5a9c61_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/f8e88e85-71db-455d-a085-4b586c5a9c61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:29</itunes:duration>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kundeservice mistet besinnelsen</title>
+      <description><![CDATA[Ekorn stanset tog,  irriterende stillingsbeskrivelser, lakris-cola, håndgemeng og lesebrett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d167632b-aa43-43bc-8e08-0c910851e5f8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/d167632b-aa43-43bc-8e08-0c910851e5f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Wed, 25 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Farlige slips og usynlig kunst</title>
+      <description><![CDATA[Ultraløp i støvler, størrelsen på lommer og flyvekurs for emu og pingvin]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/b215f96f-03e4-4233-b97d-a424fecaedcb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/b215f96f-03e4-4233-b97d-a424fecaedcb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:36</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Anonym aksjonist og radioflauser</title>
+      <description><![CDATA[Avslåtte invitasjoner, håpløse reklamefilmer, dødsuheldig komponist og "Døden på Oslo S".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/cabcae15-8f65-4f4b-800d-5dd0cb7b0528_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/cabcae15-8f65-4f4b-800d-5dd0cb7b0528_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:22</itunes:duration>
+      <pubDate>Wed, 11 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Meningsløs meningsmåling?</title>
+      <description><![CDATA[Universell dorull, smale magasiner og tissing med åpen dør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/096701b9-1446-402a-9964-238e5a2ceeaa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/096701b9-1446-402a-9964-238e5a2ceeaa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:47</itunes:duration>
+      <pubDate>Wed, 04 Sep 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Deprimerte padder</title>
+      <description><![CDATA[De tre b-ene: bridge, bingo og boccia. En gammel keeper, blå cola og blotter-problematikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/2643ac55-164d-47b9-af40-59fa98fe416f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/2643ac55-164d-47b9-af40-59fa98fe416f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:20</itunes:duration>
+      <pubDate>Wed, 28 Aug 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Luftmadrass og smaken av skjegg-olje</title>
+      <description><![CDATA[Vanngrav, ekstra ferieuke, sokker i sandalene og evighetsprosjekt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/63e9edcd-f9e2-40f2-ae9c-4d8f250d3a48_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/63e9edcd-f9e2-40f2-ae9c-4d8f250d3a48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:37</itunes:duration>
+      <pubDate>Wed, 21 Aug 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Poser med ketchup og dyr i gave</title>
+      <description><![CDATA[Slutt på unge oldeforeldre? Kan han med to vekt-tall i musikk synge tvungen, tysk, karaoke? Er det plass til Linglong-guiden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/37c27996-e361-42ee-850c-a71996e5a4e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/37c27996-e361-42ee-850c-a71996e5a4e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:18</itunes:duration>
+      <pubDate>Wed, 19 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Eventyrblanding og urin-tørst gås</title>
+      <description><![CDATA[Lama stopper tog, profesjonell nei-mann og slutten på Lenin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/d50b0bba-ce88-4eb2-a34f-92a5191c0e87_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/d50b0bba-ce88-4eb2-a34f-92a5191c0e87_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:13</itunes:duration>
+      <pubDate>Wed, 12 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kjøkkenmaskiner og internett på ferie</title>
+      <description><![CDATA[Bli kjent med skaten Charlotte og gullfisken Alice og dans på fornybar-diskoteket. Stavangersmurfen gir råd til amorøs statsråd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/62e98c64-ce9c-40d9-9aeb-0c7a3c27bca9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/62e98c64-ce9c-40d9-9aeb-0c7a3c27bca9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:18</itunes:duration>
+      <pubDate>Wed, 05 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Pilgrim-utleie og  vinkelsliper med bølgetråd</title>
+      <description><![CDATA[Fly for nudister, cola-tabbe,  vertinnegave (til menn) og tannfe anno 2024.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/4795b8e2-fd99-4b97-94db-c45d68415f0e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/4795b8e2-fd99-4b97-94db-c45d68415f0e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:07</itunes:duration>
+      <pubDate>Wed, 29 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>HMS-amnesti og mekkeklubb for voksne</title>
+      <description><![CDATA[Rekord-dyr cola fra Japan og presang-appen som bør lages.  Vi snakker ellers om lange reiser til bortekamp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/0381e6c0-2f6f-4400-a289-23119f1c1bd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/0381e6c0-2f6f-4400-a289-23119f1c1bd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:17</itunes:duration>
+      <pubDate>Wed, 22 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Farlige kjerringråd, måke-imitasjon og lyging</title>
+      <description><![CDATA[Vi roper også på elgen, drikker cola fra Sveits, prøver bunaden og mimrer om tv-fotballen på 80-tallet. Podkast-panelet byr på 17 mai-spesial.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/abbd6c8a-42e4-434e-929b-102511b9f5ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/abbd6c8a-42e4-434e-929b-102511b9f5ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:27</itunes:duration>
+      <pubDate>Wed, 15 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Drama i VM i hotell-fotball og blå cola</title>
+      <description><![CDATA[Vi hjelper døgnville turister, diskuterer laaaange fengselsstraffer og snakker om sau. Stavangersmurfen fortsetter i sko-bransjen ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/ed3b13f6-7437-4b30-9c71-58d17662a53a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/ed3b13f6-7437-4b30-9c71-58d17662a53a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:00</itunes:duration>
+      <pubDate>Wed, 08 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Ombordstigning på fly og maraton-drikking</title>
+      <description><![CDATA[Uvanlige idretter og sammensatte ord. Vi lanserer også en strøm-konspirasjon mens Stavangersmurfen vil slå seg opp i sko-bransjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/3bb0cd9b-611c-458f-940e-cf3f8d07a315_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/3bb0cd9b-611c-458f-940e-cf3f8d07a315_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:00</itunes:duration>
+      <pubDate>Wed, 01 May 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Kaffe-kubben og tissen til Napoleon</title>
+      <description><![CDATA[Lighter-salg og EI (ekte intelligens). Talkshow på radio og  en klassiker du burde ha lest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/1213cff2-1050-4982-9327-6d72a87ad396_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/1213cff2-1050-4982-9327-6d72a87ad396_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:17</itunes:duration>
+      <pubDate>Wed, 24 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Banjo-rekruttering og Janne sin 50-årsdag</title>
+      <description><![CDATA[Engelske meteorologer, Olav Hove-vignetten og cola fra "Øst-Tyskland". Vi snakker også om flodhest-import og ideen om 26 timer i døgnet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/7200908a-cb7f-43d1-b824-c2f1937d60b2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/7200908a-cb7f-43d1-b824-c2f1937d60b2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:04</itunes:duration>
+      <pubDate>Wed, 17 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Bananfluer og konsekvens av egen tro</title>
+      <description><![CDATA[Podkast-bingo, festivaler utenfor sesong og podkast-bingo. Og når blir hyssing til tau?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/4cb80f67-e576-4d97-96ce-bd6d27d7bda5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/4cb80f67-e576-4d97-96ce-bd6d27d7bda5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:09</itunes:duration>
+      <pubDate>Wed, 10 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Når gikk det galt for april-spøken?</title>
+      <description><![CDATA[Hvem kom på konseptet "høye hæler" og hva skjedde i Utakt-historien for nøyaktig 10 år siden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/4a347e72-f7c9-42ae-8ab9-e93b3ca61cd3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/4a347e72-f7c9-42ae-8ab9-e93b3ca61cd3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:38</itunes:duration>
+      <pubDate>Wed, 03 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Alderdomstegn og neglisjerte forfattere</title>
+      <description><![CDATA[Påske-Utakt byr på påske-problemstillinger og andre problemstillinger i skjønn forening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/9a6cb53d-d7e3-4984-bf8d-2c4281882372_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/9a6cb53d-d7e3-4984-bf8d-2c4281882372_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:32</itunes:duration>
+      <pubDate>Wed, 27 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Såpe-hierarki og Janne med 50-års-panikk</title>
+      <description><![CDATA[Verdenspremiere på "Baltazar i Beograd", litt penis-prat, tysk tv-kjendis-cola og rosenkål. Alt dette ispedd litt heimskringle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/a61bbcb5-a779-47c2-8a00-689e013d6dec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/a61bbcb5-a779-47c2-8a00-689e013d6dec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:39</itunes:duration>
+      <pubDate>Wed, 20 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Norgesvenn og setefyller</title>
+      <description><![CDATA[Svindel før og nå, viktige presisering ved henging og  Stavangersmurfen vil være med i MGP for Bulgaria]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/dba9ccec-954c-451b-b357-5e4449582e94_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/dba9ccec-954c-451b-b357-5e4449582e94_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:21</itunes:duration>
+      <pubDate>Wed, 13 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Baklengs-bonanza og podkast-panel</title>
+      <description><![CDATA[Danske navnedager, hodelykt-problematikk, katastrofe-bursdager og rapport fra sykehuset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/aa96432d-1aa8-4c31-aa93-0d8be5e3eb02_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/aa96432d-1aa8-4c31-aa93-0d8be5e3eb02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:55</itunes:duration>
+      <pubDate>Wed, 06 Mar 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Rygger på egen bil og diskuterer hentesveis</title>
+      <description><![CDATA[Kajakken har muligens fått jordslag, Kvindesland har vært på flyplass og vi slikker på stein.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/12e7d5c5-5d63-4763-9523-1bc16dc84c3a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/12e7d5c5-5d63-4763-9523-1bc16dc84c3a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:57</itunes:duration>
+      <pubDate>Wed, 28 Feb 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Microsøft programveen og pizzabil</title>
+      <description><![CDATA[Bør engelskmenn klage på amerikansk fotball? Kan barnefilm bli voksenfilm hvis du tenker de rette tankene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/3f583567-0a49-4e40-8779-1023bc976333_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/3f583567-0a49-4e40-8779-1023bc976333_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:00</itunes:duration>
+      <pubDate>Wed, 21 Feb 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Finn en tynn venn og ta en potet</title>
+      <description><![CDATA[Trommevirvel, et ivrig pungdyr, hermetikk-nøkkel og mislykkede rekordforsøk. Og Janne Stigen Drangsholt er tilbake med ny litteratur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/0939e89e-5369-46a9-a07a-e62b82173e88_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/0939e89e-5369-46a9-a07a-e62b82173e88_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:51</itunes:duration>
+      <pubDate>Wed, 14 Feb 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Janne er tilbake!</title>
+      <description><![CDATA[48 vs 72 timer beskyttelse, bobil-regnskap og rare redningsaksjoner]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/55dd299f-a0ae-4032-b037-7c157eaeb255_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/55dd299f-a0ae-4032-b037-7c157eaeb255_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:22</itunes:duration>
+      <pubDate>Wed, 07 Feb 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+    <item>
+      <title>Albert/Alfons Åberg og skilsmisse hos fugler.</title>
+      <description><![CDATA[Ventelister, stearinlys-saks, KI-cola og verdens nest høyeste mann. Stavangersmurfen har sett kullsyre-lyset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utakt/321728d9-ee1d-4bd7-baad-0cea5d1b1456_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utakt/321728d9-ee1d-4bd7-baad-0cea5d1b1456_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:48</itunes:duration>
+      <pubDate>Wed, 31 Jan 2024 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g.jpg"/>
+    </item>
+  </channel>
+</rss>

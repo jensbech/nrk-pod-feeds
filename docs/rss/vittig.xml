@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Vittig</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen. </description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:24:35 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    <item>
+      <title>På gjensyn, Gomper!</title>
+      <description><![CDATA[Ingrid og Maria takker for seg med årskavalkade og standup-debut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/1f154563-05f6-4554-9545-6305f6e554ec_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/1f154563-05f6-4554-9545-6305f6e554ec_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:49</itunes:duration>
+      <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Gjett romjulsfisen</title>
+      <description><![CDATA[Alfaen Ingrid har vært på luksushotell og Maria prøves fristet av frekke julekalendere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/f748c444-9b70-4b76-88c4-449b704b76e1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/f748c444-9b70-4b76-88c4-449b704b76e1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:41</itunes:duration>
+      <pubDate>Thu, 25 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Trakassert i Tønsberg</title>
+      <description><![CDATA[Julebordsesongen går hardt for seg, og Ingrid har mareritt etter kjendispappa-møte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/32592f7c-95cb-429e-992f-7c95cbd29e49_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/32592f7c-95cb-429e-992f-7c95cbd29e49_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:50</itunes:duration>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Doplangernes julebord</title>
+      <description><![CDATA[Maria er for lite utsatt for rus og Ingrid har dykket i kjendisenes ville raidere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/99296cd3-2d34-401f-a96c-d32d34701f28_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/99296cd3-2d34-401f-a96c-d32d34701f28_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:11</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Julebrustest</title>
+      <description><![CDATA[Det er den tiden av året igjen! Julebrusen må kjøpes, testes og vurderes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/d3e0e8c8-e052-46c5-a0e8-c8e05296c595_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/d3e0e8c8-e052-46c5-a0e8-c8e05296c595_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:14</itunes:duration>
+      <pubDate>Thu, 04 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title> Zara Larsson i min DM</title>
+      <description><![CDATA[Ingrid misbruker Marias verifiserte instagramkonto og noen ønsker for årets julebordsesong.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/72b6186e-fe0b-4b4c-b618-6efe0bab4cff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/72b6186e-fe0b-4b4c-b618-6efe0bab4cff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:41</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Kjeft er gratis</title>
+      <description><![CDATA[Ingrid er lei julepolitiet og «arbitrære» startskudd for julefeiring. Maria har fått kjeft, men sliter å gi kjeft tilbake. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/375a80ca-9fa4-4932-9a80-ca9fa4a93232_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/375a80ca-9fa4-4932-9a80-ca9fa4a93232_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:43</itunes:duration>
+      <pubDate>Thu, 20 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Feberdrøm på Kielferga</title>
+      <description><![CDATA[Ingrid har brukt sykeuka godt og Maria graver i gamle gode usikkerheter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/12def0f9-82e4-40cf-9ef0-f982e4a0cf9e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/12def0f9-82e4-40cf-9ef0-f982e4a0cf9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:16</itunes:duration>
+      <pubDate>Thu, 13 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Dritatrengt i sikkerhetskontrollen</title>
+      <description><![CDATA[Ingrid har overlevd førstehjelpskurs, Maria har skremt barnehagebarna og merkelige opplevelser på flyplassen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/fec1af6f-d6a1-46ea-81af-6fd6a136ea0f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/fec1af6f-d6a1-46ea-81af-6fd6a136ea0f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:47</itunes:duration>
+      <pubDate>Thu, 06 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Knask, eller Marias Knep?</title>
+      <description><![CDATA[Maria har hatt utløp for sin indre kleptoman og Ingrid forteller om Halloween i Holmenkollen (skummelt). Sammen serverer jentene mange gode pranks på menyen. Send oss din!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/1d48e5ab-652d-43ea-88e5-ab652d93ea31_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/1d48e5ab-652d-43ea-88e5-ab652d93ea31_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:40</itunes:duration>
+      <pubDate>Thu, 30 Oct 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Haaland i pysjen på A-laget</title>
+      <description><![CDATA[Det har vært en god uke for Sankt Maria Stavang og Ingrid deler noe som kan lysne opp den kalde mørke tida. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/fc8105f4-71c3-407c-8105-f471c3107c85_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/fc8105f4-71c3-407c-8105-f471c3107c85_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Thu, 23 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Flauser og nudes med Nora Svenningsen</title>
+      <description><![CDATA[Vittig gjest i studio! Ingrid vil utfordre Lørdagsrådet, Maria har hacket fotballmiljøet, og Nora rocker blokkfløyta.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/cacd1718-c4d2-4f55-8d17-18c4d23f55fe_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/cacd1718-c4d2-4f55-8d17-18c4d23f55fe_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:01</itunes:duration>
+      <pubDate>Thu, 16 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>To tøffe ryper</title>
+      <description><![CDATA[Ingrid har klekket ut tidenes reality-plan og Maria har tøffet seg litt for mye.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/946f6215-98ec-4f87-af62-1598ec0f8723_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/946f6215-98ec-4f87-af62-1598ec0f8723_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:13</itunes:duration>
+      <pubDate>Thu, 09 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Cancelled på Oslo S</title>
+      <description><![CDATA[Maria har funnet et smutthull hvor ingen blir kansellert, mens Ingrid gjerne vil betale henne 7500 kroner for en privat tjeneste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/4b10409e-29ea-45dd-9040-9e29eab5dd90_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/4b10409e-29ea-45dd-9040-9e29eab5dd90_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:25</itunes:duration>
+      <pubDate>Thu, 02 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Prinsesse Ingrid på byen</title>
+      <description><![CDATA[Maria lærer venninner å være hvem de vil, og Ingrid har tatt med seg familiemedlemmer på restaurant.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/6e596cc4-9d97-477d-996c-c49d97a77d3c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/6e596cc4-9d97-477d-996c-c49d97a77d3c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:21</itunes:duration>
+      <pubDate>Thu, 25 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Taxi rett i fengsel</title>
+      <description><![CDATA[Maria får tyn av kjendisene på jobb for klesstilen og Ingrid synes eldgamle biskoper ikke hører hjemme i gatenavnbildet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/5ebdaf26-9acc-4d5f-bdaf-269accad5f4b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/5ebdaf26-9acc-4d5f-bdaf-269accad5f4b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:53</itunes:duration>
+      <pubDate>Thu, 18 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Grisejentene i grisebingen</title>
+      <description><![CDATA[Jentene dypper tærne i ukjent farvann. Ingrid er nysgjerrig på nye karaoke-trender og Marias «bunda» får komplimenter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/549b6f0e-693b-4451-9b6f-0e693b545143_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/549b6f0e-693b-4451-9b6f-0e693b545143_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:49</itunes:duration>
+      <pubDate>Thu, 11 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Ingrid kommer ut av Mahogni-skapet</title>
+      <description><![CDATA[Marias PCOS inspirerer til merkelig kinogodt og Ingrid letter på Holmenkollen-skjørtet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/5b522e2e-c4cb-4b08-922e-2ec4cb8b0857_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/5b522e2e-c4cb-4b08-922e-2ec4cb8b0857_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:26</itunes:duration>
+      <pubDate>Thu, 04 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Marias Flesland-flause</title>
+      <description><![CDATA[Maria har levd vårt alles flaueste mareritt og Ingrid har kommet hjem fra tannlegen med trynet fullt av blod]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/a52ca373-2a94-4722-aca3-732a94472281_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/a52ca373-2a94-4722-aca3-732a94472281_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:18</itunes:duration>
+      <pubDate>Thu, 28 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Snuppehøsten er i gang</title>
+      <description><![CDATA[Ingrid åpner "Snuppehøsten" til Vittig og "Kapteinen" fikk Maria til å grine]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/2f5de454-cfc9-48e5-9de4-54cfc908e57a_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/2f5de454-cfc9-48e5-9de4-54cfc908e57a_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:19</itunes:duration>
+      <pubDate>Thu, 21 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Wegovy-taco på Maaemo</title>
+      <description><![CDATA[Kjendis-Maria har hatt en travel sommer og Reggis-Ingrid mimrer tilbake til tiden som konfirmant.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/5492a4af-5e2c-4a39-adff-7ffd2f6046fd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/5492a4af-5e2c-4a39-adff-7ffd2f6046fd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:09</itunes:duration>
+      <pubDate>Thu, 14 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Ich bin ein Berliner</title>
+      <description><![CDATA[Maria ringer inn fra Berlin med nye opplevelser og Ingrid har lurt sjefen trill rundt. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/9d3fbb6d-bb20-4b5c-87e9-a2a8d92931b3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/9d3fbb6d-bb20-4b5c-87e9-a2a8d92931b3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:34</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Staysman, er det deg?</title>
+      <description><![CDATA[Hvorfor skal menn nyse så høyt? Fenriken er hyrt på for sommerquiz, og Ingrid har hatt bursdag!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/11747b03-1eb1-429e-bc36-98730d82a1d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/11747b03-1eb1-429e-bc36-98730d82a1d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:34</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Lyden av Vittig</title>
+      <description><![CDATA[Ingrid har en kjær gjettelek, og Maria har opplevd hypnose!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/6c117b1a-3a5a-45a2-a8b7-aa86b2731125_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/6c117b1a-3a5a-45a2-a8b7-aa86b2731125_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:10</itunes:duration>
+      <pubDate>Thu, 24 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Bænsjilongamannen</title>
+      <description><![CDATA[Maria har fått tak på mannen, myten, legenden - og Ingrid har bomma på oppoverbakken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/dade1ebc-8e97-4193-91a6-98f8327b08aa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/dade1ebc-8e97-4193-91a6-98f8327b08aa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:45</itunes:duration>
+      <pubDate>Thu, 17 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Det heter ikke PÅ Risør!</title>
+      <description><![CDATA[Maria har "klikka" på scenen og Ingrid har funnet virkelighetens Pørni.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/4e460d09-629b-4b79-bb16-3e1b922f13d1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/4e460d09-629b-4b79-bb16-3e1b922f13d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:26</itunes:duration>
+      <pubDate>Thu, 10 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>En lynkjapp svigermor</title>
+      <description><![CDATA[Ingrid gjenåpner sommeren med et lite frieri til "K-sjefen". Maria forteller om den gangen moren hennes "hijacket" hun og Magnus med på Kiel-fergen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/4c7f87e6-d741-494c-9a77-1944b101a19a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/4c7f87e6-d741-494c-9a77-1944b101a19a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:58</itunes:duration>
+      <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Maria fyller 30 år!</title>
+      <description><![CDATA[ Ingrid har ordnet til bursdagsfest i studio og Maria har deltatt i kjendistravløp. Kjendiser kan brukes til mye – også i travløp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/ecc539c0-29de-4c31-820a-2b37cff5dbde_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/ecc539c0-29de-4c31-820a-2b37cff5dbde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:29</itunes:duration>
+      <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Maria har fått en hot ny bestekompis</title>
+      <description><![CDATA[Ingrid skal være fadder på sin unike måte, og Maria har fått seg et overraskende vennskap.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/cf1badc2-9bfe-4e8a-8573-76ab1b997c8f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/cf1badc2-9bfe-4e8a-8573-76ab1b997c8f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:29</itunes:duration>
+      <pubDate>Thu, 19 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Ingrid satt ut av Märtha og Durek</title>
+      <description><![CDATA[Ingrid gjør et journalistisk scoop på rød løper og Maria er i fri flyt i New York.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/d5057e35-af42-4f64-9928-241c1ea0c428_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/d5057e35-af42-4f64-9928-241c1ea0c428_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:30</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Drikkepress meg!</title>
+      <description><![CDATA[Ingrid er på jakt etter ny hobby og Maria har funnet et flaut klipp fra fortiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/2f4911f7-8b15-4bd1-9d97-e778213d6356_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/2f4911f7-8b15-4bd1-9d97-e778213d6356_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:47</itunes:duration>
+      <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Maria har krutt i rompa</title>
+      <description><![CDATA[Ingrid dykker i fengselsstatistikk og Maria ordner opp i en dokø.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/d9171949-a443-45fc-95a0-d0ad789f06a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/d9171949-a443-45fc-95a0-d0ad789f06a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:45</itunes:duration>
+      <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Innerst inne er jeg en gutt!</title>
+      <description><![CDATA[Maria har vært på nachspiel med gutter i nord og Ingrid har med en lykkegjest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/51c5f28a-2f83-474d-8706-a61b5c51155c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/51c5f28a-2f83-474d-8706-a61b5c51155c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:49</itunes:duration>
+      <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Maria jakter på voksenkjeft</title>
+      <description><![CDATA[Ingrid har blitt ekspedert på morsomste vis og Maria prøver å få kjeft av Ingrid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/abca5203-a0ca-480c-a5e1-77d0b45c5e52_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/abca5203-a0ca-480c-a5e1-77d0b45c5e52_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:08</itunes:duration>
+      <pubDate>Thu, 15 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Ydmyket av fastlegen</title>
+      <description><![CDATA[Ingrid (og Maria) har vært på legendarisk barhopping og Maria tok med bilde av tissen til legen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/a679ff7a-d449-4eca-a838-fd1100f3e68c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/a679ff7a-d449-4eca-a838-fd1100f3e68c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:45</itunes:duration>
+      <pubDate>Thu, 08 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Bøllete bestevenner</title>
+      <description><![CDATA[Ingrid har hundedilla og Maria må rydde opp i en grov feil i Kompani Lauritzen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/d0465716-1982-4bea-8d8f-b277d0f9d643_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/d0465716-1982-4bea-8d8f-b277d0f9d643_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:58</itunes:duration>
+      <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Pøffel!</title>
+      <description><![CDATA[Ingrid har forsket i kommuneslagord og Maria har blitt avslørt som ufin kjendis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/cdde434a-9816-42b3-a576-ff993c14eac8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/cdde434a-9816-42b3-a576-ff993c14eac8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:23</itunes:duration>
+      <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>To streker er positivt!</title>
+      <description><![CDATA[Maria dro verdens verste aprilsnarr og Ingrid har hatt en uforglemmelig taxitur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/47adaf47-8ed8-4eef-8934-a29f56db7661_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/47adaf47-8ed8-4eef-8934-a29f56db7661_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:58</itunes:duration>
+      <pubDate>Thu, 17 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Alle dager bør være en rebus</title>
+      <description><![CDATA[Ingrid samler de beste rebuslekene og Maria samler gode barhistorier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/99cfc070-af53-4a6f-9efb-e2560ef072ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/99cfc070-af53-4a6f-9efb-e2560ef072ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:18</itunes:duration>
+      <pubDate>Thu, 10 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Influensere er ikke til å stole på</title>
+      <description><![CDATA[Maria er oppgitt over meningsbærere og Ingrid gjør en etterlengtet smakstest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/e33ce55b-8663-453f-abae-78238ca986e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/e33ce55b-8663-453f-abae-78238ca986e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:12</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Betalte for eget mareritt</title>
+      <description><![CDATA[Ingrid har møtt politiet på byen og Maria fikk ferien slått i trynet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/a172b8e7-d0d5-49dd-89d7-b90cfc04323f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/a172b8e7-d0d5-49dd-89d7-b90cfc04323f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:32</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Noe av det tristeste jeg har vært med på</title>
+      <description><![CDATA[Maria har hatt et nedrig besøk hos kiropraktor og Ingrid finner morsomme måter å feire på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/6f0dd93e-f482-4a5d-9247-7638c0ed206f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/6f0dd93e-f482-4a5d-9247-7638c0ed206f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:52</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Befølt i Bergen på 8. mars</title>
+      <description><![CDATA[Ingrid er blitt frelst av Pølsa og Maria har fått rare komplimenter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/959c16d8-bc52-4000-8531-8ea06ce3563c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/959c16d8-bc52-4000-8531-8ea06ce3563c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:26</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Sånne ting pene damer har</title>
+      <description><![CDATA[Ingrid viser frem pungen sin og Maria fikk los på fin restaurant.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/b1df6ce3-8318-4653-a9c6-1c2dd10f9c76_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/b1df6ce3-8318-4653-a9c6-1c2dd10f9c76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:44</itunes:duration>
+      <pubDate>Thu, 06 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Man må leke litt som voksen!</title>
+      <description><![CDATA[Ingrid har sneket seg med på Humoretaten og Maria har hatt tidenes dagen derpå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/171640e8-c2f1-443f-913e-ef7b0d56d87e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/171640e8-c2f1-443f-913e-ef7b0d56d87e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:14</itunes:duration>
+      <pubDate>Thu, 27 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>På tide å si unnskyld</title>
+      <description><![CDATA[Maria har funnet landets rareste navn og Ingrid har endelig forstått sangtekster.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/290473ef-4e20-42cd-8e68-dd0fe7a36e82_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/290473ef-4e20-42cd-8e68-dd0fe7a36e82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:15</itunes:duration>
+      <pubDate>Thu, 20 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Inviterte 15 gutter fra Tinder</title>
+      <description><![CDATA[Maria har møtt Oslos løse fugler og Ingrid har opptrådt på russefest på Marbella.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/642e84a8-9a7c-4549-ba00-0ff724464fe8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/642e84a8-9a7c-4549-ba00-0ff724464fe8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:04</itunes:duration>
+      <pubDate>Thu, 13 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Nå vet vi hvem kuen er!</title>
+      <description><![CDATA[Ingrid har forsket i setesdalsdialekten og Maria har fått med seg morsomme ting fra byen i Åfjord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/e91588d2-221c-45ac-8b1c-e254dbdad948_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/e91588d2-221c-45ac-8b1c-e254dbdad948_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:29</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Setesdalsdialekt i våre hjerter!</title>
+      <description><![CDATA[Maria har vært på eventyr på bussen og Ingrid har fått dialektgull i innboksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/04520d16-1974-49c6-9f6a-d2c4e6d36919_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/04520d16-1974-49c6-9f6a-d2c4e6d36919_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:06</itunes:duration>
+      <pubDate>Thu, 30 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+    <item>
+      <title>Tulleringe-på!</title>
+      <description><![CDATA[Ingrid har blitt utsatt for et ekstremt sosialt eksperiment og Maria har tulleringt på hos Martin Lepperød.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/vittig/09cdf604-91d7-4f4c-8f38-2f7e119e999b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/vittig/09cdf604-91d7-4f4c-8f38-2f7e119e999b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:52</itunes:duration>
+      <pubDate>Thu, 23 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag.jpg"/>
+    </item>
+  </channel>
+</rss>

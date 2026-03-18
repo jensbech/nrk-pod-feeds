@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Pønsj</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Nyheter, humor og blodig alvor blandet sammen i en herlig pønsj.
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 15:22:21 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Aug 2024 06:00:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    <item>
+      <title>«Tradwife» for alle penga</title>
+      <description><![CDATA[Hvorfor skaper «tradwives» så sterke reaksjoner? Bør vi ta tilbake tradisjonelle kjønnsroller? Vi prater med forsker Kristin Engh Førde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/0f7d9235-4436-4a8e-8543-f1e3a13c5ab0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/0f7d9235-4436-4a8e-8543-f1e3a13c5ab0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:52</itunes:duration>
+      <pubDate>Thu, 01 Aug 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>På tide med firedagers arbeidsuke?</title>
+      <description><![CDATA[Kan flere fridager føre til mindre sykefravær? En psykolog med sovepose som heter Johanne Refseth forteller om firedagers arbeidsuke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/650473d7-fdae-463d-a112-a22f2ab2838e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/650473d7-fdae-463d-a112-a22f2ab2838e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <pubDate>Tue, 30 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan brukes DNA-bevis i retten?</title>
+      <description><![CDATA[Vi legger igjen DNA overalt, og det kan bli brukt som bevis mot deg. La oss nerde ned i temaet! Forsker Ane Elida Fonneløp fra UiO er med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/9cbdeec2-213d-4062-ab28-f829a4684777_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/9cbdeec2-213d-4062-ab28-f829a4684777_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:09</itunes:duration>
+      <pubDate>Thu, 25 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Unge får ikke kjøpt seg noe bolig for tiden</title>
+      <description><![CDATA[Er alt bare bolighaienes skyld? Og hva er en bolighai? Stortingsrepresentant for Rødt, Tobias Drevland Lund, gir oss sine svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/abae57cc-5d5b-4238-a151-bff6a6479d75_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/abae57cc-5d5b-4238-a151-bff6a6479d75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:41</itunes:duration>
+      <pubDate>Tue, 23 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Er det mye matsvinn om dagen, da? (Ja)</title>
+      <description><![CDATA[Har matsvinn gått bananas? Bør det være lovlig å forsyne seg fritt av søppel? Vi har besøk av fagrådgiver i FIVH, Ingrid Kleiva Møller!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/f55a6b26-b756-41e3-be40-849315c39478_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/f55a6b26-b756-41e3-be40-849315c39478_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:41</itunes:duration>
+      <pubDate>Thu, 18 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Ozempic – mirakelkur eller økonomisk bur?</title>
+      <description><![CDATA[Kan hvem som helst ta diabetesmedisinen Ozempic for å gå ned i vekt? Hva er konsekvensene? Molekylærbiolog Sigrid Bratlie er med!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/02a8ab9e-051a-4c73-b2d5-b22f2a6e3335_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/02a8ab9e-051a-4c73-b2d5-b22f2a6e3335_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:45</itunes:duration>
+      <pubDate>Tue, 16 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Burde Norge søke om EU-medlemskap?</title>
+      <description><![CDATA[– Å være med i EØS, er som å være med å pusse opp russebussen uten å få være med på festingen, sier Steinar Suvatne. Hva skjer med Norge og EU?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/9db60427-39c3-4325-a355-acf9b802f239_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/9db60427-39c3-4325-a355-acf9b802f239_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:10</itunes:duration>
+      <pubDate>Thu, 11 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Hvilken generasjon er den beste?</title>
+      <description><![CDATA[Er du en «Boomer», «Millenial», «Gen Z» eller «Gen X»? Uansett hvem du er, skal professor Aksel Tjora forklare deg hvem som er best.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/6bfad92e-b322-4455-80ba-d368c0c81e02_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/6bfad92e-b322-4455-80ba-d368c0c81e02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:22</itunes:duration>
+      <pubDate>Tue, 09 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Generasjon Fri: En utopi?</title>
+      <description><![CDATA[Helsedirektoratet vil at ingen født etter 2010 skal ta nikotin. Avdelingsdirektør Erlend Bø forklarer hvordan de skal få til det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/0acb331d-6dc7-4c77-9327-eb4ec57691a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/0acb331d-6dc7-4c77-9327-eb4ec57691a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:12</itunes:duration>
+      <pubDate>Thu, 04 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor er alle single for tiden?</title>
+      <description><![CDATA[Det er rekordmange single nordmenn, og mange har mistet troa på kjærligheten. Datingekspert Ane Sideri Hagen svarer så godt hun kan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/30ff9ed7-1c0a-4198-ad52-f27a349cc52a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/30ff9ed7-1c0a-4198-ad52-f27a349cc52a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:38</itunes:duration>
+      <pubDate>Tue, 02 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Bli rik på ett år</title>
+      <description><![CDATA[Forfatter og foredragsholder Marie Olaussen har skrevet bok om hvordan bli rik på et år. Hun deler noen av sine tips med oss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/fd4e0814-14ab-4c78-a111-e933dbf6e761_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/fd4e0814-14ab-4c78-a111-e933dbf6e761_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:28</itunes:duration>
+      <pubDate>Thu, 27 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Er det trygt å feire pride i år?</title>
+      <description><![CDATA[Hvordan er terrorsituasjonen i Norge for tiden? Siv Sørensen jobber med kontraterror i PST, og gir oss en fin innføring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/691370c2-48fc-49e1-8c4d-f0b7100bc82e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/691370c2-48fc-49e1-8c4d-f0b7100bc82e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:16</itunes:duration>
+      <pubDate>Tue, 25 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Blubb blubb er bra</title>
+      <description><![CDATA[Blir det atomkrig nå? Jens Stoltenbergs siste sitater betrygger oss ikke, men politisk kommentator i Dagbladet, Sondre Hansmark, roer oss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/a4dea029-a92a-4b08-a804-53fd54dcd102_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/a4dea029-a92a-4b08-a804-53fd54dcd102_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:45</itunes:duration>
+      <pubDate>Thu, 20 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Vi snakker med en som har forsket på festivaler</title>
+      <description><![CDATA[Har du noen gang tenkt på hvor mye dasskøen betyr for samholdet på festival? Professor i sosiologi Aksel Tjora er på besøk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/e20ba8d4-8ace-4a88-9eee-44008c690427_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/e20ba8d4-8ace-4a88-9eee-44008c690427_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:09</itunes:duration>
+      <pubDate>Tue, 18 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>En forsker vil dissekere hjernen min</title>
+      <description><![CDATA[Det er gjort gigantiske funn i Telemark, som kan ha mye å si for Europa. Forsker Maria Wallin gjør oss litt klokere. Sindre har ingen krav.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/40dad0c1-25ef-4441-9ae4-4f99d68466d6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/40dad0c1-25ef-4441-9ae4-4f99d68466d6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:25</itunes:duration>
+      <pubDate>Thu, 13 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Mandag? Psykologtime for min del</title>
+      <description><![CDATA[Fy fankern så mye pollen det er ute for tiden. Anna Bistrup fra Norges Astma- og Allergiforbund har peiling, og svarer. Fotball på mandag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/4194f094-2086-49c5-97ce-4f96c6186750_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/4194f094-2086-49c5-97ce-4f96c6186750_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:08</itunes:duration>
+      <pubDate>Tue, 11 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Det er mye kjipe nyheter om Russland nå til dags</title>
+      <description><![CDATA[Hva i alle dager skal astronauter på månen? Og hva er greia med liv på Mars? Ørjan Vøllestad fra Andøya Space Education svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/6b1b5e1a-fca0-4fb0-bb92-70a82c4fc49b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/6b1b5e1a-fca0-4fb0-bb92-70a82c4fc49b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:35</itunes:duration>
+      <pubDate>Thu, 06 Jun 2024 06:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Etternavnet mitt har ingenting med rus å gjøre</title>
+      <description><![CDATA[Hva bør man ha hjemme i tilfelle alt går rett til helvete? Egil Aslak Hagerup deler litt om det. Og vi får besøk av Hanning Bong.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/f99db1ec-a7f6-40c1-a9e7-e15df376c6e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/f99db1ec-a7f6-40c1-a9e7-e15df376c6e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:28</itunes:duration>
+      <pubDate>Tue, 04 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>– Det viktigste er å ha lave forventninger</title>
+      <description><![CDATA[Reiseinfluenser Helene Myhre om hvordan unngå dårlig stemning på norgesferie. Slik spotter du en spion. Sindre får slag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/f141c79f-8acf-4577-a19e-1eff8ee3af27_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/f141c79f-8acf-4577-a19e-1eff8ee3af27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:37</itunes:duration>
+      <pubDate>Thu, 30 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>– Vi må tilbake til mormors pannekaker</title>
+      <description><![CDATA[Kjemiker Alexander Sandtorv forklarer kosttilskudd og kritiserer influencere. Aune Sand får frem følelser hos Henning. Sindre er russer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/52d924b2-0312-4dd5-8806-a71dade9b9e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/52d924b2-0312-4dd5-8806-a71dade9b9e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:49</itunes:duration>
+      <pubDate>Tue, 28 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Falsk nyhet: Verdens største fiskegrateng</title>
+      <description><![CDATA[Professor og rusforsker Thomas Clausen titter innom for å dele av sin kunnskap rundt kokain? Og Sindre testes som finansminister.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/90424661-3cd2-415e-8265-3a48e661ccd8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/90424661-3cd2-415e-8265-3a48e661ccd8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:55</itunes:duration>
+      <pubDate>Thu, 23 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Kan man kiles til orgasme i 2024?</title>
+      <description><![CDATA[Solen skinner som aldri før, og det samme gjør solkremens hovedrolle. Hudlege Silje Davik kommer innom for å gjøre oss klokere. Sindre dør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/d291d5b3-ce0c-4d60-ae8c-776324440fec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/d291d5b3-ce0c-4d60-ae8c-776324440fec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:55</itunes:duration>
+      <pubDate>Tue, 21 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>– Endelig skal vi vinne krigen mot narkotika!</title>
+      <description><![CDATA[Anne Rokkan er kommentator i Dagens Næringsliv, men på fritiden forklarer hun reviderte nasjonalbudsjett for oss. Og kongens humor slaktes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/4134cc81-2134-4771-b4d5-9b6dca26e2c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/4134cc81-2134-4771-b4d5-9b6dca26e2c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:21</itunes:duration>
+      <pubDate>Thu, 16 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Hva har kokain og banan til felles?</title>
+      <description><![CDATA[– Vi skal alle være litt bekymret for spioner, sier seniorrådgiver i PST, Eirik Veum. Og Sindre er ekkel angående trafikklys igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/18fa4738-a8f8-4634-9130-29cf888e28c0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/18fa4738-a8f8-4634-9130-29cf888e28c0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:14</itunes:duration>
+      <pubDate>Tue, 14 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>I krig er ingen gode eller onde</title>
+      <description><![CDATA[Konflikt- og folkerettsforsker Cecilie Hellestveit forteller om da hun smuglet ut videobevis fra Sovjet. Ellers: Henning Bang er creepy.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/17cca3e9-3ab1-44f3-82e9-60e1e95b41ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/17cca3e9-3ab1-44f3-82e9-60e1e95b41ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:14</itunes:duration>
+      <pubDate>Thu, 09 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Den ultimate henrettelsen</title>
+      <description><![CDATA[Søvnforsker Elisabeth Flo-Groeneboom svarer på det vi lurer på om søvn. Og dagens «Punch eller Punsj» handler IKKE om Frank Løke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/de8e5775-e30f-42d9-8a34-5777b3c5c24c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/de8e5775-e30f-42d9-8a34-5777b3c5c24c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:03</itunes:duration>
+      <pubDate>Tue, 07 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Tips til unge ordførere</title>
+      <description><![CDATA[Hvordan blir man kvitt en skikkelig stalker? Kjersti Narud kommer innom for å forklare litt. Og vi får pengetips fra Kristian André (4).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/8ea1fb67-b013-4166-8000-c6d8a7d8aa23_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/8ea1fb67-b013-4166-8000-c6d8a7d8aa23_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:22</itunes:duration>
+      <pubDate>Thu, 02 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Ikke dra til Norge</title>
+      <description><![CDATA[Ernæringsbiologen Marit Kolby forklarer oss en gang for alle hva ultraprosessert mat egentlig er. Ellers: en død oter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/597a9c03-f786-4dc1-a75b-a98779ad9d10_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/597a9c03-f786-4dc1-a75b-a98779ad9d10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:29</itunes:duration>
+      <pubDate>Tue, 30 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Ordspill eller folkemord - Hva er verst?</title>
+      <description><![CDATA[Patricia Katee fra Amnesty forklarer litt om hva en samtykkelov vil innebære i Norge. Og begge guttas personvern krenkes på det groveste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/795361ad-ecf5-4ab6-9041-993250247dde_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/795361ad-ecf5-4ab6-9041-993250247dde_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:12</itunes:duration>
+      <pubDate>Thu, 25 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Vi kjenner vel alle en pedo</title>
+      <description><![CDATA[Er virkelig 1 av 50 nordmenn pedofile? Psykolog Svein Øverland svarer på spørsmål rundt pedofili. Og Hennings uunngåelige skjebne formidles.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/e58ba04a-bd9e-45dc-ade7-0b2a745b96d7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/e58ba04a-bd9e-45dc-ade7-0b2a745b96d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:45</itunes:duration>
+      <pubDate>Tue, 23 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Den nye RU-lederen HATER «networking»</title>
+      <description><![CDATA[President Heming Olsen-Bergem fra Tannlegeforeningen forklarer hvorfor du ALLTID må ha øyekontakt med tannlegen din. Og Sindre makuleres.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/647808b6-3cb5-42e8-8164-e38b0b1b3969_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/647808b6-3cb5-42e8-8164-e38b0b1b3969_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:29</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>«Brenn i helvete», hilsen Sindre Reinholt</title>
+      <description><![CDATA[Lege og forfatter Ellen Støkken Dahl snakker litt om hvorfor alle har gonoré for tiden. Ellers er Sindre og Henning harry (som vanlig).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/9a48c56b-bc3e-4e39-8c0f-039788bc4f83_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/9a48c56b-bc3e-4e39-8c0f-039788bc4f83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:11</itunes:duration>
+      <pubDate>Tue, 16 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Forby buddhistiske munker i Norge</title>
+      <description><![CDATA[Cecilie Langum Becker har peiling på økonomi, og forklarer hva som er foreslått i Asker. Ellers: Sindre drapstruer Henning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/4b74e987-faa5-4b85-b55f-ad3ae716298a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/4b74e987-faa5-4b85-b55f-ad3ae716298a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:44</itunes:duration>
+      <pubDate>Thu, 11 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Kunstig Quisling</title>
+      <description><![CDATA[Hvorfor skal Norge doble forsvarsbudsjettet sitt? Vi snakker med sjefsforsker ved FFI, Cecilie Sendstad. Og en liten prat med Quisling også.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/cfcf75bd-b930-4735-b047-e5b5f2138ece_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/cfcf75bd-b930-4735-b047-e5b5f2138ece_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:50</itunes:duration>
+      <pubDate>Tue, 09 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>– Staten har ikke kontroll!</title>
+      <description><![CDATA[Hennings drøm om å bli k-sjef settes på prøve, mens Omar Svendsen-Yagci fra Unge Venstre forklarer hvorfor han vil legalisere cannabis.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/bddfab3e-48b5-4b25-b9ef-e33bb31219b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/bddfab3e-48b5-4b25-b9ef-e33bb31219b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:11</itunes:duration>
+      <pubDate>Thu, 04 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Morgenmøte i torturavdelingen</title>
+      <description><![CDATA[Er antibiotikaresistente bakterier vår tids største trussel? Molekylærbiolog Sigrid Bratlie svarer. Og så blir det kattequiz som vanlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/3a30319c-118f-4317-9677-1c57dde74e99_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/3a30319c-118f-4317-9677-1c57dde74e99_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:18</itunes:duration>
+      <pubDate>Thu, 28 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Reiseforsikring til hjemmekontor</title>
+      <description><![CDATA[Plutselig skal alle ta yrkesfag på videregående. Skoleforsker Elise Farstad Djupedal forklarer hvorfor. Og består vi rasismeprøven?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/2d472b5b-643d-4902-8178-2dcb28ac95e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/2d472b5b-643d-4902-8178-2dcb28ac95e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:37</itunes:duration>
+      <pubDate>Tue, 26 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Lengre penis, fortsatt deppa</title>
+      <description><![CDATA[Hver tiende nordmann har operert utseende sitt, forteller psykologspesialist Silje Endresen Reme. Og hva er det Vedum babler om?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/7df3b456-5c86-4216-b2ff-f950c6283e35_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/7df3b456-5c86-4216-b2ff-f950c6283e35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:31</itunes:duration>
+      <pubDate>Thu, 21 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Jeg vil gjerne ha litt mindre i lønn</title>
+      <description><![CDATA[Bør 10-åringer bruke anti-rynkekrem? Og hvordan skal man egentlig løse nabokrangler? Tarjei er for øvrig vikar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/7256081e-9649-4750-b722-045fc9a3831d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/7256081e-9649-4750-b722-045fc9a3831d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:56</itunes:duration>
+      <pubDate>Tue, 19 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Et større bilde av kokain</title>
+      <description><![CDATA[Dobling av jenter med ADHD, har TikTok skylda? En kongelig cyborg, deprimerte barn, og hvorfor kokain er så fett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/46f676c1-16df-4828-b243-e57830ec1376_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/46f676c1-16df-4828-b243-e57830ec1376_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:03</itunes:duration>
+      <pubDate>Thu, 14 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>– Vi har ikke lyst til at det skal være krig</title>
+      <description><![CDATA[Leve på kun vann i syv dager? Klinisk ernæringsfysiolog Inge Lindseth snakker om fasting. Og så spiller vi «Fylla eller facerape».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/c9d490a8-2241-48b6-9d59-6214dc81f04f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/c9d490a8-2241-48b6-9d59-6214dc81f04f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:27</itunes:duration>
+      <pubDate>Tue, 12 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YN7vKpaSkzfmnbzU8qmqYgGbGppaKV8izpt0CoZQUUDA.jpg"/>
+    </item>
+    <item>
+      <title>Vi tar opp kampen mot Økokrim</title>
+      <description><![CDATA[Forskere fant mikroplast i alle morkaker som ble testet. Krise? Og foreningen for folk med ekstremt lav intelligens søker nye medlemmer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/91272a3c-520d-47ca-9644-91889eeb0a98_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/91272a3c-520d-47ca-9644-91889eeb0a98_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:19</itunes:duration>
+      <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+    <item>
+      <title>Kong Harald i en tuk-tuk</title>
+      <description><![CDATA[Steinar Suvatne om historiens villeste sanksjoner. Og litt om manipulerende barneleker, Kong Haralds tuk-tuk-tur og kjøpepress vs. slaveri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/poensj/13926dc4-a984-43ba-b413-661f36e61839_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/poensj/13926dc4-a984-43ba-b413-661f36e61839_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:25</itunes:duration>
+      <pubDate>Tue, 05 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SQwPm6n8_ZKnWL883ChKVwxGvJudMXizm20EdyKXblHw.jpg"/>
+    </item>
+  </channel>
+</rss>
