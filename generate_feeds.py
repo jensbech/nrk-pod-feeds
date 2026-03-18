@@ -136,9 +136,6 @@ if __name__ == '__main__':
     podcasts = get_podcasts_config(podcasts_cfg_file)
 
     for p in podcasts:
-        if not p["enabled"]:
-            continue
-
         podcast_id = p["id"]
         podcast_season = p["season"]
         ep_count = 0
