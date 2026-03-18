@@ -4,9 +4,7 @@ const NRK_BASE_URL = "https://radio.nrk.no/podkast/";
 function buildRow(feed) {
   const feedUrl = BASE_URL + feed.id + ".xml";
 
-  let statusClass = "row-active";
-  if (feed.ignore)        statusClass = "row-obsolete";
-  else if (!feed.enabled) statusClass = "row-inactive";
+  let statusClass = feed.enabled ? "row-active" : "row-inactive";
 
   const epCount = feed.episodes === 0 ? "Alle" : (feed.episodes ? feed.episodes + " ep" : "");
   const badge   = epCount ? `<span class="ep-badge">${epCount}</span>` : "";
@@ -27,8 +25,8 @@ function buildRow(feed) {
 }
 
 function listFeeds() {
-  const visible = feeds.filter(f => !f.hidden);
-  const active  = visible.filter(f => f.enabled && !f.ignore);
+  const visible = feeds;
+  const active  = visible.filter(f => f.enabled);
 
   document.getElementById("count-active").textContent = active.length;
   document.getElementById("count-total").textContent  = visible.length;

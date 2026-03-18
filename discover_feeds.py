@@ -47,10 +47,6 @@ def update_podcasts_config(configured, discovered):
                 exists = True
                 exists_i = i
 
-        if exists and ("ignore" in configured[exists_i] and configured[exists_i]['ignore']):
-            logging.debug(f"Ignoring podcast {podcast['seriesId']}")
-            continue
-
         metadata = psapi.get_podcast_metadata(podcast['seriesId'])
 
         if not metadata:
@@ -80,14 +76,6 @@ def update_podcasts_config(configured, discovered):
             "season": season,
             "enabled": active['active']
         }
-
-        if active['obsolete']:
-            logging.warning(f"Podcast {podcast['title']} is considered obsolete and will be ignored in the future")
-            changes.append(f"Podcast '{podcast['title']}' is considered obsolete and will be ignored in the future (`{podcast['seriesId']}`)")
-            new_feed["ignore"] = True
-            new_feed["hidden"] = True
-            configured[exists_i] = new_feed
-            updated_c+=1
 
         if exists and (configured[exists_i]['enabled'] != new_feed['enabled'] or configured[exists_i]['season'] != new_feed['season']):
             logging.info(f"Updating existing podcast {podcast['seriesId']} (i: {exists_i})")

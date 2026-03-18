@@ -197,8 +197,12 @@ main {
   flex-shrink: 0;
 }
 .row-active   .status-dot { background: var(--active); }
-.row-inactive .status-dot { background: var(--inactive); }
-.row-obsolete .status-dot { background: var(--obsolete); }
+.row-inactive .status-dot { background: var(--border-2); }
+
+.row-inactive .feed-name  { color: var(--text-3); }
+.row-inactive .feed-url   { color: var(--border-2); }
+.row-inactive .ep-badge   { opacity: 0.5; }
+.row-inactive .copy-btn   { opacity: 0.6; }
 
 .feed-info {
   flex: 1;
