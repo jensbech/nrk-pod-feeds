@@ -83,11 +83,6 @@ h1 {
   flex-wrap: wrap;
 }
 
-.tagline {
-  color: var(--text-2);
-  font-size: 13.5px;
-}
-
 .stats {
   color: var(--text-3);
   font-size: 13px;

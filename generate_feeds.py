@@ -113,7 +113,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         ep_i +=1
 
     title = original_title
-    subtitle = f"Uoffisiell feed fra podkasten {original_title}. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se {website} for mer informasjon."
+    subtitle = metadata["series"]["titles"].get("subtitle", "")
 
     p.name = title
     p.description = subtitle
