@@ -7,20 +7,20 @@ def test_get_podcast():
     os.makedirs(feeds_dir, exist_ok=True)
 
     podcast_id = "kongerekka"
-    season_id = "2020"
+    season_id = "1"
 
-    podcast = get_podcast(podcast_id, season_id, feeds_dir, 10)
+    podcast = get_podcast(podcast_id, season_id, feeds_dir, 30)
     assert podcast
 
     write_podcast_xml(feeds_dir, f"{podcast_id}_test", podcast)
     file = write_podcast_xml(feeds_dir, podcast_id, podcast)
     os.remove(file)
-    
+
 def test_get_podcast_void():
     feeds_dir = "tests/rss"
 
     podcast_id = "kongerdekka"
-    season_id = "2020"
+    season_id = "1"
 
-    podcast = get_podcast(podcast_id, season_id, feeds_dir, 10)
+    podcast = get_podcast(podcast_id, season_id, feeds_dir, 30)
     assert podcast == None

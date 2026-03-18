@@ -142,7 +142,7 @@ if __name__ == '__main__':
 
         podcast_id = p["id"]
         podcast_season = p["season"]
-        ep_count = 10
+        ep_count = 30
 
         if "episodes" in p:
             ep_count = p["episodes"]

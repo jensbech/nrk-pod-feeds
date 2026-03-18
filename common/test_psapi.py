@@ -24,7 +24,7 @@ def test_get_podcast_episodes():
         assert "episodeId" in episode
         assert "durationInSeconds" in episode
 
-    assert len(episodes) == 10
+    assert len(episodes) == 30
 
 def test_get_all_podcast_episodes():
     podcast_id = "kongerekka"
@@ -74,11 +74,11 @@ def test_get_latest_podcast_season():
 
 def test_get_podcast_episodes_by_season():
     podcast_id = "kongerekka"
-    season_id = "2020"
+    season_id = "1"
 
     episodes = psapi.get_podcast_episodes(podcast_id, season_id)
 
-    assert len(episodes) == 10
+    assert len(episodes) == 30
 
 def test_get_all_podcasts():
     podcasts = psapi.get_all_podcasts()
