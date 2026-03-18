@@ -1,5 +1,6 @@
 import logging
 
+import random
 from podgen import Podcast, Episode, Media
 from dateutil import parser
 from datetime import timedelta, datetime, timezone
@@ -135,7 +136,7 @@ if __name__ == '__main__':
 
     podcasts = get_podcasts_config(podcasts_cfg_file)
 
-    inactive_refresh_days = 30
+    inactive_refresh_days = random.randint(50, 60)
 
     for p in podcasts:
         podcast_id = p["id"]
