@@ -1,106 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Valg</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Valg. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/valg for mer informasjon.</description>
+    <title>Valg</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Hør debatter, innslag og intervjuer fra NRKs valgdekning.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Aug 2023 05:52:34 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Aug 2023 12:18:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 14:28:11 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/CUU98rFeXsBAoD8iCSPeMAVhnMQKk98FNPvtSyy4iKbQ.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/HVmwxKtHy37PuEI9sPy7MgSNqqUscjH82az-U0R-Odww.jpg"/>
     <item>
-      <title>Utspørjing av Trude Brosvik (KrF)</title>
-      <description><![CDATA[Trude Brosvik er Vestland KrF sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/4973288f-d0f9-42ba-9e1f-50b161afa41a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/4973288f-d0f9-42ba-9e1f-50b161afa41a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:32</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 11:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TeMORrxcKAaYKcUi3urrAQunOeFOGd8bmLzMPys1aIDw.jpg"/>
+      <title>Fremskrittspartiet</title>
+      <description><![CDATA[Det er ingen hemmelighet at Frp vil legge ned Sametinget, men listetopp Ellen Eriksen vil ikke selv inn for å legge deŧ ned.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/61c9f091-8c03-4526-89f0-918c0325269e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/61c9f091-8c03-4526-89f0-918c0325269e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:14</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHmvkOb_97BrSbETrw2FvgbTZMdH7HunKMHQdzRNm4XQ.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Alver</title>
-      <description><![CDATA[Debatten mellom listetoppane i Alver kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/cc386957-5ef6-4ff4-a53d-aadbc584641e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/cc386957-5ef6-4ff4-a53d-aadbc584641e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:49</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fJFe-co5CD5O7fxNAfp6wwIkKF8J_sOPUhkoD3NpcNbQ.jpg"/>
+      <title>Industri- og næringsparti</title>
+      <description><![CDATA[Listetoppen var på havet, og sendte fylkesleder Agnar Johansen i utspørring. Det er første gang de har liste i sametingsvalget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/ecfdb0a7-ceed-411c-bdb0-a7ceed211ce6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/ecfdb0a7-ceed-411c-bdb0-a7ceed211ce6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:08</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mawbNQKf7LguHHkTXjn-2AnGK5Io6W-3NWz_I4kOj9Xg.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Askvoll</title>
-      <description><![CDATA[Debatten mellom listetoppane i Askvoll kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/055eb625-6de3-48e0-8a2a-7054d9816ee8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/055eb625-6de3-48e0-8a2a-7054d9816ee8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:31</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:11:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/cimSoUOJQGsNU9M82QPoFQvfJAHCi-3pwhAImREsUgPg.jpg"/>
+      <title>Olgeš</title>
+      <description><![CDATA[Lars Filip Paulsen mielas galget sámi mánát oažžut albma julevsámegiel oahpahusa go bajásšaddet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/60d97a2e-d65c-421b-997a-2ed65c821b27_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/60d97a2e-d65c-421b-997a-2ed65c821b27_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:04</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xex1YEWu7FAUj8oovFaTBAqlEuy-_4eAL7EzKhHb7ucw.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Askøy</title>
-      <description><![CDATA[Debatten mellom listetoppane i Askøy kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/c1842466-5e7a-4d15-a23c-739a5563da02_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/c1842466-5e7a-4d15-a23c-739a5563da02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:36</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:12:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xXuz83l3VDr6TUDWTbVZrwMCK--1ZESfw-Pf8s1cxUsw.jpg"/>
+      <title>Norgga Sámiid Riikkasearvi</title>
+      <description><![CDATA[Silje Karine Muotka mielas leat dat eará presideantaevttohasat buori olbmot, muhto politihkkalaččat ii sáhte doarjut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/4760a704-1346-4cef-a0a7-0413463cef51_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/4760a704-1346-4cef-a0a7-0413463cef51_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:20</itunes:duration>
+      <pubDate>Thu, 28 Aug 2025 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iKpmGQAAmME9ElOzG6n0dw0rLwmxxZndj6tja8qABe8w.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Aurland</title>
-      <description><![CDATA[Debatten mellom listetoppane i Aurland kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/5b2adeba-21c4-497f-b701-75bbf835df10_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/5b2adeba-21c4-497f-b701-75bbf835df10_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:04</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:13:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/V-WCMlpBMDcHUNNkhdPiagrSsj4Fyh5YvZXCTKuMLRjg.jpg"/>
+      <title>Samefolkets parti</title>
+      <description><![CDATA[En av sakene i denne valgkampen har berørt Ann-Elise Finbog personlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/d07fc0df-30da-44d9-bfc0-df30da74d9b7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/d07fc0df-30da-44d9-bfc0-df30da74d9b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:01</itunes:duration>
+      <pubDate>Tue, 26 Aug 2025 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N_U3P27XuuXLcEhn9y1bnwh3CDGQVHeWZ3dtV9nH-_-Q.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Austevoll</title>
-      <description><![CDATA[Debatten mellom listetoppane i Austevoll kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/a075bc3c-123f-41ba-8178-3dfcfe77b551_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/a075bc3c-123f-41ba-8178-3dfcfe77b551_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:23</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:14:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fufLj2MzejnTS5aaF20QZwg7Jbw5zjGqZRfR0bAkumFg.jpg"/>
+      <title>Sámeeatnanlista</title>
+      <description><![CDATA[Sápmelaččat galget stivret Sámedikki, oaivvilda listonjunuš Sissel Gaup.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/faa1560c-8947-462f-a156-0c8947c62fe2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/faa1560c-8947-462f-a156-0c8947c62fe2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:50</itunes:duration>
+      <pubDate>Tue, 26 Aug 2025 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BdxeHXrqpmSut1Dfuy6lEwNcLQF-QzF15pMTjc7m6EpQ.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Austrheim</title>
-      <description><![CDATA[Debatten mellom listetoppane i Austrheim kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/2c5cc55b-0476-4513-8b5d-f258c5eb58e7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/2c5cc55b-0476-4513-8b5d-f258c5eb58e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:17</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/V0N9t38aBKG_u7lRuuhAcQ17FMuXiahGfWTDdYFSlcgg.jpg"/>
+      <title>Senterpartiet</title>
+      <description><![CDATA[Samenes nasjonaldag bør ikke være en fridag, mener Tor Mikkola. Hva annet opptar partiet i denne valgkampen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/ea992696-4f0d-49df-9926-964f0d09dfed_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/ea992696-4f0d-49df-9926-964f0d09dfed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:25</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yw8gETKB79Gb17N4bxuuCgqVhFORk1SdPJuDw0ce9svw.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Bjørnafjorden</title>
-      <description><![CDATA[Debatten mellom listetoppane i Bjørnafjorden kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/7aa85633-ffba-4d32-bc00-28040353dc66_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/7aa85633-ffba-4d32-bc00-28040353dc66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:44</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:16:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CIhDGKj9wix1JjdlKEbdcQClkcFx4Yq7AfNA2Srv7jbA.jpg"/>
+      <title>Johttisápmelaččaid listu</title>
+      <description><![CDATA[Boazodoallu lea dehálaš ášši Berit Marie Eirai, muhto mat leat vel su váibmoáššit?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/306cd576-8e0d-401a-acd5-768e0d101a98_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/306cd576-8e0d-401a-acd5-768e0d101a98_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:46</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TO7JsEMF9Cl9-wZTnNdG8wtcr4UsAWuRpienGnjM1g5A.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Bremanger</title>
-      <description><![CDATA[Debatten mellom listetoppane i Bremanger kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/c831a238-93fb-482a-8862-c252ac601147_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/c831a238-93fb-482a-8862-c252ac601147_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:31</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:17:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tWuAUUE8dqO2wkuWNRN4HwtMuLYIxtT9pkxHGiR80few.jpg"/>
+      <title>Bargiidbellodat</title>
+      <description><![CDATA[Presideantaevttohas Svein Atle Somby oaivvilda juoga lea dáhpáhuvvan; sámediggi ja sápmelaččat leat hádjánan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/3df6784d-4eb0-4ac4-b678-4d4eb08ac44f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/3df6784d-4eb0-4ac4-b678-4d4eb08ac44f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:57</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qaXtHHt5ww0OYyNMwsDRDwDGla5-ArIfapbthol1PTBg.jpg"/>
     </item>
     <item>
-      <title>Valdebatt frå Fedje</title>
-      <description><![CDATA[Debatten mellom listetoppane i Fedje kommune blir leia av Oddgeir Øystese.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/6db2e1a8-b51a-43c3-982e-96e1b6abb470_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/valg/6db2e1a8-b51a-43c3-982e-96e1b6abb470_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:08</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 12:18:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wPUS0ksr_Ee-hTJHb-ivDAItHKIzBIwXYlAsDHawa38A.jpg"/>
+      <title>Nordkalottfolket</title>
+      <description><![CDATA[Vi er hovedmotstanderen til NSR, sier Vibeke Larsen, presidentkandidaten til det største opposisjonspartiet på Sametinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/valg/997515ef-e655-4223-b515-efe655422308_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/valg/997515ef-e655-4223-b515-efe655422308_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:24</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/akkddgep-9n_R8R4TO16hg4pR36U3AkpuKtlFK_RXAYQ.jpg"/>
     </item>
   </channel>
 </rss>

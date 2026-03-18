@@ -1,74 +1,219 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Fantorangenfortellinger</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Fantorangenfortellinger. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fantorangenfortellinger for mer informasjon.</description>
+    <title>Fantorangenfortellinger</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Kjempe-babyer, havfruer og krokodillebriller – hos Pivi, Fantus og Fantorangen kan alt skje, og ingenting er umulig. Bli med på eventyr! </description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Jul 2023 04:31:29 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Jul 2023 06:04:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 14:25:41 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    <item>
+      <title>Den isglatte akebakken</title>
+      <description><![CDATA[Eddi sit fast i treet midt i akebakken. Fantorangen og Pivi må skli ned for å redda han - på ei seng!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/df64cf25-301a-45de-a4cf-25301a45de6c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/df64cf25-301a-45de-a4cf-25301a45de6c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:13</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Peparkakehuset</title>
+      <description><![CDATA[Mykje kan gå skeis når ein set saman eit pepperkakehus, og det gjer det for Pivi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/3899682c-d956-486c-9968-2cd956e86cb8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/3899682c-d956-486c-9968-2cd956e86cb8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:04</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Fantus vil ikkje sove</title>
+      <description><![CDATA[Pivi og Fantorangen skal høyre på lydbok når Fantus har lagt seg. Da vil ikkje Fantus legge seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/aebb48e0-0061-458e-868b-dfd58a7fb439_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/aebb48e0-0061-458e-868b-dfd58a7fb439_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:38</itunes:duration>
+      <pubDate>Fri, 01 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Muggdyret i matboksen</title>
+      <description><![CDATA[Kan ei muggen brødskive bli til eit kjæledyr? Absolutt, synest Fantorangen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/5a7776d7-acff-44b2-86b5-10e461eadf14_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/5a7776d7-acff-44b2-86b5-10e461eadf14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:10</itunes:duration>
+      <pubDate>Fri, 25 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Pappa Pivi og fantusbabyen</title>
+      <description><![CDATA[Pivi må trasse høgdeskrekken for å hjelpe Fantus ned fra et høgt tre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/2d849ff2-e91c-46b7-b2c2-9438199d8542_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/2d849ff2-e91c-46b7-b2c2-9438199d8542_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:01</itunes:duration>
+      <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Det store søppelplukkingsløpet</title>
+      <description><![CDATA[Fantorangen vil vinne løpet, men må vere på lag med Fantus - som er altfor treg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/b8c6e2fa-f5be-457c-96be-3699ae4573c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/b8c6e2fa-f5be-457c-96be-3699ae4573c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:34</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen sit fast i do</title>
+      <description><![CDATA[Fantorangen hoppar oppi doen og sit fast. Korleis kjem ein seg laus frå ein do?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/7fafd1c8-5967-4a81-8e7c-ad1c07fa9bb3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/7fafd1c8-5967-4a81-8e7c-ad1c07fa9bb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:32</itunes:duration>
+      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Pannekake i taket</title>
+      <description><![CDATA[Fantorangen og Fantus lagar spagettipannekaker og kaos.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/cc404772-1727-45d8-b26f-4b08a088aacb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/cc404772-1727-45d8-b26f-4b08a088aacb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:43</itunes:duration>
+      <pubDate>Fri, 27 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Villmarksturen</title>
+      <description><![CDATA[Fantorangen vil på villmarkstur. Pivi trur alt vil gå gale. Og det gjer det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/79d996ea-b4c8-4508-aa9f-44841258f09b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/79d996ea-b4c8-4508-aa9f-44841258f09b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:49</itunes:duration>
+      <pubDate>Fri, 20 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Usynlegheitsteppet</title>
+      <description><![CDATA[Fantorangen, Pivi og Fantus leikar med eit teppe som gjer dei usynlege. Det får dei bruk for, når dei får besøk av ein tjuv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/822cf8f5-ff0a-4690-bf04-19fd25026b69_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/822cf8f5-ff0a-4690-bf04-19fd25026b69_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:48</itunes:duration>
+      <pubDate>Fri, 11 Apr 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Fotballkampen</title>
+      <description><![CDATA[Fantorangen og Pivi spelar fotballkamp. Tapar dei kampen, så mistar dei Eddi, for alltid]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/29cd7458-feaa-4183-917b-b033f5f9440a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/29cd7458-feaa-4183-917b-b033f5f9440a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:44</itunes:duration>
+      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Ostetur til månen</title>
+      <description><![CDATA[Fantus, Fantorangen og Pivi er svoltne og reiser til den største osten i universet – månen! Men er det lov å ta ost uten avtale?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/122b5c4c-3e73-40a1-a254-16bd20b0f9ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/122b5c4c-3e73-40a1-a254-16bd20b0f9ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:30</itunes:duration>
+      <pubDate>Fri, 19 Jul 2024 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
+    <item>
+      <title>Krympekrise</title>
+      <description><![CDATA[Pivi og Fantorangen krympar og blir små som to maur. Det er jo litt krise, så dei prøver å nyse seg store igjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/7b85310c-053b-4a69-8cc9-b27d47305aaf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/7b85310c-053b-4a69-8cc9-b27d47305aaf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:40</itunes:duration>
+      <pubDate>Fri, 19 Jul 2024 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
+    <item>
+      <title>Skitur ned Tittetoppen</title>
+      <description><![CDATA[Fantorangen og Pivi går på ski for første gong. Pivi vil øve på flata, Fantorangen vil berre stå ned det bratte Tittetoppfjellet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/7f62e667-2e06-423d-a9f9-a7b4195dd639_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/7f62e667-2e06-423d-a9f9-a7b4195dd639_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:34</itunes:duration>
+      <pubDate>Fri, 19 Jul 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
+    <item>
+      <title>Pivi og panservaflane</title>
+      <description><![CDATA[Pivi lagar steinharde vaflar og han og Fantorangen blir venner med ein gjeng vaffelsvoltne vepsar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/8abd9425-3c38-47d4-bf51-614be7a2f8f0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/8abd9425-3c38-47d4-bf51-614be7a2f8f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:29</itunes:duration>
+      <pubDate>Fri, 19 Jul 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
+    <item>
+      <title>Kjempe-Fantus</title>
+      <description><![CDATA[Fantus veks og blir større enn det høgaste treet i Kongleskogen. Korleis skal Pivi og Fantorangen få Fantus liten igjen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/de9c1200-06a0-4117-abcb-45a7cd518c1d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/de9c1200-06a0-4117-abcb-45a7cd518c1d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:02</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
+    <item>
+      <title>Havfrua</title>
+      <description><![CDATA[Fantorangen mister Pivi sin fine stein i havet, så dei tek ubåten ned for å finne han. Der ventar ei magisk og fortryllande verd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/eec03faa-cd39-4636-9786-c9340ec34fad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/eec03faa-cd39-4636-9786-c9340ec34fad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:47</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
+    <item>
+      <title>Pivi på Stupbrattberget</title>
+      <description><![CDATA[Pivi skal lage yndlingsretten til tante Liss, men ein viktig ingrediens veks berre på toppen av det brattaste fjellet som finst!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/10020eb8-ce4d-4d5c-9e54-f5d61cfe8478_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/10020eb8-ce4d-4d5c-9e54-f5d61cfe8478_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:13</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
+    <item>
+      <title>Fantus forsvinn</title>
+      <description><![CDATA[Fantus vil leike, men Fantorangen vil berre sjå på TV. Fantus tar fjernkontrollen og forsvinn, så Fantorangen må på Fantus-jakt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/b39c2b92-e01c-4032-965a-90e5e8e025c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/b39c2b92-e01c-4032-965a-90e5e8e025c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:07</itunes:duration>
+      <pubDate>Fri, 21 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
     <item>
       <title>Konge for en dag</title>
-      <description><![CDATA[Pivi finner en kongekrone i skogen og blir konge for en dag. Fantorangen vil også være konge. 
-Men hvem er det som plystrer i skogen og leter etter noe?
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Pivi finner en kongekrone og blir konge for en dag. Fantorangen vil også være konge. 
+Men hvem er det som plystrer i skogen?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/71fb0aae-163f-46a6-8ae8-cbd95bc6a7f8_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/71fb0aae-163f-46a6-8ae8-cbd95bc6a7f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:50</itunes:duration>
+      <itunes:duration>15:12</itunes:duration>
       <pubDate>Fri, 14 Jul 2023 06:04:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ.jpg"/>
     </item>
     <item>
       <title>Fantus og fjellets hjerte</title>
-      <description><![CDATA[Fantus finner en glitrende stein og gjemmer den i bleia. Kan det være den magiske steinen som Småtrollene leter etter?
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl
-
-]]></description>
+      <description><![CDATA[Fantus finner en glitrende stein og gjemmer den i bleia. Kan det være den magiske steinen som Småtrollene leter etter?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/6be6468b-9ad4-4bba-b8e9-1b076f3bd838_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/6be6468b-9ad4-4bba-b8e9-1b076f3bd838_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:34</itunes:duration>
+      <itunes:duration>12:38</itunes:duration>
       <pubDate>Fri, 14 Jul 2023 06:03:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ.jpg"/>
     </item>
     <item>
       <title>Eddi er borte!</title>
-      <description><![CDATA[Fantorangen og Pivi bestemmer seg for å ha loppemarked, og dyrene i skogen kommer. Men Eddie er borte. Har de gitt han vekk?
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Fantorangen og Pivi bestemmer seg for å ha loppemarked, og dyrene i skogen kommer. Men Eddie er borte. Har de gitt han vekk?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/51d13c7e-9840-4e16-92f8-6a12dcb0d34b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/51d13c7e-9840-4e16-92f8-6a12dcb0d34b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:53</itunes:duration>
+      <itunes:duration>12:54</itunes:duration>
       <pubDate>Fri, 14 Jul 2023 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ.jpg"/>
     </item>
     <item>
       <title>Fantorangen tryllerydder </title>
-      <description><![CDATA[Pivi er lei av å være den eneste som rydder, og drar på spa for å hvile.  Fantorangen blir hjemme alene og prøver å trylle bort alt rotet.
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Pivi er lei av å være den eneste som rydder, og drar på spa for å hvile. Fantorangen blir hjemme alene og prøver å trylle bort alt rotet.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/e9e3f845-2209-49f7-9f96-32bc70200562_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/e9e3f845-2209-49f7-9f96-32bc70200562_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>10:03</itunes:duration>
@@ -77,13 +222,7 @@ Redaktør NRK Super: Siril Heyerdahl]]></description>
     </item>
     <item>
       <title>Pivi og Fantorangen på fisketur</title>
-      <description><![CDATA[Mens Fantorangen fisker, begynner fiskevesken til Pivi å røre på seg. Er det kommet noe inn i vesken? Kanskje et kjempeugressmonster? 
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Mens Fantorangen fisker, begynner fiskevesken til Pivi å røre på seg. Er det kommet noe inn i vesken? Kanskje et kjempeugressmonster?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/72cde8d4-703d-4dad-a4e5-e6949e2e2ce8_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/72cde8d4-703d-4dad-a4e5-e6949e2e2ce8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:33</itunes:duration>
@@ -92,14 +231,7 @@ Redaktør NRK Super: Siril Heyerdahl]]></description>
     </item>
     <item>
       <title>Politirangen </title>
-      <description><![CDATA[Fantus og Fantorangen leker med vann. Når Pivi ikke vil være med blir Fantorangen en slags Politi - en Politirang og setter han i fengsel.
-Vil Pivi være med og leke?
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Fantus og Fantorangen leker med vann. Når Pivi ikke vil være med blir Fantorangen en slags Politi, en Politirang, og setter han i fengsel.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/4849525f-7e05-4d8e-bdc1-adbdf17bda45_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/4849525f-7e05-4d8e-bdc1-adbdf17bda45_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:10</itunes:duration>
@@ -108,13 +240,7 @@ Redaktør NRK Super: Siril Heyerdahl]]></description>
     </item>
     <item>
       <title>Krokodillebriller</title>
-      <description><![CDATA[Har du hørt om Krokodillebrilleplaneten?  Fantorangen vet hvor den er og tar med seg Pivi på tur med romraketten.  De møter en Zebra og en Krokodillebrilledoktor!
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Har du hørt om Krokodillebrilleplaneten? Fantorangen vet hvor den er og tar med seg Pivi på tur i romraketten.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/b52a855e-2fc6-48f0-912d-38ecf3187ab8_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/b52a855e-2fc6-48f0-912d-38ecf3187ab8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:57</itunes:duration>
@@ -123,13 +249,7 @@ Redaktør NRK Super: Siril Heyerdahl]]></description>
     </item>
     <item>
       <title>Fantorangen blir Dronningmaur</title>
-      <description><![CDATA[Fantorangen og Pivi er på telttur i skogen og later som de er maur. Fantorangen bestemmer alt. Må Pivi sette opp teltet helt alene, eller skal de gjøre det sammen, sånn som maurene gjør? 
-
-Fortellingene er lest er Jonas Strand Gravli
-Regi: Kari Anne Kvam
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Fantorangen og Pivi er på telttur. Må Pivi sette opp teltet helt alene, eller skal de gjøre det sammen, sånn som maurene gjør?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/ace76ba7-d385-4ddc-847c-f564bd5e8b70_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/ace76ba7-d385-4ddc-847c-f564bd5e8b70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:20</itunes:duration>
@@ -138,12 +258,7 @@ Redaktør NRK Super: Siril Heyerdahl]]></description>
     </item>
     <item>
       <title>Stjernefotball</title>
-      <description><![CDATA[Fantorangen og Pivi ligger i snøsofaen og ser på stjernene. Plutselig faller det noe ned fra stjernehimmelen. Er det en snøfotball? Eller er det et lite romvesen?
-
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Regi: Kari Anne Kvam
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Fantorangen og Pivi ligger i snøsofaen og ser på stjernene. Noe faller ned fra himmelen. Er det en snøfotball? Eller et lite romvesen?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/1a422a87-46d4-41f8-b2cd-01d8b0933ee5_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/1a422a87-46d4-41f8-b2cd-01d8b0933ee5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:43</itunes:duration>
@@ -152,16 +267,29 @@ Redaktør NRK Super: Siril Heyerdahl]]></description>
     </item>
     <item>
       <title>Kattehattemakeren</title>
-      <description><![CDATA[Det er vinterstorm og Pivi trenger en varm hatt for ikke å fryse på ørene. Heldigvis kjenner Fantorangen en Kattehattemaker.
-
-Manus: Caroline Sem og NRK Super
-Lyddesign: Hilde Rolfsnes
-Regi: Kari Anne Kvam
-Redaktør NRK Super: Siril Heyerdahl]]></description>
+      <description><![CDATA[Det er vinterstorm og Pivi trenger en varm hatt for ikke å fryse på ørene. Heldigvis kjenner Fantorangen en Kattehattemaker.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/9baa2820-442a-46b7-9a29-02172943796f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/9baa2820-442a-46b7-9a29-02172943796f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:02</itunes:duration>
       <pubDate>Fri, 31 Mar 2023 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ.jpg"/>
+    </item>
+    <item>
+      <title>Kamelmelbollefest</title>
+      <description><![CDATA[Fantorangen og Pivi vil lage kamelboller. Nei, ikke kanelboller, kamelboller. Men de trenger kamelmel, og da må de først finne en kamel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/58986286-c751-44d4-b730-81846e2303f0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/58986286-c751-44d4-b730-81846e2303f0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:06</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ.jpg"/>
+    </item>
+    <item>
+      <title>Heksekost og stinkepromp</title>
+      <description><![CDATA[Det stinker promp. Når Fantorangen og Pivi finner ut at det er en heks som promper på taket deres, gjør de alt for å få henne bort.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/d3921d9a-9ba7-46d9-90ab-dcf665c628d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/d3921d9a-9ba7-46d9-90ab-dcf665c628d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:06</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uY0voNJjGJXQgjyIj8BGaQQPTFYBL8eBkR8hS_sBd4fQ.jpg"/>
     </item>
   </channel>

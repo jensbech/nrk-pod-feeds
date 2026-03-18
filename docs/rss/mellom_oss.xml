@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Mellom oss</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Her får du serier som tar deg tett på det fineste og vondeste i livet. Hør andres historier og bli klokere på deg selv.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Wed, 18 Mar 2026 14:26:45 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/uPuBV9TWKrJUJE699NEnGg4IoDGzkgCgRCTkWuXV534w.jpg"/>
+    <item>
+      <title>Rakels siste ord</title>
+      <description><![CDATA[Da 18 år gamle Rakel dør, oppdager foreldrene et hemmelig opptak på telefonen hennes. Verdien det skal få, kan de ikke ane.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mellom_oss/7e6db13e-0bae-4ab0-adb1-3e0bae3ab08f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/7e6db13e-0bae-4ab0-adb1-3e0bae3ab08f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:55</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BKn10Q2jSTifn1TRqRCeCggDdHDtLe924Pq1D7YIBGLg.jpg"/>
+    </item>
+  </channel>
+</rss>

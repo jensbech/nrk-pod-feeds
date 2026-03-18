@@ -1,17 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Monsens univers</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Monsens univers. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/monsens_univers for mer informasjon.</description>
+    <title>Monsens univers</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Lars Monsen møter mennesker som deler hans sterke kjærlighet til naturen og villmarka til en prat om opp-, ned- og toppturer, dyremøter og hjertesaker. </description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 19 Jul 2025 04:45:14 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 14:26:52 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ.jpg"/>
+    <item>
+      <title>I krigen med soldat Jørgen</title>
+      <description><![CDATA[Da han skulle rydde noen afghanske huler for Taliban, endte Jørgen Bull sin avdeling i et bakhold. Hva kan han lære Lars om stress?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/5214aba0-78eb-4c7f-94ab-a078eb5c7f28_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5214aba0-78eb-4c7f-94ab-a078eb5c7f28_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:09</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MbJ9Mvz4F1WOusDVyqFEHAWRemEQdEarq86UlDZPy5BQ.jpg"/>
+    </item>
+    <item>
+      <title>Under snøen med frikjører Nikolai</title>
+      <description><![CDATA[– Du vet du kan dø? Lars konfronterer skistjerne og filmskaper Nikolai Schirmer. En episode om skred, livsglede og de aller fineste fjellene i Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/6f3ee51f-9b67-4a57-bee5-1f9b677a579f_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/6f3ee51f-9b67-4a57-bee5-1f9b677a579f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:25</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kxjIz2XvtO1_Lu7MEy26QwZ-JkkNzUDb_4Na3nh1ahvA.jpg"/>
+    </item>
     <item>
       <title>–ALDRI gi opp!</title>
       <description><![CDATA[Erik Amundsen Normann er han som sjanglet seg over Nordkalotten sammen med Lars, i TVprogrammet «Ingen grenser» (2009). Balanseproblemer, skjev rygg og deformerte hender har lært ham mye. 
@@ -24,7 +42,7 @@ Dette er siste episode i denne omgang, Monsens Univers er tilbake i 2026. Stjern
       <itunes:image href="https://gfx.nrk.no/q4ILu26xQqu2RxOL18brZwr47rfiuWkUTzEe2yQLfzmw.jpg"/>
     </item>
     <item>
-      <title>En milliard granfrø i norsk jord</title>
+      <title>En milliard granplanter i norsk jord</title>
       <description><![CDATA[Biolog Anne Sverdrup Thygeson om hva som er«ekte skog» i Norge. Lars forteller om den gangen han var omringa av kanadisk skogbrann.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/5c3e4c55-ddd1-4bf1-9ef0-92384fe058cf_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5c3e4c55-ddd1-4bf1-9ef0-92384fe058cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -103,6 +121,26 @@ Dette er siste episode i denne omgang, Monsens Univers er tilbake i 2026. Stjern
       <itunes:duration>52:59</itunes:duration>
       <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tdy9Orsp1nqMxWWk5xw3YwrZTnyPRIarhRdEP6a9ppog.jpg"/>
+    </item>
+    <item>
+      <title>Hallusinasjoner i Himalaya</title>
+      <description><![CDATA[– Du kaster bort livet ditt, sa de sykeste pasientene til sykepleieren Jannicke. Da dro hun til verdens vakreste fjell.
+
+(NRK opplyser: Jannicke Øien har jobbet/jobber for tiden som villmarks-guide, også med Lars Monsens firma som oppdragsgiver.)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/2dae21e6-f290-40ca-a73e-8a587a10ea48_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/2dae21e6-f290-40ca-a73e-8a587a10ea48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:53</itunes:duration>
+      <pubDate>Sat, 18 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vErzrt7SkIq2QCbufkUGowHZbwCnYPq4yen0wYhgMA4A.jpg"/>
+    </item>
+    <item>
+      <title>Med fiskestang i synkesand</title>
+      <description><![CDATA[Bård Tufte Johansen er ikke først og fremst morsom. Han er fluefisker. Men hva skjedde da han sank i sanda, midt ute i elva?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/5dee436a-355f-41f9-afa1-9d2eafb65f43_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5dee436a-355f-41f9-afa1-9d2eafb65f43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:50</itunes:duration>
+      <pubDate>Sat, 11 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/07_pWsmsQrpEM9KUn4ecAQ7XR2Oht44NYSDOafsjjOew.jpg"/>
     </item>
   </channel>
 </rss>

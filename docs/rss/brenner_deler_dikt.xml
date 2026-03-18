@@ -1,17 +1,85 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Brenner deler dikt</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Brenner deler dikt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/brenner_deler_dikt for mer informasjon.</description>
+    <title>Brenner deler dikt</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Hvordan kan noen få ord gi trøst, håp og et lite løft i hverdagen? Hans Olav Brenner og gjester deler sine favorittdikt.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>nrk-pod-feeder v1.5.0 (with help from python-podgen)</generator>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 30 Nov 2024 05:31:53 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Nov 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 14:25:22 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 06:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/rw9sTvTlWrRkPJCFxhHnmwpsUqU8YJqus2niGclfgbuQ.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Jon Almaas: –⁠ Klarer ikke si «jeg elsker deg»</title>
+      <description><![CDATA[Diktet gir ham klump i halsen. For Almaas-slekta er full av tause menn, som ikke sier det de føler. Som da Jon skulle ta farvel med mamma. 
+Dikt: «Jeg går omkring» av Arnulf Øverland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/2688edc8-5342-4a44-88ed-c85342aa4419_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/2688edc8-5342-4a44-88ed-c85342aa4419_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:27</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6S87QrNhkC-5FhbjEnjC0w-Xp0utdJL2UrkWze6hHfNw.jpg"/>
+    </item>
+    <item>
+      <title>Erna Solberg: Er festen over?</title>
+      <description><![CDATA[2025 var ikke Ernas år. Det ble valgnederlag og lederskap-tap. Så spørs det da, om høyrepolitikeren kjenner på nederlag og innrømmer at festen er over?
+Dikt: «Tilværelsen» av Kolbein Falkeid]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/4e229766-5acc-4ddd-a297-665acc9dddf3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/4e229766-5acc-4ddd-a297-665acc9dddf3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:26</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Z1VYnVG7dlDLtxVW_3siQg6mtAprL-Gu9tR8Hur0km-A.jpg"/>
+    </item>
+    <item>
+      <title>Javad El Bakali: – De kalte meg «mongo»</title>
+      <description><![CDATA[Han fikk livet tilbake den dagen David Bowie døde. Komikeren hadde satt livet på pause, fordi han trodde han var hjerneskadet etter en bilulykke.
+Dikt: «Når en stein» av Gro Dahle]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/70b3f9f6-73f0-4405-b3f9-f673f0040506_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/70b3f9f6-73f0-4405-b3f9-f673f0040506_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:44</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I0lNcZA20eIf_ncXVOLFSQMoeBElc1xigRBfhXDwDQIw.jpg"/>
+    </item>
+    <item>
+      <title>Tuva Fellman: Frisk, men helt tom</title>
+      <description><![CDATA[Etter to runder med brystkreft, forventet hun lettelse og ekstase. Likevel var alt helt tomt. Da må man finne på noe helt nytt - og dette diktet skal med!
+Dikt: «På jorden et sted» av André Bjerke]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/3d05f490-fd00-4aec-85f4-90fd009aec80_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/3d05f490-fd00-4aec-85f4-90fd009aec80_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:03</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x69K08Mt_d1HfEIiXqth0gOHnbRVrwtxV9Jvb4CpTN-g.jpg"/>
+    </item>
+    <item>
+      <title>Jakob Oftebro: Dikt mot hjemlengsel</title>
+      <description><![CDATA[Han drakk sur rødvin og leste dikt i en leilighet uten sofa. Sånn kom skuespilleren seg gjennom hjemlengsel i København.
+Dikt: «Gjenskinn» av Stein Mehren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/aa3649da-95de-4861-b649-da95de98611c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/aa3649da-95de-4861-b649-da95de98611c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:21</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vHc1ihq6cra8BW1TizIqzgYcEqJ7x5wcTrJ-x0jIdsMQ.jpg"/>
+    </item>
+    <item>
+      <title>Anne B. Ragde: Da pappa ble til Far</title>
+      <description><![CDATA[Da pappa flyttet fra familien, ble alt snudd på hodet. Diktet hun deler handler om en helt annen pappa, av en veldig annerledes forfatter. Dikt: «Pappa» av Sylvia Plath]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/5728c329-5bd6-4ae4-a8c3-295bd6eae4fa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/5728c329-5bd6-4ae4-a8c3-295bd6eae4fa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:28</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZLuS9CK2DEoJcXOHibBj_w0mDFbdEDc5idVVaaBkJh-g.jpg"/>
+    </item>
+    <item>
+      <title>Nye episoder kommer snart!</title>
+      <description><![CDATA[2. juledag er Hans Olav Brenner tilbake med nye episoder. Jon Almås, Tuva Fellman, Javad El Bakali, Anne B. Ragde, Jacob Oftebro og Erna Solberg! Du finner dem i appen NRK Radio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/728dce2e-d881-4a45-8dce-2ed881ea4543_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/728dce2e-d881-4a45-8dce-2ed881ea4543_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:39</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    </item>
     <item>
       <title>Felix Baldauf: En ærlig «mann til mann»-prat</title>
       <description><![CDATA[Europamesteren i bryting har konfrontert sine indre demoner og vil at menn skal snakke sammen om vanskelige følelser.
@@ -112,6 +180,374 @@ Ukas dikt er et utdrag fra Carl Frode Tillers langdikt «Det framande landet»]]
       <itunes:duration>23:26</itunes:duration>
       <pubDate>Sat, 22 Jun 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yl02gsN3FTKmdyn-rg4IdQ4NwNI45B6X3jSt3IeDMAQg.jpg"/>
+    </item>
+    <item>
+      <title>Johanne Refseth: Noen ganger må man fly aleine</title>
+      <description><![CDATA[Hva skjer når en fugl kommer bort fra flokken sin? Psykologen, kjent for friluftsliv og sovepose, deler et dikt som både er sårt og vanskelig, men som også kan gi styrke. For ønsket om å få være seg selv - samtidig som man er akseptert av flokken - kan være en vanskelig balansegang.
+Ukas dikt er «Einsamflygar» av Halldis Moren Vesaas]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/78069884-e16a-44cb-8a89-bbf2ce06083f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/78069884-e16a-44cb-8a89-bbf2ce06083f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:04</itunes:duration>
+      <pubDate>Sat, 15 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFhaGjH24qHD2IKZDL9Yfg1g4lyQ1UYT53pY26RKYY_A.jpg"/>
+    </item>
+    <item>
+      <title>Amalie Stuve: -Jeg er veldig utålmodig</title>
+      <description><![CDATA[Programleder og komiker Amalie Stuve er en fryktelig utålmodig person som må tvinge seg selv bort fra mobilen for å kjede seg og dermed få nye ideer. Og Hans Olav lurer på om diktet han har valgt om tålmodighet blir for kjedelig for Amalie... 
+
+Ukas dikt er "Tålmodigheten" av Anna With]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/de28f5bd-7270-43f6-b9fe-fec379dcc8f9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/de28f5bd-7270-43f6-b9fe-fec379dcc8f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:17</itunes:duration>
+      <pubDate>Sat, 08 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HnldlD-ybKGQPlnPeX2AQwweqBb8G3TVrKjrSGZ0-mRw.jpg"/>
+    </item>
+    <item>
+      <title>Kaveh Rashidi: - Sorggråt er lettende</title>
+      <description><![CDATA[Fastlegen, forfatteren og samfunnsdebattanten er glad i poesi, men syns det kan være ubehagelig å dele noe som er så nært og privat. 
+Det blir ikke mindre skummelt av at Kaveh har med et dikt som åpner opp sorgen etter storesøsteren Mitra. 
+Ukas dikt er "Du døde på en fin dag" fra diktsamlingen "Spredning" av Nils-Øivind Haagensen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/3fd02122-8c1b-439e-9288-f7f222875fcd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/3fd02122-8c1b-439e-9288-f7f222875fcd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:59</itunes:duration>
+      <pubDate>Sat, 01 Jun 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D8zppHZEr97W-64E5d0IggKLKgkdxdQU5aiCCPnAf9gg.jpg"/>
+    </item>
+    <item>
+      <title>Pernille Lysen Hunnes: Konfrontasjon med livet sjøl</title>
+      <description><![CDATA[Komikeren og programlederen fra 4ETG og Unormal har tatt med et dikt som fikk familien ut på jordomreise. Og som samtidig minner henne på hvor viktig det er å ta maskene av og ta livet på alvor.
+Ukas dikt er et utdrag fra "Om livet" av Bjørn Thorbjørnsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/dda729b4-c0ae-4c93-a8c7-c493ffa3dea4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/dda729b4-c0ae-4c93-a8c7-c493ffa3dea4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:39</itunes:duration>
+      <pubDate>Sat, 25 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ElRtefDSJmFtzndE_0nn2AIg1mlT5gQZDNg7tpv6lGvQ.jpg"/>
+    </item>
+    <item>
+      <title>Anette Hoff: - Hva skal unge mennesker tro på?</title>
+      <description><![CDATA[Skuespiller og reality-deltaker Anette Hoff er rasende og fortvilet over verdenssituasjonen. Når barn, kvinner og menn opplever meningsløs lidelse på grunn av krig, kommer motløsheten. Men også behovet for å finne dikt som holder troen på noe godt oppe. 
+Ukas dikt er «Til kvinner er vi født» av Inger Hagerup]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/e12c2f4b-131f-4ae6-8de1-6da314b45643_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/e12c2f4b-131f-4ae6-8de1-6da314b45643_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:00</itunes:duration>
+      <pubDate>Sat, 18 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0K6phS6gRnTg3t_HEdzXEwiYovBHPPqfP9gKB7c1LfHw.jpg"/>
+    </item>
+    <item>
+      <title>Jørgen Watne Frydnes: Miste alt og likevel fortsette</title>
+      <description><![CDATA[Sorg og fortvilelse har vært en stor del av Jørgen Watne Frydnes' arbeidsliv i mange år. Han er tidenes yngste leder av Nobelkomiteen og har jobbet tett med etterlatte etter 22. juli 2011. Han deler et dikt om en mor som mister familien sin i krig, men diktet har likevel et humoristisk sluttpoeng. 
+
+Ukas dikt er "Å stryke bukser" av Haile Bizen  Oversatt av Milena Tewelde og Lina Undrum Mariussen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/1b2031b2-fd81-46cd-b633-b30acbbdc549_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/1b2031b2-fd81-46cd-b633-b30acbbdc549_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <pubDate>Sat, 11 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0O2CkCQ7naRXo4z_LrgqDAhtLQxCGnsxLzlBBwt7UCwQ.jpg"/>
+    </item>
+    <item>
+      <title>Galvan Mehidi: - Mangler kjærlighet i livet mitt</title>
+      <description><![CDATA[I valget mellom et dikt om sceneskrekk og et om kjærlighet velger komiker og skuespiller Galvan Mehidi det som handler om det han har minst av.
+- En komiker har et one night stand med publikum, men de tekster deg aldri tilbake.
+ 
+Ukas dikt er «jeg vet ikke hva jeg ser" av Janne-Camilla Lyster
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/80ae4ff1-12a4-4b41-9b03-d0acf0b3bb48_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/80ae4ff1-12a4-4b41-9b03-d0acf0b3bb48_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:29</itunes:duration>
+      <pubDate>Sat, 04 May 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9PO5ER51HhbdYrHXBni6PgqmRUy_iZdX8ORMSWvyrPQA.jpg"/>
+    </item>
+    <item>
+      <title>Herborg Kråkevik: Ei lita jente som var god til å slåss</title>
+      <description><![CDATA[Noko av det første artisten lærte på skulen, var at det å slåss ikkje var verdas beste strategi for å få nye vener. Kanskje ikkje så rart Herborg Kråkevik har tatt med eit dikt om første skuledag. 
+Ukas dikt er "God tur, skolepike" av Kolbein Falkeid]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/389715d0-dd9a-41b4-9dee-50b6bbd9e3ca_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/389715d0-dd9a-41b4-9dee-50b6bbd9e3ca_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:00</itunes:duration>
+      <pubDate>Sat, 27 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ajurT4w_0Yz_Dltz2weVCwr6K-uRfSL6H9WAQAVyviWw.jpg"/>
+    </item>
+    <item>
+      <title>Else Kåss Furuseth: - Jeg liker å være redd</title>
+      <description><![CDATA[Frykt er en viktig drivkraft for komiker Else Kåss Furuseth. Det forklarer hvorfor hun har fortalt hele Norge at hun skulle gifte seg i Oslo Spektrum før hun hadde funnet noen brudgom. En diktklassiker åpner en samtale om både det skumle og fantastiske ved å tørre å gå inn i det ukjente. 
+Ukas dikt er "Det er den draumen" av Olav H. Hauge]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/e21bb7a3-66f9-4e99-9923-9d2cf00b53e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/e21bb7a3-66f9-4e99-9923-9d2cf00b53e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <pubDate>Sat, 20 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pU856Xr6BzkUz1siNWJQyQE3lRbx7tIAID85d65-FSbw.jpg"/>
+    </item>
+    <item>
+      <title>Amalie Stuve: - Tidenes "ugly cry"</title>
+      <description><![CDATA[Da bestefaren døde opplevde komiker Amalie Stuve et enormt savn, som også fikk utløp i aggressive følelser. Hun ønsker å hylle sin kjære bestefar med et dikt om en fattig østkantgutt, som har mye til felles med bestefaren.
+
+ 
+
+Ukas dikt er «Gategutt» av Rudolf Nilsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/0ade7fe5-c2e4-4c95-9fbe-cfe3b9487b83_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/0ade7fe5-c2e4-4c95-9fbe-cfe3b9487b83_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:45</itunes:duration>
+      <pubDate>Sat, 13 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VHeSmE053XeCTfSk7BhjmgyfW-_owjJ8EvAwW5nXc74A.jpg"/>
+    </item>
+    <item>
+      <title>Anders Danielsen Lie: Nesten som terapi</title>
+      <description><![CDATA[Skuespiller Anders Danielsen Lie har med et dikt av en legendarisk kultpoet kjent for sine mørke dikt. Men er diktet kun mørkt - eller er det mulig å forstå som en absurd humoristisk øvelse i andre måter å se verden på og som en feiring av kunstens kraft? 
+Ukas dikt er "Om jeg var død nå" fra "Etterlatte dikt" av Tor Ulven]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/04400e92-ddf7-4b92-9531-cfbbd15495c9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/04400e92-ddf7-4b92-9531-cfbbd15495c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:16</itunes:duration>
+      <pubDate>Sat, 06 Apr 2024 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5-MfLSm1-u2WaGvjFkOCyg74M-z2Yig4GMtVWrVi38Wg.jpg"/>
+    </item>
+    <item>
+      <title>Frida Ånnevik: Diktet som treffer i magen</title>
+      <description><![CDATA[Når den folkekjære artisten er på besøk har hun med et dikt som gjør vondt og som konfronterer henne med det hun helst ikke vil  skrive noe om. Som frykten hun og mange skeive kjenner på etter terrorskytingen under Pride i 2022.
+Ukas dikt er «Du som bor i mitt blod» av Hans Børli
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/964fdc55-e330-4bfa-9aaf-0136fe153c77_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/964fdc55-e330-4bfa-9aaf-0136fe153c77_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:28</itunes:duration>
+      <pubDate>Sat, 30 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KasO_1SeRZCQ_dthiMyX9wzxL7cY5oxreo1x6YmdO67Q.jpg"/>
+    </item>
+    <item>
+      <title>Jonas Kittelsen: Et "call to action"-dikt </title>
+      <description><![CDATA[Diktet har kraft, fylt med eksplosiv handling, mener miljøaktivist Jonas Kittelsen. Han har blitt flasket opp med dette diktet, som er skrevet av faren, Erling Kittelsen. Nå leser han det med et nytt, voksent blikk og gjenkjenner sin egen miljøkamp og aktivisme i farens ord.
+
+Ukas dikt er "Sprenges jeg i lufta" av Erling Kittelsen. Diktet er hentet fra Et døgn over Le, "Dikt i samling", 2021
+Rettelse: Skuespillet "På himmelen" ble forsøkt satt opp i Amman, ikke Beirut slik det sies i episoden.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/a1bb1ded-823a-4d62-aeb0-a888b721e6d0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/a1bb1ded-823a-4d62-aeb0-a888b721e6d0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:26</itunes:duration>
+      <pubDate>Sat, 23 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rpzo_hpICV89GSx-4HqEIQZIiTriLHv2N__Pp6O-ZlUg.jpg"/>
+    </item>
+    <item>
+      <title>Mari Garås Monsson: - Er det slutt når vi dør? </title>
+      <description><![CDATA[Da bestevenninnen døde brått gikk Nitimen-programleder Mari Garås Monsson rett i gulvet, og i sorgen som fulgte trengte Mari svar på om det bare er slutt når noen dør. Ganske snart dukket det opp et dikt om livets store gåter som skulle bli en stor trøst.
+
+ 
+
+Ukas dikt er "Men kanskje er døden" av Hans Børli]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/1a7793ef-6f01-4d6f-9085-48858fe64be9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/1a7793ef-6f01-4d6f-9085-48858fe64be9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:20</itunes:duration>
+      <pubDate>Sat, 16 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LEe1p5bv8Rq5DCxNjCPMKAdX1LnHXal4ise_lKmFG2fg.jpg"/>
+    </item>
+    <item>
+      <title>Marta Breen: Ingen skam å være sinna!</title>
+      <description><![CDATA[ «Eg er eit menneske for tusan og inga dokke-dame». Det skrev dikteren Marie Takvam på 50-tallet. For forfatter og feminist Marta Breen viser Takvams dikt hvordan raseri alltid har vært en viktig driver for kvinnekampen. Men også om hvor ufattelig sexistisk norsk offentlighet var i møte med en ung, kvinnelig diktdebutant. 
+Ukas dikt er "Det glade raseri" av Marie Takvam
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/15c55897-c681-41a9-8ee7-86d77f6c6181_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/15c55897-c681-41a9-8ee7-86d77f6c6181_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:14</itunes:duration>
+      <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ayTsRRWtaE4rlKTr0VQZUAqxlN0bkK-u_W4ZBVovZQyg.jpg"/>
+    </item>
+    <item>
+      <title>Frode Grytten: Rørande koking av egg</title>
+      <description><![CDATA[ - Det er noko rørande med ein mann som har brukt livet på at familien skal ha det bra. 
+Den populære forfattaren deler eit dikt om nærleiken og avstanden til dei som har vore der for oss heilt sidan barndomen.   
+Ukas dikt er "Far min koker eit egg til meg" av Frode Grytten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/bf59df1d-3b45-4b52-8be3-48038e9a617a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/bf59df1d-3b45-4b52-8be3-48038e9a617a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <pubDate>Sat, 02 Mar 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8Gh6YKkhP4rTrLTYpyBzqwCBLTcxj6odSHE_CM-09cnQ.jpg"/>
+    </item>
+    <item>
+      <title>Galvan Mehidi : Diktet traff som en murstein </title>
+      <description><![CDATA[Litt kleint at jeg oppdaget favorittdiktet på TikTok, sier komiker og skuespiller Galvan Mehidi. 
+Diktet Galvan deler er skrevet av en persisk poet for 800 år siden. Sammen med Hans Olav prøver han å finne ut hvorfor det treffer så umiddelbart. 
+
+Ukas dikt er "Hvis jeg forteller deg mitt hjertes sorg" av Saadi Shirazi. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/8ff6f67d-8ea8-450e-97cf-ce070f62d45a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/8ff6f67d-8ea8-450e-97cf-ce070f62d45a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:27</itunes:duration>
+      <pubDate>Sat, 24 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9PO5ER51HhbdYrHXBni6PgqmRUy_iZdX8ORMSWvyrPQA.jpg"/>
+    </item>
+    <item>
+      <title>Margreth Olin: Som ei revne som åpna seg</title>
+      <description><![CDATA[- Eg har alltid tenkt at når ein av foreldrane mine døyr, ville det vere som ei revne i sjølve grunnfjellet. Dokumentarfilmskaparen mista mora rett før premieren på  "Fedrelandet", ein storslagen hyllest til den mektige naturen og menneskene der filmskaparen vokste opp. 
+Ukas dikt er "Alltid menneske" av Helge Torvund]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/d2c62f5f-7e22-47a8-895c-5921123fbeb7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/d2c62f5f-7e22-47a8-895c-5921123fbeb7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:16</itunes:duration>
+      <pubDate>Sat, 17 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YEhAHkkYNML9oU-_rSRgPA_Mb1qkaOJTksS3YlQxkrgA.jpg"/>
+    </item>
+    <item>
+      <title>Frida Ånnevik: Et Hugh Grant-øyeblikk</title>
+      <description><![CDATA[Hva skjer når den du er forelsket i plutselig sier "Jeg elsker deg"? Artist Frida Ånnevik deler en av Lillebjørn Nilsens udødelige tekster, som setter ord på den berusende og overveldende opplevelsen når du skjønner at noen synes du er verdt å elske. 
+ 
+Ukas dikt er "Crescendo i gågata" av Lillebjørn Nilsen
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/a12c04b0-1e6e-4d09-ae64-b21f0e0144b5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/a12c04b0-1e6e-4d09-ae64-b21f0e0144b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:52</itunes:duration>
+      <pubDate>Sat, 10 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KasO_1SeRZCQ_dthiMyX9wzxL7cY5oxreo1x6YmdO67Q.jpg"/>
+    </item>
+    <item>
+      <title>Anders Danielsen Lie: Hestedikt var "love at first sight"</title>
+      <description><![CDATA[- Jeg hadde en helt spesiell opplevelse med hest i voksen alder, forteller skuespiller og lege Anders Danielsen Lie. Yndlingsdiktet fra barndommen fikk en ny betydning etter at han ble tvunget til å lære seg å ri.
+
+Ukas dikt er "Hestene står i regnet" av Astrid Hjertenæs Andersen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/b65791a8-6159-4579-a36d-a0848a8fb138_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/b65791a8-6159-4579-a36d-a0848a8fb138_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:50</itunes:duration>
+      <pubDate>Sat, 03 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5-MfLSm1-u2WaGvjFkOCyg74M-z2Yig4GMtVWrVi38Wg.jpg"/>
+    </item>
+    <item>
+      <title>Sahara Muhaisen: Et  dikt om palestinernes håp</title>
+      <description><![CDATA[Som liten jente fikk NRK- journalisten høre palestinernes store nasjonalpoet lese dikt i et kulturhus på Gaza. Det ble en opplevelse Sahara  aldri vil glemme. I dag minner diktene henne om hennes egen familiehistorie, preget av flukt og fordrivelse gjennom generasjoner.
+
+Ukas dikt er et utdrag fra «Den uforgjengelige fikenkaktusen» av Mahmoud Darwish Oversatt av Anne Aabakken
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/7902cc14-b290-4259-bc26-7f3c2a71040d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/7902cc14-b290-4259-bc26-7f3c2a71040d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:10</itunes:duration>
+      <pubDate>Sat, 27 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HsqQefBHKdrk7Txrnlh4TAkb990v-QJ176rAP3t9ut4A.jpg"/>
+    </item>
+    <item>
+      <title>Live Nelvik: Hemmeligheter i ekteskapet </title>
+      <description><![CDATA[Det er spennende å ikke vite alt om ektemannen, synes programleder Live Nelvik. Kan Live ha rett? Bør vi egentlig være glade for at våre nærmeste har noen hemmeligheter?  
+  
+Ukas dikt er "Ord over grind" av Halldis Moren Vesaas 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/cecaa066-9e35-44ff-b021-33537a00ed6a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/cecaa066-9e35-44ff-b021-33537a00ed6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:14</itunes:duration>
+      <pubDate>Sat, 20 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLUMBYR2g-54AQLAPlpfVw1Rw1bbYG9RCdttQJYXzg9g.jpg"/>
+    </item>
+    <item>
+      <title>Alexander Sandtorv: Som et mørkt brorskap</title>
+      <description><![CDATA[Kan dikt redde deg ut av et depressivt mørke? Ja, mener forskningsformidler og podkaster Sandtorv som opplevde å få en diktsamling av kultforfatteren Tor Ulven i gave da han trengte det som mest. 
+Ukas dikt er et utdrag fra Tor Ulvens diktsamling "Forsvinningspunkt" ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/2c49f46b-7bc5-4606-bab1-d40e99f9c9b6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/2c49f46b-7bc5-4606-bab1-d40e99f9c9b6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:16</itunes:duration>
+      <pubDate>Sat, 13 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iI7U1O7W-kQ9_Rg_2qDI1ArDBJPsAlQDa1wLF-X_8K3Q.jpg"/>
+    </item>
+    <item>
+      <title>Sarah Zahid: Lei av mitt eget forventningspress</title>
+      <description><![CDATA[Suksesspoet Sarah Zahid har skyhøye krav til seg selv både som student og  poet. Nå øver hun på å ta fri fra sine egne forventninger og nyte hvor deilig det er å ha fri og bare være glad.
+Ukas dikt  er  "Det vanskeligste" av  Hans Børli]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/8fa0162f-ec8d-4f60-b6bc-428f797a8a42_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/8fa0162f-ec8d-4f60-b6bc-428f797a8a42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:21</itunes:duration>
+      <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wI-B426sKxjWvIpKAiKxMAK2XtePKGnzVk2eXg8W3MaQ.jpg"/>
+    </item>
+    <item>
+      <title>Frode Grytten: Eg likar ikkje nyttårsaftan</title>
+      <description><![CDATA[Forfattar Frode Grytten synes nyttårsaftan er vanskeleg. Det er for stort press på å vere glad. Men ein gong var det morosamt. Den gangen alt gjekk gale.
+
+Diktet denne veka er «Naudbluss» av Frode Grytten]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/662ef380-ec87-4248-bb91-1695bca536a7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/662ef380-ec87-4248-bb91-1695bca536a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:50</itunes:duration>
+      <pubDate>Sat, 30 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8Gh6YKkhP4rTrLTYpyBzqwCBLTcxj6odSHE_CM-09cnQ.jpg"/>
+    </item>
+    <item>
+      <title>Herborg Kråkevik: Den gode julestemninga frå Jondal</title>
+      <description><![CDATA[Lille Herborg ville ikkje ha gøyale påfunn til jul. Artisten og julehefteredaktøren ønska seg berre den gode gammeldagse julestemninga der alt minna om jula slik den var året før. 
+Diktet denne veka er «Kyrkjegard, julekveld, igjen og igjen» av Ruth Lillegraven 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/7122a889-441b-4cde-bb6f-3f5799a63d76_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/7122a889-441b-4cde-bb6f-3f5799a63d76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:43</itunes:duration>
+      <pubDate>Sat, 23 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NhekR_dkYwI-AlhDhRSG1AG75s2d6umDX7C9bYR_8jYQ.jpg"/>
+    </item>
+    <item>
+      <title>Torbjørn Røe Isaksen: Jeg tok et livsvalg</title>
+      <description><![CDATA[-  Jeg var ferdig etter åtte år som statsråd, sier eks-politiker Torbjørn Røe Isaksen. Hans Olav deler et dikt om hverdagen og lurer på om det virkelig er sant at Torbjørn ikke vil tilbake til maktens innerste sirkel? 
+
+Ukas dikt er "Kvardag" av Olav H. Hauge ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/d40f605e-3f7e-4065-8313-1cb449b0953f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/d40f605e-3f7e-4065-8313-1cb449b0953f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:38</itunes:duration>
+      <pubDate>Sat, 16 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2pTEnCI0XtpQJVElFFkH6gymJgGuGapZPOyuiUwsU6-w.jpg"/>
+    </item>
+    <item>
+      <title>Margreth Olin: Eit vakkert og overraskande kjærleiksdikt </title>
+      <description><![CDATA[- Jon Fosse bruker berre seks linjer til å skape ein perfekt scene, seier filmregissør Margreth Olin. Diktet frå Nobelprisvinnaren kan tolkast på fleire vis. Handlar det om to elskande? To venner? Eller om kjærleiken mellom foreldre og barn? For Olin sjølv går tankane til mora som døde i år - og til faren som skal leva vidare med tapet. 
+Ukas dikt er «Kvarandre» av Jon Fosse.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/3186c118-64cf-4a94-a6a5-a2ea19dfa88a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/3186c118-64cf-4a94-a6a5-a2ea19dfa88a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:31</itunes:duration>
+      <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YEhAHkkYNML9oU-_rSRgPA_Mb1qkaOJTksS3YlQxkrgA.jpg"/>
+    </item>
+    <item>
+      <title>Adelina Ibishi: Gikk rundt i byen og gråt </title>
+      <description><![CDATA[Kjærlighetssorgen rammet programleder Adelina Ibishi samtidig som hun mistet tilgangen til Spotify-kontoen sin. Da hun kom tilbake på plattformen hadde en venninne lagt klar en spilleliste med en sang som helt uventet ga henne trøst.  
+Ukas tekst er "Ikke gråt om det er vinter og det snør" av Stein Ove Berg ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/4368a2b7-cf88-495c-8d59-795817a6c54b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/4368a2b7-cf88-495c-8d59-795817a6c54b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:31</itunes:duration>
+      <pubDate>Sat, 02 Dec 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x3l920ylYmCVJEt44KhZAA7RUz586P_2itcQ3VWix8ZA.jpg"/>
+    </item>
+    <item>
+      <title>Anne Sverdrup-Thygeson: Rørende dikt om hvor små vi er </title>
+      <description><![CDATA[-Jeg får tårer i øya, sier biologiprofessor Anne Sverdrup-Thygeson om diktet som har fulgt henne gjennom nesten tretti år, og som sier noe viktig om enkeltmenneskets plass i den store sammenhengen.  
+
+Ukas dikt er "Trøytt tre" av Tarjei Vesaas ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/7d8a96f0-6c0d-404e-a68d-709c74399b4a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/7d8a96f0-6c0d-404e-a68d-709c74399b4a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:39</itunes:duration>
+      <pubDate>Sat, 25 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uIYwJybqLKPrVgmVmXgTEQO1_GV5aWF2ha7tYsSzvJlw.jpg"/>
+    </item>
+    <item>
+      <title>Alexander Sandtorv: Norges mest utålmodige person</title>
+      <description><![CDATA[- Jeg blir så sur! Hans Olav har fått oppleve at rikskjemiker og podkastprogramleder Alexander Sandtorv kan være litt krass på sms, og bestemmer seg for å dele et dikt om vennlighet med ham. Synes Alexander budskapet fenger? 
+
+Ukas dikt er "Ta vare" av Jan Erik Vold]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/3e12b707-2416-4658-859d-26fe8bc72e5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/3e12b707-2416-4658-859d-26fe8bc72e5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:39</itunes:duration>
+      <pubDate>Sat, 18 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iI7U1O7W-kQ9_Rg_2qDI1ArDBJPsAlQDa1wLF-X_8K3Q.jpg"/>
+    </item>
+    <item>
+      <title>Ane Dahl Torp: Som å gå på byen og drikke seg full</title>
+      <description><![CDATA[Kjærlighet, svik og overnaturlige krefter er noe av innholdet i Arne Garborgs diktfortelling om synske Haugtussa. Skuespiller Ane Dahl Torp ble dypt fascinert og redd av denne spøkelseshistorien for voksne. 
+ 
+Ukas dikt er hentet fra "Haugtussa" av Arne Garborg 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/2129389c-2014-4aa1-a487-abbdf0f3980d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/2129389c-2014-4aa1-a487-abbdf0f3980d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:39</itunes:duration>
+      <pubDate>Sat, 11 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mrPSHcsNJaktmYxwBbc3Mw8V9GzxP2VVd69CVXN8bWdA.jpg"/>
+    </item>
+    <item>
+      <title>Kristopher Schau: Så bra at jeg bare måtte stjæle litt!</title>
+      <description><![CDATA[Musikeren og podkasteren ble så besatt av tekstene til den vietnamesisk-amerikanske forfatteren Ocean Vuong at han bare måtte gjenbruke noen formuleringer i egne låttekster. Hva er det med språket til det litterære stjerneskuddet som får Kristopher til å føle seg som et barn foran en godteriskål?
+Ukas dikt er Künstlerroman (utdrag) av Ocean Vuong
+Gjendiktet av Mathias R. Samuelsen
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/4b0eb73e-47a8-489e-970a-8b9eaa4bfec6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/4b0eb73e-47a8-489e-970a-8b9eaa4bfec6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:00</itunes:duration>
+      <pubDate>Sat, 04 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/w0ErBOggGcIrRr6J2Kk-sASbLTpeHhwBJ-AKuUvqdhtQ.jpg"/>
     </item>
   </channel>
 </rss>
