@@ -46,6 +46,14 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     if season == "LATEST_SEASON":
         season = metadata["_links"]["seasons"][0]["name"]
 
+    if existing_feed:
+        latest = get_podcast_episodes(podcast_id, season, page_size=5)
+        if not latest:
+            return None
+        if not any(parser.parse(e["date"]) >= last_feed_update for e in latest):
+            logging.info("  No new episodes found since feed was last updated")
+            return None
+
     if ep_count == 0:
         if season == "ALL":
             episodes = get_all_podcast_episodes_all_seasons(podcast_id, metadata)
@@ -55,18 +63,6 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         episodes = get_podcast_episodes(podcast_id, season, page_size=ep_count)
 
     if not episodes:
-        return None
-
-    new_episode = False
-    for episode in episodes:
-        episode_title = episode["titles"]["title"]
-        episode_date = episode["date"]
-        if parser.parse(episode_date) >= last_feed_update:
-            logging.info(f"  Found new episode {episode_title} from {episode_date}")
-            new_episode = True
-
-    if not new_episode and ep_count != 0:
-        logging.info("  No new episodes found since feed was last updated")
         return None
 
     ep_i = 0
