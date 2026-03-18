@@ -1,87 +1,470 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Din venn, Nora</title>
+    <title>De 59 siste fra Din venn, Nora</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Din venn, Nora. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/din_venn_nora for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 59 episodene fra podkasten Din venn, Nora. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/din_venn_nora for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Mar 2026 06:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 09:58:21 +0000</lastBuildDate>
     <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     <item>
-      <title>Banning og barndomstraumer</title>
-      <description><![CDATA[En mystisk pakke i postkassa, en sensurert oppvekst og en liten tordentale om kvinner i kommentarfelt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:33</itunes:duration>
-      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+      <title>Jeg har fått meg kjæreste</title>
+      <description><![CDATA[Pikante detaljer om forholdet, finsk Duolingo-frustrasjon og en ærlig prat om selvbilde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/b39fdba4-529f-4572-8cb4-a0a2d74194f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/b39fdba4-529f-4572-8cb4-a0a2d74194f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:39</itunes:duration>
+      <pubDate>Wed, 21 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Puppesjokk på norsk TV</title>
+      <description><![CDATA[Et overfall på Torshov, en sterk mening om baris og en ektefølt tanke om at det må være lov å si at det går bra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/f86af6ee-b6ec-479b-bbb1-94f5486a8898_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/f86af6ee-b6ec-479b-bbb1-94f5486a8898_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:00</itunes:duration>
+      <pubDate>Wed, 28 May 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Velkommen til Yappa Yapppa City</title>
+      <description><![CDATA[En mystisk brevleveranse på kafé, dansetraumer fra både Nice og BlimE, og en oppfordring til å leve livet for din egen del.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/a5568a99-2fba-43e4-8c73-db1f3237b5f3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/a5568a99-2fba-43e4-8c73-db1f3237b5f3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:15</itunes:duration>
+      <pubDate>Wed, 04 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Døden nær i Japan</title>
+      <description><![CDATA[En dramatisk soloreise til Japan, et ønske om flere filmer der absolutt alle stryker med, og en oppfordring til å gjøre flere ting alene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/f1d92fdc-ad84-47a6-abce-ffe52e3bb0e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/f1d92fdc-ad84-47a6-abce-ffe52e3bb0e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:30</itunes:duration>
+      <pubDate>Wed, 11 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Dumpa av et mummitroll</title>
+      <description><![CDATA[Martina har fylleangst, BlimE-dramaet fortsetter og Lille My har blitt dumpa. Nora tar for seg lytternes meldinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/5340f1bf-2409-4242-9c6b-0c316a78707d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/5340f1bf-2409-4242-9c6b-0c316a78707d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:55</itunes:duration>
+      <pubDate>Sun, 15 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Reisebrev fra Thailand</title>
+      <description><![CDATA[Sabatika! Direkte fra Thailand til NRK, med kultursjokk i bagasjen og en ærlig prat om selvtillitsknekk på reisen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/cca6272a-85e5-421c-8fb6-3594b5e0f95a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cca6272a-85e5-421c-8fb6-3594b5e0f95a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:03</itunes:duration>
+      <pubDate>Wed, 18 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Bever på svøm mot nakne baller</title>
+      <description><![CDATA[Marte deler spinnvill historie fra IBS-familien sin, Nora forteller hvor hun mista jomfrudommen og Simen oppfordrer til JOMO!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/ca0bdc5c-a2bc-43d6-9771-13527a7d2af3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/ca0bdc5c-a2bc-43d6-9771-13527a7d2af3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:45</itunes:duration>
+      <pubDate>Sun, 22 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Mine sexdrømmer som barn</title>
+      <description><![CDATA[Tips til å vinne en freestyle rap battle, innrømmelser om barndommens fantasier og en ærlig prat om depresjon på sommeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/28100959-c999-4749-b5f6-a44e0e541372_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/28100959-c999-4749-b5f6-a44e0e541372_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:22</itunes:duration>
+      <pubDate>Wed, 25 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Ble invitert på trekant</title>
+      <description><![CDATA[Karoline har blitt bedt på trekant, Viktoria vil vite hvordan hjernen til Nora funker, og William ber om nok en sang om Maxbo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/6ad96c84-2bbb-43ea-9b73-55d59eb2c1e0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/6ad96c84-2bbb-43ea-9b73-55d59eb2c1e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:25</itunes:duration>
+      <pubDate>Sun, 29 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Hjelp! Jeg skal møte svigers</title>
+      <description><![CDATA[Et hissig oppgjør med en gammel date, tanker om feminisme og et ønske om tips til hvordan møte svigers for første gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/dd702aae-8cb5-43ca-8e2d-d70dc09c0985_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/dd702aae-8cb5-43ca-8e2d-d70dc09c0985_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:14</itunes:duration>
+      <pubDate>Wed, 02 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Ligge seg til kontakt med død bestefar</title>
+      <description><![CDATA[Ny bisarr trekanthistorie og Nora lover å ta opptak når hun møter svigers i Finnland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/51f7abfb-fa03-4f9b-a2d6-543b3b3f367a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/51f7abfb-fa03-4f9b-a2d6-543b3b3f367a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:45</itunes:duration>
+      <pubDate>Sun, 06 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Dassen er ødelagt, det lukter Mordor</title>
+      <description><![CDATA[Trøbbel i leiligheten og din venn Nora røper sjokkerende nyheter: – Tro det eller ei, jeg har også vært et barn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/095c2787-da38-4d9c-899c-d1c873ba465a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/095c2787-da38-4d9c-899c-d1c873ba465a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:04</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Kinky melding på lesesalen</title>
+      <description><![CDATA[Skal han blokkes for alltid etter sexmeldingen? Og Nora har tenkt på Titanic-bandet: – Var de et band fra før?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/479aa5b9-6bab-4109-9981-419a916fbdfd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/479aa5b9-6bab-4109-9981-419a916fbdfd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:46</itunes:duration>
+      <pubDate>Sun, 13 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Reisebrev fra Finland</title>
+      <description><![CDATA[De finske svigerbesteforeldrene kan verken norsk eller engelsk, men Nora har heldigvis Duolingo.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/6e2fabae-4ac5-42df-b11e-8aad7790c15f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/6e2fabae-4ac5-42df-b11e-8aad7790c15f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:27</itunes:duration>
+      <pubDate>Wed, 16 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Tinder + Fylla = Smell</title>
+      <description><![CDATA[Nora gir deg oppskriften på fylleangst: Skriv «møt meg ved busken» til en random på Tinder klokka tre på natta.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/b235f5e9-d07c-4b59-af53-f7b41728dca6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/b235f5e9-d07c-4b59-af53-f7b41728dca6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:08</itunes:duration>
+      <pubDate>Sun, 20 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>En joik til Mikkel Gaup</title>
+      <description><![CDATA[På tur til Kilsund møtte Nora den samiske legenden og skulle hilse. – Jeg må bare beklage.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/a7f1bc86-0beb-4a34-8721-5a585f500493_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/a7f1bc86-0beb-4a34-8721-5a585f500493_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:28</itunes:duration>
+      <pubDate>Wed, 23 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Farmasøyter må skjerpe seg</title>
+      <description><![CDATA[Sven vil ha en låt om analkremen Anucura, Gro deler sitt pinlige apotekøyeblikk, og Linnea føler seg bedratt av Martin Ødegaard.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/86136574-0185-42f6-9df2-440d7d039f24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/86136574-0185-42f6-9df2-440d7d039f24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:18</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Hyttetur fra helvette</title>
+      <description><![CDATA[En svensk sommerdrøm som ble til et mareritt og en eksklusiv premiere på Noras enmannsband]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4d0c27d0-92ba-4df5-b990-9dfbd3806e1b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4d0c27d0-92ba-4df5-b990-9dfbd3806e1b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:34</itunes:duration>
+      <pubDate>Wed, 30 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Ikke tenk på meg som onanerer</title>
+      <description><![CDATA[Sannheten om "Førstemann", drømmetydning fra Chat GPT, låt om Megaflis, og gode råd til deg som vil tulle med eget liv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/6c751d60-8fc4-4d82-8a9b-c5e80646b086_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/6c751d60-8fc4-4d82-8a9b-c5e80646b086_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:09</itunes:duration>
+      <pubDate>Sun, 03 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>De brukte meg som brøytebil</title>
+      <description><![CDATA[Mimring til fotballcupens glade dager, sorg over Chirags nye sivilstatus og et oppgjør med språk-løgn på CVen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/ccc65fc9-3418-454a-afbe-0c8e8721294d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/ccc65fc9-3418-454a-afbe-0c8e8721294d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:40</itunes:duration>
+      <pubDate>Wed, 06 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Peter Pan er deilig</title>
+      <description><![CDATA[Hva er flauere enn å bli påkjørt? Hva kalte du deg selv som barn? Og hvorfor finnes det ikke en hakkespett i Hakkebakkeskogen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/d6cb581b-d684-4773-8f0f-65788c7a5c8c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/d6cb581b-d684-4773-8f0f-65788c7a5c8c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:07</itunes:duration>
+      <pubDate>Sun, 10 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Skitten tiss og stygg truse</title>
+      <description><![CDATA[Nora deler sine beste liggetriks, tar deg gjennom sine personlige helveter, og tar et oppgjør med en drøy TikTok-trend.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/33b3b4cb-4bc5-45cd-a537-b4f7186ac573_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/33b3b4cb-4bc5-45cd-a537-b4f7186ac573_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:51</itunes:duration>
+      <pubDate>Wed, 13 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Mitt første brannsår</title>
+      <description><![CDATA[Nora lager spilleliste med lytternes onanisanger, byr på en alternativ buddhismetime og deler tips til deg som starter på skolen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/66aa0ba2-49a6-4e85-a299-8ce6ded7e8f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/66aa0ba2-49a6-4e85-a299-8ce6ded7e8f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:14</itunes:duration>
+      <pubDate>Sun, 17 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor var jeg sexy som liten?</title>
+      <description><![CDATA[Hadde Martin Luther King jr. flere drømmer? Finnes det et medfødt «sexmachine»-gen? Og hvor mye kan ett adjektiv definere hvem vi er?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/2afdab3a-d212-40e4-984e-03039770a7c4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/2afdab3a-d212-40e4-984e-03039770a7c4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:28</itunes:duration>
+      <pubDate>Wed, 20 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Innboksen: Våknet i en ukjent campingvogn</title>
+      <description><![CDATA[Misforståelser om kjærlighetsstatus, en trampstamp som gikk helt galt, og en festivalmorgen i en ukjent campingvogn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/f8c1f829-1d04-4548-81f8-291d0445487f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/f8c1f829-1d04-4548-81f8-291d0445487f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:19</itunes:duration>
+      <pubDate>Sun, 24 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Sammenbrudd i Bergen</title>
+      <description><![CDATA[Nora åpner festival for en nesten tom sal, gir alternative navn til politikerne, og blir tatt på fersken i snørrgråt på en benk i Bergen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/6ace586f-7a4b-4f87-8e58-6f7a4bcf8719_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/6ace586f-7a4b-4f87-8e58-6f7a4bcf8719_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:26</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Nora går til valg</title>
+      <description><![CDATA[Nora starter et politisk parti for alle som ikke kan lese analoge klokker, deler walk of shame-traumer og bygger videre på onaneringsspillelista.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/5db427f5-8c0f-4f31-b427-f58c0faf31ed_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/5db427f5-8c0f-4f31-b427-f58c0faf31ed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:43</itunes:duration>
+      <pubDate>Sun, 31 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Prøveromskrise på H&amp;M</title>
+      <description><![CDATA[Finnes det en mindre by i Norge enn Volda? Hva lukter egentlig et handikap? Og hvor drøy kan man være på NRK før sensuren kicker inn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/36c3eb74-c215-409f-83eb-74c215209fd1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/36c3eb74-c215-409f-83eb-74c215209fd1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:50</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Velkommen til  Illuminati</title>
+      <description><![CDATA[En fotoshoot som ble et traume, en uventet invitasjon fra Illuminati, og en påminnelse om å være stolt av seg selv!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/ada2429b-411e-4832-a242-9b411ee832cb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/ada2429b-411e-4832-a242-9b411ee832cb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:20</itunes:duration>
+      <pubDate>Sun, 07 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Terrortrussel på Porsgrunn VGS</title>
+      <description><![CDATA[Terrortraume fra videregående, låt om Clas Ohlson, og litt om risikosporten "jobb-telefoner fra toalettet".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/59454187-3c3d-45a9-8541-873c3d25a98a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/59454187-3c3d-45a9-8541-873c3d25a98a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:17</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Min største usikkerhet</title>
+      <description><![CDATA[... har også noen positive sider? Ektefølt prat om handikap og slående kritikk av Harstad som by.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/94fae9eb-9927-402b-bae9-eb9927d02bd5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/94fae9eb-9927-402b-bae9-eb9927d02bd5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:44</itunes:duration>
+      <pubDate>Sun, 14 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>NRKs fremtid avhenger av meg</title>
+      <description><![CDATA[*Det er tatt ut et segment i denne episoden, som var publisert i første versjon.*
+
+Blokkfløytetraumer fra barndommen, dårlige samtalestartere og noe vi måtte klippe ut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/0d0dda7d-d73f-4295-8dda-7dd73f229521_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/0d0dda7d-d73f-4295-8dda-7dd73f229521_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:22</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 16:32:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Damer, ta plass!</title>
+      <description><![CDATA[En oppdatering på programleder-debuten og "Ikke lov å le på hytta"-hat som provoserer (men overraskende nok fører til noe fint<3).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/5fad4ba7-1c39-4f4c-ad4b-a71c399f4c91_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/5fad4ba7-1c39-4f4c-ad4b-a71c399f4c91_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:22</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>En beskjed til Frank Løke</title>
+      <description><![CDATA[Actionfrank får høre det i sangform, Tine får smalltalk-tips, og vi alle får en slags oppklaring i hva notorisk utro betyr.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/13a0106d-86b9-406d-a010-6d86b9606d9e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/13a0106d-86b9-406d-a010-6d86b9606d9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:04</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>De ekleste ordene i norsk ordbok</title>
+      <description><![CDATA[Tips til hvordan du kan unngå å le, toppliste over ekle ord og en musikalsk gave til Bødø/Glimt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/502e52c2-dead-4077-ae52-c2deade0774d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/502e52c2-dead-4077-ae52-c2deade0774d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:45</itunes:duration>
+      <pubDate>Sun, 28 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Jeg ser spøkelser</title>
+      <description><![CDATA[En herlig ASMR-åpning, tips til prompe-trengte på date og litt om mine overnaturlige evner. 
+
+
+Bingokort til hat-bingo finner du på Instagram, @norasvenningsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/47c730f4-7ed1-4565-8730-f47ed155654e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/47c730f4-7ed1-4565-8730-f47ed155654e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:51</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Kostymetips til under hundrelappen</title>
+      <description><![CDATA[Et luftjukker-angrep på scenen, walk of shame i Halloween-kostyme og flere ekle ord fra dere<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/0fd77acd-f41a-4321-977a-cdf41ac321e0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/0fd77acd-f41a-4321-977a-cdf41ac321e0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:38</itunes:duration>
+      <pubDate>Sun, 05 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Å kødde med kreft</title>
+      <description><![CDATA[Amy har truffet landet, jeg har vært i gynekologstolen og Brystkreftforeningen har fått servert middels standup.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/677b2b26-723f-4f71-bb2b-26723f5f719a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/677b2b26-723f-4f71-bb2b-26723f5f719a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:38</itunes:duration>
+      <pubDate>Wed, 08 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Hyrdepai og porno</title>
+      <description><![CDATA[Et passbilde som gikk helt galt, en koselig melding fra gynekologen og et ufrivillig dypdykk i pornosjangeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/47bf8292-f951-4324-bf82-92f9513324e5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/47bf8292-f951-4324-bf82-92f9513324e5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:04</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
+    </item>
+    <item>
+      <title>Stiv heks og hårete truser</title>
+      <description><![CDATA[Fantasien setter ingen grenser når Nora tenker ut andre produkter i hårete-truser-serien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/9de1ecae-7221-4373-a1ec-ae72219373c7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/9de1ecae-7221-4373-a1ec-ae72219373c7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:23</itunes:duration>
+      <pubDate>Wed, 22 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
-      <title>Ny uke, ny diagnose</title>
-      <description><![CDATA[En økonomisk krise utløst av Sims, et oppgjør med behandlingen av Paralympics og en ny diagnose har ramlet inn i innboksen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:44</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <title>Samishop 69</title>
+      <description><![CDATA[En konfliktsky taxitur i Tromsø, en åpen audition til NRK og Debatten, og en ærlig samtale om å være stolt av seg selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4882e785-ec21-4032-82e7-85ec21a032b1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4882e785-ec21-4032-82e7-85ec21a032b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:57</itunes:duration>
+      <pubDate>Wed, 29 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
-      <title>8 retters psykisk terror</title>
-      <description><![CDATA[En glemt livskrise dukker opp, en uforglemmelig tur til Fjaler og et gourmetmåltid utarter til psykisk terror.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:56</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A.jpg"/>
-    </item>
-    <item>
-      <title>Risikerte livet for 400 kr</title>
-      <description><![CDATA[Valentinsdagen gikk ikke som planlagt, et nytt personlig helvete er opplevd, og et uventet møte med en idolstjerne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:48</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <title>Gateselgere har gått for langt</title>
+      <description><![CDATA[Halloween på legevakta, gateselgere som har gått for langt og ny informasjon om jentetissen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/f1daf130-18a0-4aff-9af1-3018a01aff86_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/f1daf130-18a0-4aff-9af1-3018a01aff86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:53</itunes:duration>
+      <pubDate>Wed, 05 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
-      <title>Når monarkiet dreper sexlysten</title>
-      <description><![CDATA[Et monarki i bras får følger, gode valentins-tips, og hva er egentlig forskjellen på en mann i sykkelshorts og en i beige frakk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4b5e4076-0189-44ec-9e40-76018914ec05_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4b5e4076-0189-44ec-9e40-76018914ec05_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:42</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
+      <title>Hvilken julekalender er best?</title>
+      <description><![CDATA[En grusom tur til Tønsberg, et håp om å redde psyken i Latvia og en kontroversiell kåring av den beste julekalenderen .]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/dbb5ef1c-9043-4d38-b5ef-1c9043ad3874_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/dbb5ef1c-9043-4d38-b5ef-1c9043ad3874_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:43</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
-      <title>Hverdagsmagi for single</title>
-      <description><![CDATA[Her kommer tidenes triks til deg – for litt ekstra magi på en vanlig onsdag! Ellers: Nora er naken på jobb ..som vanlig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/09248487-77f1-454f-a484-8777f1254f1b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/09248487-77f1-454f-a484-8777f1254f1b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:29</itunes:duration>
-      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <title>Middelaldrende menn ødelegger alt</title>
+      <description><![CDATA[Nye heiarop til Norge, en rapport fra Latvia og meldinger fra deg, min kjære venn<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/20af1614-3c4a-4087-af16-143c4a508791_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/20af1614-3c4a-4087-af16-143c4a508791_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:20</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
-      <title>Kutta vitser fra «Nytt på nytt»</title>
-      <description><![CDATA[Kleskrise og vitser som ikke kom med. Nora har vært på «Nytt på nytt».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:23</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <title>En hyllest til Zara Larsson</title>
+      <description><![CDATA[Et lys tennes for norske kjendiser, Zara Larsson får velfortjent skryt og jeg deler mine beste tips for å ikke bli betatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/72b7de23-051c-41a1-b7de-23051c11a1fc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/72b7de23-051c-41a1-b7de-23051c11a1fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:26</itunes:duration>
+      <pubDate>Wed, 26 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
-      <title>Fett hår og sidecut i 2016</title>
-      <description><![CDATA[Svar fra den finske ambassaden, følgere på Instagram fra uventet hold, og et trendy tilbakeblikk til 2016.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:18</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+      <title>Dette er mitt Vietnam</title>
+      <description><![CDATA[Julebordsesongen er dessverre i gang, men heldigvis har det dukket opp en ny hobby jeg kan roe nervene med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/1050b355-5a86-42cf-90b3-555a8642cf8b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/1050b355-5a86-42cf-90b3-555a8642cf8b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:51</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Jeg er skuffet over meg selv</title>
+      <description><![CDATA["Karen"-debut på flyplassen, vakre toner hos sangpedagogen og folkeopplysning om handikappede.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/60920d26-e6fc-4001-920d-26e6fc3001fb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/60920d26-e6fc-4001-920d-26e6fc3001fb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:29</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Pamela Anderson i Mummidalen</title>
+      <description><![CDATA[Redd barna-angst på stream, lystenning for Lido Lido og en lytter som har driti seg loddrett ut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/c2241be8-6d30-40c9-a41b-e86d30b0c921_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/c2241be8-6d30-40c9-a41b-e86d30b0c921_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:01</itunes:duration>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Jeg gråter alltid på nyttårsaften</title>
+      <description><![CDATA[Tips til å overleve juleselskapet, et oppgjør med en elsket juleklassiker, og litt nyttårs-melankoli. GOD JUL, MIN VENN<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/3b1e808e-ed1f-4db8-9e80-8eed1fddb8a7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/3b1e808e-ed1f-4db8-9e80-8eed1fddb8a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:11</itunes:duration>
+      <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Lilli Tetris får kontakt igjen</title>
+      <description><![CDATA[Nytt år, nye vage beskjeder fra de døde. Ellers: karaoke-katastrofe i Finland og rapping om hair routines. Grrr8 2 be BACK!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/a5540d4f-d970-4cf6-940d-4fd970dcf6f4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/a5540d4f-d970-4cf6-940d-4fd970dcf6f4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:24</itunes:duration>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
@@ -94,12 +477,75 @@
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
     <item>
-      <title>Lilli Tetris får kontakt igjen</title>
-      <description><![CDATA[Nytt år, nye vage beskjeder fra de døde. Ellers: karaoke-katastrofe i Finland og rapping om hair routines. Grrr8 2 be BACK!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/a5540d4f-d970-4cf6-940d-4fd970dcf6f4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/a5540d4f-d970-4cf6-940d-4fd970dcf6f4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:24</itunes:duration>
-      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+      <title>Fett hår og sidecut i 2016</title>
+      <description><![CDATA[Svar fra den finske ambassaden, følgere på Instagram fra uventet hold, og et trendy tilbakeblikk til 2016.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:18</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Kutta vitser fra «Nytt på nytt»</title>
+      <description><![CDATA[Kleskrise og vitser som ikke kom med. Nora har vært på «Nytt på nytt».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:23</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Hverdagsmagi for single</title>
+      <description><![CDATA[Her kommer tidenes triks til deg – for litt ekstra magi på en vanlig onsdag! Ellers: Nora er naken på jobb ..som vanlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/09248487-77f1-454f-a484-8777f1254f1b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/09248487-77f1-454f-a484-8777f1254f1b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:29</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Når monarkiet dreper sexlysten</title>
+      <description><![CDATA[Et monarki i bras får følger, gode valentins-tips, og hva er egentlig forskjellen på en mann i sykkelshorts og en i beige frakk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4b5e4076-0189-44ec-9e40-76018914ec05_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4b5e4076-0189-44ec-9e40-76018914ec05_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:42</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Risikerte livet for 400 kr</title>
+      <description><![CDATA[Valentinsdagen gikk ikke som planlagt, et nytt personlig helvete er opplevd, og et uventet møte med en idolstjerne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:48</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>8 retters psykisk terror</title>
+      <description><![CDATA[En glemt livskrise dukker opp, en uforglemmelig tur til Fjaler og et gourmetmåltid utarter til psykisk terror.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:56</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A.jpg"/>
+    </item>
+    <item>
+      <title>Ny uke, ny diagnose</title>
+      <description><![CDATA[En økonomisk krise utløst av Sims, et oppgjør med behandlingen av Paralympics og en ny diagnose har ramlet inn i innboksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:44</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
+    <item>
+      <title>Banning og barndomstraumer</title>
+      <description><![CDATA[En mystisk pakke i postkassa, en sensurert oppvekst og en liten tordentale om kvinner i kommentarfelt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:33</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
   </channel>

@@ -1,26 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 7 siste fra Tyrann</title>
+    <title>De 6 siste fra Tyrann</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 7 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Tyrann. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/tyrann for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 07 Mar 2026 05:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 12:10:12 +0000</lastBuildDate>
     <pubDate>Sat, 07 Mar 2026 06:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
-    <item>
-      <title>Ceaușescu - kommer lørdag!</title>
-      <description><![CDATA[Romanias diktator Ceaușescu fikk aldri nok av makt, gull og sinnsyke byggeprosjekter! Men den som flyr høyest, faller også dypest.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/c876f3dc-0f8b-46dd-b6f3-dc0f8bc6dd29_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/c876f3dc-0f8b-46dd-b6f3-dc0f8bc6dd29_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:34</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg"/>
-    </item>
     <item>
       <title>Ceaușescu (1:6)</title>
       <description><![CDATA[Ceaușescus oppvekst er fattig på kjærlighet. Han forelsker seg i kommunismen, og kastes ut i en turbulent ungdomstid i Romania.

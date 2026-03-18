@@ -1,93 +1,1428 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Kommentert</title>
+    <title>De 162 siste fra Kommentert</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kommentert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kommentert for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 162 episodene fra podkasten Kommentert. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kommentert for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Mar 2026 15:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:45:36 +0000</lastBuildDate>
     <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
     <item>
-      <title>VM og natt-øl: – Absurd, hvorfor bare fotball?</title>
-      <description><![CDATA[Jonas Gahr Støre vil gi serveringssteder lov til å servere øl på natten, under sommerens VM i fotball. Men nå møter han motstand fra sine egne.
-Og Affeksjonsverdi er nominert til 9 priser under årets Oscar-utdeling. Kan de virkelig vinne?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/10383b81-7269-4a62-b83b-817269ba6286_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/10383b81-7269-4a62-b83b-817269ba6286_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:10</itunes:duration>
-      <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N_pLPQ0PBGjYSjhPSQaEqA2Tm3hSC9CpfY1cmb74qytg.jpg"/>
+      <title>Blir det ny finanskrise nå?</title>
+      <description><![CDATA[Alt du trenger å vite om mulig ny finanskrise akkurat nå. I tillegg til det kårer vi de kuleste og kjedeligste politiske landsmøtene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/963459c1-0f05-4b40-a86f-7a2d77de0049_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/963459c1-0f05-4b40-a86f-7a2d77de0049_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:44</itunes:duration>
+      <pubDate>Fri, 17 Mar 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
     </item>
     <item>
-      <title>Iran-krigen: Kan oljeprisen stoppe Trump?</title>
-      <description><![CDATA[Irans beste våpen mot amerikanske bomber og raketter er økonomisk kaos. Hvor lenge tåler Trump at prisene stiger?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/7fbec1b4-c16b-449e-bec1-b4c16b849ed0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/7fbec1b4-c16b-449e-bec1-b4c16b849ed0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:55</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 15:14:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QNfgm9cWp09_stIQlHTKQweveYhH1_P9JsvnTwT4nFbg.jpg"/>
+      <title>Hvor mange ganger skal Norges Bank heve renta?</title>
+      <description><![CDATA[Renta går oppover, men når er det slutt? Og Høyre har blitt større enn hele venstresida, vi har noen teorier om hvorfor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/10c8805b-165e-4238-bceb-3362bc3f319b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/10c8805b-165e-4238-bceb-3362bc3f319b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:10</itunes:duration>
+      <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
     </item>
     <item>
-      <title>Rus, sex og kjendiser: Rettssaken viser Høibys verden</title>
-      <description><![CDATA[Rettssaken mot kronprinsessens sønn, Marius Borg Høiby, har vart i en måned. Nå tegner det seg et bilde av en verden hvor sex, rus og kjendiser er vanlige ingredienser. Hva slags del av Norge er dette?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d1f3858a-1871-463b-b385-8a1871963b0d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/d1f3858a-1871-463b-b385-8a1871963b0d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:53</itunes:duration>
-      <pubDate>Thu, 05 Mar 2026 15:16:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CaUWy5gWYm9Oo1NpMoVHOwSnfJBXH-m5ARHb35OgOJPg.jpg"/>
+      <title>Skattebråk og har vi egentlig dårlig råd?</title>
+      <description><![CDATA[Politisk bråk om lakseskatt, og til tross for dårlig råd bruker vi penger på ferier og shopping som før.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ef56530f-322d-4d78-95e4-c374f391e60c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/ef56530f-322d-4d78-95e4-c374f391e60c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:33</itunes:duration>
+      <pubDate>Fri, 31 Mar 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kOy089TkBWYqJsJDiXMkCwy5bTkSTIMeGVSyoFbVnnig.jpg"/>
     </item>
     <item>
-      <title>Støre-spesial: Iran og Epstein-gransking</title>
-      <description><![CDATA[Jonas Gahr Støre er gjest.
-Hvorfor tviholder Norge på folkerett, når så mange andre heier på et nytt og bedre regime i Iran? 
-Og Epstein-gransking: Systemsvikt i Norge eller enkeltpersoner som ødelegger?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:31</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 16:58:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWg2ZgJvPAF9_Vijq2PRJQEi2vldKPYsLQ4a8u6wiVtg.jpg"/>
+      <title>Politisk påskelabyrint: Kampen om storbyene</title>
+      <description><![CDATA[Valget i høst blir kampen om storbyene. Det er også tema for Tone Sofies påskelabyrint.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ae6a69bd-fc38-4653-bb30-16063d4bd533_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/ae6a69bd-fc38-4653-bb30-16063d4bd533_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:16</itunes:duration>
+      <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
     </item>
     <item>
-      <title>Irans leder drept: Hva skjer nå?</title>
-      <description><![CDATA[USA og Israels angrep mot Iran er det største i midtøsten siden Irak-krigen. Irans øverste leder Ali Khamenei er drept, hva skjer nå? Kan det bli revolusjon i Iran? Og hvor stor kan denne krigen bli?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:19</itunes:duration>
-      <pubDate>Sun, 01 Mar 2026 16:12:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0CM7VvnAWsR6R8y8cGt_7AQ7MzZ9mCwefySr3bpM59zg.jpg"/>
+      <title>Hvorfor gjør Arbeiderpartiet det så dårlig?</title>
+      <description><![CDATA[Hva er grunnene til at Arbeiderpartiet sliter? Og nok en gang går prisveksten opp og kronekursen ned. Hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/60449488-4f03-462f-836b-cfe053f377e6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/60449488-4f03-462f-836b-cfe053f377e6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:27</itunes:duration>
+      <pubDate>Fri, 14 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
     </item>
     <item>
-      <title>Børge Brende går av: Fortsatt ting vi lurer på</title>
-      <description><![CDATA[Børge Brende, leder av Verdens økonomiske forum, trekker seg på grunn av kontakten med Epstein. Og nå sitter mange hjemme og tenker at vi har en elite her i Norge med altfor tette bånd, stemmer det? Og er vi i media en del av dette problemet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <title>Derfor ble det storstreik</title>
+      <description><![CDATA[Flere enn 20.000 arbeidere er tatt ut i streik, og det varsles om enda flere i dagene som kommer. Hvorfor ble det streik?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b79e4285-83ea-4e8c-b7a8-83e8ddd1c734_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b79e4285-83ea-4e8c-b7a8-83e8ddd1c734_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:40</itunes:duration>
+      <pubDate>Tue, 18 Apr 2023 15:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Slik vinner du et valg</title>
+      <description><![CDATA[Oppskrift på hvordan vinne et valg, og så spør vi: Hvordan ble Krf så små og Rødt så store?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d5c4736d-f341-4861-bc5d-ee81932f78f3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d5c4736d-f341-4861-bc5d-ee81932f78f3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:05</itunes:duration>
+      <pubDate>Fri, 21 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor snakker så mange om kjernekraft nå?</title>
+      <description><![CDATA[Hvorfor er plutselig så mange opptatt av kjernekraft? 
+Jordbruksoppgjøret er i gang og matvareprisene blir dyrere til uka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fa2d9535-b668-46b8-b000-4e6ad93d4767_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fa2d9535-b668-46b8-b000-4e6ad93d4767_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:34</itunes:duration>
+      <pubDate>Fri, 28 Apr 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor går det galt for Jonas Gahr Støre?</title>
+      <description><![CDATA[Vi går igjennom lederegenskapene til Jonas Gahr Støre, og så lurer vi på ny: Hvor mye skal egentlig renta opp?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/66fde9f9-ce03-40b0-9ed8-04c86416d94c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/66fde9f9-ce03-40b0-9ed8-04c86416d94c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:31</itunes:duration>
+      <pubDate>Fri, 05 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Svensk jubel over svak norsk krone</title>
+      <description><![CDATA[Stemmer det at svenskene nå drar på omvendt svenskehandel til Norge?
+Og er det for tette bånd mellom politikere og journalister?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/66036356-5f5b-4eb4-8903-b54bcc0e67ea_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/66036356-5f5b-4eb4-8903-b54bcc0e67ea_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:41</itunes:duration>
+      <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Skal politikerne bestemme hvor mye vi skjermtid vi kan ha?</title>
+      <description><![CDATA[Alle partiene er enige om at skjermtid må gjøres noe med, men hva? 
+Og USA kan gå tom for penger, burde vi være stressa?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/53cec563-a136-4f16-87b6-999fa7f6c449_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/53cec563-a136-4f16-87b6-999fa7f6c449_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:04</itunes:duration>
+      <pubDate>Fri, 19 May 2023 05:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor sliter Norge med å nå klimamålene?</title>
+      <description><![CDATA[Norge sliter med å nå klimamålene, hvorfor det? Og er det egentlig synd på pensjonistene? Årets trygdeoppgjør ble rekordhøyt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/32a9fd09-8dc1-49a8-9f31-39616c965f52_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/32a9fd09-8dc1-49a8-9f31-39616c965f52_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:17</itunes:duration>
+      <pubDate>Fri, 26 May 2023 05:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor blir det så mye bråk rundt Emilie Enger Mehl?</title>
+      <description><![CDATA[Justisministeren får TikTok-kjeft. Alle trodde boligprisene skulle ned, men de øker jo som bare det. Og enmannsparti stjeler laksefokus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/681f6157-956e-40c0-9da4-63862720dff5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/681f6157-956e-40c0-9da4-63862720dff5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:26</itunes:duration>
+      <pubDate>Fri, 02 Jun 2023 05:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Pappa Alfie Haaland flytter til Sveits</title>
+      <description><![CDATA[Mange reagerer på at Alfie Haaland, pappa til Erling Braut Haaland, flytter til Sveits. Og Høyre oppfører seg som om de er i regjering.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/5381ba00-f591-46dc-bc0a-c9b9e05dcf37_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/5381ba00-f591-46dc-bc0a-c9b9e05dcf37_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:38</itunes:duration>
+      <pubDate>Fri, 09 Jun 2023 05:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor vil ikke Emilie Enger Mehl si unnskyld?</title>
+      <description><![CDATA[Justisministeren får kritikk for Pride-skytingen, og Freia-boikotten kom nesten ut av intet og er nå på vei bort igjen. Eller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/cecfda4a-5477-400f-b774-8a5fedaac4c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/cecfda4a-5477-400f-b774-8a5fedaac4c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:12</itunes:duration>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kOy089TkBWYqJsJDiXMkCwy5bTkSTIMeGVSyoFbVnnig.jpg"/>
+    </item>
+    <item>
+      <title>Renta går bare oppover. Når tar det slutt?</title>
+      <description><![CDATA[Høyeste rentenivå på 15 år, og kunnskapsminister Tonje Brenna innrømmer alvorlige feil.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/4d9579aa-5d2d-4d85-9ec5-e517a2268216_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/4d9579aa-5d2d-4d85-9ec5-e517a2268216_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:13</itunes:duration>
+      <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Jbcv9IiKpYLR_Fo99ctTBgN9E5MMjxX9l2N4fEDwHAhQ.jpg"/>
+    </item>
+    <item>
+      <title>Håndhilsevideo skaper sterke reaksjoner</title>
+      <description><![CDATA[Er det greit at folk ikke håndhilser? Og Norges Bank forklarer for dårlig hvorfor de setter opp renta, mener Cecilie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/23c06a82-6351-4422-a8ec-975a288a3164_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/23c06a82-6351-4422-a8ec-975a288a3164_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:03</itunes:duration>
+      <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_ZKyPmQlgV0RgomSbxJ0sQ1XnredrAOBAUteTvZKoRDg.jpg"/>
+    </item>
+    <item>
+      <title>Det blir en mørk og tung økonomisk høst</title>
+      <description><![CDATA[Vi er i Arendal og har sett partilederdebatten, og hørt Norges Bank sette opp renta nok en gang. Virker det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/0cd42770-edd6-4e4e-86d1-531f341446ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/0cd42770-edd6-4e4e-86d1-531f341446ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:33</itunes:duration>
+      <pubDate>Fri, 18 Aug 2023 11:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    </item>
+    <item>
+      <title>Ola Borten Moe etterforskes av Økokrim for innsidehandel</title>
+      <description><![CDATA[Hva kan Økokrim finne? Og, regjeringen gjenåpner politistasjoner politiet ikke vil ha. Hvorfor? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/40036d1c-38d6-45d9-b4c5-31af647dd283_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/40036d1c-38d6-45d9-b4c5-31af647dd283_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:05</itunes:duration>
+      <pubDate>Fri, 25 Aug 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/65aPhb6LIoWyLD-4LJjGmgmcYnpQYX0fV5D5PQVRq0dQ.jpg"/>
+    </item>
+    <item>
+      <title>Norges utenriksminister i trøbbel på grunn av mannens aksjekjøp</title>
+      <description><![CDATA[Anniken Huitfeldt har brutt habilitetsregelverket, burde hun visst bedre? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/435a6359-eebe-4a18-9c10-e40baa98fb8a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/435a6359-eebe-4a18-9c10-e40baa98fb8a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:03</itunes:duration>
+      <pubDate>Thu, 31 Aug 2023 13:37:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SMBzKOrzkcaa7KcPRiHPywju0g2badwJydj4ZbeazSvw.jpg"/>
+    </item>
+    <item>
+      <title>Er Greta Thunberg-generasjonen død?</title>
+      <description><![CDATA[Skolevalg-spesial: Unge Høyre med ellevill seier, og et klart blått flertall viser en overraskende retning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fb73832f-733a-40ef-8a29-1b26e77dacc2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fb73832f-733a-40ef-8a29-1b26e77dacc2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:35</itunes:duration>
+      <pubDate>Wed, 06 Sep 2023 16:57:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FC5Ry-yMURhpEuHo3He9ZAC-1zIKAhhS-UvfgeOuXMUA.jpg"/>
+    </item>
+    <item>
+      <title>Hvem vinner valget på mandag? </title>
+      <description><![CDATA[Hva slags valg er årets valg? Hvem vinner storbyene? Og hva slags Norge våkner vi opp til dagen etter årets valg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e844e19d-dc30-4dec-bd14-04292ec3084a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/e844e19d-dc30-4dec-bd14-04292ec3084a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:30</itunes:duration>
+      <pubDate>Fri, 08 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZCopo10q4E-_aav3f75drAJjxUE6CMjhqXZWxHwyz-BQ.jpg"/>
+    </item>
+    <item>
+      <title>Hva betyr det at Høyre nå er Norges største parti?</title>
+      <description><![CDATA[Hvordan skjedde det? Hva skjer med storbyene? Og hvordan kommer du til å merke forskjellen? Ekstraepisode om valget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/f99fe328-4b32-4823-9d99-9efe41fc45a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/f99fe328-4b32-4823-9d99-9efe41fc45a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Tue, 12 Sep 2023 03:23:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f69jT1iICVQYIDLFYEzH8wx5lfXYPl-5LnAVyRI_xzqw.jpg"/>
+    </item>
+    <item>
+      <title>Rekordmange bytta politisk side. Hvorfor?</title>
+      <description><![CDATA[Ikke bare bytta folk parti, men også politisk side. Vi prøver å finne årsakene som ligger bak.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/94365cb8-58ff-4003-87e5-9c5477413ffb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/94365cb8-58ff-4003-87e5-9c5477413ffb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:14</itunes:duration>
+      <pubDate>Thu, 14 Sep 2023 07:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7-Aj9FggNUwiVJUl5sf1Ng1hQ7P1sh8UgLiCQQCf7R2w.jpg"/>
+    </item>
+    <item>
+      <title>Hva kommer til å skje med Erna Solberg nå?</title>
+      <description><![CDATA[Kan hun bli statsminister på ny etter dette her?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c0056fd5-669c-4415-abd9-51afcb970d9a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c0056fd5-669c-4415-abd9-51afcb970d9a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:18</itunes:duration>
+      <pubDate>Wed, 20 Sep 2023 19:54:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j7poSlbvV6sauKtHbbgSLQPoYGHiA513VmxghKlmdgJw.jpg"/>
+    </item>
+    <item>
+      <title>Kan gjengvolden i Sverige også skje i Norge?</title>
+      <description><![CDATA[De siste ukene har vært blodige. Hva er grunnene til gjengvolden i Sverige?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/9f387bf3-26d3-4af7-b12a-9a269f148633_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/9f387bf3-26d3-4af7-b12a-9a269f148633_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:32</itunes:duration>
+      <pubDate>Thu, 28 Sep 2023 12:51:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VvvDb7Q-h0xO6QiRIrxL0QbQG7d0Q2hM0kPjpF_HP87w.jpg"/>
+    </item>
+    <item>
+      <title>Tre mulige utfall for Erna Solberg</title>
+      <description><![CDATA[Vi diskuterer hvordan det kan gå med Erna Solberg, og så lurer vi også på hvorfor bankene tjener så mye på at renta går oppover. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/20d7c2cf-f945-4c56-b22a-ffbb58ce9b13_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/20d7c2cf-f945-4c56-b22a-ffbb58ce9b13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:46</itunes:duration>
+      <pubDate>Wed, 04 Oct 2023 18:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/35qZa4dbTz0PHavaLK28pwczqNjdyKp8htSVtOlNlgkw.jpg"/>
+    </item>
+    <item>
+      <title>Ekstraepisode: Alt du trenger å vite om statsbudsjettet</title>
+      <description><![CDATA[Hvordan blir ditt økonomiske liv i 2024? Vi går igjennom det viktigste fra statsbudsjettet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/bb9d4d02-b145-4edf-8005-d196db3cb8e8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/bb9d4d02-b145-4edf-8005-d196db3cb8e8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Fri, 06 Oct 2023 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JAc6W61lrIm-3twL46sUUg6LeQZN6bJNN0409OCyF7gg.jpg"/>
+    </item>
+    <item>
+      <title>Puh. Endelig noen gode økonominyheter!</title>
+      <description><![CDATA[Tre lyspunkt fra økonomiverden, og hvorfor er Israel og Palestina så betent inn i norsk politikk? Sigurd Falkenberg Mikkelsen er gjest på sistnevnte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/33af5304-e53e-488d-bb73-13f2a1499480_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/33af5304-e53e-488d-bb73-13f2a1499480_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <pubDate>Thu, 12 Oct 2023 19:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J-KZzhN8Zn3x2C_yWgEjmQ-EyIrxglHhlGdrswK_Rk1w.jpg"/>
+    </item>
+    <item>
+      <title>Er det for lett å være sykemeldt?</title>
+      <description><![CDATA[Hvordan sikrer vi at folk som kan jobbe, har en jobb å gå til? Og statsminister Støre bytter ut en haug med statsråder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/33b5ec15-c7a3-40e6-ba46-da656a0d52d4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/33b5ec15-c7a3-40e6-ba46-da656a0d52d4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:40</itunes:duration>
+      <pubDate>Fri, 20 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vQw6SwUi2JSAsODPp5C2KwyE1JNUpCt0vCR9VJ_-KkBQ.jpg"/>
+    </item>
+    <item>
+      <title>Norge har aldri tatt i mot så mange flyktninger</title>
+      <description><![CDATA[Det kommer 1000 ukrainske flyktninger i uka. Er vi egentlig rigga for å ta i mot dem?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:33</itunes:duration>
+      <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gg8xrHUAsDqLV4Jw84U-EAeip6OguMAmqkUS-1oQPX9Q.jpg"/>
+    </item>
+    <item>
+      <title>Er vi på vei mot en boligkrise?</title>
+      <description><![CDATA[Er vi midt i en boligkrise vi ikke er klar over? Vi svarer også på lytterspørsmål og snakker om TV-serien «Makta».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/af09816a-040d-4992-89d4-d962cbcd5d25_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/af09816a-040d-4992-89d4-d962cbcd5d25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:04</itunes:duration>
+      <pubDate>Thu, 02 Nov 2023 19:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k1T75x3SiTaCrQcps8FWSw-gprV8B6FUrSK297tF7XtQ.jpg"/>
+    </item>
+    <item>
+      <title>Økokrim dropper Erna-etterforskning. Hva skjer nå?</title>
+      <description><![CDATA[Ekstraepisode: Økokrim skal ikke etterforske Erna Solberg eller Sindre Finnes. Men hva skjer egentlig fremover nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/9cc20a05-80b8-44a4-a812-7e607608ccfe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/9cc20a05-80b8-44a4-a812-7e607608ccfe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:56</itunes:duration>
+      <pubDate>Fri, 03 Nov 2023 16:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DBrpCn_JCPUbSnmKCf7mHwpVy0U0JFwW8H2bq6cAnmww.jpg"/>
+    </item>
+    <item>
+      <title>Hvor stopper renta og når blir den lavere?</title>
+      <description><![CDATA[Sentralbanksjef-spesial: Ida Wolden Bache er gjest. Vi spør om alt vi lurer på om styringsrente og fremtiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/775a3fda-22f6-44e0-8765-e5134f2fe91c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/775a3fda-22f6-44e0-8765-e5134f2fe91c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:31</itunes:duration>
+      <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l4DbEqyegBKnC8ayBjVkYg2c7V3iNjtLN_cAe9An3sYw.jpg"/>
+    </item>
+    <item>
+      <title>Kan vi stole på at vi betaler for frisk laks?</title>
+      <description><![CDATA[Kan vi stole på at laksen i butikken har vært frisk? Og hvem sliter egentlig mest etter kontrollkomiteens høringer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/6ff4e789-3ff2-417e-90f9-5650dc8e6081_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6ff4e789-3ff2-417e-90f9-5650dc8e6081_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:55</itunes:duration>
+      <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jSTFPEeR-mHI4ul6QDGnxA2lX5OSCJfduNq4voa3Zfhg.jpg"/>
+    </item>
+    <item>
+      <title>Norge har for få folk til de viktige jobbene</title>
+      <description><![CDATA[Vi har ikke nok folk i Norge til å jobbe på sykehusene våre. Og tør egentlig Høyre-folk å si sin ærlige mening?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/a43c5d51-6ede-4bf2-88c3-b04efe0ad955_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/a43c5d51-6ede-4bf2-88c3-b04efe0ad955_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:54</itunes:duration>
+      <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YMzzNkd3klt3dIzkngCw1QMAmsWfbgLL8AOZD8_qUiqA.jpg"/>
+    </item>
+    <item>
+      <title>–Et kjøpehelvete vi ikke trenger</title>
+      <description><![CDATA[Burde vi ha dårlig samvittighet for å handle på Black Friday?  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/64aa132b-c76e-4254-b880-ab217dcd4aec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/64aa132b-c76e-4254-b880-ab217dcd4aec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:26</itunes:duration>
+      <pubDate>Thu, 23 Nov 2023 17:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LQe3GOcRkkqRzpfePSSYGgcWKGoHT7rAVgP8cmFcBAtQ.jpg"/>
+    </item>
+    <item>
+      <title>Arbeiderpartiet, Makta og Norges styggeste bygg</title>
+      <description><![CDATA[Uro i Arbeiderpartiet, både på TV og i virkeligheten. Og Norges styggeste bygg er faktisk verdt en prat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/a47d8051-16cf-47b4-a09e-ab415bba5738_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/a47d8051-16cf-47b4-a09e-ab415bba5738_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:43</itunes:duration>
+      <pubDate>Thu, 30 Nov 2023 14:52:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mBlwo3oaHY1xhpfREGeDKQyZZfnXPpC8SLVlbrXb4INA.jpg"/>
+    </item>
+    <item>
+      <title>Industripartiet større enn MDG, dårlige matteskills og klimatoppmøtet</title>
+      <description><![CDATA[Industripartiet vokser forbi MDG. Norsk ungdom er dårlige i matte. Og Lars Nehru har vært på klimatoppmøtet i Dubai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/5afff26a-2967-4013-9aa0-9de727310b06_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/5afff26a-2967-4013-9aa0-9de727310b06_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:54</itunes:duration>
+      <pubDate>Thu, 07 Dec 2023 17:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vARoIwuBAYkJ_t9LfACu0wIrhd21zkP1YMufAo4g5xGg.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Hva skjer med Emile Enger Mehl?</title>
+      <description><![CDATA[Leder for hemmelige tjenester måtte gå på dagen, men hva skjer egentlig med Emilie Enger Mehl?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b0046519-bb65-4b29-8e36-f167e674f3df_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b0046519-bb65-4b29-8e36-f167e674f3df_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:51</itunes:duration>
+      <pubDate>Tue, 12 Dec 2023 12:33:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VRPif4S5ZqiDw3GTAzB3igNcD8PWPz0hHOvdHdIbFWdw.jpg"/>
+    </item>
+    <item>
+      <title>Et politisk skandaleår</title>
+      <description><![CDATA[Det har vært et politisk skandaleår, vi har fått dårligere råd og Norge har blitt blåere enn du tror. Vi oppsummerer 2023. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3fb83293-cd7d-449d-abbe-817cfad844cf_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/3fb83293-cd7d-449d-abbe-817cfad844cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:29</itunes:duration>
+      <pubDate>Thu, 21 Dec 2023 14:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lLTIJAWpf9FerlT9ql34pA9F4fIAWhzWqiNEKQvTVdlQ.jpg"/>
+    </item>
+    <item>
+      <title>Bør Kong Harald pensjonere seg?</title>
+      <description><![CDATA[Bør Kong Harald gjøre som danske Dronning Margrethe? Får vi bedre råd i år? Og hvilke saker kommer til å prege 2024?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/eaabd190-8a82-4b43-93ac-995e7504369a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/eaabd190-8a82-4b43-93ac-995e7504369a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:38</itunes:duration>
+      <pubDate>Thu, 04 Jan 2024 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TWubCAzkBh3KDn5_DIKzUA_mYlyAHiJ8yAjejWa69Qwg.jpg"/>
+    </item>
+    <item>
+      <title>Ødelagte naturområder, fyrverkeriforbud og gruvedrift på havbunnen</title>
+      <description><![CDATA[– Er det ingen voksne hjemme? Cecilie ranter om hvordan norske kommuner bygger ned naturen vår, burde vi forby fyrverkeri? Og nå starter Norge med gruvedrift på havbunnen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e3497e31-983a-46b5-ac16-7f601e2cd3cc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/e3497e31-983a-46b5-ac16-7f601e2cd3cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:28</itunes:duration>
+      <pubDate>Thu, 11 Jan 2024 15:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/as-fvWCpRg-zOdcuoXGQxgN6jXNZ5fD1ILhEvnT1pepQ.jpg"/>
+    </item>
+    <item>
+      <title>Israel-boikott, sykehus og ambassadør-bråk</title>
+      <description><![CDATA[Har boikott egentlig noe å si? Hva holder helseministeren på med? Og hvorfor så mye mas om at Anniken Huitfeldt blir ny USA-ambassadør?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/47bc6bed-ffef-4850-bc81-80750f8643a6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/47bc6bed-ffef-4850-bc81-80750f8643a6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:56</itunes:duration>
+      <pubDate>Fri, 19 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lu5gXxojHnSiSK03dUt9VAVdVZb9rGu2sVe1vKGqAXJQ.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Må Ingvild Kjerkol gå av?</title>
+      <description><![CDATA[Først gikk forsknings- og høyere utdanningsminister Sandra Borch av etter å ha innrømmet kopiering i masteroppgaven sin. Nå blir Ingvild Kjerkol beskyldt for det samme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/740734a9-c471-4ae3-a491-0f9bc89574e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/740734a9-c471-4ae3-a491-0f9bc89574e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:18</itunes:duration>
+      <pubDate>Mon, 22 Jan 2024 13:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iDzxrMs41AfoTOaDrHrviAzgvfs1vdCFgGFaRs00qkwA.jpg"/>
+    </item>
+    <item>
+      <title>Helseminister-trøbbel og er rentetoppen nådd?</title>
+      <description><![CDATA[Helseminister Ingvild Kjerkol blir beskyldt for juks og kopiering i masteroppgaven sin, og viser siste rentemøte nå at toppen er nådd?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1238ba2f-da3c-4815-adce-14cb6d2972d3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1238ba2f-da3c-4815-adce-14cb6d2972d3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:58</itunes:duration>
+      <pubDate>Thu, 25 Jan 2024 15:32:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dTikKFrswYJ6aawVv36nfAngO4UduTyYD9p7zrTH_4wA.jpg"/>
+    </item>
+    <item>
+      <title>Rentefest for DNB, sekstimersdag og Gaza-bistand</title>
+      <description><![CDATA[DNB tjener mer enn aldri før på grunn av rentehoppene, nytt liv i sekstimersdag-debatten og Norge fortsetter omstridt Gaza-bistand.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d3df1934-708e-45be-90e3-ff91f732eadd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d3df1934-708e-45be-90e3-ff91f732eadd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:26</itunes:duration>
+      <pubDate>Thu, 01 Feb 2024 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tArJXQ8oq8Ylv8bKtWofSQI-OxgPS_XErreFe87QCklQ.jpg"/>
+    </item>
+    <item>
+      <title>Mer lønn, mobilforbud og unge konservative</title>
+      <description><![CDATA[Unge velgere i mange land er mer konservative enn foreldrene sine, får vi mer lønn i år? Og nå kastes mobilene ut av klasserommene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/a2010452-a600-405d-84be-b3ee267a06b4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/a2010452-a600-405d-84be-b3ee267a06b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:23</itunes:duration>
+      <pubDate>Thu, 08 Feb 2024 18:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/htVi1BU0aUsnImuIOfsKxwIeoTe5mXRbbPFMTjLUe3MA.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Hvorfor mer bråk om Trond Giske nå?</title>
+      <description><![CDATA[Trond Giske er valgt til ny nestleder for Trondheim Arbeiderparti, men ikke uten bråk. Hva er det han egentlig vil? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b2881af7-a4b7-4beb-9aa3-cd6d237b7e36_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b2881af7-a4b7-4beb-9aa3-cd6d237b7e36_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:47</itunes:duration>
+      <pubDate>Mon, 12 Feb 2024 13:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OLvJzeaHV5cl1oOmWNeaXwTYd7-4yTlA3NBs_CUOx-sA.jpg"/>
+    </item>
+    <item>
+      <title>Sjøfly og jakthytte, krigsfare og oljefondet</title>
+      <description><![CDATA[Norsk Industri-sjef brukte millioner på jakthytte og sjøfly, kan det bli krig i Norge? Og hvorfor kan vi ikke kjøpe oss inn i oljefondet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/79b355c9-3010-41af-b98f-01d49edbc625_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/79b355c9-3010-41af-b98f-01d49edbc625_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:18</itunes:duration>
+      <pubDate>Thu, 15 Feb 2024 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MgwO74_3jXDueqTldYTOAwDKm2E0ptkLgaRzL0fG-A9w.jpg"/>
+    </item>
+    <item>
+      <title>Feriebonanza, fraflytting i nord og skandaler i sikte?</title>
+      <description><![CDATA[Til tross for dyre tider bruker vi penger på ferier, ukrainske flyktninger redder fraflytting fra Nord-Norge og vi venter på mange spennende saker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/afcc395c-4cc1-4cb2-ac32-04bcef1ab865_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/afcc395c-4cc1-4cb2-ac32-04bcef1ab865_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:52</itunes:duration>
+      <pubDate>Thu, 22 Feb 2024 15:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I3huWty2TkcVwxCxJtF0EA88mH7Rq_5cOqtkGOOBtM4A.jpg"/>
+    </item>
+    <item>
+      <title>Gutter og likestilling, boligkollaps og habilitet</title>
+      <description><![CDATA[Menn og likestillingsutfordringer. Kontrollkomiteen på Stortinget med historisk kritikk, og er det tegn til boligkollaps?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/53ed81e9-5d16-4ac2-8444-132b39aafd92_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/53ed81e9-5d16-4ac2-8444-132b39aafd92_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:03</itunes:duration>
+      <pubDate>Thu, 29 Feb 2024 15:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tfd-HPA2874z-64WwdLSygmBAtInfoIDakJDkCaxFgkA.jpg"/>
+    </item>
+    <item>
+      <title>Flytt russetiden, Sylvi Listhaug og kinoforbud</title>
+      <description><![CDATA[Bør russetiden flyttes og russeklær gjøres forbudt? Frp gjør det veldig bra for tiden.  Og ingen visste om kinoforbud i kirketiden, gitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/9d8d1802-81e7-4762-ab11-309af2092c8e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/9d8d1802-81e7-4762-ab11-309af2092c8e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:56</itunes:duration>
+      <pubDate>Thu, 07 Mar 2024 16:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BhlfOwzdxRJMQR8fKrYsMwCaVpc11hsZcEP4pGhiBpww.jpg"/>
+    </item>
+    <item>
+      <title>Sandra Borch fratatt masteren sin</title>
+      <description><![CDATA[Sandra Borch mister mastergrad, Per-Willy Amundsen etterforskes av politiet, og vibeflation: Folk tror økonomien er verre enn det den er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/222823c1-ee6b-4ead-bdb4-33cc385c8739_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/222823c1-ee6b-4ead-bdb4-33cc385c8739_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:11</itunes:duration>
+      <pubDate>Thu, 14 Mar 2024 15:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DMohSaa3LNhcVuVOU1ME2wNw0gWjLGqsmuOKDxijx1VQ.jpg"/>
+    </item>
+    <item>
+      <title>Usikre politikere, Exit-skatt og verdensvaluta</title>
+      <description><![CDATA[Per-Willy Amundsen, Hadia Tajik, Emilie Enger Mehl, mange politikere går en usikker fremtid i møte. Ny skatt skal hindre Sveits-utflytting, og hva med bare en valuta i hele verden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/abed372e-2fca-4bf6-b5b2-61bd0a749a16_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/abed372e-2fca-4bf6-b5b2-61bd0a749a16_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:41</itunes:duration>
+      <pubDate>Thu, 21 Mar 2024 16:47:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/boStTHfMyJ_1dK5cref2cAfFQLFm6rbq-JKm1XzmjF0A.jpg"/>
+    </item>
+    <item>
+      <title>PÅSKESPESIAL: Legalisering, oljeutfasing, russetid</title>
+      <description><![CDATA[Vi svarer på lytterspørsmål i hele episoden: Hvorfor kan jeg ikke kjøpe meg inn i Oljefondet? Legalisere cannabis? Kan Erna bli statsminister? Og mye mer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3a31bf07-549c-4824-8cb6-bd03d4359930_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/3a31bf07-549c-4824-8cb6-bd03d4359930_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:39</itunes:duration>
+      <pubDate>Mon, 25 Mar 2024 15:42:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qZiu21z-lvzcWgrUTONFNg1mimlaN49qwhyyb1uOmOjQ.jpg"/>
+    </item>
+    <item>
+      <title>Flere inn i førstegangstjeneste, kronekurs og lønnsoppgjør</title>
+      <description><![CDATA[Regjeringen vil ha flere unge inn i militæret, stemmer i Arbeiderpartiet vil innføre pliktår for unge og hvorfor er kronekursen så svak?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/876efb60-fc2f-40e7-9be9-76ee3bc63532_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/876efb60-fc2f-40e7-9be9-76ee3bc63532_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:08</itunes:duration>
+      <pubDate>Thu, 04 Apr 2024 15:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NsjubdiXsH-HP7BLr4dLWgN0a3-HUxkk9Eo8ucodnpRA.jpg"/>
+    </item>
+    <item>
+      <title>Temu, prisvekst og statsrådtrøbbel</title>
+      <description><![CDATA[Må helseministeren gå av? Hvorfor er Temu så billig og burde du handle der? Og gode inflasjonsnyheter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c041ed2e-6a55-47c7-b349-a9fee628a37b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c041ed2e-6a55-47c7-b349-a9fee628a37b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:25</itunes:duration>
+      <pubDate>Thu, 11 Apr 2024 15:31:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rEfWVFN7ZfYIcapZ_pfEFw9fGnFuguOHG-3KqHj2phPw.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Hvorfor måtte Ingvild Kjerkol gå av?</title>
+      <description><![CDATA[Helseminister Ingvild Kjerkol går av som helseminister. Men hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/0257b3ee-113c-48e4-942e-4b6415e0c11f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/0257b3ee-113c-48e4-942e-4b6415e0c11f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:34</itunes:duration>
+      <pubDate>Fri, 12 Apr 2024 15:57:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v6MFIorKF9RPbOWaiOA_nQrHJrFblVC3eq-60p1qNNYA.jpg"/>
+    </item>
+    <item>
+      <title>Sinte bønder, hvorfor billig på Temu og aktiv dødshjelp</title>
+      <description><![CDATA[Hvorfor er bøndene så sinte? Og hva skyldes det politiske rotet? En gammel u-landsregel gjør det enda billigere å handle på Temu, og litt om aktiv dødshjelp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/72812e78-472d-49af-ad65-f3a214b3915b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/72812e78-472d-49af-ad65-f3a214b3915b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:09</itunes:duration>
+      <pubDate>Thu, 18 Apr 2024 16:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PxUImrcq-u7eQo_NC24L5ARVgrOoKlP6x0VbSq1Q-lAA.jpg"/>
+    </item>
+    <item>
+      <title>Ap-kronprins, menns likestilling og glem rentekutt</title>
+      <description><![CDATA[Kan Jan Christian Vestre redde Arbeiderpartiet? Glem rentekutt og bli vant til høyt rentenivå. Og kan 35 nye tiltak bedre menns likestilling?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/18e6e7bf-d5cf-4a8d-bd26-04cf72258bda_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/18e6e7bf-d5cf-4a8d-bd26-04cf72258bda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:23</itunes:duration>
+      <pubDate>Thu, 25 Apr 2024 16:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GWrwgQMG00uoNc18NBpCAw9nlbxvzo6lrtbZF_IsGbKg.jpg"/>
+    </item>
+    <item>
+      <title>Simen Velles cannabis-fortid, gjengkriminalitet og Trump</title>
+      <description><![CDATA[Fpu-leder Simen Velle innrømmer cannabis-dom, det krangles om hvordan man skal løse gjengkriminalitet og Trump vil ha mer innflytelse over sentralbanken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/4dc79a33-8b43-4906-9297-287efa18e54e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/4dc79a33-8b43-4906-9297-287efa18e54e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:54</itunes:duration>
+      <pubDate>Thu, 02 May 2024 16:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L6ogHcoRRDiaIb3167oOpgmgrhwojF7RTAGQlTL11pfw.jpg"/>
+    </item>
+    <item>
+      <title>Rødt-bråk, svenske renter og folkeavstemning</title>
+      <description><![CDATA[Leder for Rød Ungdom fyrte opp store deler av det politiske Norge. Den svenske sentralbanken setter ned styringsrenta, hva betyr det for Norge? Og bør vi ha flere folkeavstemninger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1a3e6eee-ee56-4a78-93e8-7b25ef2d5cd8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1a3e6eee-ee56-4a78-93e8-7b25ef2d5cd8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:39</itunes:duration>
+      <pubDate>Thu, 09 May 2024 14:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1tWS4hjkA6m22fMoZS2hzgVHVi5mCLy_8qrfqvRJFNEg.jpg"/>
+    </item>
+    <item>
+      <title>Norsk pengebruk, mektig trio gir seg, Bjørnar Moxnes</title>
+      <description><![CDATA[De er dobbelt så mange som oss, men vi bruker over dobbelt så mye offentlige penger som det Sverige gjør. Og tre mektige politiske ringrever takker for seg på Stortinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c937ea05-b973-44c8-97d7-629b9dabbf8a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c937ea05-b973-44c8-97d7-629b9dabbf8a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:42</itunes:duration>
+      <pubDate>Thu, 16 May 2024 16:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PYQAULaFZCJgX8sJ55MYWgnOSkFtVOOPdkLHe8IMt9kw.jpg"/>
+    </item>
+    <item>
+      <title>Palestina, ellevill boligprisvekst og shorts på jobb</title>
+      <description><![CDATA[Hvorfor anerkjenner Norge Palestina nå? Analysebyrå med ellevill spådom om fremtidens boligpriser, og - er det greit med shorts på jobb? En klassiker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/9d606054-4e2d-4c0e-9f85-4341cd655dd2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/9d606054-4e2d-4c0e-9f85-4341cd655dd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:03</itunes:duration>
+      <pubDate>Thu, 23 May 2024 15:41:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m0yaj-_MIxEZ-jGbWFX8FgeOlYrOoXarCaPB3LNh2W9w.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor er det streik nå?</title>
+      <description><![CDATA[Eksamener kan bli avlyst, politifolk er i streik og politikerne krangler. Hva handler denne streiken om? Og hvorfor er den spesiell?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/131515a0-2215-4236-8d74-723ee99ec7dd_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/131515a0-2215-4236-8d74-723ee99ec7dd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:51</itunes:duration>
+      <pubDate>Tue, 28 May 2024 21:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PnmfsnEZMfX0gMwvbFad7ANpbg6UKCR587zkib8Y_Unw.jpg"/>
+    </item>
+    <item>
+      <title>Statsminister Listhaug, skatt og statsrådklining</title>
+      <description><![CDATA[Kan Sylvi Listhaug bli statsminister? Er det en sak at en statsråd kliner med ekspedisjonssjefen sin? Og, mange norske bedrifter betaler ikke skatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3328b9ae-a22a-469d-afbf-a4ca9cb47c66_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/3328b9ae-a22a-469d-afbf-a4ca9cb47c66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:39</itunes:duration>
+      <pubDate>Thu, 06 Jun 2024 16:46:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JyJU6z2XcH-CBIYTFd1r6Qz0WAarhjiyi6-Y6Ny7wB0Q.jpg"/>
+    </item>
+    <item>
+      <title>Vippsran, kriminalitet og EU-valg</title>
+      <description><![CDATA[Har Norge et kriminalitetsproblem? Og EU-valget viser et sterkt ytre høyre, men hva betyr det egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1e0ec920-5486-45ac-b251-752a5e5d83fa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1e0ec920-5486-45ac-b251-752a5e5d83fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:15</itunes:duration>
+      <pubDate>Thu, 13 Jun 2024 21:37:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3FQGce62-9RENoHSGzpOXwSFlQau9_JL4QuXGhSJ6GPQ.jpg"/>
+    </item>
+    <item>
+      <title>Styringsrente, føde flere barn og valget neste år</title>
+      <description><![CDATA[Det finnes gode grunner til at Norges Bank ikke kutter renta. Fungerer egentlig barnetrygden? Og vi ser frem mot stortingsvalget neste år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/6ba51ac2-cc1a-4da2-9f4f-6ac44979f025_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6ba51ac2-cc1a-4da2-9f4f-6ac44979f025_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:12</itunes:duration>
+      <pubDate>Thu, 20 Jun 2024 16:17:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MfgBe_hHD9tu2PysLwS9kQ--S6QCiAI5PDyPOur0JVcw.jpg"/>
+    </item>
+    <item>
+      <title>Stoltenberg, flykaos og Norge-turisme</title>
+      <description><![CDATA[Jens Stoltenberg slutter i Nato, men hva skal han nå? Billige flybilletter i nord gjør folk sinte og opprørte, og må vi venne oss til flere turister fremover?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/f850641b-876b-4d66-8108-e867dd53dde2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/f850641b-876b-4d66-8108-e867dd53dde2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:02</itunes:duration>
+      <pubDate>Fri, 28 Jun 2024 05:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E2o4VmLnLFIbYtLC-Zv32gjiQv1hezNKFx19n0PeAoYg.jpg"/>
+    </item>
+    <item>
+      <title>Trond Giske, partilederdebatt og KrF-trøbbel</title>
+      <description><![CDATA[Trond Giske vil tilbake til Stortinget, KrF har ledertrøbbel og den politiske høsten er i full gang med ukas partilederdebatt.
+
+Episoden er spilt inn i Arendal.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/a79e80e9-08cf-47c1-b83b-8faa34563aed_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/a79e80e9-08cf-47c1-b83b-8faa34563aed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:51</itunes:duration>
+      <pubDate>Fri, 16 Aug 2024 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sbgGE18RJsopmwwvuLQqnwR7CnJYEPgmipUEbky-4-7w.jpg"/>
+    </item>
+    <item>
+      <title>Bollestad, norsk krone og ulovlig prissamarbeid</title>
+      <description><![CDATA[Olaug Bollestad går av som partileder, er det bra eller dårlig med svak kronekurs? Og de tre største dagligvarekjedene får kjeft.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/0539073e-27e4-4a22-92e9-c56717156160_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/0539073e-27e4-4a22-92e9-c56717156160_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:04</itunes:duration>
+      <pubDate>Fri, 23 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5c_9haolDba3-mlVHcm0fgSwJO1_pfekNOmJUpe0dqhA.jpg"/>
+    </item>
+    <item>
+      <title>Giske-kupp? Oljefeber og velferdsprofitt</title>
+      <description><![CDATA[Står Trond Giske bak et kupp i jakten på stortingsplass? Olje og gass tilsynelatende mer populært enn fornybar energi. Og spennende bråk i velferdsutvalg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1a8d731f-f2c6-4144-a468-c862ef0f92e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1a8d731f-f2c6-4144-a468-c862ef0f92e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:51</itunes:duration>
+      <pubDate>Thu, 29 Aug 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uhBReKhASmPL3kF2VOnDZgTclsdM0PxRLc8hEJqGN2mQ.jpg"/>
+    </item>
+    <item>
+      <title>Ungdomskriminalitet, USA-valg og ordfører-bråk</title>
+      <description><![CDATA[Plutselig løper alle etter Sylvi Listhaug i kampen mot ungdomskriminelle, Stavanger-ordfører i pengetrøbbel og i høstens USA-valg står økonomien på spill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/cbf0ec7d-67a0-401f-9fbf-09429613eb20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/cbf0ec7d-67a0-401f-9fbf-09429613eb20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:57</itunes:duration>
+      <pubDate>Thu, 05 Sep 2024 15:58:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bIbeT0O5pyYtmNZRFs159A4OhmjA8umLQcJwGsPK4W0A.jpg"/>
+    </item>
+    <item>
+      <title>Ungt sykefravær, Stavanger-bråk og Erna Solberg</title>
+      <description><![CDATA[Hvorfor har vi så høyt sykefravær? Og hva skyldes økningen blant de unge? Ellevilt ordfører-rot i Stavanger og har Erna Solberg mista det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/6d7e2ed0-14b9-4ba5-98cd-d6bfb6e7711a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6d7e2ed0-14b9-4ba5-98cd-d6bfb6e7711a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:03</itunes:duration>
+      <pubDate>Thu, 12 Sep 2024 15:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TBGQzmmYmKBCmH5nWtI15w14Bzl-fbJjRxbyjKv1Pefw.jpg"/>
+    </item>
+    <item>
+      <title>Kampen om de kriminelle, Bollestad og studielån</title>
+      <description><![CDATA[Regjeringen kaster seg inn i kampen om å være tøffest ovenfor de kriminelle. Kan Bollestad-saken ødelegge borgerlig samarbeid? Og hvorfor pumper vi penger ut til distriktene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c2110366-56f4-428f-bc68-60cc47d49bb0_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c2110366-56f4-428f-bc68-60cc47d49bb0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:34</itunes:duration>
+      <pubDate>Wed, 18 Sep 2024 15:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KfYiwus4rPmvPO2GdRhSHQ94rlbJFe9SkgfPjpRORrbg.jpg"/>
+    </item>
+    <item>
+      <title>Krangling i Arbeiderpartiet, sykefravær og innvandring</title>
+      <description><![CDATA[Hvorfor er det alltid bråk i Arbeiderpartiet? Og store forskjeller mellom unge og godt voksne i synet på hva som er en sykedag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/cb8c43e7-d690-431c-815c-0c2fbf37a261_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/cb8c43e7-d690-431c-815c-0c2fbf37a261_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:26</itunes:duration>
+      <pubDate>Thu, 26 Sep 2024 16:32:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SN3QPtcWD1WMVsHEWdgGbQGbMo8iqCoZ7Nk5r-uoHmuA.jpg"/>
+    </item>
+    <item>
+      <title>Strengere innvandring, Bjørnar Moxnes og oljepris</title>
+      <description><![CDATA[Bjørnar Moxnes kjemper for sitt politiske liv i Rødt. Nesten alle partiene vil ha strengere innvandring, hvorfor? Og krigen i Midtøsten påvirker oljeprisen. Hva betyr det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/f5d71f8f-a317-4de8-bf5f-b0b385e3be2d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/f5d71f8f-a317-4de8-bf5f-b0b385e3be2d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:56</itunes:duration>
+      <pubDate>Thu, 03 Oct 2024 15:52:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0AUVkziFjF5MNf2btp800w6mAnVHSZvgZpWXFQaYrosw.jpg"/>
+    </item>
+    <item>
+      <title>Bruker regjeringen for mye av fremtidens penger?</title>
+      <description><![CDATA[Ekstraepisode om statsbudsjettet. Studentene får mindre, vi når ikke klimamålene våre, rekordmye oljepenger - men vent litt, det går jo egentlig ganske bra?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/559db64c-ecf3-475a-b1d8-5ac4d1b001a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/559db64c-ecf3-475a-b1d8-5ac4d1b001a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:42</itunes:duration>
+      <pubDate>Mon, 07 Oct 2024 16:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SSYvg4CUtAW_nP2iVyQA6APr5E2s_WRDIuNR4mJyR6LA.jpg"/>
+    </item>
+    <item>
+      <title>Har vi en sleip regjering?</title>
+      <description><![CDATA[Regjeringen får massevis av kritikk for å være uærlige. Kan vi kjøpe oss ut av klimautfordringene? Og oljepengene våre, hvorfor bruker vi ikke mer? Denne episoden inneholder også et politisk drama fra Stavanger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1532aa4e-8e94-4167-8ca7-dd9a8df5b7e3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1532aa4e-8e94-4167-8ca7-dd9a8df5b7e3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:30</itunes:duration>
+      <pubDate>Thu, 10 Oct 2024 16:17:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ml6RObsI_OXjTqIG5pe_pgN2ypnwSCPX_6MjLD4IcrVw.jpg"/>
+    </item>
+    <item>
+      <title>Forby Temu? Skolebråk og matpriser</title>
+      <description><![CDATA[Hvorfor er det egentlig lov å handle på Temu? Fakkeltog og bråk: Politikere over hele Norge kutter og legger ned skoler. Og hvorfor så vanskelig å følge med på matvarepriser?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/121d8fb4-4ab0-4582-8774-35aa9fa61fb6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/121d8fb4-4ab0-4582-8774-35aa9fa61fb6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:13</itunes:duration>
+      <pubDate>Thu, 17 Oct 2024 16:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uC_NC4h5Gv8CjHlec9_epgVaPXsD1H9V5p9q8fhZ0jiQ.jpg"/>
+    </item>
+    <item>
+      <title>Forvirrende matpriser, politikernes store test og verdensøkonomien</title>
+      <description><![CDATA[Vet du egentlig hva som er den vanlige prisen for maten du handler i butikken? Greier norske politikere å prioritere i vanskelige saker framover? Og hvordan går det egentlig med ..verdensøkonomien?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/287ea8a6-e3a1-47e2-adf6-d8c8727d6236_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/287ea8a6-e3a1-47e2-adf6-d8c8727d6236_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:31</itunes:duration>
+      <pubDate>Thu, 24 Oct 2024 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/w7vRTUUOuwyT42kWQVSFagcRwNK1v1Ulsn6Mw_ccVauA.jpg"/>
+    </item>
+    <item>
+      <title>Presidentvalg i USA, norske populister og sykefravær</title>
+      <description><![CDATA[Hvem vinner det amerikanske presidentvalget? Hvorfor så mye drittslenging? Hvor er egentlig politikken? 
+Ola Borten Moe og Sylvi Listhaug i ny og uvant duo. Og blir det orden på sykefraværet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fbb08231-0c97-42e1-8820-c16995d62465_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fbb08231-0c97-42e1-8820-c16995d62465_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:02</itunes:duration>
+      <pubDate>Thu, 31 Oct 2024 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D7jU2LUzeOwgHczvuFqOjwzk16guNo_Ylqjr9uEFRn0w.jpg"/>
+    </item>
+    <item>
+      <title>Hvordan blir verden med Trump 2.0?</title>
+      <description><![CDATA[Hvor mye makt får Donald Trump når han blir president for andre gang? Hva skjer med økonomien her hjemme og i verden? Krigen i Ukraina? Og hvordan blir det for amerikanerne fremover?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/4eec7333-c8aa-48ec-8b3b-9f27f22e3ceb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/4eec7333-c8aa-48ec-8b3b-9f27f22e3ceb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:27</itunes:duration>
+      <pubDate>Wed, 06 Nov 2024 17:32:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1Pjm-EfcPco0bSXqxVmZLAe5MfL6AFhphsqZta1JgoSg.jpg"/>
+    </item>
+    <item>
+      <title>Ap-bråk igjen, og igjen. Kryptoboom og Temu</title>
+      <description><![CDATA[Kommer Trond Giske og Hadia Tajik til å overleve høstens maktkamper og gjøre politisk comeback? Vi beklager Temu-rot, og så snakker vi om at kryptovaluta har nådd elleville høyder etter at Trump vant valget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/a92983c6-4fb7-4519-893a-43d9475e9d03_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/a92983c6-4fb7-4519-893a-43d9475e9d03_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:46</itunes:duration>
+      <pubDate>Thu, 14 Nov 2024 14:36:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vQ9mT4MthAoaQ48RQQl3qALU_xxWOukFP70eCUZoovTg.jpg"/>
+    </item>
+    <item>
+      <title>Får Marius Borg Høiby spesialbehandling?</title>
+      <description><![CDATA[Blir kronprinsessens sønn behandlet annerledes av politiet? Og hva betyr alle disse sakene for Kongehuset? 
+Jens Stoltenberg får ny jobb i et lukka elitenettverk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/72e0b75d-2df9-40d0-b971-e9afc787ecc8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/72e0b75d-2df9-40d0-b971-e9afc787ecc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:12</itunes:duration>
+      <pubDate>Thu, 21 Nov 2024 14:50:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ulPWqHrA6GgWchzDNty8IgpKpulssjRRgloZi4palcEg.jpg"/>
+    </item>
+    <item>
+      <title>Kan Tonje Brenna redde Arbeiderpartiet?</title>
+      <description><![CDATA[Arbeiderpartiet er i krise og gjør det dårlig på målingene. Kan nestleder og kronprinsesse Tonje Brenna redde partiet?
+Trumponomics! Hvordan blir det med handelskrig, massedeportasjon og skattekutt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e30b7fa1-c9fa-47be-b7ee-a435e249a993_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/e30b7fa1-c9fa-47be-b7ee-a435e249a993_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:06</itunes:duration>
+      <pubDate>Thu, 28 Nov 2024 14:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q4CIf4MRb0BcKs7nsxakywDWpzkeNUmY1buEvW1z8OcQ.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Må Jonas Gahr Støre gå?</title>
+      <description><![CDATA[Nå pågår det samtaler blant sentrale personer i Arbeiderpartiet som handler om at Støre må trekke seg. Er han ferdig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/356f16ff-8b6f-4246-abf8-47184f19bb17_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/356f16ff-8b6f-4246-abf8-47184f19bb17_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:27</itunes:duration>
+      <pubDate>Mon, 02 Dec 2024 20:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hAvDS_yNDceV6aaqXDZwWwnUxQjl4Ko4HgRU8la1yOvQ.jpg"/>
+    </item>
+    <item>
+      <title>Bør Sylvi Listhaug frykte Trond Giske?</title>
+      <description><![CDATA[Arbeiderpartiet har mange utfordringer, kan Trond Giske løse en av dem? Og hva skjer egentlig med Ap-opprøret mot Jonas Gahr Støre? Blir det enklere å komme inn på boligmarkedet? Gladnyhet for folk som vil inn, eller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ff154d2d-73dd-4f21-8bdc-321d54ef7575_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/ff154d2d-73dd-4f21-8bdc-321d54ef7575_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:58</itunes:duration>
+      <pubDate>Thu, 05 Dec 2024 14:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6hIb8Y1CAde8q_HJw0wvlQE04L2nLHHDJIKcFrKa3Zcw.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor er strømmen dyr?</title>
+      <description><![CDATA[Hva er årsakene til at strømmen er dyr nå? Og hvorfor er LO-leder Peggy Hessen Følsvik forbanna?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/811807f0-684e-4e38-8a8d-b90e453eaf20_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/811807f0-684e-4e38-8a8d-b90e453eaf20_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:00</itunes:duration>
+      <pubDate>Thu, 12 Dec 2024 14:42:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FTRVsD9Ke13R3_soygxqawG3Ymkw714j0fMkjUS7MHBA.jpg"/>
+    </item>
+    <item>
+      <title>Har Støre slått kuppmakerne?</title>
+      <description><![CDATA[Har Støre slått ned kuppforsøket? Eller må han gå av? Og endelig gode nyheter fra Norges Bank, eller - vent nå litt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/424490a6-ceb7-4788-b7a6-9f2786b3f197_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/424490a6-ceb7-4788-b7a6-9f2786b3f197_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:09</itunes:duration>
+      <pubDate>Thu, 19 Dec 2024 15:51:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KpapKTotfxeufVahfrOOWgJg3xpYnsJD3izdpiAXRkZQ.jpg"/>
+    </item>
+    <item>
+      <title>Listhaug, Trump og nye bevegelser verden over</title>
+      <description><![CDATA[Hva skjer til høyre i politikken? Har vi fått et nytt politisk høyre i Norge og i verden? Hvorfor så mye kaos med tog og jernbane? Og hvilke saker følger vi med på i år? Mange spørsmål. Vi prøver å svare.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/555f927f-6894-466e-8913-016d7ee3e011_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/555f927f-6894-466e-8913-016d7ee3e011_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:38</itunes:duration>
+      <pubDate>Thu, 02 Jan 2025 15:16:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MdyNMPeZwwFj4-DXXD-GHAYYyJ6KcNQRb3H1JuGQXvfA.jpg"/>
+    </item>
+    <item>
+      <title>Hva er det egentlig Elon Musk vil?</title>
+      <description><![CDATA[Innblanding i tysk valgkamp, kaller statsministeren i Storbritannia for medskyldig til voldtekt, deler falske nyheter om Støre og heier på at Grønland skal bli en del av USA. Hva holder Elon Musk egentlig på med? Og så snakker vi om sløsing av offentlige penger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/f60c65ee-3eed-481f-b1a0-7fca7177de15_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/f60c65ee-3eed-481f-b1a0-7fca7177de15_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:14</itunes:duration>
+      <pubDate>Thu, 09 Jan 2025 15:27:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s89pSkIHhRq1YN5tz-F8GQUVJYkLT_lLHvFZY7N1bAnw.jpg"/>
+    </item>
+    <item>
+      <title>Frykt for amerikansk børsboble</title>
+      <description><![CDATA[Kan vi få en ny finanskrise? Det vil i så fall gå ut over Oljefondet, pensjonen din og fondsparingen din. Og har Jonas Gahr Støre snudd skuta? Ap på vei oppover.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/aef5b587-5fe7-4372-879e-ca01da1409a9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/aef5b587-5fe7-4372-879e-ca01da1409a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:48</itunes:duration>
+      <pubDate>Thu, 16 Jan 2025 14:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FTRVsD9Ke13R3_soygxqawG3Ymkw714j0fMkjUS7MHBA.jpg"/>
+    </item>
+    <item>
+      <title>Regjeringskrise: Kan Senterpartiet trekke seg?</title>
+      <description><![CDATA[Full splid mellom Arbeiderpartiet og Senterpartiet, nå er det ekte krise i regjering. Og Donald Trump med tidenes KI-satsing. Full fres i amerikansk økonomi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/220c3d22-0864-48e6-8b3f-389a3eae86ec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/220c3d22-0864-48e6-8b3f-389a3eae86ec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:06</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 16:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aW8PhdpF9G5KCdgxuip-NAHeTkwj5HoAPmKZIffa4n_Q.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Hva er egentlig DeepSeek?</title>
+      <description><![CDATA[Ekstraepisode! Hva er kinesiske DeepSeek? Og hvorfor mener folk at det er en stor greie?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ea232faf-707e-47da-aa7f-881b788de358_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/ea232faf-707e-47da-aa7f-881b788de358_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:01</itunes:duration>
+      <pubDate>Tue, 28 Jan 2025 13:21:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wJFNFIpbR-JthtTSZlOzRAjGpwogTqQKvGR8yV4stkaQ.jpg"/>
+    </item>
+    <item>
+      <title>Senterpartiet ut av regjering: Hva skjer nå?</title>
+      <description><![CDATA[Første ettpartiregjering på 25 år når Senterpartiet forlater Arbeiderpartiet. Donald Trump gir ikke opp Grønland og er forbanna på den amerikanske sentralbanken, og så snakker vi selvfølgelig om Oljefondsjefens sms-utveksling med Elon Musk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/2cc3c081-72f0-4b32-b75d-9daa7bdaf3d1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/2cc3c081-72f0-4b32-b75d-9daa7bdaf3d1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:09</itunes:duration>
+      <pubDate>Thu, 30 Jan 2025 15:28:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pwMkxGjbzVHwqzK4vzi6nQO6KM8u1uoeXHfhFx1djbjw.jpg"/>
+    </item>
+    <item>
+      <title>Stopper han havvind-satsningen?</title>
+      <description><![CDATA[Eksperter mener det er sløseri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3829cbd0-52d5-4f0f-9d38-116bd80368c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/3829cbd0-52d5-4f0f-9d38-116bd80368c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:02</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 19:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XoArhEz2di8mPR6G2jmzaw6yFhIvA5jbSXTKkVaClLEw.jpg"/>
+    </item>
+    <item>
+      <title>Kupp i USA? Og politisk jordskjelv i Norge.</title>
+      <description><![CDATA[Kan vi kalle det som nå skjer i USA for et kupp? Donald Trump, med god hjelp fra Elon Musk, utfordrer de etablerte demokratiske spillereglene. Og Norge er utsatt for et politisk jordskjelv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c4793949-8e91-4425-a6f4-4cd830b66489_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c4793949-8e91-4425-a6f4-4cd830b66489_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:01</itunes:duration>
+      <pubDate>Thu, 13 Feb 2025 14:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kvwj-w9RU8x8CrDMK6Awnwm45ZAWOUE5jOPQvoQT2y9w.jpg"/>
+    </item>
+    <item>
+      <title>Blir det fred eller farligere nå?</title>
+      <description><![CDATA[USA vil ikke ha med Europa eller Ukraina på fredsforhandlinger, og har samtidig sådd tvil i forholdet mellom Europa og USA. Hva er det som egentlig skjer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/dcf0d35b-9565-47ba-b851-281bc0088ed7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/dcf0d35b-9565-47ba-b851-281bc0088ed7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:16</itunes:duration>
+      <pubDate>Tue, 18 Feb 2025 15:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKzB__aGX4coXnDet0x3UA4vJ4DSJmZt5yuJvcyylPew.jpg"/>
+    </item>
+    <item>
+      <title>Kan en mineralavtale skape fred?</title>
+      <description><![CDATA[USA og Ukraina er enige om en mineralavtale, er det første steg til varig fred? Og sykefraværet i Norge er fremdeles rekordhøyt, vi forklarer de viktigste årsakene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/390d39f8-c08b-4d99-a7f8-846f1e06ad80_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/390d39f8-c08b-4d99-a7f8-846f1e06ad80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:31</itunes:duration>
+      <pubDate>Thu, 27 Feb 2025 14:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xvglvoUcw99QK_OT_7ij4gI4hAicjhaVg9UFWOA1b4eQ.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Hva gjør Europa nå?</title>
+      <description><![CDATA[Hva gjør europeiske ledere nå? Og hvor lenge kan Ukraina forsvare seg selv uten støtte fra USA? Sofie Høgestøl er gjest hos oss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fd0f2ff1-330d-4464-9476-50b397b35635_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fd0f2ff1-330d-4464-9476-50b397b35635_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:05</itunes:duration>
+      <pubDate>Sun, 02 Mar 2025 19:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/B0uKXvsexCZOPXLPnWjfOwNsCXhUZfWmaF3Cnignw3nw.jpg"/>
+    </item>
+    <item>
+      <title>Burde Norge gi mer til Ukraina?</title>
+      <description><![CDATA[Norge øker Ukraina-støtten, men vi er verdens rikeste land, burde vi ikke bidra med mer? Og med Gro Holm på laget i denne episoden snakker vi også om handelskrig, nytt Zelenskyj- og Trump-møte og hva EU gjør nå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/bbf894e3-034b-4e24-b2c9-3ee4b19b7b2b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/bbf894e3-034b-4e24-b2c9-3ee4b19b7b2b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:49</itunes:duration>
-      <pubDate>Thu, 26 Feb 2026 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xJKtngNlP5uyuybDKYXIUAaMc7gFIWD_3GLySVWTwhdg.jpg"/>
+      <pubDate>Thu, 06 Mar 2025 14:53:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PbH2DiNq3jekY1icJKb42weLbHQtWE7Ofz8-uL3Ddytw.jpg"/>
     </item>
     <item>
-      <title>Kongehusskandaler i kø: Hvorfor så sterk støtte?</title>
-      <description><![CDATA[Kronprinsesse Mette-Marits omfattende kontakt med Epstein, rettssaken mot Marius Borg Høiby. Sjaman Durek. Til tross for mange skandaler er støtten til kongehuset sterk. Hvorfor det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/46c93472-46a9-4c80-8934-7246a9cc8058_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/46c93472-46a9-4c80-8934-7246a9cc8058_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:22</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 14:37:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zHfuz4qBu-eukKkn8RyTxgZkRn3LcTwOm3bLhr6_Q0Tg.jpg"/>
+      <title>Trump &amp; Musk: Er det noe system her?</title>
+      <description><![CDATA[Elon Musk og Donald Trump lager mye støy, men er det noe system bak der? Og økende interesse for norsk EU-medlemskap.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/84e6424c-4b0c-417f-be06-ff9e32353033_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/84e6424c-4b0c-417f-be06-ff9e32353033_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:00</itunes:duration>
+      <pubDate>Thu, 13 Mar 2025 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wZCw0gc-kkpzjaqf7mi-uAEpLWguV26IhxwtnEiF5x-w.jpg"/>
     </item>
     <item>
-      <title>Epstein-saken: – Problem for Ine Eriksen Søreide</title>
-      <description><![CDATA[Epstein-skandalene pirker borti Høyres kommende partileder, Ine Eriksen Søreide. 
-De ble kalt konspiratoriske, men har Epstein-skandalene nå bevist at enkelte faktisk hadde rett? 
-Og har Norges Bank egentlig kontroll på prisveksten?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c5d0008c-63d8-45d6-9000-8c63d815d637_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/c5d0008c-63d8-45d6-9000-8c63d815d637_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:17</itunes:duration>
-      <pubDate>Thu, 12 Feb 2026 14:34:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mlquoOV3K361d5oCFxCi1g6OHse_axx8zB_p0IsfEgtA.jpg"/>
+      <title>Dyrtiden over. Men merker du det?</title>
+      <description><![CDATA[Merker du at du har fått bedre råd? Dyrtiden er nå historie. Zelenskyj i Norge, hvorfor er han det? Og Høyre har fått nytt slagord, og en mulig ny lederkandidat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d93a9ce8-6680-4ff7-9ad3-9addbf0452d8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d93a9ce8-6680-4ff7-9ad3-9addbf0452d8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:51</itunes:duration>
+      <pubDate>Thu, 20 Mar 2025 14:39:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FTRVsD9Ke13R3_soygxqawG3Ymkw714j0fMkjUS7MHBA.jpg"/>
+    </item>
+    <item>
+      <title>Kan vi bare glemme rentekutt i år?</title>
+      <description><![CDATA[Norges Bank dropper rentekutt, men spår samtidig at renta skal ned to ganger i år. Tør du stole på det? Og handlekurven din kunne vært 10.000 kroner billigere, norsk landsbrukspolitikk står i veien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/2a2f58f9-6712-4a78-ab71-5070ddc4ec24_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/2a2f58f9-6712-4a78-ab71-5070ddc4ec24_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:19</itunes:duration>
+      <pubDate>Thu, 27 Mar 2025 15:42:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UXJ1ewr0kl1JDfR57Tkc8ga26CZZ3tHGPkuA8lwVTxeA.jpg"/>
+    </item>
+    <item>
+      <title>Donald Trump. Handelskrig. Hva skjer?</title>
+      <description><![CDATA[Verdensmarkedet skjelver. Hva er det Donald Trump gjør nå?
+Hvorfor ble hjemmefødsler et fenomen? Og hvordan ble Arbeiderpartiet så store?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/89e44881-aca3-44e3-aa8c-68ccf58986ce_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/89e44881-aca3-44e3-aa8c-68ccf58986ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:59</itunes:duration>
+      <pubDate>Thu, 03 Apr 2025 13:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KvEWBE8AuTEShDFyVwLt8AqtVyuaD7mIOhTWOKGd7yGA.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Bryr Trump seg om børsfallet?</title>
+      <description><![CDATA[Hvor lenge kan Donald Trump se børser over hele verden falle? Hvordan påvirker denne uroen verden og sparepengene dine?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c2c2cd05-c1c7-4532-b99a-dc7f876c9b6f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c2c2cd05-c1c7-4532-b99a-dc7f876c9b6f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:55</itunes:duration>
+      <pubDate>Mon, 07 Apr 2025 13:54:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UWRATM7ruBP1mvixhRUSQwqJWhYgJlKyV3J9hVRoWFPg.jpg"/>
+    </item>
+    <item>
+      <title>Har regjeringen lurt oss?</title>
+      <description><![CDATA[Mange måneder med frykt og uro for Norges konsekvenser av Donald Trumps tollkrig, men har frykten vært helt reell?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ecb0b48c-3e09-4763-8dad-788a2a44a24f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/ecb0b48c-3e09-4763-8dad-788a2a44a24f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:00</itunes:duration>
+      <pubDate>Wed, 09 Apr 2025 15:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5JUaZueusAWVE2d7lDb6VwIVJmkWZMZyKnI-nX8ZEzXw.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor blir Stoltenberg med Støre til Trump?</title>
+      <description><![CDATA[Trump truer med å sparke sentralbanksjefen, hva skjer hvis han blander egne meninger inn i verdens viktigste bank? Og Stoltenberg og Støre på vei til det hvite hus og Trump-møte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b906c218-5bc7-4287-9eb4-9d69b3528971_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b906c218-5bc7-4287-9eb4-9d69b3528971_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:56</itunes:duration>
+      <pubDate>Wed, 23 Apr 2025 13:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6yyZAjRREOPykjBxe5ZpQr8nIxfVtm3o8jWv7RupoaA.jpg"/>
+    </item>
+    <item>
+      <title>Trekker seg etter hemmelig forhold</title>
+      <description><![CDATA[Jørn Eggum trekker seg og vil ikke lenger bli LO-leder. Det skjer etter noen voldsomme dager med krangling om taushetsavtale, skjevt maktforhold og publiserte sexmeldinger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/f966c4a3-62fa-4431-a1bb-60fe8997bcb2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/f966c4a3-62fa-4431-a1bb-60fe8997bcb2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:15</itunes:duration>
+      <pubDate>Wed, 30 Apr 2025 16:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pz_Pak7PpELe129bkD7GGQKi0NnWBtY2Z_oOdvlBFzXw.jpg"/>
+    </item>
+    <item>
+      <title>Tollkrigen treffer nå USA for fullt</title>
+      <description><![CDATA[De første reelle konsekvensene av tollkrigen er nå synlige. Spoiler alert: De går utover USA. Og småpartiene sliter. Trenger vi dem egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/0b25609b-f478-409f-8505-991c21abfda8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/0b25609b-f478-409f-8505-991c21abfda8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:57</itunes:duration>
+      <pubDate>Thu, 08 May 2025 14:52:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VgRaQuapswQUu30fqrcRPQ49w7RE468hKTqSvhi86ycg.jpg"/>
+    </item>
+    <item>
+      <title>Har Trumps woke-krig kommet til Norge?</title>
+      <description><![CDATA[Donald Trumps angrep på mangfold presser seg for alvor inn i landet og særlig næringslivet. Husker du skolenedleggelser fra ifjor? Nå slår dette også innover storbyene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c8a8a4f1-8809-4161-9a39-68ac4e03c1f6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c8a8a4f1-8809-4161-9a39-68ac4e03c1f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:56</itunes:duration>
+      <pubDate>Thu, 15 May 2025 14:49:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kQmwXZPu_KEtOhgcgAdoggxNeyM_Ox7Mlvyry-bhb6Kw.jpg"/>
+    </item>
+    <item>
+      <title>Partiet FOR: Er dette russisk valgpåvirkning?</title>
+      <description><![CDATA[Partiet FOR er sponset av en pro-russisk norsk betongmiliardær. Er det dette PST har advart oss om? Og endelig slutt på forvirrende tilbud i matbutikkene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/42ff7aea-1bb0-4cda-8c17-8cae3e17d14b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/42ff7aea-1bb0-4cda-8c17-8cae3e17d14b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:56</itunes:duration>
+      <pubDate>Thu, 22 May 2025 14:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eDu4oNIzHOTqj4ESXmxULg6TLQki6u80wyO-1KMTvjwg.jpg"/>
+    </item>
+    <item>
+      <title>Greit at politikere tjener godt på si?</title>
+      <description><![CDATA[Hvor går grensen for hva en stortingspolitiker kan ha av inntekt ved siden av jobben? Og Stoltenberg med skattelotto.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/da5993f5-46cb-428d-9c5e-39ebaf0bb654_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/da5993f5-46cb-428d-9c5e-39ebaf0bb654_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:44</itunes:duration>
+      <pubDate>Wed, 28 May 2025 14:58:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BvqlWphYX0nZ1BPx-CWr7AHP1zACymlX90dX8mHxTN2Q.jpg"/>
+    </item>
+    <item>
+      <title>Krise i Høyre: Kan Erna Solberg fikse dette?</title>
+      <description><![CDATA[Kan Erna Solberg snu Høyres elendige målinger frem mot valget? Kokain havner ikke på rullebladet, hva ligger egentlig i den nye rusreformen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/220d7439-0fe2-4ab0-a8dc-f79850c8d0eb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/220d7439-0fe2-4ab0-a8dc-f79850c8d0eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:28</itunes:duration>
+      <pubDate>Thu, 05 Jun 2025 13:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kyhs8a3gTv4tEzu6d9Zr8AYvBXxUaTrFWfyy0gyqESaA.jpg"/>
+    </item>
+    <item>
+      <title>Feriepenger er økonomisk barnevakt</title>
+      <description><![CDATA[Feriepenger er som å ha økonomisk barnevakt, i følge Cecilie. – Gi meg mine egne penger. 
+Og Norge har aldri nådd et klimamål uten kvotekjøp. Hvorfor bruke masse penger hjemme når vi kan kjøpe billige kvoter ute?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1c437204-625b-4002-9237-8694d5bb0153_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1c437204-625b-4002-9237-8694d5bb0153_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:52</itunes:duration>
+      <pubDate>Thu, 12 Jun 2025 14:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m7SCo-oi8eyXrr5ZQOoVswfBQdIhuRzZGNadAAA8dmpQ.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Hvorfor angriper Israel Iran nå?</title>
+      <description><![CDATA[Israel og Iran er i full krig med hverandre etter et historisk stort Israelsk angrep. Hvorfor skjer dette nå? Og hva blir konsekvensene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/08a98f68-f91f-4e2a-b87d-9a350ec020ff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/08a98f68-f91f-4e2a-b87d-9a350ec020ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:52</itunes:duration>
+      <pubDate>Fri, 13 Jun 2025 13:43:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dvMSxWe61n5lER5JHXO0FQW_afOq2w4d1eW9IgJU-P4g.jpg"/>
+    </item>
+    <item>
+      <title>Israel og Iran: Hva gjør USA nå?</title>
+      <description><![CDATA[Angrepene på begge sider fortsetter, men hvor nær er vi en amerikansk involvering? Og hva vil egentlig Israel oppnå? Og så snakker vi litt om at mange politikere sier vi har dårlig råd i Norge, men har vi egentlig det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b07513ce-8fff-4257-aeb0-e10d3dc33110_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b07513ce-8fff-4257-aeb0-e10d3dc33110_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:00</itunes:duration>
+      <pubDate>Wed, 18 Jun 2025 14:13:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ki_LI1bgGR40nLYTRJ1wjg66seUYc2tH5KB6H45XLUpA.jpg"/>
+    </item>
+    <item>
+      <title>Har Stoltenberg tabbet seg ut?</title>
+      <description><![CDATA[Endelig tilbake! Vi snakker om Oljefond-bråket og at valgkampen endelig er i gang. Kan Støre stå løpet helt ut, eller greier Erna Solberg å snu dette?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1c3c0c9f-c880-4229-adb8-0b8e41de3fad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/1c3c0c9f-c880-4229-adb8-0b8e41de3fad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:14</itunes:duration>
+      <pubDate>Tue, 12 Aug 2025 15:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RCGcEUPI62CwjfJOB5Xtzwifq9M7uk31K9O5dHtKpugQ.jpg"/>
+    </item>
+    <item>
+      <title>Tidenes mest forvirrende valgkamp</title>
+      <description><![CDATA[Denne valgkampen er den mest forvirrende noensinne. Det kastes ut tall her og der, og resultatet? En haug med forvirra velgere. Og, bør du egentlig stemme taktisk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/f895ad34-b961-4cff-95ad-34b961acff0d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/f895ad34-b961-4cff-95ad-34b961acff0d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:31</itunes:duration>
+      <pubDate>Thu, 21 Aug 2025 14:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7gi02pbcNpFUrE5PdGvAOA1BFd03fRuBgOBsSIeiAyWQ.jpg"/>
+    </item>
+    <item>
+      <title>Kommer Erna Solberg til å tape valget?</title>
+      <description><![CDATA[Hvordan skal Erna Solberg greie å vinne dette valget? Rødgrønn side leder. Og Frp er fremdeles store: Kan statsminister-forvirring ødelegge alt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/09678a7d-6033-4936-a78a-7d6033093625_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/09678a7d-6033-4936-a78a-7d6033093625_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:49</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-CRiWQZXlqoy8MFSqa8N0QmDwuSG7erAZHTHOuT7-gnw.jpg"/>
+    </item>
+    <item>
+      <title>EKSTRAEPISODE: Oljefondsjefen om Israel-bråket</title>
+      <description><![CDATA[Nicolai Tangen er gjest. Vi snakker om Israel-bråket, hvordan han ser på USA nå hvor halve oljefondet er investert og hvorfor Europa ikke får det helt til.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:01</itunes:duration>
+      <pubDate>Thu, 28 Aug 2025 23:27:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mf8E_pRZcrZ0RIL_AGpMAwmnNIFI28mg4i7DEA6bSxig.jpg"/>
+    </item>
+    <item>
+      <title>Ung blå bølge: Kan den gi maktskifte?</title>
+      <description><![CDATA[Tidenes beste skolevalg for Frp, og stort borgerlig flertall. Hva kan dette ha å si for stortingsvalget?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/9f565b59-961a-41f8-965b-59961a01f8d1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/9f565b59-961a-41f8-965b-59961a01f8d1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:10</itunes:duration>
+      <pubDate>Tue, 02 Sep 2025 21:18:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1XmRFrZWi9_9x7KTHhpYpwB_euoIYuWKxTYiu4AfUwWw.jpg"/>
+    </item>
+    <item>
+      <title>Hvem vinner valget?</title>
+      <description><![CDATA[Miljøpartiet De Grønne er plutselig landets fjerde største parti, og sikrer rødgrønn seier på mange målinger. Men ulike målinger viser ulike ting: Så hvem vinner valget?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/2be51e98-84db-4449-a51e-9884db84496d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/2be51e98-84db-4449-a51e-9884db84496d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:47</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 13:38:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iQ4GgHYiieTlQ6Snj6WAdgodXl04Sji8J20tfVAGQtaQ.jpg"/>
+    </item>
+    <item>
+      <title>Dramatisk valgnatt: Støres skjøre flertall</title>
+      <description><![CDATA[Jonas Gahr Støre blir statsminister i fire nye år. Men hvordan skal Norge styres nå som han må samarbeide med Rødt, SV, MDG og Senterpartiet?
+
+Og Høyre med dårligste valg på 20 år. Hva gikk galt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/88d79595-6ad4-4235-9795-956ad432354d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/88d79595-6ad4-4235-9795-956ad432354d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:28</itunes:duration>
+      <pubDate>Tue, 09 Sep 2025 04:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iRDJlXaY__VRuSOEQBbNpwQzWih-ftCVNgVda9IhsxeQ.jpg"/>
+    </item>
+    <item>
+      <title>Hvor mye makt får Sylvi Listhaug nå?</title>
+      <description><![CDATA[Tidenes beste valg for Frp, hvordan skal Sylvi Listhaug bruke denne makten? Hvem kan bli Høyres nye leder? Hvordan er stemningen blant valgets tapere? Og kan vi legge skattekranglingen død nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/08567662-b565-40c4-9676-62b56560c4f9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/08567662-b565-40c4-9676-62b56560c4f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:53</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 15:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vl8DHucYCyrdFrW3H1xDDQobXjy1T47RtAybe3dUDyBQ.jpg"/>
+    </item>
+    <item>
+      <title>Sjaman og prinsesse med kongehus-bråk</title>
+      <description><![CDATA[Nytt drama i kongefamilien: Dokumentar og offentlig krangling. Og Tonje Brenna flyttes fra regjering til Stortinget, straff eller statsministerskole?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/11a592f7-24ad-4b34-a592-f724addb34d7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/11a592f7-24ad-4b34-a592-f724addb34d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:31</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 15:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tE2q-GNf2igy_AUYY5r09w4cbmtcelBw-MNdwpdziDDQ.jpg"/>
+    </item>
+    <item>
+      <title>Har Listhaug rett i svenske tilstander?</title>
+      <description><![CDATA[Oslo sentrum: To 13-åringer kaster granater. Sylvi Listhaug sier vi nå har svenske tilstander i Norge, men har hun rett? I tillegg til det: Har likestillingspolitikken gått for langt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/4c035248-e46d-441f-8352-48e46da41f07_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/4c035248-e46d-441f-8352-48e46da41f07_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:13</itunes:duration>
+      <pubDate>Thu, 25 Sep 2025 14:42:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iY9KkB8waX9hpFLXEhg-wguPLT71svgWxh43s-kM33tA.jpg"/>
+    </item>
+    <item>
+      <title>Hybridkrig: Truer Putin Norge?</title>
+      <description><![CDATA[Droner har skapt uro og bekymring i Norge og Danmark. Men russisk hybridkrig har pågått lenge i Norge. Hva er det Russland vil? Truer Putin Norge? 
+
+Og Jens Stoltenberg med ny bok. Er det bare hyllest og ingen kritikk å få når det gjelder den mannen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/894bb43a-97e6-47c3-8bb4-3a97e627c3a6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/894bb43a-97e6-47c3-8bb4-3a97e627c3a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:32</itunes:duration>
+      <pubDate>Thu, 02 Oct 2025 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b4lHmDM5wtRne502Z_Ca0QTMrPmXVZixqArFKxFGUSXw.jpg"/>
+    </item>
+    <item>
+      <title>Milliardærkrangel i retten: – Helt vanvittig</title>
+      <description><![CDATA[Påstander om trusler og drittpakker. Nå er to av Norges rikeste menn i full konflikt for åpen scene i rettssalen. Hva krangler de om? Og dreier det seg kun om penger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/742f9cfb-bb9b-4b3d-af9c-fbbb9b5b3d83_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/742f9cfb-bb9b-4b3d-af9c-fbbb9b5b3d83_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:23</itunes:duration>
+      <pubDate>Tue, 07 Oct 2025 19:19:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Sf6ZrW7JWsxfLToBkf-mhgu6xOenZwI-HzXpqcC_8-aA.jpg"/>
+    </item>
+    <item>
+      <title>Får Donald Trump fredsprisen nå?</title>
+      <description><![CDATA[Første steg på vei til fred i Gaza og Donald Trump får æren, men kan han få Nobels fredspris? Og hvor forbanna på Norge blir han hvis han ikke får den? 
+
+Det svenske kriminelle nettverket Foxtrot med granatangrep i Norge. Hva kan vi lære av Sverige? Svensk kommentator gir oss noen innblikk i hva Norge bør unngå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d398be74-94f9-4e0b-98be-7494f97e0b55_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d398be74-94f9-4e0b-98be-7494f97e0b55_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:20</itunes:duration>
+      <pubDate>Thu, 09 Oct 2025 15:07:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SYsd76Vug7teLI2u-YiATALOD2inPxVJxcavSuOLv7Iw.jpg"/>
+    </item>
+    <item>
+      <title>Vedum forbanna på Støre</title>
+      <description><![CDATA[Trygve Slagsvold Vedum er rasende på Jonas Gahr Støre og Arbeiderpartiet etter at regjeringen la frem forslag til statsbudsjett. 
+
+Og disse politikerne, fører de oss bak lyset? Mange store og planlagte prosjekter blir aldri noe av.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/69e7aba8-31a6-4099-a7ab-a831a640991f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/69e7aba8-31a6-4099-a7ab-a831a640991f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:07</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 16:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6rWH-5i0ylK1btZWBjbIQQHkt3iIATIg0xl4U3ZwLhJA.jpg"/>
+    </item>
+    <item>
+      <title>Fredrik Solvang om hvorfor han slutter</title>
+      <description><![CDATA[Hva er det Arbeiderpartiet egentlig holder på med? Løgn? Feil? Elendig håndtering, mener i alle fall Lars Nehru Sand.
+
+Og Fredrik Solvang slutter i Debatten. Men hva skal han nå? Fredrik svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/dd142d5e-0b33-4251-942d-5e0b33a251fc_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/dd142d5e-0b33-4251-942d-5e0b33a251fc_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:00</itunes:duration>
+      <pubDate>Wed, 22 Oct 2025 14:43:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L3WAQfFILmB9sEkdcxstigz4K1PLSYXfNzGuOKSYWzHA.jpg"/>
+    </item>
+    <item>
+      <title>Kan Ola Svenneby ta over Høyre?</title>
+      <description><![CDATA[Høyre leter etter ny leder, men hvorfor tar det så lang tid? Hva sier favoritten Ine Eriksen Søreide? Og kan Ola Svenneby ta over?
+
+Og Krfu-leder i abortkrangel etter uttalelser mange synes er problematiske. Hva er lov å mene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/cf404c17-b02b-4fce-804c-17b02bffcebe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/cf404c17-b02b-4fce-804c-17b02bffcebe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:24</itunes:duration>
+      <pubDate>Thu, 30 Oct 2025 14:38:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FrBdoeMQuMVZ_0WE728WIA2lDQxdRhmgisJ721DAd_9w.jpg"/>
+    </item>
+    <item>
+      <title>Ine vil bli leder og Musk vil ha 10.000 milliarder</title>
+      <description><![CDATA[Ine Eriksen Søreide vil bli Høyre-leder, men hvem er hun egentlig? 
+Elon Musk vil ha 10.000 milliarder kroner i lønn. Hvor mye makt har de disse få super-superrike mennene i verden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:59</itunes:duration>
+      <pubDate>Thu, 06 Nov 2025 15:53:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EjOds6fMpQBuZu906BUUmAIjteSj3y16-bTLdyW9MjvQ.jpg"/>
+    </item>
+    <item>
+      <title>Oskar Westerlin flytter til Sveits</title>
+      <description><![CDATA[Oskar Westerlin har meldt flytting til Sveits. Får vi en guttastrøm til utlandet nå? Og greier ikke politikere å få seg andre jobber enn i PR-bransjen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ebd5b1ca-bb1a-4aa1-95b1-cabb1a7aa195_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/ebd5b1ca-bb1a-4aa1-95b1-cabb1a7aa195_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:37</itunes:duration>
+      <pubDate>Wed, 12 Nov 2025 15:54:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9U_rzYsXxN8TxwagxAde8AUpXefekQykho2lXlZltXmw.jpg"/>
+    </item>
+    <item>
+      <title>Har vi en KI-boble?</title>
+      <description><![CDATA[Hvorfor får Norge toll fra EU? 
+Store integreringsproblemer i Norge, samtidig som innvandring blir strengere i store deler av Europa. 
+Og har vi en KI-boble? Hva skjer hvis den sprekker?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/612e5b31-5e02-4f59-ae5b-315e02df5993_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/612e5b31-5e02-4f59-ae5b-315e02df5993_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:52</itunes:duration>
+      <pubDate>Thu, 20 Nov 2025 15:36:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vs9QHkv2EdAsKRjQ3irWXAZ1ZaZptrm3QeQjhSTipOvg.jpg"/>
+    </item>
+    <item>
+      <title>Har Russland skrevet fredsforslaget?</title>
+      <description><![CDATA[Har Russland skrevet det amerikanske fredsforslaget? Hva må Ukraina gå med på for at det skal bli fred? Og vil Russland egentlig ha fred?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:18</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 12:43:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/whJy8rHNJMc-mWsCphI47g2aXnKg-xnvY-8HgxLXwLFA.jpg"/>
+    </item>
+    <item>
+      <title>Kari Nessa Nordtun i hyttetrøbbel</title>
+      <description><![CDATA[Kunnskapsminister Kari Nessa Nordtun er i hyttetrøbbel. Og visste du at en av fire nordmenn under 50 år har innvandrerbakgrunn? Hva skjer når innvandringen øker?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/69dc89c4-598d-4c1a-9c89-c4598d5c1a8e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/69dc89c4-598d-4c1a-9c89-c4598d5c1a8e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:22</itunes:duration>
+      <pubDate>Thu, 27 Nov 2025 14:24:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qyiBGJm3lAS6q2wAlNlTfgu892X-cCI2u1ase5kwaFkA.jpg"/>
+    </item>
+    <item>
+      <title>Må Støre gå? Og Listhaug ta over?</title>
+      <description><![CDATA[Det er fullt kaos på rødgrønn side: Hvis ikke Jonas Gahr Støre greier å få flertall for statsbudsjettet så må han gå av. Men hva skjer da?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fc2e4ea1-54fe-4278-ae4e-a154feb278a1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fc2e4ea1-54fe-4278-ae4e-a154feb278a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:34</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 12:38:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c5GcC7W1CLXar7eWAn80ugfHVwkC0Uu_kU89-xJhsIFA.jpg"/>
+    </item>
+    <item>
+      <title>Drill baby, drill. Er dette trygg styring?</title>
+      <description><![CDATA[Hva var det som gjorde at SV og MDG snudde? Regjeringskrisen er avblåst.
+Og vi snakker om vårt eget kaos og forsøker å beklage.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/de08e3d8-48e9-4a15-88e3-d848e96a1568_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/de08e3d8-48e9-4a15-88e3-d848e96a1568_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:30</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 15:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C71GCF8eS2BfRJ7jvYrdewX4rMHKthIsjORoBz9og-Pw.jpg"/>
+    </item>
+    <item>
+      <title>Høyres nye stjernetrio</title>
+      <description><![CDATA[Ola Svenneby og Henrik Asheim er innstilt som nestledere i Høyre, og sammen med Ine Eriksen Søreide blir de trolig partiets nye toppledelse. 
+
+Og så snakker vi om norsk presse og NRK er venstrevridde, eller ei.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d8d69b67-eeaf-4ce5-969b-67eeaf5ce59d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d8d69b67-eeaf-4ce5-969b-67eeaf5ce59d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:59</itunes:duration>
+      <pubDate>Thu, 11 Dec 2025 13:52:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hlCYSzYYOTSPgY7OcH4DHwfFKVAyvHjAysdE7Tl1eLhA.jpg"/>
+    </item>
+    <item>
+      <title>Fred i Ukraina? Stoltenberg ut? Vi spår 2026</title>
+      <description><![CDATA[Det er skjebnedager for Ukraina. Får vi fred neste år? Eller kan det bli verre og spre seg? 
+
+Vi snakker om hvordan vi tror 2026 blir: Når slutter Jens Stoltenberg? Når får vi se Ine Eriksen Søreide i debatt med Sylvi Listhaug? Vil Støre fortsette som før? Og ikke minst: Får vi lov til å drikke øl på pub under Norges kamper i VM?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/350d278a-1b91-4bc3-8d27-8a1b917bc38f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/350d278a-1b91-4bc3-8d27-8a1b917bc38f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:03</itunes:duration>
+      <pubDate>Thu, 18 Dec 2025 16:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ygzQoIxzBrdERvC6koveNAeKrQAjriy9tZk44TDrbpgw.jpg"/>
+    </item>
+    <item>
+      <title>Hva skjer hvis Trump tar Grønland?</title>
+      <description><![CDATA[Vil USA og Trump ta Grønland med militærmakt? Og hvis et Nato-medlem tar et annet Nato-land med makt, hva skjer egentlig da?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/319464af-2680-4f79-9464-af26803f79d8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/319464af-2680-4f79-9464-af26803f79d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:51</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 14:27:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/juMBwLb_S3arkR9T5DgLPgXVBDe5Ieb-e9CvjVhhb2aw.jpg"/>
+    </item>
+    <item>
+      <title>Kan Russland ta Svalbard?</title>
+      <description><![CDATA[USA og Grønland. Svalbard og Russland. Hvordan kan Norge bli påvirket av det som skjer nå? Kan Russland ta Svalbard?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d53b17c0-d958-46e8-bb17-c0d95856e8c8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d53b17c0-d958-46e8-bb17-c0d95856e8c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:37</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 14:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kSFcqZMs0cwB9u62v9Pwxwlp9EA6s5kmkDQBg37dfExA.jpg"/>
+    </item>
+    <item>
+      <title>Kan noen stoppe ICE?</title>
+      <description><![CDATA[Fullt kaos i Minnesota, kan noen stanse ICE? 
+Kan Danmarks superminister redde Grønland fra å bli amerikansk? Og Trumps jakt på motstandere treffer nå verdens viktigste bankmann.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/5e1fdce1-fac8-42f9-9fdc-e1fac882f92b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/5e1fdce1-fac8-42f9-9fdc-e1fac882f92b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:04</itunes:duration>
+      <pubDate>Thu, 15 Jan 2026 14:49:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xW3IuTTV8zs8wOqMt7CMcwoMntouhzA1WDdTBy8hREuQ.jpg"/>
+    </item>
+    <item>
+      <title>Trump truer Norge og Europa</title>
+      <description><![CDATA[Ekstraepisode: Donald Trump truer Norge og andre europeiske land fordi han vil ha Grønland. Er det nå vi i Europa sier stopp til Trump?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/77bb56cc-867c-4218-bb56-cc867cd21802_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/77bb56cc-867c-4218-bb56-cc867cd21802_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:48</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 12:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tE3qTEH9AOf4fEkYZsMTdQFaV1elGRA00Iq5xOcRt6CA.jpg"/>
+    </item>
+    <item>
+      <title>Trumps tale: – Verste jeg har sett</title>
+      <description><![CDATA[Selvskryt, løgner og Europa-fornærmelser. Donald Trumps tale i Sveits skaper sterke reaksjoner. 
+Og Trump sier han ikke vil ta Grønland med makt, men hva betyr det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/6c68e949-4b38-4a98-a8e9-494b385a98d7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6c68e949-4b38-4a98-a8e9-494b385a98d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 21:33:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/w0D6862s6iQtvAjV_Y4B8QdKztd3UubKZXydc-yV8khA.jpg"/>
+    </item>
+    <item>
+      <title>Har USA fått nok av ICE?</title>
+      <description><![CDATA[Kritikken mot Donald Trump øker og øker. Har amerikanerne fått nok? Og hva er det Trump endrer nå? 
+Og gullprisen har aldri vært høyere. En urolig verden får skylden, men hva betyr det egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/51158caa-29bb-41b9-958c-aa29bba1b99c_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/51158caa-29bb-41b9-958c-aa29bba1b99c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:42</itunes:duration>
+      <pubDate>Thu, 29 Jan 2026 14:13:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TyVMBn2rDvCFDNLCIaHslguJWw5teh877JkazeVmPiCw.jpg"/>
+    </item>
+    <item>
+      <title>Mette-Marit og Epstein: – Uhyre alvorlig</title>
+      <description><![CDATA[Hva slags forhold hadde kronprinsesse Mette-Marit og Jeffrey Epstein? Og hvilke konsekvenser kan det få?
+
+Rettelse: I en tidligere versjon av episoden ble det sagt at Mette-Marit skrev til Jeffrey Epstein at hun var på middag med presidenten i Maldivene. Det riktige er at det var omvendt. Denne setningen er tatt bort fra episoden. Endringen ble gjort 16:30, 1. februar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/4808ba4d-2f3a-4943-88ba-4d2f3ac9431e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/4808ba4d-2f3a-4943-88ba-4d2f3ac9431e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:22</itunes:duration>
+      <pubDate>Sun, 01 Feb 2026 16:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gPXetWUUjNOIqFs4W4HkIAfCdPhOyQguFybkrQsMZtqQ.jpg"/>
+    </item>
+    <item>
+      <title>Jagland og Epstein: Er dette korrupsjon?</title>
+      <description><![CDATA[Torbjørn Jagland har hatt alle de viktigste stillingene i Norge. Nå avslører Epstein-dokumentene en side vi aldri har sett før, og som han har løyet om.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e18f7c82-e903-42d5-8f7c-82e903e2d551_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/e18f7c82-e903-42d5-8f7c-82e903e2d551_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:22</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 18:57:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZNm4wZQ8-VJzVJ5HFJbP9g17Tw24DkPGm0jrUjGGQRzg.jpg"/>
+    </item>
+    <item>
+      <title>Mektig diplomatpar i Epstein-trøbbel</title>
+      <description><![CDATA[Terje Rød-Larsen og Mona Juul. Norges kanskje mektigste diplomatpar. Nå forteller Epstein-dokumentene en ny historie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:03</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 18:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L_-3ZktSw2H3pqvOOl03bwJ0CiyPKprXtZNmeHxuwqpw.jpg"/>
     </item>
     <item>
       <title>Var Jeffrey Epstein spion?</title>
@@ -101,13 +1436,81 @@ Rettelse: I en tidligere versjon av denne episoden blir det sagt at det er sanns
       <itunes:image href="https://gfx.nrk.no/LS5iwJAzeOv2_Inw3b_olw75P8R-FeO-cC7edsV6TRUg.jpg"/>
     </item>
     <item>
-      <title>Mektig diplomatpar i Epstein-trøbbel</title>
-      <description><![CDATA[Terje Rød-Larsen og Mona Juul. Norges kanskje mektigste diplomatpar. Nå forteller Epstein-dokumentene en ny historie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:03</itunes:duration>
-      <pubDate>Thu, 05 Feb 2026 18:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L_-3ZktSw2H3pqvOOl03bwJ0CiyPKprXtZNmeHxuwqpw.jpg"/>
+      <title>Epstein-saken: – Problem for Ine Eriksen Søreide</title>
+      <description><![CDATA[Epstein-skandalene pirker borti Høyres kommende partileder, Ine Eriksen Søreide. 
+De ble kalt konspiratoriske, men har Epstein-skandalene nå bevist at enkelte faktisk hadde rett? 
+Og har Norges Bank egentlig kontroll på prisveksten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c5d0008c-63d8-45d6-9000-8c63d815d637_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c5d0008c-63d8-45d6-9000-8c63d815d637_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:17</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 14:34:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mlquoOV3K361d5oCFxCi1g6OHse_axx8zB_p0IsfEgtA.jpg"/>
+    </item>
+    <item>
+      <title>Kongehusskandaler i kø: Hvorfor så sterk støtte?</title>
+      <description><![CDATA[Kronprinsesse Mette-Marits omfattende kontakt med Epstein, rettssaken mot Marius Borg Høiby. Sjaman Durek. Til tross for mange skandaler er støtten til kongehuset sterk. Hvorfor det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/46c93472-46a9-4c80-8934-7246a9cc8058_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/46c93472-46a9-4c80-8934-7246a9cc8058_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:22</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 14:37:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zHfuz4qBu-eukKkn8RyTxgZkRn3LcTwOm3bLhr6_Q0Tg.jpg"/>
+    </item>
+    <item>
+      <title>Børge Brende går av: Fortsatt ting vi lurer på</title>
+      <description><![CDATA[Børge Brende, leder av Verdens økonomiske forum, trekker seg på grunn av kontakten med Epstein. Og nå sitter mange hjemme og tenker at vi har en elite her i Norge med altfor tette bånd, stemmer det? Og er vi i media en del av dette problemet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:49</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xJKtngNlP5uyuybDKYXIUAaMc7gFIWD_3GLySVWTwhdg.jpg"/>
+    </item>
+    <item>
+      <title>Irans leder drept: Hva skjer nå?</title>
+      <description><![CDATA[USA og Israels angrep mot Iran er det største i midtøsten siden Irak-krigen. Irans øverste leder Ali Khamenei er drept, hva skjer nå? Kan det bli revolusjon i Iran? Og hvor stor kan denne krigen bli?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:19</itunes:duration>
+      <pubDate>Sun, 01 Mar 2026 16:12:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0CM7VvnAWsR6R8y8cGt_7AQ7MzZ9mCwefySr3bpM59zg.jpg"/>
+    </item>
+    <item>
+      <title>Støre-spesial: Iran og Epstein-gransking</title>
+      <description><![CDATA[Jonas Gahr Støre er gjest.
+Hvorfor tviholder Norge på folkerett, når så mange andre heier på et nytt og bedre regime i Iran? 
+Og Epstein-gransking: Systemsvikt i Norge eller enkeltpersoner som ødelegger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:31</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 16:58:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWg2ZgJvPAF9_Vijq2PRJQEi2vldKPYsLQ4a8u6wiVtg.jpg"/>
+    </item>
+    <item>
+      <title>Rus, sex og kjendiser: Rettssaken viser Høibys verden</title>
+      <description><![CDATA[Rettssaken mot kronprinsessens sønn, Marius Borg Høiby, har vart i en måned. Nå tegner det seg et bilde av en verden hvor sex, rus og kjendiser er vanlige ingredienser. Hva slags del av Norge er dette?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d1f3858a-1871-463b-b385-8a1871963b0d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d1f3858a-1871-463b-b385-8a1871963b0d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:53</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 15:16:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CaUWy5gWYm9Oo1NpMoVHOwSnfJBXH-m5ARHb35OgOJPg.jpg"/>
+    </item>
+    <item>
+      <title>Iran-krigen: Kan oljeprisen stoppe Trump?</title>
+      <description><![CDATA[Irans beste våpen mot amerikanske bomber og raketter er økonomisk kaos. Hvor lenge tåler Trump at prisene stiger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/7fbec1b4-c16b-449e-bec1-b4c16b849ed0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/7fbec1b4-c16b-449e-bec1-b4c16b849ed0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:55</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 15:14:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QNfgm9cWp09_stIQlHTKQweveYhH1_P9JsvnTwT4nFbg.jpg"/>
+    </item>
+    <item>
+      <title>Statsminister i øl-bråk og Affeksjonsverdi</title>
+      <description><![CDATA[Jonas Gahr Støre vil gi serveringssteder lov til å servere øl på natten, under sommerens VM i fotball. Men nå møter han motstand fra sine egne.
+Og Affeksjonsverdi er nominert til 9 priser under årets Oscar-utdeling. Kan de virkelig vinne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/10383b81-7269-4a62-b83b-817269ba6286_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/10383b81-7269-4a62-b83b-817269ba6286_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:10</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FQM5HsBJTy_M_ZK6VdUniQI5R9NEIIf6LnHsUEiGMPTg.jpg"/>
     </item>
   </channel>
 </rss>

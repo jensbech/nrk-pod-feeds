@@ -1,35 +1,189 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Bakrommet</title>
+    <title>De 22 siste fra Bakrommet</title>
     <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 22 episodene fra podkasten Bakrommet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bakrommet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Mar 2026 23:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 09:38:46 +0000</lastBuildDate>
     <pubDate>Wed, 18 Mar 2026 00:21:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     <item>
-      <title>Spesial: Bodø/Glimt ute av Mesterligaen</title>
-      <description><![CDATA[De ledet med komfortable 3-0 før borteoppgjøret, men var totalt sjanseløse i  Portugal. 
-Bakrommet analyserer det som likevel har vært et gult fotballmirakel i Europa.
-Hva skjer nå med Bodø/Glimt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/5e0a0a0c-bb31-4084-8a0a-0cbb316084e6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5e0a0a0c-bb31-4084-8a0a-0cbb316084e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:13</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 00:21:00 +0100</pubDate>
+      <title>Ole Gunnar Solskjær</title>
+      <description><![CDATA[En åpenhjertig Ole Gunnar Solskjær forteller om livet etter Manchester United, den neste jobben og forholdet til Haaland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d7b0fa69-d293-46ed-8280-bd170d581c22_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d7b0fa69-d293-46ed-8280-bd170d581c22_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:42</itunes:duration>
+      <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F2dg36Qxwe3VwyYiLzQiigDG_bEE1SHVR_kLPx7dtlBg.jpg"/>
+    </item>
+    <item>
+      <title>Steffen Iversen</title>
+      <description><![CDATA[Steffen Iversen åpner opp om skadeproblemene og det ukjente dramaet i kulissene. Hvorfor fikk han ikke jobben i gamleklubben?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/3b698cf1-8895-4915-ac61-377fab2d0f97_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/3b698cf1-8895-4915-ac61-377fab2d0f97_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:58</itunes:duration>
+      <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zDFbJGtYqyhyGYtMYPeA-A4CBY0grSWYBw97DPEQXWGg.jpg"/>
+    </item>
+    <item>
+      <title>Jo Nesbø</title>
+      <description><![CDATA[Jo Nesbø åpner om VAR-møtene med FIFA, om proffkarrieren som ble ødelagt av skade, og om savnet etter broren Knut.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/20a01779-7b46-48c8-9785-d6a94be26f2f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/20a01779-7b46-48c8-9785-d6a94be26f2f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:04</itunes:duration>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/M1m74hBgEsIL4Ffibq5h7wxPTGV456F66OCjipiCNVKg.jpg"/>
+    </item>
+    <item>
+      <title>Ståle Solbakken</title>
+      <description><![CDATA[Ståle Solbakken om landslagsåret, VM-trekningen og profilene som ønsker jobben hans.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d70ddd52-b264-49ae-86a9-63c86ff65284_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d70ddd52-b264-49ae-86a9-63c86ff65284_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:12</itunes:duration>
+      <pubDate>Fri, 13 Dec 2024 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yidc9JNel-_SF41bk_ezdwNOLVpOXnFXOw2XAR_uUrMg.jpg"/>
+    </item>
+    <item>
+      <title>Alexander Sørloth</title>
+      <description><![CDATA[Bli med på innsiden av Atletico og det norske landslaget i et unikt møte med den norske stjernespissen i Madrid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/eee1ee50-03b8-4a7b-a175-09725b726955_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/eee1ee50-03b8-4a7b-a175-09725b726955_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:41</itunes:duration>
+      <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FiJlqsbDccAdBREXC1QcXAc6W7pivn7n1l5gq0zrKk5g.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Etter Moldova</title>
+      <description><![CDATA[Thelo Aasgaard debuterte og scoret, Hangeland taklet banestormer og Åge har vintips.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/608ba918-f96c-4fdc-a51d-32d45da7ab27_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/608ba918-f96c-4fdc-a51d-32d45da7ab27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:45</itunes:duration>
+      <pubDate>Sat, 22 Mar 2025 22:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/feS7PLKNqOSaJUE49qcT-wVYlANY-GEj0HhjKDK2z67g.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Etter Israel</title>
+      <description><![CDATA[Krangel om Ødegaard-børs, hvem bør starte mot Italia, og hva er VM-sjansene nå?
+Patrick Berg og Martin Ødegaard stikker også innom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/1b1eeb3f-0a0a-4e86-a76e-203a0d5f5a18_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/1b1eeb3f-0a0a-4e86-a76e-203a0d5f5a18_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:20</itunes:duration>
+      <pubDate>Wed, 26 Mar 2025 01:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/feS7PLKNqOSaJUE49qcT-wVYlANY-GEj0HhjKDK2z67g.jpg"/>
+    </item>
+    <item>
+      <title>Joshua King</title>
+      <description><![CDATA[Joshua King åpner opp om kongebesøket, landslagsvrakingen og returen til Manchester United som gikk i vasken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/4e2caad5-7e56-4523-b59b-130b39d1a138_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/4e2caad5-7e56-4523-b59b-130b39d1a138_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:33:52</itunes:duration>
+      <pubDate>Fri, 28 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WWAwIrjVhjvj5lKyrgSovw-dtZst9fqXI3r81Py7Wkdg.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Etter Italia</title>
+      <description><![CDATA[Tidenes beste norske landskamp? Åge Hareide er sikker i sin sak: Norge skal til VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6b59c690-1a10-4ed1-baa6-f9a79345cd30_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6b59c690-1a10-4ed1-baa6-f9a79345cd30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Sat, 07 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/feS7PLKNqOSaJUE49qcT-wVYlANY-GEj0HhjKDK2z67g.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Etter Estland</title>
+      <description><![CDATA[Etter festfotball mot Italia ble det tyngre mot Estland – «den viktigste seieren på 10-15 år» sies det likevel. 
+Antonio Nusa om krigerkampen, klubb-VM er en «kokos-cup» og Åge fortsetter med båt-planene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/177282b3-a591-4e37-b0a5-30ab7d9a6590_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/177282b3-a591-4e37-b0a5-30ab7d9a6590_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:26</itunes:duration>
+      <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ISsGuZHK3TrCmAidqMhVtQZ-aJ9zEP14RJ6X8ekqHf-w.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Etter Moldova</title>
+      <description><![CDATA[Torp mener Norge kan vinne VM, Løkberg mener Haaland kan ta igjen Ronaldo, mens Hegerberg mener sjansene for VM er mindre etter denne.
+Gjengen oppsummerer den elleville 11-1 kampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/078a934e-b377-4613-8a93-4eb377161337_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/078a934e-b377-4613-8a93-4eb377161337_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:47</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IE6CGPKQ8UETdLqWSsK4IwY7d4pQNY1dGzlh-5vWd2Ug.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Etter Israel</title>
+      <description><![CDATA[Hva skal til for at ikke Norge spiller VM? Hvilken by ønsker man helst at Norge spiller i? Og hvordan feire kvalifisering?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/ab3b70af-68d5-4368-bb70-af68d5036828_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ab3b70af-68d5-4368-bb70-af68d5036828_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:07</itunes:duration>
+      <pubDate>Sun, 12 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
     <item>
-      <title>Bakrommet signerer Eirik Horneland</title>
-      <description><![CDATA[Han har trent både Rosenborg, Brann og Saint-Étienne: Eirik Horneland bli ny ekspert i Bakrommet fram mot VM. Nå snakker han ut etter Frankrike-sparkingen, temaer i dag: Franske vs Norsk fotballkultur, landslagsuttak, Haaland og Sørlots edlere deler.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:34</itunes:duration>
-      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <title>Veien til VM: Før Estland</title>
+      <description><![CDATA[Sander Berge og Jan Petter Saltvedt om Schjelderup-saken. Skal Haaland fortsette å ta straffene? Og hva er greia med den blodige shortsen til Langås?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/2c20f0d4-cee5-4664-a0f0-d4cee5c66479_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/2c20f0d4-cee5-4664-a0f0-d4cee5c66479_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:08</itunes:duration>
+      <pubDate>Tue, 11 Nov 2025 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Etter Estland</title>
+      <description><![CDATA[Var tre minutter unna å ta Skavlan av lufta! Men Italia utsatte festen. Løkberg har hisset på seg supporter-Norge, Andrine misset begge Sørloth-scoringene, og gjengen gir sin ønskegruppe for Norge i VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/da5c6033-27c0-4e46-9c60-3327c02e4664_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/da5c6033-27c0-4e46-9c60-3327c02e4664_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:28</itunes:duration>
+      <pubDate>Fri, 14 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>Veien til VM: Før Italia</title>
+      <description><![CDATA[Søndag skjer det! Norge møter Italia, og med mindre tidenes fotballfiasko skjer i Milano skal Norge endelig få juble. Andrine og Carl Erik bygger opp til kampen. Kristoffer har med seg David Mokel og rapporterer direkte fra gatene i Milano.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/ec7fb139-5141-4ef3-bfb1-395141cef3d1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ec7fb139-5141-4ef3-bfb1-395141cef3d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:42</itunes:duration>
+      <pubDate>Sat, 15 Nov 2025 18:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>NORGE SKAL TIL VM</title>
+      <description><![CDATA[Alt fra nattens VM-fest!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6ebe9997-1814-46bf-be99-971814b6bf53_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6ebe9997-1814-46bf-be99-971814b6bf53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:45</itunes:duration>
+      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>Ståle Solbakken ser frem mot VM</title>
+      <description><![CDATA[Haalands motiverende ord i garderoben, utskjellingen av Oscar Bobb og rørende Sørloth-detalj. Ståle Solbakken tar oss gjennom tidenes norske kvalifisering.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/a1e36897-d421-4e24-a368-97d4218e2435_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/a1e36897-d421-4e24-a368-97d4218e2435_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:18:33</itunes:duration>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>Alt om Norges VM-gruppe</title>
+      <description><![CDATA[«Dødens gruppe» har blitt nevnt, men hva er sjansene for å gå videre? Vi går i dybden på Frankrike, Senegal og Surinam/Irak/Bolivia.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/b9cbcdd6-7f32-449f-8bcd-d67f32649f54_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/b9cbcdd6-7f32-449f-8bcd-d67f32649f54_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:44</itunes:duration>
+      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>Glimt-stjernene til VM eller er landslaget fullt?</title>
+      <description><![CDATA[Hvor mange fra Bodø/Glimt er det plass til på landslaget? Hvorfor vil ikke Løkberg ha med stjerna fra Mesterligaen Jens Petter Hauge og  hvordan står det til med landslagsspillerne våre tre måneder før dyst? Bakrommets VM-podkast ser hver mandag fram mot mesterskapet i sommer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/56e05a38-9a99-4891-a05a-389a99a8919f_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/56e05a38-9a99-4891-a05a-389a99a8919f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:38</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 14:41:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
     <item>
@@ -45,66 +199,23 @@ Og hvis Nikita Haikin får norsk pass - er det han som bør stå i det norske m�
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
     <item>
-      <title>Glimt-stjernene til VM eller er landslaget fullt?</title>
-      <description><![CDATA[Hvor mange fra Bodø/Glimt er det plass til på landslaget? Hvorfor vil ikke Løkberg ha med stjerna fra Mesterligaen Jens Petter Hauge og  hvordan står det til med landslagsspillerne våre tre måneder før dyst? Bakrommets VM-podkast ser hver mandag fram mot mesterskapet i sommer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/56e05a38-9a99-4891-a05a-389a99a8919f_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/56e05a38-9a99-4891-a05a-389a99a8919f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:38</itunes:duration>
-      <pubDate>Mon, 02 Mar 2026 14:41:00 +0100</pubDate>
+      <title>Bakrommet signerer Eirik Horneland</title>
+      <description><![CDATA[Han har trent både Rosenborg, Brann og Saint-Étienne: Eirik Horneland bli ny ekspert i Bakrommet fram mot VM. Nå snakker han ut etter Frankrike-sparkingen, temaer i dag: Franske vs Norsk fotballkultur, landslagsuttak, Haaland og Sørlots edlere deler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:34</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
     <item>
-      <title>Alt om Norges VM-gruppe</title>
-      <description><![CDATA[«Dødens gruppe» har blitt nevnt, men hva er sjansene for å gå videre? Vi går i dybden på Frankrike, Senegal og Surinam/Irak/Bolivia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/b9cbcdd6-7f32-449f-8bcd-d67f32649f54_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/b9cbcdd6-7f32-449f-8bcd-d67f32649f54_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:44</itunes:duration>
-      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Ståle Solbakken ser frem mot VM</title>
-      <description><![CDATA[Haalands motiverende ord i garderoben, utskjellingen av Oscar Bobb og rørende Sørloth-detalj. Ståle Solbakken tar oss gjennom tidenes norske kvalifisering.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/a1e36897-d421-4e24-a368-97d4218e2435_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/a1e36897-d421-4e24-a368-97d4218e2435_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:18:33</itunes:duration>
-      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>NORGE SKAL TIL VM</title>
-      <description><![CDATA[Alt fra nattens VM-fest!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6ebe9997-1814-46bf-be99-971814b6bf53_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6ebe9997-1814-46bf-be99-971814b6bf53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:45</itunes:duration>
-      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Før Italia</title>
-      <description><![CDATA[Søndag skjer det! Norge møter Italia, og med mindre tidenes fotballfiasko skjer i Milano skal Norge endelig få juble. Andrine og Carl Erik bygger opp til kampen. Kristoffer har med seg David Mokel og rapporterer direkte fra gatene i Milano.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/ec7fb139-5141-4ef3-bfb1-395141cef3d1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ec7fb139-5141-4ef3-bfb1-395141cef3d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:42</itunes:duration>
-      <pubDate>Sat, 15 Nov 2025 18:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Etter Estland</title>
-      <description><![CDATA[Var tre minutter unna å ta Skavlan av lufta! Men Italia utsatte festen. Løkberg har hisset på seg supporter-Norge, Andrine misset begge Sørloth-scoringene, og gjengen gir sin ønskegruppe for Norge i VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/da5c6033-27c0-4e46-9c60-3327c02e4664_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/da5c6033-27c0-4e46-9c60-3327c02e4664_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:28</itunes:duration>
-      <pubDate>Fri, 14 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Før Estland</title>
-      <description><![CDATA[Sander Berge og Jan Petter Saltvedt om Schjelderup-saken. Skal Haaland fortsette å ta straffene? Og hva er greia med den blodige shortsen til Langås?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/2c20f0d4-cee5-4664-a0f0-d4cee5c66479_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/2c20f0d4-cee5-4664-a0f0-d4cee5c66479_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:08</itunes:duration>
-      <pubDate>Tue, 11 Nov 2025 16:00:00 +0100</pubDate>
+      <title>Spesial: Bodø/Glimt ute av Mesterligaen</title>
+      <description><![CDATA[De ledet med komfortable 3-0 før borteoppgjøret, men var totalt sjanseløse i  Portugal. 
+Bakrommet analyserer det som likevel har vært et gult fotballmirakel i Europa.
+Hva skjer nå med Bodø/Glimt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/5e0a0a0c-bb31-4084-8a0a-0cbb316084e6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5e0a0a0c-bb31-4084-8a0a-0cbb316084e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:13</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 00:21:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
   </channel>
