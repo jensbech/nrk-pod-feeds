@@ -112,9 +112,8 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
 
         ep_i +=1
 
-    episodes_c = len(episodes)
-    title = f"De {episodes_c} siste fra {original_title}"
-    subtitle = f"Uoffisiell feed med de siste {episodes_c} episodene fra podkasten {original_title}. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se {website} for mer informasjon."
+    title = original_title
+    subtitle = f"Uoffisiell feed fra podkasten {original_title}. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se {website} for mer informasjon."
 
     p.name = title
     p.description = subtitle

@@ -1,5 +1,8 @@
 import logging
+import time
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from common.helpers import get_version
 
@@ -7,6 +10,23 @@ api_base_url = "https://psapi.nrk.no"
 headers = {
     "User-Agent": f"nrk-pod-feeder {get_version()}"
 }
+
+def _session():
+    s = requests.Session()
+    retry = Retry(
+        total=4,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+        raise_on_status=False,
+    )
+    s.mount("https://", HTTPAdapter(max_retries=retry))
+    return s
+
+def _get(url):
+    s = _session()
+    r = s.get(url, headers=headers, timeout=30)
+    return r
 
 def get_all_podcast_episodes_all_seasons(podcast_id, metadata):
     episodes = []
@@ -18,7 +38,7 @@ def get_all_podcast_episodes_all_seasons(podcast_id, metadata):
         season_episodes = get_all_podcast_episodes(podcast_id, name)
         for episode in season_episodes:
             episodes.append(episode)
-        
+
     return episodes
 
 def get_all_podcast_episodes(podcast_id, season = None):
@@ -29,7 +49,7 @@ def get_all_podcast_episodes(podcast_id, season = None):
 
     episodes = []
     while True:
-        r = requests.get(url, headers=headers)
+        r = _get(url)
         if not r.ok:
             logging.info(f"Unable to fetch podcast episodes ({url} returned {r.status_code})")
             return None
@@ -40,7 +60,7 @@ def get_all_podcast_episodes(podcast_id, season = None):
         else:
             for episode in r.json()["_embedded"]["episodes"]:
                 episodes.append(episode)
-        
+
         if not "next" in r.json()["_links"]:
             break
 
@@ -55,7 +75,7 @@ def get_podcast_episodes(podcast_id, season = None, format = "json"):
     if season:
         url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/seasons/{season}?page=1&pageSize=30&sort=desc"
 
-    r = requests.get(url, headers=headers)
+    r = _get(url)
     if not r.ok:
         logging.info(f"Unable to fetch podcast episodes ({url} returned {r.status_code})")
         return None
@@ -72,7 +92,7 @@ def get_episode_manifest(podcast_id, episode_id, format = "json"):
     logging.debug(f"  Fetching assets for episode {episode_id}...")
 
     url = f"{api_base_url}/playback/manifest/podcast/{podcast_id}/{episode_id}"
-    r = requests.get(url, headers=headers)
+    r = _get(url)
 
     if not r.ok:
         logging.info(f"  Unable to fetch episode manifest ({url} returned {r.status_code})")
@@ -87,7 +107,7 @@ def get_podcast_metadata(podcast_id, format = "json"):
     logging.debug(f"Fetching metadata for podcast {podcast_id}...")
 
     url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}"
-    r = requests.get(url, headers=headers)
+    r = _get(url)
 
     if not r.ok:
         logging.info(f"Unable to fetch podcast metadata ({url} returned {r.status_code})")
@@ -105,7 +125,7 @@ def get_all_podcasts():
     series_c = 0
 
     while True:
-        r = requests.get(url, headers=headers)
+        r = _get(url)
         if not r.ok:
             logging.error(f"Unable to fetch podcasts ({url} returned {r.status_code})")
             return None
@@ -122,7 +142,7 @@ def get_all_podcasts():
             }
 
             series_c+=1
-        
+
         if not "next" in r.json()["_links"]:
             break
 
