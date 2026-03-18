@@ -1,5 +1,5 @@
 import logging
-
+import re
 import random
 from podgen import Podcast, Episode, Media
 from dateutil import parser
@@ -28,6 +28,9 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         return None
 
     original_title = metadata["series"]["titles"]["title"]
+    title_match = re.match(r'^De \d+ siste fra (.+)$', original_title)
+    if title_match:
+        original_title = title_match.group(1)
     sq = metadata['series'].get('squareImage') or []
     image = f"{sq[-1]['url']}.jpg" if sq else ""
     website = metadata["_links"]["share"]["href"]
@@ -149,6 +152,8 @@ if __name__ == '__main__':
 
         if "episodes" in p:
             ep_count = p["episodes"]
+
+        ep_count = min(ep_count, 100) if ep_count > 0 else 100
 
         if not p["enabled"]:
             existing = get_last_feed(feeds_dir, podcast_id)
