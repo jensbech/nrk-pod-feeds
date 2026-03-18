@@ -141,7 +141,7 @@ if __name__ == '__main__':
     for p in podcasts:
         podcast_id = p["id"]
         podcast_season = p["season"]
-        ep_count = 0 if p["enabled"] else 50
+        ep_count = 100 if p["enabled"] else 50
 
         if "episodes" in p:
             ep_count = p["episodes"]
