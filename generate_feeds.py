@@ -46,10 +46,16 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
     if season == "LATEST_SEASON":
         season = metadata["_links"]["seasons"][0]["name"]
 
+    latest = get_podcast_episodes(podcast_id, season, page_size=5)
+    if not latest:
+        return None
+
+    two_years_ago = datetime.now(timezone.utc) - timedelta(days=730)
+    if parser.parse(latest[0]["date"]) < two_years_ago:
+        logging.info("  Last episode is over 2 years old, skipping")
+        return None
+
     if existing_feed:
-        latest = get_podcast_episodes(podcast_id, season, page_size=5)
-        if not latest:
-            return None
         if not any(parser.parse(e["date"]) >= last_feed_update for e in latest):
             logging.info("  No new episodes found since feed was last updated")
             return None
