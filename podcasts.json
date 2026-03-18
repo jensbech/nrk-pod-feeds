@@ -632,7 +632,7 @@
     {
         "id": "leseklubben",
         "title": "Leseklubben",
-        "season": "LATEST_SEASON",
+        "season": null,
         "enabled": true
     },
     {
