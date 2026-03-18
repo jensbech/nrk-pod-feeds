@@ -52,7 +52,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         else:
             episodes = get_all_podcast_episodes(podcast_id, season)
     else:
-        episodes = get_podcast_episodes(podcast_id, season)
+        episodes = get_podcast_episodes(podcast_id, season, page_size=ep_count)
 
     if not episodes:
         return None
@@ -141,7 +141,7 @@ if __name__ == '__main__':
     for p in podcasts:
         podcast_id = p["id"]
         podcast_season = p["season"]
-        ep_count = 0
+        ep_count = 0 if p["enabled"] else 50
 
         if "episodes" in p:
             ep_count = p["episodes"]

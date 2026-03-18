@@ -68,12 +68,12 @@ def get_all_podcast_episodes(podcast_id, season = None):
 
     return episodes
 
-def get_podcast_episodes(podcast_id, season = None, format = "json"):
+def get_podcast_episodes(podcast_id, season = None, format = "json", page_size = 30):
     logging.info(f"Fetching episodes for podcast {podcast_id} ({season})...")
 
-    url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/episodes?page=1&pageSize=30&sort=desc"
+    url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/episodes?page=1&pageSize={page_size}&sort=desc"
     if season:
-        url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/seasons/{season}?page=1&pageSize=30&sort=desc"
+        url = f"{api_base_url}/radio/catalog/podcast/{podcast_id}/seasons/{season}?page=1&pageSize={page_size}&sort=desc"
 
     r = _get(url)
     if not r.ok:
