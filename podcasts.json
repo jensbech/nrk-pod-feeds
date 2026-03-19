@@ -21,7 +21,7 @@
         "id": "andakten",
         "title": "Andakten",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "andregenerasjonen",
@@ -283,8 +283,8 @@
     },
     {
         "id": "filmpolitiet",
-        "title": "Filmpolitiets podkast",
-        "season": null,
+        "title": "Filmpolitiets podkast ",
+        "season": "LATEST_SEASON",
         "enabled": true
     },
     {
@@ -632,7 +632,7 @@
     {
         "id": "leseklubben",
         "title": "Leseklubben",
-        "season": null,
+        "season": "LATEST_SEASON",
         "enabled": true
     },
     {
@@ -777,7 +777,7 @@
         "id": "monsens_univers",
         "title": "Monsens univers",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "museum",
@@ -1052,7 +1052,7 @@
     {
         "id": "salongen",
         "title": "Salongens lesesirkel ",
-        "season": null,
+        "season": "LATEST_SEASON",
         "enabled": false
     },
     {

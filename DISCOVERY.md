@@ -1,4 +1,10 @@
 # Podcast Discovery Changelog  
+### 2026-03-19  
+- Updated podcast 'Andakten' (`andakten`)  
+- Updated podcast 'Filmpolitiets podkast ' (`filmpolitiet`)  
+- Updated podcast 'Leseklubben' (`leseklubben`)  
+- Updated podcast 'Monsens univers' (`monsens_univers`)  
+- Updated podcast 'Salongens lesesirkel ' (`salongen`)  
 ### 2026-03-15  
 - Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
 ### 2026-03-10  
