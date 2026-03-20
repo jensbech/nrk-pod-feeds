@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:34:17 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Mar 2026 00:21:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 03:47:27 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    <item>
+      <title>David Møller Wolfe møter Bakrommet</title>
+      <description><![CDATA[Landslagets David Møller Wolfe tar imot oss hjemme i Wolverhampton.
+Han forteller om overgangen som gikk i vasken, dramatisk sykdom og hvordan landslagets stjerner oppfører seg i garderoben og på banen. Og allerede nå sliter han med å sove når han tenker på VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d30d12c8-d5de-48b9-8d12-c8d5de08b97c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d30d12c8-d5de-48b9-8d12-c8d5de08b97c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:58</itunes:duration>
+      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
     <item>
       <title>Spesial: Bodø/Glimt ute av Mesterligaen</title>
       <description><![CDATA[De ledet med komfortable 3-0 før borteoppgjøret, men var totalt sjanseløse i  Portugal. 

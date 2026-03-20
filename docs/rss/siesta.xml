@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:39:54 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 03:50:31 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel ble fatshama (av Anna)</title>
+      <description><![CDATA[Humoren til Siesta er farlig utenfor studio, Markus har stand up for oss og det skjer generelt lite i Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3c65031e-5973-4c76-a503-1e5973cc76fd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3c65031e-5973-4c76-a503-1e5973cc76fd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:04</itunes:duration>
+      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna er en T-rex</title>
       <description><![CDATA[Anna søler kaffe overalt, Markus har bæsja før han dusjer og vi smalltalker slankesprøyter]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/d7bcfaba-2bda-448d-bcfa-ba2bdaf48d2b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:09</itunes:duration>
       <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Skuffet over Daniels gave</title>
-      <description><![CDATA[Markus og Anna er ikke fornøyde med Daniels fangst fra Gran Canaria, og vi konfronterer Henning om sitt smågodt-hat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:02</itunes:duration>
-      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

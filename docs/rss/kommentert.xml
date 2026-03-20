@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:37:05 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Mar 2026 15:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 03:48:56 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 15:53:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Nachspiel og sex: – Media har mistet gangsynet</title>
+      <description><![CDATA[Hva er verst for Marius Borg Høiby? Mange år i fengsel eller å få brettet ut detaljer fra hele livet hans i media? 
+Og oljeprisen stiger og stiger: Hva skjer med verden hvis den fortsetter å øke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d8d392b7-3eba-452c-9392-b73eba452c59_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d8d392b7-3eba-452c-9392-b73eba452c59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:27</itunes:duration>
+      <pubDate>Thu, 19 Mar 2026 15:53:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xNXCOypuz8AHyM1KcLVzcAnW8ygIeAmOyS1TDwYJqqUg.jpg"/>
+    </item>
     <item>
       <title>Statsminister i øl-bråk og Affeksjonsverdi</title>
       <description><![CDATA[Jonas Gahr Støre vil gi serveringssteder lov til å servere øl på natten, under sommerens VM i fotball. Men nå møter han motstand fra sine egne.
@@ -485,15 +495,6 @@ Og Norge har aldri nådd et klimamål uten kvotekjøp. Hvorfor bruke masse penge
       <itunes:duration>44:56</itunes:duration>
       <pubDate>Thu, 22 May 2025 14:08:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eDu4oNIzHOTqj4ESXmxULg6TLQki6u80wyO-1KMTvjwg.jpg"/>
-    </item>
-    <item>
-      <title>Har Trumps woke-krig kommet til Norge?</title>
-      <description><![CDATA[Donald Trumps angrep på mangfold presser seg for alvor inn i landet og særlig næringslivet. Husker du skolenedleggelser fra ifjor? Nå slår dette også innover storbyene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c8a8a4f1-8809-4161-9a39-68ac4e03c1f6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/c8a8a4f1-8809-4161-9a39-68ac4e03c1f6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:56</itunes:duration>
-      <pubDate>Thu, 15 May 2025 14:49:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kQmwXZPu_KEtOhgcgAdoggxNeyM_Ox7Mlvyry-bhb6Kw.jpg"/>
     </item>
   </channel>
 </rss>

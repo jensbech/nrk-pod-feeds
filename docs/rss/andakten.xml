@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:16:38 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 03:47:21 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Oppdraget - Jan Erik Larssen</title>
+      <description><![CDATA[Har du et mål med livet? Noe som er ditt oppdrag? Det kan gi seg ulike utslag og forandre valgene du gjør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/808a0b4c-6e34-4b1a-8a0b-4c6e34bb1aab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/808a0b4c-6e34-4b1a-8a0b-4c6e34bb1aab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
+    </item>
     <item>
       <title>Utro - Jan Erik Larssen</title>
       <description><![CDATA[På ett eller annet vis er mange utro i løpet av livet. Utroskap kan komme i mange former, og kanskje vanskelig å unngå helt.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/3ac280b3-a6a9-4ca7-8280-b3a6a99ca786_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:05</itunes:duration>
       <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UTE_IGhnXisHF2lRHiqXowjJdwo2iMIE4BzG2XERitGA.jpg"/>
-    </item>
-    <item>
-      <title>Lyset - Stig Lægdene</title>
-      <description><![CDATA[Det er mange måter å beskrive julens mirakel og mysterium - lyset er et godt bilde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c2b1717d-3f28-43d4-b171-7d3f28c3d4d2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/c2b1717d-3f28-43d4-b171-7d3f28c3d4d2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:27</itunes:duration>
-      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/UTE_IGhnXisHF2lRHiqXowjJdwo2iMIE4BzG2XERitGA.jpg"/>
     </item>
   </channel>

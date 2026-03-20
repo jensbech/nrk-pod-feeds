@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:38:14 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Mar 2026 13:30:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 03:49:24 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 14:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Pisk?</title>
+      <description><![CDATA[Lilly har tenkt videre på om hun er djevelen i andre sitt liv... spoiler: Vi synes ikke hun er det!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ec747a5f-2a81-450b-b47a-5f2a81750bed_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ec747a5f-2a81-450b-b47a-5f2a81750bed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:48</itunes:duration>
+      <pubDate>Thu, 19 Mar 2026 14:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
     <item>
       <title>Lars Berrum / Ronny Brede Aase / Anna Nor Sørensen</title>
       <description><![CDATA[TILBAKEMELDING: Gjelder 3-sekundersregelen? / PROBLEMER: Må jeg droppe å gifte meg siden foreldrene mine ikke er venner? / Hockeyvakuumet / Balladen om en kanskje utro mann / Jeg vil gjerne drikke, men ikke hele tiden! / Bursdagen i Tyskland / Djevelen i andres livshistorie / Er dugnadsånden død? / Skal jeg leve med en E på masteren?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>21:48</itunes:duration>
       <pubDate>Wed, 10 Sep 2025 14:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Sissel Gran / Galvan Mehidi / Mathea Josefsen</title>
-      <description><![CDATA[Ble det neglelakk, eller ikke? / PROBLEMER: Avslutte forholdet på en verdig måte / På med flørtehansken? / Nærhet og avstand / Sjefen min kler seg ut som meg / Jeg klarer ikke å slutte å tenke på han / Drømmekjæreste blir kollega / Hastesak: Toastmaster i bryllup]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/7930c642-fe32-47fd-b0c6-42fe32b7fdaf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/7930c642-fe32-47fd-b0c6-42fe32b7fdaf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:23:19</itunes:duration>
-      <pubDate>Sat, 06 Sep 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ntp0ZZmqVIO9UHf8KlZcsAjOqm2vb4AeD2piPjK8iqkA.jpg"/>
     </item>
   </channel>
 </rss>
