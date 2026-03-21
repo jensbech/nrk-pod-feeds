@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Mar 2026 03:48:45 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2026 03:45:03 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 07:02:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Mette-Marit snakker ut om Epstein</title>
+      <description><![CDATA[Og når kommer dommen til Høiby?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e1b64419-c192-460d-b644-19c192660d25_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e1b64419-c192-460d-b644-19c192660d25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:54</itunes:duration>
+      <pubDate>Fri, 20 Mar 2026 07:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HnJ2q8u0u5RrxZSPDt3nPA2pUGFLGT7mvtxoI5PZxAgQ.jpg"/>
+    </item>
     <item>
       <title>Siste dag i rettssaken mot Høiby</title>
       <description><![CDATA[Og hvordan kan du bli mer lykkelig?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>05:07</itunes:duration>
       <pubDate>Mon, 12 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YTYP4CC1U6C5V72-B0X6kQPrwCRF7yRQRA7jCRCG1d6w.jpg"/>
-    </item>
-    <item>
-      <title>Vil heve førarkortgrensa for menn</title>
-      <description><![CDATA[Og det har vore store demonstrasjonar i både Iran og USA i natt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/3e8e403d-6e5c-47d3-8e40-3d6e5ca7d3a9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/3e8e403d-6e5c-47d3-8e40-3d6e5ca7d3a9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:28</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/v8A60vNLsfz8HvtkB8blJQn30j1FVLBQRutsslbWTV5A.jpg"/>
     </item>
   </channel>
 </rss>
