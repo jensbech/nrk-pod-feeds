@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:41:00 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Mar 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2026 03:50:59 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Brannen i Ålesund</title>
+      <description><![CDATA[Terrengbrannen i Ålesund vekker gamle minner om storbrannen i 1904, men dette ble en historie om beredskap som fungerte, sier redaktør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/aa486130-bab8-4e7e-8861-30bab80e7ef1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/aa486130-bab8-4e7e-8861-30bab80e7ef1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:51</itunes:duration>
+      <pubDate>Sat, 21 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnZodRC-Zo3PhdoIeRWc5gWY9oNe0KjoSQobOFmC1Yfw.jpg"/>
+    </item>
     <item>
       <title>Hva er et fat med olje?</title>
       <description><![CDATA[Oljeprisen får mye oppmerksomhet for tida. 
@@ -468,15 +477,6 @@ Til oss kommer også den rykende ferskende LO-lederen, og vi skal i tillegg inno
       <itunes:duration>01:04:55</itunes:duration>
       <pubDate>Sat, 29 Mar 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LszZRqq5_zP-kCtfA_EKVgqiYIKxOb3gJp3ROw1DWNDA.jpg"/>
-    </item>
-    <item>
-      <title>Valp eller ikke valp?</title>
-      <description><![CDATA[Hundeeiere og oppdrettere ender stadig i konflikt rundt avtaler om avl av valper. Nylig ble en hund dømt til paring.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/b4c53a38-e9af-4026-a877-523466c5ed75_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/b4c53a38-e9af-4026-a877-523466c5ed75_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:45</itunes:duration>
-      <pubDate>Sat, 22 Mar 2025 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MJDjJJJ6PpWl7Wr96wC-_wZG8PBRaTQpLDKVnzbk15Ow.jpg"/>
     </item>
   </channel>
 </rss>
