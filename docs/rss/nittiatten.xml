@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:38:45 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:50:06 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Nate kahungu på besøk</title>
+      <description><![CDATA[Programlederen fra Ville fristelser er gjest og avslører sin liste over topp tre «white girl»-låter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:00</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yx_kb6kzLaUKBzxVEhGvXQAyF5lZyxGJe8QxE76aAVtw.jpg"/>
+    </item>
     <item>
       <title>Tara Lina på besøk</title>
       <description><![CDATA[Dronninga av «Med all respekt» er gjest – og forteller hvordan hun endte opp med en romaskin som snackbord.]]></description>
@@ -454,16 +463,6 @@ Franky og Mo er sjokkert etter å ha sett «Sinners», og Mo røper at han ikke 
       <itunes:duration>22:10</itunes:duration>
       <pubDate>Thu, 08 May 2025 13:07:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
-    </item>
-    <item>
-      <title>UG Fretty på besøk</title>
-      <description><![CDATA[OBS! Vi har hatt tekniske problemer på flere episoder og beklager dårlig lydkvalitet. Vi lover at det snart blir bedre!
-Fretty fra Undergrunn om Sovjet-vibber og liveshow som må smelle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/5b60c06f-75b3-4706-b8fc-6bf286bd7f1a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5b60c06f-75b3-4706-b8fc-6bf286bd7f1a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/viP93QxrNKh4431Nk_7R6gS998sXQtLAuEKxEe40tI_Q.jpg"/>
     </item>
   </channel>
 </rss>

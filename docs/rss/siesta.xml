@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:46:21 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:50:50 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus vasker føttene våre</title>
+      <description><![CDATA[Det blir ubehagelig når Markus gjør som Jesus, Finn Glede intervjuet Astrid S om saus på Spellemann og hvem er ukas dummeste?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ad03f7dc-1d94-4473-83f7-dc1d94b47340_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/ad03f7dc-1d94-4473-83f7-dc1d94b47340_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:37</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Voksen mann leker flau robot</title>
       <description><![CDATA[Quizvang ruller og går, er berlinerboller tørre og hvorfor leker Daniel robot og gjør Anna flau?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/c00768dc-59b1-44a6-8768-dc59b1f4a69f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:23</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna får ildrød rumpe</title>
-      <description><![CDATA[Rafael Eriksen kommer innom og lærer bort triks, hva er det motsatte av kapteinens fylte, og Anna tvinger Markus til å snøbade.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/52879cff-6cec-4996-879c-ff6cec399671_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/52879cff-6cec-4996-879c-ff6cec399671_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:11</itunes:duration>
-      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

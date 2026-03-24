@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:44:19 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:48:51 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Fem dagers våpenhvile</title>
+      <description><![CDATA[Trump stanser angrep mor Iran i fem dager etter det han kaller konstruktive samtaler.
+Iran avviser at det har vært kontakt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bfb227ce-cf49-4982-b227-cecf49098284_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bfb227ce-cf49-4982-b227-cecf49098284_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3oKEmz_qHNih8_AabMP-MQYW73XTRweHvMQLbmHOACwQ.jpg"/>
+    </item>
     <item>
       <title>Kronprinsessen om forholdet til Epstein</title>
       <description><![CDATA[– Det er fortsatt store, ubesvarte spørsmål etter intervjuet med kronprinsessen, mener VG-redaktør.]]></description>
@@ -453,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:11</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EzKKk7AujGT9_2NIjKuDMAqa4JQsOJUZV1RyzMhujByQ.jpg"/>
-    </item>
-    <item>
-      <title>USA truer med sterke tiltak mot Iran.</title>
-      <description><![CDATA[Irans utenriksminister sier at situasjonen er under full kontroll etter helgens demonstrasjoner og vold.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9a009ff0-87af-43b7-809f-f087afa3b738_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9a009ff0-87af-43b7-809f-f087afa3b738_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 12 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/J7cL4he4_kZyeyqrTYpltQTsW6r7fZROvqhkK1Qlufcg.jpg"/>
     </item>
   </channel>
 </rss>

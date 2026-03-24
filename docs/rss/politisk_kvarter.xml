@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Mar 2026 03:50:15 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:50:33 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Ny vår for SV?</title>
+      <description><![CDATA[I SV skal de prioritere hardere, snakke penere om hverandre  og få nytt slagord. Men klarer Kirsti Bergstø å få ro i partiet? Agenda-leder Roger Sandum tror ikke det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9fea20e3-851d-4163-aa20-e3851da163d9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9fea20e3-851d-4163-aa20-e3851da163d9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mbkeTbqGQqTRMxvBvshw7w9t1dbKDJfOvKrPpdsPxjXA.jpg"/>
+    </item>
     <item>
       <title>Helsepolitikk etter innfallsmetoden?</title>
       <description><![CDATA[Poliklinikker, medisiner, åpningstider og anbudsrunder. Ingen sak er for liten til at Stortinget kan bestemme - og overkjøre - helseministeren. De gjør opp regning uten vert, klager Jan Christian Vestre.]]></description>
@@ -473,17 +482,6 @@ Hvordan går det med samarbeidet med MDG da?]]></description>
       <itunes:duration>14:59</itunes:duration>
       <pubDate>Mon, 12 Jan 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dyFduGMKp99ucZCd2XtgVgve2wwsl_85HGWKt6TIxJFg.jpg"/>
-    </item>
-    <item>
-      <title>Skroter lærernormen</title>
-      <description><![CDATA[Er lærernormen en tvangstrøye for kommunene eller en sikkerhet for god læring i klasserommet?
-
-Kommisjon vil fjerne lærernormen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9cdf4093-0228-462a-9f40-930228662a43_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9cdf4093-0228-462a-9f40-930228662a43_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:02</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Md9fRsrdVskdVfGWEA2yTw1bp39SWn585AZIotQRwA9Q.jpg"/>
     </item>
   </channel>
 </rss>

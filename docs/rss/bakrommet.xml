@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Mar 2026 03:47:27 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 03:48:36 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 19:52:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     <item>
-      <title>David Møller Wolfe møter Bakrommet</title>
+      <title>På landslagssamling</title>
+      <description><![CDATA["Babylykke for Ajer.  Er Haaland hos en lege i Spania og hva syns vi om de nye draktene?  Fotball-VM nærmer seg og landslagssjef Ståle Solbakken samler troppen sin til treningsleir før de skal møte Nederland og Sveits. Og der er selvfølgelig Bakrommet på plass. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/1b2bda4d-9036-42f9-abda-4d9036f2f9e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/1b2bda4d-9036-42f9-abda-4d9036f2f9e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:23</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 19:52:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>Wolfe om å benkes, skandale-nachspiel og VM-drøm</title>
       <description><![CDATA[Landslagets David Møller Wolfe tar imot oss hjemme i Wolverhampton.
 Han forteller om overgangen som gikk i vasken, dramatisk sykdom og hvordan landslagets stjerner oppfører seg i garderoben og på banen. Og allerede nå sliter han med å sove når han tenker på VM.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d30d12c8-d5de-48b9-8d12-c8d5de08b97c_1_ID192MP3.mp3</guid>
@@ -34,7 +43,7 @@ Hva skjer nå med Bodø/Glimt?]]></description>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
     <item>
-      <title>Bakrommet signerer Eirik Horneland</title>
+      <title>Eirik Horneland om ville tilstander i Frankrike</title>
       <description><![CDATA[Han har trent både Rosenborg, Brann og Saint-Étienne: Eirik Horneland bli ny ekspert i Bakrommet fram mot VM. Nå snakker han ut etter Frankrike-sparkingen, temaer i dag: Franske vs Norsk fotballkultur, landslagsuttak, Haaland og Sørlots edlere deler.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
