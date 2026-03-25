@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:47:18 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 07:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:53:40 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Putin kontrollerer hvert klikk</title>
+      <description><![CDATA[Russland stenger nettet og tvinger millioner over på statskontrollert app.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/c9152a8d-157a-4ffc-952a-8d157a6ffc57_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/c9152a8d-157a-4ffc-952a-8d157a6ffc57_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:53</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WQcEAOAkJ1AOpeKtvXKrgAY07Dd2n7sv_qmy78CJXYsg.jpg"/>
+    </item>
     <item>
       <title>Kan krigsfrykt gi Orban seier?</title>
       <description><![CDATA[Ungarns sterke mann gjennom 16 år er for første gang ikke lenger favoritt før valget i april.]]></description>
@@ -454,15 +463,6 @@ Hva vil skje videre nå? Og spesielt i New York?]]></description>
       <itunes:duration>17:06</itunes:duration>
       <pubDate>Thu, 09 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UqguNpo2aLV2vKNnUx1T1g--hfTzSGSowybbBthYmbWA.jpg"/>
-    </item>
-    <item>
-      <title>Gen-Z i opprør</title>
-      <description><![CDATA[Fra Nepal til Marokko protesterer sinte ungdommer mot utrett - og inspirasjonen har de fått på Tiktok.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/41f1eba9-d488-4c8e-b1eb-a9d488ec8e29_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/41f1eba9-d488-4c8e-b1eb-a9d488ec8e29_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:38</itunes:duration>
-      <pubDate>Tue, 07 Oct 2025 05:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2FDCEYSWRsnupavXHYTiKAljxyDdBXebVazj3Nc5MUHg.jpg"/>
     </item>
   </channel>
 </rss>

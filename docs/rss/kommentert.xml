@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:45:14 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 10:48:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:51:15 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 15:49:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Har Donald Trump diktet opp fredsforslag?</title>
+      <description><![CDATA[Donald Trump sier USA har hatt gode og produktive samtaler med Iran. Men, Iran sier at de ikke har snakket sammen. Og mens det skjer holder verdensøkonomien pusten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e72c273b-7a23-4f90-ac27-3b7a238f9027_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/e72c273b-7a23-4f90-ac27-3b7a238f9027_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 15:49:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y1kRTCGry1-5jF9LgTRSSwBaPIxvrx_QdzIlIBZPGVfQ.jpg"/>
+    </item>
     <item>
       <title>Nå snakker Mette-Marit: – Gjenoppretter ikke tillit</title>
       <description><![CDATA[Kronprinsesse Mette-Marit har i sju uker latt være å svare på spørsmål om hvorfor hun hadde omfattende kontakt med Jeffrey Epstein. Nå har hun svart, men er det godt nok?]]></description>
@@ -486,15 +495,6 @@ Og Norge har aldri nådd et klimamål uten kvotekjøp. Hvorfor bruke masse penge
       <itunes:duration>39:28</itunes:duration>
       <pubDate>Thu, 05 Jun 2025 13:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kyhs8a3gTv4tEzu6d9Zr8AYvBXxUaTrFWfyy0gyqESaA.jpg"/>
-    </item>
-    <item>
-      <title>Greit at politikere tjener godt på si?</title>
-      <description><![CDATA[Hvor går grensen for hva en stortingspolitiker kan ha av inntekt ved siden av jobben? Og Stoltenberg med skattelotto.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/da5993f5-46cb-428d-9c5e-39ebaf0bb654_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/da5993f5-46cb-428d-9c5e-39ebaf0bb654_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:44</itunes:duration>
-      <pubDate>Wed, 28 May 2025 14:58:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BvqlWphYX0nZ1BPx-CWr7AHP1zACymlX90dX8mHxTN2Q.jpg"/>
     </item>
   </channel>
 </rss>

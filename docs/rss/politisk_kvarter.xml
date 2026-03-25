@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Mar 2026 03:50:33 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:52:42 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Hvilken dyrtidspakke trenger vi?</title>
+      <description><![CDATA[Bensinprisene stiger. Senterpartiet krever avgiftskutt. Mdg vil dele ut bensinavgiftene til "alle". Vil regjeringen gjøre noe?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/b8052891-0f94-4297-8528-910f947297ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/b8052891-0f94-4297-8528-910f947297ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3_0Z7grbshP45_boqpIo5Ag6HgFZhn0wYI5wxSLvz2_Q.jpg"/>
+    </item>
     <item>
       <title>Ny vår for SV?</title>
       <description><![CDATA[I SV skal de prioritere hardere, snakke penere om hverandre  og få nytt slagord. Men klarer Kirsti Bergstø å få ro i partiet? Agenda-leder Roger Sandum tror ikke det.]]></description>
@@ -472,16 +481,6 @@ Hvordan går det med samarbeidet med MDG da?]]></description>
       <itunes:duration>15:09</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NVy8auQeADLJOuGZEnXwLw_bsTeIRdmxj6EFiklc_PCw.jpg"/>
-    </item>
-    <item>
-      <title>Høyre vil ha færre kommuner</title>
-      <description><![CDATA[Høyres Nikolai Astrup vil kutte kraftig i antallet kommuner, og utelukker ikke tvang.
-– Høyre har tydeligvis ikke lært av forrige runde, sier Trygve Slagsvold Vedum.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/208a0cd3-68aa-4a73-8a0c-d368aa7a7384_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/208a0cd3-68aa-4a73-8a0c-d368aa7a7384_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:59</itunes:duration>
-      <pubDate>Mon, 12 Jan 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dyFduGMKp99ucZCd2XtgVgve2wwsl_85HGWKt6TIxJFg.jpg"/>
     </item>
   </channel>
 </rss>

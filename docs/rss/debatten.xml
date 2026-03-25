@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Mar 2026 03:47:51 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 22:25:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:50:02 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 22:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>Kronprinsessen og mediene</title>
+      <description><![CDATA[Hvorfor jager pressen nye svar fra kronprinsesse Mette-Marit om kontakten med den den dømte overgripere Jeffrey Epstein?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/bf6b0b4e-c17c-4565-ab0b-4ec17cf56526_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/bf6b0b4e-c17c-4565-ab0b-4ec17cf56526_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:56</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 22:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
     <item>
       <title>Har Tangen og Westerlin rett?</title>
       <description><![CDATA[Nicolai Tangen og Oskar Westerlin mener det er farlig ikke å henge med i utviklingen av kunstig intelligens.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>51:31</itunes:duration>
       <pubDate>Thu, 22 May 2025 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lW_Ijv1rf2F9Qr_UthRnWQfzl62cnryFOzyB8u_OZeiw.jpg"/>
-    </item>
-    <item>
-      <title>Hvem sponser partiet FOR?</title>
-      <description><![CDATA[Partiet Fred og rettferdighet har holdt skjult finansieringen bak T-banereklamen. Her avsløres giveren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/feb1dc8b-cd5c-45ec-b723-250b054aac54_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/feb1dc8b-cd5c-45ec-b723-250b054aac54_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:04</itunes:duration>
-      <pubDate>Tue, 20 May 2025 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-HUIisvjlhI-jm59LpRElQd6-pNNu9pDgeDrFQXQjTfg.jpg"/>
     </item>
   </channel>
 </rss>

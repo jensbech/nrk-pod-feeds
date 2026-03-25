@@ -11,10 +11,21 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:43:56 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 12:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:49:29 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Vemodig beskjed fra Zara, sex-stress og QuitGPT</title>
+      <description><![CDATA[I dag er det Zaras tur til å bli emosjonell i studio.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/736855b8-bf5b-4f90-a855-b8bf5b0f90c9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/736855b8-bf5b-4f90-a855-b8bf5b0f90c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Konfirmasjon, «mindfuck» og nybegynner på treningssenter</title>
       <description><![CDATA[Skal man ha show i venninna sin konfirmasjon? Eller skal man droppe det ...?
@@ -549,17 +560,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/bc9f8e9e-bbfb-4cba-9f8e-9ebbfb8cba9a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:02:29</itunes:duration>
       <pubDate>Tue, 30 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Flytting, mopedbil og sexy Simen Velle</title>
-      <description><![CDATA[Sofie og Zara deler hva de skal kle seg ut som på Halloween.
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/fcfb9705-77b8-4230-bb97-0577b842302a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/fcfb9705-77b8-4230-bb97-0577b842302a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:51</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

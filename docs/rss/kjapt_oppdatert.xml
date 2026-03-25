@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Mar 2026 03:49:41 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:51:02 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Hva skal ESC-artistene få lov til å si?</title>
+      <description><![CDATA[Og mange er usikre før valget i Danmark.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/9e26cebb-cb3e-4982-a6ce-bbcb3e3982d2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/9e26cebb-cb3e-4982-a6ce-bbcb3e3982d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:31</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cJIoYy0yiNgDy46BBRdxUAc-BKnzoImS_fe7uTD-Ph4Q.jpg"/>
+    </item>
     <item>
       <title>Krigen i Midtausten kan påverke lønna di</title>
       <description><![CDATA[No startar lønnsforhandlingane, men kor mykje du vil få kan bli påverka av situasjonen i Midtausten.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>06:28</itunes:duration>
       <pubDate>Wed, 14 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zeEEZRbn2i7tu0qjstpsjQKWYQQJr5IMgEpZch1_vOKQ.jpg"/>
-    </item>
-    <item>
-      <title>Minnesota vil stoppe ICE-agenter</title>
-      <description><![CDATA[Og vi kjøper færre plastposer på butikken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d0a8ec1e-9135-46e1-a8ec-1e9135c6e1d5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d0a8ec1e-9135-46e1-a8ec-1e9135c6e1d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:41</itunes:duration>
-      <pubDate>Tue, 13 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fPkqT5LMkSbq7MYkiSAZ4Q_TipZd5U4I0yW-fSlEdSEg.jpg"/>
     </item>
   </channel>
 </rss>

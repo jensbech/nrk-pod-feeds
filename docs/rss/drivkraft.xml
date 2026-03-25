@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Mar 2026 03:49:05 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 13:22:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:50:16 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Monica Csango</title>
+      <description><![CDATA[– Hjertet mitt slår i takt når jeg er i Ungarn sier journalisten og forfatteren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/39f64a2f-4c7a-4e7c-b64a-2f4c7ace7c7b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/39f64a2f-4c7a-4e7c-b64a-2f4c7ace7c7b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UqYRe0p5Zj61UI743Tt6YQuXAioKzNiM3tMg1c8yon2g.jpg"/>
+    </item>
     <item>
       <title>Ketil Solvik-Olsen</title>
       <description><![CDATA[– Verden er på vei inn i en ny tidsalder, sier statsviter og tidligere samferdselsminister.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>57:21</itunes:duration>
       <pubDate>Thu, 20 Nov 2025 13:41:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/24xTNBQdWK74kgmw3I4wuAY8SxZwbOoh_Cto9QQp9xAA.jpg"/>
-    </item>
-    <item>
-      <title>Emilie Enger Mehl</title>
-      <description><![CDATA[Hun var tidenes yngste justisminister. Nå står hun overfor et stort livsvalg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c68bb06e-1159-497d-8bb0-6e1159297d61_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c68bb06e-1159-497d-8bb0-6e1159297d61_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:27</itunes:duration>
-      <pubDate>Wed, 19 Nov 2025 13:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZHY0A1zmxeek15mYDqgSxQFlZ04jlkSMay_nCvX_Ftng.jpg"/>
     </item>
   </channel>
 </rss>
