@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Mar 2026 03:52:15 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Mar 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 03:59:44 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Kerstin (33) døde i Alpene: Har kjæresten skylden?</title>
+      <description><![CDATA[En kvinne ble forlatt hengende i et tau i fjellveggen. Nå har saken vært oppe i retten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b2039413-2698-422e-8394-132698522e25_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b2039413-2698-422e-8394-132698522e25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:01</itunes:duration>
+      <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uetXm4eJX0rVXG16omQXIwbPKJSb9akGdlr3NT6QKw4A.jpg"/>
+    </item>
     <item>
       <title>Kampen for Høiby: Kan forsvaret vinne?</title>
       <description><![CDATA[I syv uker har advokat Ellen Holager Andenæs forsvart Marius Borg Høiby.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>22:21</itunes:duration>
       <pubDate>Thu, 15 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_4g2znp12uxApJkG9rmJhQNClyDLi0VnKaFCgoG8Un8w.jpg"/>
-    </item>
-    <item>
-      <title>Iran på bristepunktet: Slik knebles folket</title>
-      <description><![CDATA[I over to uker har iranere kjempet for å kaste regimet. Kan de lykkes?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a01a6bec-6bb9-46d5-9a6b-ec6bb996d556_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a01a6bec-6bb9-46d5-9a6b-ec6bb996d556_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:21</itunes:duration>
-      <pubDate>Wed, 14 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EVvkjN9NU4ZAz_uZk2P3Lwvwvv3v7PPpvsmK_gCETPMA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Mar 2026 03:51:02 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Mar 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 03:58:43 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Dårligste valgresultat på over 100 år</title>
+      <description><![CDATA[Og juryen i en rettssak mot Meta og Google klarer ikke bestemme seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/389caded-a63a-4038-9cad-eda63ac03813_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/389caded-a63a-4038-9cad-eda63ac03813_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:36</itunes:duration>
+      <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mi7FXGUMdi_RABa_USWzuwahzKoJGS3Z8bke8COIAI1g.jpg"/>
+    </item>
     <item>
       <title>Hva skal ESC-artistene få lov til å si?</title>
       <description><![CDATA[Og mange er usikre før valget i Danmark.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>06:08</itunes:duration>
       <pubDate>Thu, 15 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9VjhdxS8NUEeG7DQ6ip99gg69ISDgXGI6dN8vEZQG2wA.jpg"/>
-    </item>
-    <item>
-      <title>Trump er irritert på Grønland</title>
-      <description><![CDATA[Og tala på døde i Iran stig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/833e385c-0b4d-4c94-be38-5c0b4dec942f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/833e385c-0b4d-4c94-be38-5c0b4dec942f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:28</itunes:duration>
-      <pubDate>Wed, 14 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zeEEZRbn2i7tu0qjstpsjQKWYQQJr5IMgEpZch1_vOKQ.jpg"/>
     </item>
   </channel>
 </rss>

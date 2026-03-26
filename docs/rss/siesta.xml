@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Mar 2026 03:53:02 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 04:00:19 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Gamle Morten Ramm referanser</title>
+      <description><![CDATA[Gjengen har litt laber livsgnist, Anna briljerer i veien til Hitler og Markus har Morten Ramm-spesial i papegøye.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6a720e9f-333c-4cd6-b20e-9f333c0cd616_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6a720e9f-333c-4cd6-b20e-9f333c0cd616_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:28</itunes:duration>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Karsten Blomvik knekker rygger</title>
       <description><![CDATA[Daniel har mistet lommeboken sin, Anna er kokforbanna på walking pads og klarer Karsen å knekke opp ryggen til Markus?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>34:50</itunes:duration>
       <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Vi tester spinnvill tjukkas-dessert</title>
-      <description><![CDATA[Vi får besøk av Henrik Bjørnson fra 16 ukers helvete og tester hans favorittdessert; troika med vaniljesaus!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ed012c5b-8997-4cb7-812c-5b8997dcb7d2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/ed012c5b-8997-4cb7-812c-5b8997dcb7d2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:02</itunes:duration>
-      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kSlw-DBUYIsyZX2AuRCkIQEmXSmRhTG_sEcGUw6sgbTA.jpg"/>
     </item>
   </channel>
 </rss>
