@@ -1,4 +1,10 @@
 # Podcast Discovery Changelog  
+### 2026-03-27  
+- Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
+- Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Added podcast 'Hvem skjøt Balder?' (`hvem_skjoet_balder`)  
+- Updated podcast 'Mysterier fra Norge' (`mysterier_fra_norge`)  
 ### 2026-03-19  
 - Updated podcast 'Andakten' (`andakten`)  
 - Updated podcast 'Filmpolitiets podkast ' (`filmpolitiet`)  

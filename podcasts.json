@@ -255,7 +255,7 @@
         "id": "fantorangenfortellinger",
         "title": "Fantorangenfortellinger",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "fantorangens_lydmysterier",
@@ -267,7 +267,7 @@
         "id": "fantorangens_vitseshow",
         "title": "Fantorangens vitseshow",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "fantus_og_lydene",
@@ -375,7 +375,7 @@
         "id": "hallo_bablo",
         "title": "Hallo Bablo",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "hei_nabo",
@@ -412,6 +412,12 @@
         "title": "Hos Peder",
         "season": "LATEST_SEASON",
         "enabled": false
+    },
+    {
+        "id": "hvem_skjoet_balder",
+        "title": "Hvem skjøt Balder?",
+        "season": null,
+        "enabled": true
     },
     {
         "id": "hvordan_moettes_dere_",
@@ -807,7 +813,7 @@
         "id": "mysterier_fra_norge",
         "title": "Mysterier fra Norge",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "natt_til_loerdag",
