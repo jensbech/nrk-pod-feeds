@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Mar 2026 03:57:39 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:57:46 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Signalfarge - Helene Langeland</title>
+      <description><![CDATA[Det våres - mer og mer, dag for dag - og ute begynner sesongens signalfarger å dukke opp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/9b695334-cfae-4b50-a953-34cfaeeb505a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/9b695334-cfae-4b50-a953-34cfaeeb505a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:04</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QmQZ1zV-heNIeID1TvUDhg4onSucFrQ32IeBPA8ut7bw.jpg"/>
+    </item>
     <item>
       <title>Gripehjerte - Helene Langeland</title>
       <description><![CDATA[Et gripehjerte i en urolig hånd, kan være forløsende, god medisin, og en spire til en god samtale.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/8aeb6d64-380d-464c-ab6d-64380d264c0f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:30</itunes:duration>
       <pubDate>Wed, 31 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z2vpHJ_pYETlYejROOTHYw9AmFr0mBDFrlVupZ3vPgmw.jpg"/>
-    </item>
-    <item>
-      <title>Diagnose - Ingjerd Egeberg</title>
-      <description><![CDATA[Alle er vel litt egoistiske. På forskjellige måter. Ingjerd Egeberg har lagt sin egen egoisme fram for sjølgranskning.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5dd04705-3203-4d48-9047-0532034d48df_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/5dd04705-3203-4d48-9047-0532034d48df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:12</itunes:duration>
-      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Z2vpHJ_pYETlYejROOTHYw9AmFr0mBDFrlVupZ3vPgmw.jpg"/>
     </item>
   </channel>

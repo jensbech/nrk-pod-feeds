@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Mar 2026 03:58:09 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Mar 2026 13:10:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:59:04 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 14:40:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Daniel Kjellgren</title>
+      <description><![CDATA[-  Det var en form for onani, sier ultraløperen om kraftanstrengelsen fra Sør-Spania til Nordkapp .]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ca47e9f-895e-44b4-a47e-9f895e94b4c8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ca47e9f-895e-44b4-a47e-9f895e94b4c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 14:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yw23aHrJTvnLmm-UivNVSwSsYkbSLzdlfFwd-WP_kCtw.jpg"/>
+    </item>
     <item>
       <title>Eva B. Ragde</title>
       <description><![CDATA[- Jeg kan ha med meg et åsted i nesen i flere dager etterpå, forteller kriminalteknikeren]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>57:22</itunes:duration>
       <pubDate>Tue, 25 Nov 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/t7-R65C9QiUvuD2HN8a8PwxpwS-Op9CQoeZ_3DyLQbKQ.jpg"/>
-    </item>
-    <item>
-      <title>Erik Solbakken</title>
-      <description><![CDATA[– Jeg kom seilende inn som smiske-prinsen, sier programlederen om den første tiden i NRK.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/b84fd520-14d4-4d25-8fd5-2014d4bd25b4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/b84fd520-14d4-4d25-8fd5-2014d4bd25b4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:16</itunes:duration>
-      <pubDate>Mon, 24 Nov 2025 12:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uEzPdlY3vndB04UyVpkqQgIG5ffBy2VE4ihMgEVh64Ng.jpg"/>
     </item>
   </channel>
 </rss>

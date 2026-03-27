@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Mar 2026 03:57:55 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Mar 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:58:10 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 18:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norges bank varsler renteøkning i år</title>
+      <description><![CDATA[Prisveksten skaper trøbbel for Norges Bank. Det kan bli rentehevinger på et av de nærmeste rentemøtene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/06a71292-f22a-4698-a712-92f22af69818_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/06a71292-f22a-4698-a712-92f22af69818_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 18:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/popfFJ19IqbMtQ8ppsKRqwDi_wHcGqSy6Fpp4dBHR9tQ.jpg"/>
+    </item>
     <item>
       <title>Avgiftskutt på diesel og bensin</title>
       <description><![CDATA[Stortinget hastebehandler avgiftskutt torsdag.]]></description>
@@ -454,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5zw8YFzW6ru9S4TdW5YIMgirOvkHDitdGdw433X2a1vw.jpg"/>
-    </item>
-    <item>
-      <title>Machado møter Trump</title>
-      <description><![CDATA[Donald Trump tar i dag imot fredsprisvinner Maria Corina Machado i Det hvite hus. Hva betyr det for Venezuelas fremtid?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/25aca40d-ce8d-4c33-aca4-0dce8d1c3374_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/25aca40d-ce8d-4c33-aca4-0dce8d1c3374_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:50</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PiipIdsN9LoNM26doP7y6Qo14x_NlyXhNiVeeO2G9aIQ.jpg"/>
     </item>
   </channel>
 </rss>

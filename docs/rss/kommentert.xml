@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Mar 2026 03:51:15 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Mar 2026 15:49:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:00:07 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 16:28:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Dramatisk bensinkrangel: – Har felt regjering før</title>
+      <description><![CDATA[Prisene på bensin og diesel har ført til et politisk drama, og mange partier vil nå gjøre drivstoff billigere. Men er det lurt?
+Og i Danmark sitter en piperøykende mann og smiler: Han bestemmer hvem landets neste statsminister blir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/2d51a25e-6517-45a4-91a2-5e651745a443_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/2d51a25e-6517-45a4-91a2-5e651745a443_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:00</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 16:28:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3RXWF7mszWchn_z4cIRZNAdDZsZJlJbt4PomDDfSzjnw.jpg"/>
+    </item>
     <item>
       <title>Har Donald Trump diktet opp fredsforslag?</title>
       <description><![CDATA[Donald Trump sier USA har hatt gode og produktive samtaler med Iran. Men, Iran sier at de ikke har snakket sammen. Og mens det skjer holder verdensøkonomien pusten.]]></description>
@@ -486,15 +496,6 @@ Og Norge har aldri nådd et klimamål uten kvotekjøp. Hvorfor bruke masse penge
       <itunes:duration>35:52</itunes:duration>
       <pubDate>Thu, 12 Jun 2025 14:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/m7SCo-oi8eyXrr5ZQOoVswfBQdIhuRzZGNadAAA8dmpQ.jpg"/>
-    </item>
-    <item>
-      <title>Krise i Høyre: Kan Erna Solberg fikse dette?</title>
-      <description><![CDATA[Kan Erna Solberg snu Høyres elendige målinger frem mot valget? Kokain havner ikke på rullebladet, hva ligger egentlig i den nye rusreformen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/220d7439-0fe2-4ab0-a8dc-f79850c8d0eb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/220d7439-0fe2-4ab0-a8dc-f79850c8d0eb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:28</itunes:duration>
-      <pubDate>Thu, 05 Jun 2025 13:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kyhs8a3gTv4tEzu6d9Zr8AYvBXxUaTrFWfyy0gyqESaA.jpg"/>
     </item>
   </channel>
 </rss>

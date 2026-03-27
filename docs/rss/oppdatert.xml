@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Mar 2026 03:59:44 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:01:27 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Hizbollah: Dette er Israels berykta fiende</title>
+      <description><![CDATA[Verdens mektigste milits har meldt seg på krigen i Midtøsten. Det har fått konsekvenser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/32e89a31-475c-4ef8-a89a-31475ceef8ef_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/32e89a31-475c-4ef8-a89a-31475ceef8ef_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:40</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j-lZw7wourvlpKqV1POAdQUEg4wgu9vOWJ-2vV0Ub5dA.jpg"/>
+    </item>
     <item>
       <title>Kerstin (33) døde i Alpene: Har kjæresten skylden?</title>
       <description><![CDATA[En kvinne ble forlatt hengende i et tau i fjellveggen. Nå har saken vært oppe i retten.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>21:22</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QdHzqW1W5qD3EGtaj1bCOgOM2R9BMt6l8k1yl71-VIQA.jpg"/>
-    </item>
-    <item>
-      <title>Drapet på Tina (33): En varslet katastrofe?</title>
-      <description><![CDATA[Tobarnsmoren Tina Milena Solberg ble funnet drept i en utbrent bil i januar 2024. Nå er eks-samboeren dømt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/66836316-0443-4779-8363-1604438779d4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/66836316-0443-4779-8363-1604438779d4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:21</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_4g2znp12uxApJkG9rmJhQNClyDLi0VnKaFCgoG8Un8w.jpg"/>
     </item>
   </channel>
 </rss>
