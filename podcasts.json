@@ -987,7 +987,7 @@
         "id": "radiodokumentaren",
         "title": "Historier fra virkeligheten",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "radiolegen",
