@@ -8,10 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:21:47 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Sep 2024 06:06:00 +0200</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:52:08 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:04:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g.jpg"/>
+    <item>
+      <title>Bensinstasjonen i Ålen</title>
+      <description><![CDATA[Det skjer rare ting på Statoil. Hvem legger potetgull i fryseren, og skrur av sikringer? Overvåkningskameraene viser ingenting.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/69a0d7a6-2243-4f5c-a0d7-a62243af5cfe_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/69a0d7a6-2243-4f5c-a0d7-a62243af5cfe_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:28</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AW4kp1xEh4dYFy5LTGxbzAhfq3POVv0Way06BrQm5ueA.jpg"/>
+    </item>
+    <item>
+      <title>Kvinnen som snakket med de døde</title>
+      <description><![CDATA[Ingeborg Køber er spiritismens superstjerne. Men når faren dør, vekkes mistanken: Drepte hun ham? Og er evnene hennes bare juks?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/2a763a53-8045-4e75-b63a-538045ae7503_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/2a763a53-8045-4e75-b63a-538045ae7503_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:33</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/McB9kC9a8jLile3vZdSO_QkfFm62DFNRO8Zdftqx06hA.jpg"/>
+    </item>
+    <item>
+      <title>Ormsteinen</title>
+      <description><![CDATA[Når veiarbeidere skal fjerne en svær stein, blir det uro i bygda. Advarselen lyder: De som sprenger Ormsteinen, lever ikke lenge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/3b55e352-edb4-4d04-95e3-52edb4ed040b_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/3b55e352-edb4-4d04-95e3-52edb4ed040b_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:23</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W17WaHxvXPU5oD3pdjJAcAioOpoYEUbToiq1MkQxPdkA.jpg"/>
+    </item>
+    <item>
+      <title>Forliset i mørket</title>
+      <description><![CDATA[Fiskebåten «Jøviktind» forsvinner utenfor Hammerfest i 1970. Ingen vet hva som har skjedd, men flere har en mistanke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/bf70298a-f043-46b2-b029-8af043c6b2de_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/bf70298a-f043-46b2-b029-8af043c6b2de_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:53</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ogYcwl-CccoBQO5zSH-jEQVwFQkXlvGXqBfHL0eYm2wQ.jpg"/>
+    </item>
+    <item>
+      <title>Likene i myra</title>
+      <description><![CDATA[En mann graver i myra og finner ei død jente med rødt hår. Rundt henne ligger flere lik. Hvordan havnet de her?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/afe4f950-49b3-43b1-a4f9-5049b353b116_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/afe4f950-49b3-43b1-a4f9-5049b353b116_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:50</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RntZ6I82QPTkak4minharQmgNQzIPZPJgYGlXAXLE6_g.jpg"/>
+    </item>
     <item>
       <title>Snåsamannens syn</title>
       <description><![CDATA[I 1980 forliser en guttegjeng på båttur i Lofoten. Redningsmannskapene er nære ved å gi opp, men så ringer de Snåsamannen.]]></description>
@@ -105,10 +150,7 @@ Denne episoden inneholder sterke scener.]]></description>
     </item>
     <item>
       <title>Den hjemsøkte barnehagen</title>
-      <description><![CDATA[En prest settes til å rense en barnehage som plages av et gjenferd.
-
-Et mysterium fra Vågå i Innlandet. 
-]]></description>
+      <description><![CDATA[En prest settes til å rense en barnehage i Vågå som plages av et gjenferd.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/fa82cbce-5d1b-46ed-b2ed-6dfe65842b3c_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/fa82cbce-5d1b-46ed-b2ed-6dfe65842b3c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:35</itunes:duration>
@@ -117,10 +159,7 @@ Et mysterium fra Vågå i Innlandet.
     </item>
     <item>
       <title>Huset som ikke ville brenne</title>
-      <description><![CDATA[Dagen før bybrannen i Ålesund får en mann et spesielt besøk, og han får en mystisk beskjed. 
-
-Et mysterium fra Ålesund i Møre og Romsdal. 
-]]></description>
+      <description><![CDATA[Dagen før bybrannen i Ålesund får en mann et spesielt besøk, og han får en mystisk beskjed.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/cb72c89a-df53-4a0c-9e03-3d91190f81d7_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/cb72c89a-df53-4a0c-9e03-3d91190f81d7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:23</itunes:duration>
@@ -129,10 +168,7 @@ Et mysterium fra Ålesund i Møre og Romsdal.
     </item>
     <item>
       <title>Demonveggen</title>
-      <description><![CDATA[En kirke er fylt opp av 2000 demoner. To forskere prøver å finne ut hvorfor. 
-
-Et mysterium fra Sauherad i Telemark
-]]></description>
+      <description><![CDATA[En kirke er fylt opp av 2000 demoner. To forskere prøver å finne ut hvorfor.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/565daa57-08a1-47cd-8058-237c75372097_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/565daa57-08a1-47cd-8058-237c75372097_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:41</itunes:duration>
@@ -141,9 +177,7 @@ Et mysterium fra Sauherad i Telemark
     </item>
     <item>
       <title>Lysene i Hessdalen (2:2)</title>
-      <description><![CDATA[Mediene går amok: Hessdals-mysteriet er løst. Eller er det? 
-
-Et mysterium fra Hessdalen i Trøndelag.]]></description>
+      <description><![CDATA[Mediene går amok: Hessdals-mysteriet er løst. Eller er det?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/7763c51f-6149-453a-90cf-8a732123eada_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/7763c51f-6149-453a-90cf-8a732123eada_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:02</itunes:duration>
@@ -152,9 +186,7 @@ Et mysterium fra Hessdalen i Trøndelag.]]></description>
     </item>
     <item>
       <title>Lysene i Hessdalen (1:2)</title>
-      <description><![CDATA[Hele landet ler av trønderne som sier de har ufo-er i dalen.
-
-Et mysterium fra Hessdalen i Trøndelag. ]]></description>
+      <description><![CDATA[Hele landet ler av trønderne som sier de har ufo-er i dalen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/e4380329-fd33-445b-b86d-f4d714752dda_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/e4380329-fd33-445b-b86d-f4d714752dda_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:41</itunes:duration>
@@ -163,9 +195,7 @@ Et mysterium fra Hessdalen i Trøndelag. ]]></description>
     </item>
     <item>
       <title>Politiets synske hjelper</title>
-      <description><![CDATA[Anna Elisabeth Westerlund løste flere saker for politiet. Var hun synsk?
-
-Et mysterium fra Bergen i Vestland.]]></description>
+      <description><![CDATA[Anna Elisabeth Westerlund løste flere saker for politiet. Var hun synsk?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/7d018957-c6c6-4c35-956a-e4283e16e425_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/7d018957-c6c6-4c35-956a-e4283e16e425_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:08</itunes:duration>
@@ -174,9 +204,7 @@ Et mysterium fra Bergen i Vestland.]]></description>
     </item>
     <item>
       <title>Seljordsormen</title>
-      <description><![CDATA[I 270 år har et ormeaktig vesen blitt observert i Seljordsvatnet. 
-
-Et mysterium fra Seljord i Telemark.]]></description>
+      <description><![CDATA[I 270 år har et ormeaktig vesen blitt observert i Seljordsvatnet.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/360455f9-7228-40dd-a422-4dfca1d06d11_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/360455f9-7228-40dd-a422-4dfca1d06d11_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:58</itunes:duration>
@@ -185,9 +213,7 @@ Et mysterium fra Seljord i Telemark.]]></description>
     </item>
     <item>
       <title>Ørnerovet</title>
-      <description><![CDATA[Ei tre år gammel jente forsvinner. Har hun blitt tatt av ørna?
-
-Et mysterium fra Leka i Trøndelag.]]></description>
+      <description><![CDATA[Ei tre år gammel jente forsvinner fra Leka i Trøndelag. Har hun blitt tatt av ørna?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/3f70748d-c3b0-4822-9807-bd98cfbb7ee7_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/3f70748d-c3b0-4822-9807-bd98cfbb7ee7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:24</itunes:duration>
@@ -196,9 +222,7 @@ Et mysterium fra Leka i Trøndelag.]]></description>
     </item>
     <item>
       <title>Fotballforbannelsen (2:2)</title>
-      <description><![CDATA[En 20 år gammel, blodig hemmelighet kommer ut. Tåler den dagens lys?
-
-Et mysterium fra Tromsø.]]></description>
+      <description><![CDATA[En 20 år gammel, blodig hemmelighet kommer ut. Tåler den dagens lys?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/d8b87c94-66b3-450d-a346-fb83864807ed_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/d8b87c94-66b3-450d-a346-fb83864807ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:47</itunes:duration>
@@ -207,9 +231,7 @@ Et mysterium fra Tromsø.]]></description>
     </item>
     <item>
       <title>Fotballforbannelsen (1:2)</title>
-      <description><![CDATA[En forbannelse kastes over Tromsø IL. Treneren må ta et umulig valg. 
-
-Et mysterium fra Tromsø.]]></description>
+      <description><![CDATA[En forbannelse kastes over Tromsø IL. Treneren må ta et umulig valg.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/74676063-f360-4e9f-a7eb-7356ea684651_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/74676063-f360-4e9f-a7eb-7356ea684651_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:05</itunes:duration>
@@ -218,10 +240,7 @@ Et mysterium fra Tromsø.]]></description>
     </item>
     <item>
       <title>Ufo-ringen</title>
-      <description><![CDATA[Blinkende lys på himmelen. En knurrende hund. En dyp ring i landskapet. Flere er overbevist om at en ufo har landa på øya.
-
-Et mysterium fra Espevær i Vestland. 
-]]></description>
+      <description><![CDATA[Blinkende lys på himmelen. En knurrende hund. En dyp ring i landskapet. Flere er overbevist om at en ufo har landa på øya.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/2b117c14-17fe-47fb-a9de-f39721c4b86d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/2b117c14-17fe-47fb-a9de-f39721c4b86d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:13</itunes:duration>
@@ -230,9 +249,7 @@ Et mysterium fra Espevær i Vestland.
     </item>
     <item>
       <title>Den kongelige hodeskallen</title>
-      <description><![CDATA[Hodet til kong Sigurd Jorsalfare viser seg å være noe annet enn hva man hadde trodd.
-
-Et mysterium fra Oslo. ]]></description>
+      <description><![CDATA[Hodet til kong Sigurd Jorsalfare viser seg å være noe annet enn hva man hadde trodd.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/678672cc-8ba6-4b50-8ea3-342266a575e4_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/678672cc-8ba6-4b50-8ea3-342266a575e4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:18</itunes:duration>
@@ -241,10 +258,7 @@ Et mysterium fra Oslo. ]]></description>
     </item>
     <item>
       <title>Dødsforliset</title>
-      <description><![CDATA[I 1760 omkommer 120 russere i et blodig skipsforlis utenfor Trøndelagskysten. Eller - blir de brutalt drept av lokalbefolkningen, som så plyndrer vraket? 
-
-Et mysterium fra Hitra i Trøndelag. 
-]]></description>
+      <description><![CDATA[I 1760 omkommer 120 russere i et blodig skipsforlis utenfor Trøndelagskysten. Eller - blir de brutalt drept av lokalbefolkningen, som så plyndrer vraket?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/72566f94-0914-47b0-9efa-9b5c6a0fcf14_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/72566f94-0914-47b0-9efa-9b5c6a0fcf14_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:25</itunes:duration>
@@ -253,10 +267,7 @@ Et mysterium fra Hitra i Trøndelag.
     </item>
     <item>
       <title>Mumien i nabohytta</title>
-      <description><![CDATA[Et mumifisert lik ligger urørt på et hyttegulv, men ingen er meldt savnet. Flere år senere titter noen inn døra, og får seg en overraskelse.
-
-Et mysterium fra Fauske i Nordland.
-]]></description>
+      <description><![CDATA[Et mumifisert lik ligger urørt på et hyttegulv, men ingen er meldt savnet. Flere år senere titter noen inn døra, og får seg en overraskelse.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/9d090072-f6d0-4c0c-8197-f7ec6b23e40d_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/9d090072-f6d0-4c0c-8197-f7ec6b23e40d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:22</itunes:duration>
@@ -265,9 +276,7 @@ Et mysterium fra Fauske i Nordland.
     </item>
     <item>
       <title>Byheksa</title>
-      <description><![CDATA[Høsten 1981 terroriseres nordmøringer av “den grønne dame”. Den avskyelige skikkelsen skremmer vannet av folk i byen. Så forsvinner hun brått. 
-
-Et mysterium fra Kristiansund i Møre og Romsdal.]]></description>
+      <description><![CDATA[Høsten 1981 terroriseres nordmøringer av “den grønne dame”. Den avskyelige skikkelsen skremmer vannet av folk i byen. Så forsvinner hun brått.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/444bb153-77a8-4e80-9bae-9242d14e25c9_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/444bb153-77a8-4e80-9bae-9242d14e25c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:32</itunes:duration>
@@ -276,9 +285,7 @@ Et mysterium fra Kristiansund i Møre og Romsdal.]]></description>
     </item>
     <item>
       <title>Munken i Nidarosdomen</title>
-      <description><![CDATA[Flere hevder de har sett et spøkelse gå igjen i Nidarosdomen. Men kan man tro på dem?
-
-Et mysterium fra Trondheim i Trøndelag.]]></description>
+      <description><![CDATA[Flere hevder de har sett et spøkelse gå igjen i Nidarosdomen. Men kan man tro på dem?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/710e01e1-eff7-42f6-b7dc-c21a95b7962f_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/710e01e1-eff7-42f6-b7dc-c21a95b7962f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:51</itunes:duration>
@@ -287,10 +294,7 @@ Et mysterium fra Trondheim i Trøndelag.]]></description>
     </item>
     <item>
       <title>Offersteinen</title>
-      <description><![CDATA[En hellig, samisk offerstein blir knust i forbindelse med veiarbeid. Så begynner uhellene å skje. 
-
-Et mysterium fra Porsanger i Finnmark. 
-]]></description>
+      <description><![CDATA[En hellig, samisk offerstein blir knust i forbindelse med veiarbeid. Så begynner uhellene å skje.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/2e66a936-2800-4d70-a5e8-6775facb5fb3_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/2e66a936-2800-4d70-a5e8-6775facb5fb3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:39</itunes:duration>
@@ -299,8 +303,7 @@ Et mysterium fra Porsanger i Finnmark.
     </item>
     <item>
       <title>Mannbjørnen</title>
-      <description><![CDATA[En morderisk bjørn herjer på Nordmøre. Mennesker spises levende. Men er historien sann, eller er det bare en skrøne?
-Et mysterium fra Bøfjorden i Møre og Romsdal. ]]></description>
+      <description><![CDATA[En morderisk bjørn herjer på Nordmøre. Mennesker spises levende. Men er historien sann, eller er det bare en skrøne?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/mysterier_fra_norge/1ee3a817-e441-478e-85c3-43a2658f22a3_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/1ee3a817-e441-478e-85c3-43a2658f22a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:16</itunes:duration>

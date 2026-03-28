@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 22 Mar 2026 03:50:03 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:51:58 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ.jpg"/>
+    <item>
+      <title>Spør Monsen #2: Spøkelser og flammer i teltet</title>
+      <description><![CDATA[Blir det øks eller sag, om Lars må velge én? Lytter Hans-Inge spør også om spøkelser i naturen, og Kristian får et grundig krasjkurs i det å varme opp et telt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/910527bb-6d24-4244-8527-bb6d24d2446a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/910527bb-6d24-4244-8527-bb6d24d2446a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:37</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ.jpg"/>
+    </item>
     <item>
       <title>Nærmere dyra med fotograf Arne</title>
       <description><![CDATA[– Det var en katastrofe, sier naturfotografen Arne Nævra om den ene gangen han ikke slo på kamera.]]></description>

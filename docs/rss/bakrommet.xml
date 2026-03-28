@@ -8,12 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Mar 2026 03:48:36 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 19:52:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:48:58 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 02:37:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     <item>
-      <title>På landslagssamling</title>
+      <title>Første tap på 530 dager</title>
+      <description><![CDATA[Etter en lang rekke kamper uten tap, tapte Norge mot Nederland borte. 
+Hvorfor taper vi? Hva var det som var bra og hva sier kampen om VM-formen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/403955ca-71d6-4b89-b955-ca71d67b8904_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/403955ca-71d6-4b89-b955-ca71d67b8904_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:37</itunes:duration>
+      <pubDate>Sat, 28 Mar 2026 02:37:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
+    </item>
+    <item>
+      <title>Haaland ute - hva skjer?</title>
       <description><![CDATA["Babylykke for Ajer.  Er Haaland hos en lege i Spania og hva syns vi om de nye draktene?  Fotball-VM nærmer seg og landslagssjef Ståle Solbakken samler troppen sin til treningsleir før de skal møte Nederland og Sveits. Og der er selvfølgelig Bakrommet på plass. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/1b2bda4d-9036-42f9-abda-4d9036f2f9e5_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/1b2bda4d-9036-42f9-abda-4d9036f2f9e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>

@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:46:57 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 18:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:53:57 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 18:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Platedate med Viggo Valle og Torfinn Borkhus</title>
+      <description><![CDATA[Viggo Valle lagde påskequiz på radio i 37 år, men nå har han overlevert Påskelabyrinten til Torfinn Borkhus. Quiz-legender møtes til platedate.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/e7666100-85f6-41b1-a661-0085f6b1b139_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/e7666100-85f6-41b1-a661-0085f6b1b139_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 18:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    </item>
     <item>
       <title>Platedate med Andreas Wahl og Torkild Jemterud</title>
       <description><![CDATA[Andreas Wahl og Torkild Jemterud er programledere i Forskningsfronten, men aner ikke noe om hverandres musikksmak. Likevel skal de gi hverandre en musikalsk gave.. faller den i smak, tro?]]></description>
@@ -456,15 +465,6 @@ Lea Myren spiller i premiereklare "Den Stygge Stesøsteren".]]></description>
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Fri, 17 Jan 2025 18:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
-    </item>
-    <item>
-      <title>Platedate med Thomas "Fingeren" Gullestad og Tayo Cittadella Jacobsen</title>
-      <description><![CDATA[Tayo Cittadella Jacobsen og Thomas Gullestad er aktuelle i filmen Kjærlighet, og i dag er de gjester i Platedate, der de utveksler de musikk i flere kategorier. Blant annet en skikkelig flau en, om da spilleglade Thomas Goldfinger Gullestad miksa over  LIVE- opptredenen til de Lillos i San Fransisco]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/55091f1c-1ce2-46ce-b2d6-bd957214961a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/55091f1c-1ce2-46ce-b2d6-bd957214961a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Fri, 10 Jan 2025 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JHMkpw6YIGKPQ268gBWUkQgnBRm4E6x_ri4K3QJtvLbg.jpg"/>
     </item>
   </channel>
 </rss>

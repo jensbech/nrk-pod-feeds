@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:36:30 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Mar 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:50:41 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Gjør vi for lite narr av Trump?</title>
+      <description><![CDATA[Sosiale medier, norske landslagsdrakter og Donald Trump.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/0c49dcd0-957d-4702-89dc-d0957df702db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/0c49dcd0-957d-4702-89dc-d0957df702db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:15</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Hvor mange oscarstatuetter får Affeksjonsverdi?</title>
       <description><![CDATA[Oscar, Timothee Chalamet - og innholdstips til lærerne]]></description>
@@ -524,17 +533,6 @@ sitter i dagens panel]]></description>
       <itunes:duration>15:19</itunes:duration>
       <pubDate>Fri, 07 Feb 2025 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_DmZt5Z9lSA-_gGQVaH3PwfR1dX5yWoAdXRuWnF5QyNQ.jpg"/>
-    </item>
-    <item>
-      <title>Kinesisk KI, Netflix og politisk teater</title>
-      <description><![CDATA[Panel:  Maja Sojatric - politisk redaktør i Nordlys, Ivo de Figueiredo - forfatter og Tani Dibasey - skuespiller og regissør.
-
-Vil dere stole på kunstig intelligens fra Kina? Har Netflix fått for mye makt over norske filmer? Har Ap og Sp bare Var det bare spilt politisk teater?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/ef934835-1608-4135-8bb0-713fd7568576_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/ef934835-1608-4135-8bb0-713fd7568576_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:09</itunes:duration>
-      <pubDate>Fri, 31 Jan 2025 08:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
 </rss>

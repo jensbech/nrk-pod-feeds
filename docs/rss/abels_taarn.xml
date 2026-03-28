@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Mar 2026 03:57:27 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:48:48 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    <item>
+      <title>Gjør fullmånen deg søvnløs?</title>
+      <description><![CDATA[Det sies veldig ofte at vår drabant påvirker oss. Er det helt sant?
+Send inn dine spørsmål til vårt svært kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/31eaab78-d398-421b-aaab-78d398421bae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/31eaab78-d398-421b-aaab-78d398421bae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:36</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/46dW_NeQn8AOSUjBO3SFJwfAaoyJGZcYdFbascpIKkrw.jpg"/>
+    </item>
     <item>
       <title>FF: Kanskje katta di er en spion</title>
       <description><![CDATA[Forskere har testet katter som CIA-agenter. Andre hvordan antimaterie kan fraktes med bil. Abelprisen er delt ut , og en ny pris til forskere som innrømmer feil]]></description>
@@ -479,15 +489,6 @@ Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></
       <itunes:duration>57:21</itunes:duration>
       <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Derfor klarer vi ikke slutte å scrolle</title>
-      <description><![CDATA[Det finnes en sammenheng mellom scrolling og fomo, et nytt kunstig nevron som ligner en ekte hjernecelle og grunnen til at vi kysser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/aa402730-fc6f-4b7f-8027-30fc6fab7fdf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/aa402730-fc6f-4b7f-8027-30fc6fab7fdf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:07</itunes:duration>
-      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XF-amiPOyqhWMnwkp55UwQNu3nBsL67wCporYlOx2khg.jpg"/>
     </item>
   </channel>
 </rss>

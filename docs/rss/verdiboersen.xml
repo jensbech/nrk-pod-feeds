@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Mar 2026 03:55:50 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:54:41 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Profeten og den syke gutten</title>
+      <description><![CDATA[Forteller bibelteksten om en 2500 år gammel forbrytelse?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5958ccae-8b38-42a3-98cc-ae8b3892a339_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5958ccae-8b38-42a3-98cc-ae8b3892a339_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:27</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XE7Agi87PFzih6-dHlF2uQPxsEvHkMWZ3h8KHMPoSa3g.jpg"/>
+    </item>
     <item>
       <title>Hva betyr "Gud er død"?</title>
       <description><![CDATA[I denne serien forklarer filosof Kaja Melsom kjente ord og utrykk. Hva mente som Nietzsche med "Gud er død"?]]></description>
@@ -459,15 +468,6 @@ Gjenhør fra 27.09.25]]></description>
       <itunes:duration>38:39</itunes:duration>
       <pubDate>Mon, 08 Sep 2025 09:20:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VkGSteVMus2MJEfOc5ds3QV2Go-Syi-3xIpxa6PAbyLQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan tenkte vikingene?</title>
-      <description><![CDATA[Hevn og ære - og magi. Vikingenes verden var annerledes, og helt ille hvis du var trell.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/9419e86c-acfe-41c5-99e8-6cacfe31c5e6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9419e86c-acfe-41c5-99e8-6cacfe31c5e6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:01</itunes:duration>
-      <pubDate>Thu, 04 Sep 2025 08:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZNSw9-7NG2DcON2iSB7jsAP3nCgv2t89fg6LY-2DurLQ.jpg"/>
     </item>
   </channel>
 </rss>

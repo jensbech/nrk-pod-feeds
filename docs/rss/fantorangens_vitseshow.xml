@@ -11,10 +11,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:18:02 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:50:24 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    <item>
+      <title>Prompefest</title>
+      <description><![CDATA[Hvem lager alle prompelydene? Klarer du å gjette lyden før Pivi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/7a0a2eda-656d-49dd-8a2e-da656d29ddd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/7a0a2eda-656d-49dd-8a2e-da656d29ddd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:05</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
+    <item>
+      <title>Bæsj eller bilkræsj?</title>
+      <description><![CDATA[Fantorangen og Pivi finner på «Alle barna»-vitser. Hvorfor lukter snømannen gulrot?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/aadb55cf-c163-4fc9-9b55-cfc1630fc96a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/aadb55cf-c163-4fc9-9b55-cfc1630fc96a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:30</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
     <item>
       <title>Dingdong og busemenn</title>
       <description><![CDATA[Hvem er fru Kompe? Hvor gammel blir en stein?  Og enda flere «Alle barna»- vitser.]]></description>

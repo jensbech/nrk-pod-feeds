@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:01:58 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 03:52:57 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Nye milliarder til Forsvaret</title>
+      <description><![CDATA[Snaut 1700 milliarder til Forsvaret var ikke nok. I dag legger regjeringen nye milliarder på bordet. Men holder det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/eec6093b-9dfa-4a49-8609-3b9dfaca493b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/eec6093b-9dfa-4a49-8609-3b9dfaca493b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:57</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Oo8SowQ9zodwd2MeJC7EgQYA_aA5D7cyc135SMyMYQKg.jpg"/>
+    </item>
     <item>
       <title>Politisk pumpekaos</title>
       <description><![CDATA[Brått har partia bodkrig om senking av drivstoffavgiftene. Har dei blitt einige i løpet av natta?]]></description>
@@ -472,15 +481,6 @@ Men hvem tjener på det?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OUxIfisRfs-NDXHV03dregr_4GEzjSnwDQuLYXEZlj8w.jpg"/>
-    </item>
-    <item>
-      <title>SV-lederen om kritikken</title>
-      <description><![CDATA[SV-leder Kirsti Bergstø svarer på kritikken om dårlig styring, ultimatumet og utydelige løsninger i en intern evalueringsrapport.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/96350e68-0bf7-46bf-b50e-680bf786bfc7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/96350e68-0bf7-46bf-b50e-680bf786bfc7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 08:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uiLnz8gE9sY9MIcFjB4DjQaPL1s4iuZqQ6j6UO0VFQUQ.jpg"/>
     </item>
   </channel>
 </rss>
