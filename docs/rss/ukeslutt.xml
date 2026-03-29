@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 22 Mar 2026 03:50:59 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Mar 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 04:01:24 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Fjerner drivstoffavgifter</title>
+      <description><![CDATA[Hvordan blir samarbeidet på venstresiden etter dette?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/a25acffa-cf61-413f-9acf-facf61013f1a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/a25acffa-cf61-413f-9acf-facf61013f1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:23</itunes:duration>
+      <pubDate>Sat, 28 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/THTRR7fIXZlA58Mx2Pzu2gElWmuDnc75MxlmBXjd-w6g.jpg"/>
+    </item>
     <item>
       <title>Brannen i Ålesund</title>
       <description><![CDATA[Terrengbrannen i Ålesund vekker gamle minner om storbrannen i 1904, men dette ble en historie om beredskap som fungerte, sier redaktør.]]></description>
@@ -468,15 +477,6 @@ Til oss kommer også den rykende ferskende LO-lederen, og vi skal i tillegg inno
       <itunes:duration>57:23</itunes:duration>
       <pubDate>Sat, 05 Apr 2025 14:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y9Ra1qAVCKMHFe8VUpr0NwD4BBBA3iZgtSf4GicmjL8A.jpg"/>
-    </item>
-    <item>
-      <title>Bare et tastetrykk..</title>
-      <description><![CDATA[.. og vips har du sendt feil beskjed til feil person-  eller invitert fremmede inn i samtalen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/76a8bd87-d521-42af-98f4-f68095ae1757_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/76a8bd87-d521-42af-98f4-f68095ae1757_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:55</itunes:duration>
-      <pubDate>Sat, 29 Mar 2025 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LszZRqq5_zP-kCtfA_EKVgqiYIKxOb3gJp3ROw1DWNDA.jpg"/>
     </item>
   </channel>
 </rss>

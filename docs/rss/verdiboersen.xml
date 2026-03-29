@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:54:41 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 04:01:41 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Før Norge gikk under</title>
+      <description><![CDATA[Erik Valkendorf var den danske kongens mann. Han skulle ordne opp med egenrådige nordmenn,
+Men i Norge møter han den evige kongen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/7a37ff07-c205-476e-b7ff-07c205d76ebb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7a37ff07-c205-476e-b7ff-07c205d76ebb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:22</itunes:duration>
+      <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZVO8MMGI2GbreIcptiR4wwUYkR77O_1CldvKbknnByGQ.jpg"/>
+    </item>
     <item>
       <title>Profeten og den syke gutten</title>
       <description><![CDATA[Forteller bibelteksten om en 2500 år gammel forbrytelse?]]></description>
@@ -459,15 +469,6 @@ Gjenhør fra 27.09.25]]></description>
       <itunes:duration>12:24</itunes:duration>
       <pubDate>Thu, 18 Sep 2025 11:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/wnWbWEPr-xB1e-NOmFXfZgjct2Hki2ZdPTGz7-5LmCMw.jpg"/>
-    </item>
-    <item>
-      <title>Sadisme i Trumps USA</title>
-      <description><![CDATA[Å være slem er selve poenget. - Det vi ser er fascisme, sier historiker]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/3b71915c-1dc0-492a-b191-5c1dc0992a1a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/3b71915c-1dc0-492a-b191-5c1dc0992a1a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:39</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 09:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VkGSteVMus2MJEfOc5ds3QV2Go-Syi-3xIpxa6PAbyLQ.jpg"/>
     </item>
   </channel>
 </rss>
