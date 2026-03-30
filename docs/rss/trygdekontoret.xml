@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Mar 2026 03:51:10 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 04:04:39 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Kampen om Arktis</title>
+      <description><![CDATA[Hvorfor er Trump så interessert i Grønland? Og hva skjer med maktbalansen i verden når isen smelter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/e18d5cc7-75e5-419d-8d5c-c775e5619d23_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/e18d5cc7-75e5-419d-8d5c-c775e5619d23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:32</itunes:duration>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
     <item>
       <title>Konspirasjonsteorier</title>
       <description><![CDATA[Hva gjør du når en av dine nærmeste forsvinner ned i det konspiratoriske kaninhullet? Christine Rehn Jensen har skrevet boka "Mamma er konspirasjonsteoretiker".
@@ -459,15 +468,6 @@ Tall fra en 40-årig helseundersøkelse gir ikke bare mål på kroppens tilstand
       <itunes:duration>01:15:18</itunes:duration>
       <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
-    </item>
-    <item>
-      <title>Nymonarkisme i USA</title>
-      <description><![CDATA[Hvorfor drømmer Silicon Valley-milliardærer om å bli moderne konger i et irriterende demokrati? Med filosof Knut Jørgen Vie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/a82fa727-a301-48e6-a188-ec140d854ee7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a82fa727-a301-48e6-a188-ec140d854ee7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:17:34</itunes:duration>
-      <pubDate>Mon, 03 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MKjTBcTjPfCaCXXYbj0yEAEv-oq7AyG7ODrmA35r1Ieg.jpg"/>
     </item>
   </channel>
 </rss>

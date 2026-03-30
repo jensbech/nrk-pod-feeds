@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:48:48 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 04:02:07 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    <item>
+      <title>FF: "Project Hail Mary" på ekte</title>
+      <description><![CDATA[Solspisende bakterier som i sci-fi-filmen finnes neppe, men forskere har lagd noe som ligner. Cryosleep nærmer seg også mulig. Og kikerter kan dyrkes i månejord.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/aba5625d-6050-4159-a562-5d60503159af_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/aba5625d-6050-4159-a562-5d60503159af_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Gjør fullmånen deg søvnløs?</title>
       <description><![CDATA[Det sies veldig ofte at vår drabant påvirker oss. Er det helt sant?
@@ -479,16 +488,6 @@ Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></
       <itunes:duration>30:57</itunes:duration>
       <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
-    </item>
-    <item>
-      <title>Hvor kom energien til Big bang fra?</title>
-      <description><![CDATA[Hva fantes før begynnelsen på alt?
-Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/42398679-4165-47da-b986-794165b7da0c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/42398679-4165-47da-b986-794165b7da0c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:21</itunes:duration>
-      <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ.jpg"/>
     </item>
   </channel>
 </rss>

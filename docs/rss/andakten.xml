@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Mar 2026 03:57:46 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2026 04:02:20 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Palmesøndag - Thor Haavik</title>
+      <description><![CDATA[Vi går inn i den stille uken, mot bibelens store påskedrama. Hva ligger forut for dette - hvordan ser bakteppet ut?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c488c5ef-de6d-4bfb-88c5-efde6debfba9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/c488c5ef-de6d-4bfb-88c5-efde6debfba9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:09</itunes:duration>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Signalfarge - Helene Langeland</title>
       <description><![CDATA[Det våres - mer og mer, dag for dag - og ute begynner sesongens signalfarger å dukke opp.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/3b71e46d-bddd-4397-b1e4-6dbddda3976d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:33</itunes:duration>
       <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z2vpHJ_pYETlYejROOTHYw9AmFr0mBDFrlVupZ3vPgmw.jpg"/>
-    </item>
-    <item>
-      <title>Fargestifter - Ingjerd Egeberg</title>
-      <description><![CDATA[Noen har nyttårsforsetter hvert år, eller år om annet. Andre har det aldri - av prinsipp. For de er jo så vanskelig å holde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/8aeb6d64-380d-464c-ab6d-64380d264c0f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/8aeb6d64-380d-464c-ab6d-64380d264c0f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:30</itunes:duration>
-      <pubDate>Wed, 31 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Z2vpHJ_pYETlYejROOTHYw9AmFr0mBDFrlVupZ3vPgmw.jpg"/>
     </item>
   </channel>
