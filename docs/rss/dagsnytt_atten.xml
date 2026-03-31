@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:49:45 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 03:58:05 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Bør rentekriteriene endres?</title>
+      <description><![CDATA[Espen Nakstad stiller spørsmål ved om høye renter kan bidra til prisstigning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a1d69039-8129-4b4a-9690-3981292b4a12_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a1d69039-8129-4b4a-9690-3981292b4a12_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Mon, 30 Mar 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PbfoG2QCrBsrM9GHW5sbqw0IHly5nRZni7BylOCMNWLg.jpg"/>
+    </item>
     <item>
       <title>Varsler utsettelse av forsvarsatsinger.</title>
       <description><![CDATA[Regjeringen øker langtidsplanen for forsvaret med 115 milliarder kroner, men varsler utsettelse av flere store forsvarssatsinger]]></description>
@@ -454,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 20 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/441dgULOLS0LhsuiQywU7wVPF2tWMAOLmyCjh3EVm7Ow.jpg"/>
-    </item>
-    <item>
-      <title>Europas ledere samles for å svare på Trumps trusler</title>
-      <description><![CDATA[Føler ikke lenger en forpliktelse til å tenke utelukkende fred, siden jeg ikke fikk Nobels fredspris, skrev Donald Trump i SMS til statsminister Jonas Gahr Støre. Vanvittig, sier kommentator.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/68e48fe5-923d-45e2-a48f-e5923dd5e223_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/68e48fe5-923d-45e2-a48f-e5923dd5e223_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 19 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jtoVOEWMkYzmW-bN4du6QwfkrE73i_PtQYqYMyuH7UXw.jpg"/>
     </item>
   </channel>
 </rss>
