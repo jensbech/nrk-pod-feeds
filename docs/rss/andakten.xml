@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 30 Mar 2026 04:02:20 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:51:22 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Påskeuken - Thor Haavik</title>
+      <description><![CDATA[Det skjer mye dramatisk i påskefortellingen, også disse første dagene i uken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/13d0ec77-3320-4652-90ec-773320865231_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/13d0ec77-3320-4652-90ec-773320865231_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:24</itunes:duration>
+      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Palmesøndag - Thor Haavik</title>
       <description><![CDATA[Vi går inn i den stille uken, mot bibelens store påskedrama. Hva ligger forut for dette - hvordan ser bakteppet ut?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:35</itunes:duration>
       <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
-    </item>
-    <item>
-      <title>Kondolerer - Ingjerd Egeberg</title>
-      <description><![CDATA[Har du gått inn i året med forventning, eller er det noe du gruer deg til? Ingjerd Egeberg tenker på dem som imponerer henne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/3b71e46d-bddd-4397-b1e4-6dbddda3976d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/3b71e46d-bddd-4397-b1e4-6dbddda3976d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:33</itunes:duration>
-      <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z2vpHJ_pYETlYejROOTHYw9AmFr0mBDFrlVupZ3vPgmw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -11,10 +11,19 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:49:12 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 12:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:51:34 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Spøtta-spesial #9: Sydentur, mobbing og hooking i baren</title>
+      <description><![CDATA[Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/0c6cdb5d-b0ac-454d-acdb-5db0acc54d60_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/0c6cdb5d-b0ac-454d-acdb-5db0acc54d60_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:30</itunes:duration>
+      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Uheldig lapdance, hovedrollesyndrom og påskekrim</title>
       <description><![CDATA[Sofie har laget en påskekrim kun ved hjelp av eget hode. Det blir skummelt!
@@ -549,17 +558,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/f71e48aa-4a9d-4697-9e48-aa4a9db6971a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:01</itunes:duration>
       <pubDate>Tue, 07 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Skrekkfilm, interne vitser og Sofies første «date»</title>
-      <description><![CDATA[Sofie dater en ny fyr hver uke, men hvordan var hennes aller første date?
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/9031ff7e-b119-4f32-b1ff-7eb119cf3280_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/9031ff7e-b119-4f32-b1ff-7eb119cf3280_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:07</itunes:duration>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

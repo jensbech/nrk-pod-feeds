@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:51:49 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:52:43 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Oslo, din gamle hore!</title>
+      <description><![CDATA[Sandeep danser mens nabohuset brenner. Galvan har blitt voksen-allergiker. Abu er for én gangs skyld starstruck. Og vi har sett Harry Hole!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/651eba9a-8b8f-4feb-9eba-9a8b8fefeb66_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/651eba9a-8b8f-4feb-9eba-9a8b8fefeb66_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:09</itunes:duration>
+      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Ali-yrker ut, yrkesfag inn</title>
       <description><![CDATA[Galvan er den eneste som har gått salg og service. Tara tror bikkja ser på TV og en lytter blir ikke kvitt drømmen om en sugardaddy.]]></description>
@@ -454,15 +463,6 @@ og deler gladelig ut helseråd til alle som vil høre på - og i dette tilfellet
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e6f6b2bd-8d56-4712-b6b2-bd8d56a71215_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:35</itunes:duration>
       <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>2025-Eywa eller neiwa?</title>
-      <description><![CDATA[Tara, Galvan , Sandeep og Abu oppsummerer 2025.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/110d25c0-da02-444a-8d25-c0da02b44a3c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/110d25c0-da02-444a-8d25-c0da02b44a3c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:07</itunes:duration>
-      <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>
