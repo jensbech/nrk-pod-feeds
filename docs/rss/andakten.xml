@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:51:22 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:30:45 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Skjærtorsdag - Thor Haavik</title>
+      <description><![CDATA[Vi skal videre i bibelens påskefortelling. I dag handler det bl.a. om historiens kanskje mest kjente måltid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/dfefbf02-dc1d-4d4b-afbf-02dc1d2d4b24_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/dfefbf02-dc1d-4d4b-afbf-02dc1d2d4b24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:06</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Påskeuken - Thor Haavik</title>
       <description><![CDATA[Det skjer mye dramatisk i påskefortellingen, også disse første dagene i uken.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/5e038352-905b-4eac-8383-52905b2eac20_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:16</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
-    </item>
-    <item>
-      <title>Soloppgang - Helga Samset</title>
-      <description><![CDATA[En soloppgang - det er noe som skjer hver dag. Den samme sola som vi har fått lys fra til alle tider.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/fd7c0a07-4c0e-4f7a-bc0a-074c0e0f7ae7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/fd7c0a07-4c0e-4f7a-bc0a-074c0e0f7ae7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:35</itunes:duration>
-      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
     </item>
   </channel>

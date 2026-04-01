@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:51:26 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:31:36 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Vilma Andersson: 10-åringen som ble tatt (1)</title>
+      <description><![CDATA[En maskert mann drar en jente inn i en bil en sommerdag i 2019. Lokalsamfunnet advarer, men seks år senere blir han tatt med likdeler i kjøleskapet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/a318a085-c5a3-4f46-98a0-85c5a30f4621_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/a318a085-c5a3-4f46-98a0-85c5a30f4621_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:23</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QjD_dY70sLMKNkeukJ0U-QXh9jsn5-qtOuCIoj-PznaQ.jpg"/>
+    </item>
     <item>
       <title>Guthrie: Forsvinningssaken som ryster USA</title>
       <description><![CDATA[En mann med finlandshette og pistol dukket opp på et overvåkningskamera utenfor huset til TV-stjernens mor.]]></description>
@@ -166,7 +175,7 @@
       <itunes:image href="https://gfx.nrk.no/QaDxjdNs36YgvF0yRZmxTAXA0g3nX6vlKRWGXmOzy9QQ.jpg"/>
     </item>
     <item>
-      <title>Parteringsdrapet i Løten</title>
+      <title>Økse-drapet i Løten</title>
       <description><![CDATA[Drapet i en lavvo i Løten skal opp i retten denne uken. En kvinne har anket dommen på 16 års fengsel.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/d072dc93-1d29-495b-b2dc-931d29395ba2_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/d072dc93-1d29-495b-b2dc-931d29395ba2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -202,7 +211,7 @@
       <itunes:image href="https://gfx.nrk.no/jmIiPDxeEPnNltn7tf-PEwMvQ38K9ec7Hb51ckVrzp5A.jpg"/>
     </item>
     <item>
-      <title>Høiby-saken: Dette må du vite (1)</title>
+      <title>Høiby: Dette må du vite (1)</title>
       <description><![CDATA[Når Marius Borg Høiby møter i retten, er det første gang i historien et medlem av kongefamilien er tiltalt i en straffesak. Hva har skjedd, og hva skjer videre?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/ae2e044d-2dc3-41ca-ae04-4d2dc3a1cafa_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/ae2e044d-2dc3-41ca-ae04-4d2dc3a1cafa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>

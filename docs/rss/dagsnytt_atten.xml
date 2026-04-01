@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 31 Mar 2026 03:58:05 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Mar 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:31:04 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Sverige halverer matmomsen</title>
+      <description><![CDATA[Grensehandelen blomstrer, mens NHO er bekymret for norske butikker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b9e5313-b535-4452-9e53-13b535645262_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b9e5313-b535-4452-9e53-13b535645262_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 31 Mar 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DFEsY6k3O6H-BavZbqd5pQ4k0Pa9ojCtvEDmwE3zyeCQ.jpg"/>
+    </item>
     <item>
       <title>Bør rentekriteriene endres?</title>
       <description><![CDATA[Espen Nakstad stiller spørsmål ved om høye renter kan bidra til prisstigning.]]></description>
@@ -454,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>58:45</itunes:duration>
       <pubDate>Wed, 21 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MbH9RGNEzicab6lSV4bWnge5DP-8JtQsRdnmT68HDa7Q.jpg"/>
-    </item>
-    <item>
-      <title>Stoltenberg i Davos</title>
-      <description><![CDATA[Forholdet mellom Europa og Trump dominerer møtene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/675ee073-ad3e-41e5-9ee0-73ad3e81e5d5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/675ee073-ad3e-41e5-9ee0-73ad3e81e5d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 20 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/441dgULOLS0LhsuiQywU7wVPF2tWMAOLmyCjh3EVm7Ow.jpg"/>
     </item>
   </channel>
 </rss>

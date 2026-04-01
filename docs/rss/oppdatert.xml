@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:53:00 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Mar 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:32:27 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Skomysteriet i Salishhavet</title>
+      <description><![CDATA[Menneskeføtter skyller i land langs den nordamerikanske kysten. Hva er det som skjer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cb0b29d5-59b2-4cdf-8b29-d559b29cdf51_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cb0b29d5-59b2-4cdf-8b29-d559b29cdf51_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:34</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4pGzQlWl29GFTjFOrhr1fgjuSk30GHOlwpiE2RQRuRow.jpg"/>
+    </item>
     <item>
       <title>Filmen om Hind (5): Hvorfor vil noen sabotere den?</title>
       <description><![CDATA[Spillefilmen om jenta som ble drept har skapt debatt og spekulasjoner.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>19:57</itunes:duration>
       <pubDate>Thu, 22 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YhgDt85IZaC4Y81R6qReCAwDH_Vu4XUC5jTl2dXns8Xg.jpg"/>
-    </item>
-    <item>
-      <title>Trump truer Europa: Hva skjer nå?</title>
-      <description><![CDATA[Spørsmålet om Grønland har satt mektige allianser i spill. Nå trues flere europeiske land med straffetoll av Trump.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/4c0e77a0-2529-489e-8e77-a02529389ed5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/4c0e77a0-2529-489e-8e77-a02529389ed5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:20</itunes:duration>
-      <pubDate>Tue, 20 Jan 2026 20:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PGXwdgu9oXZ0J0q8dF4o5QowbaukFZhM2xEAr6TEK5ZA.jpg"/>
     </item>
   </channel>
 </rss>
