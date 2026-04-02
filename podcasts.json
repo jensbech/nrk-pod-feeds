@@ -555,7 +555,7 @@
         "id": "kompass",
         "title": "Kompass",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kongerekka",
@@ -1071,7 +1071,7 @@
         "id": "seriesnakk",
         "title": "Seriesnakk",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "sex_over_60",
