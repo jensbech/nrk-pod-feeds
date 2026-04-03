@@ -69,7 +69,7 @@
         "id": "bibelen",
         "title": "Bibelen",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "billis_og_bollos",
