@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:51:58 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 07:22:24 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ.jpg"/>
+    <item>
+      <title>"Lost" på vidda med naturforkjemper Marit</title>
+      <description><![CDATA[Låst inne en frossen Toyota Hi-Ace! Hundekjøring er definitivt ikke som andre sporter. Men Marit Beate Kasin er mest opptatt av hva hyttebygging gjør med norsk natur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/monsens_univers/5ac63506-219c-444e-8635-06219c344ee2_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5ac63506-219c-444e-8635-06219c344ee2_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:57</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3QNIgLj862CQF5IiOnL9XQ1PWN354t2RckUeZfgbY6_w.jpg"/>
+    </item>
     <item>
       <title>Spør Monsen #2: Spøkelser og flammer i teltet</title>
       <description><![CDATA[Blir det øks eller sag, om Lars må velge én? Lytter Hans-Inge spør også om spøkelser i naturen, og Kristian får et grundig krasjkurs i det å varme opp et telt.]]></description>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 29 Mar 2026 04:00:40 +0000</lastBuildDate>
-    <pubDate>Sat, 28 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 07:22:35 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Finsk homofobi</title>
+      <description><![CDATA[Fremmede droner, bomber nær oljeinstallasjoner og krangel om homofili og kristendom – hvordan går det egentlig med vår nordiske nabo i øst?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/23b02e7a-e3c7-472c-b02e-7ae3c7d72c77_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/23b02e7a-e3c7-472c-b02e-7ae3c7d72c77_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Krokodilletårer</title>
       <description><![CDATA[Hilde synes det danske valget er ko-ko, Åsa spør om Mette-Marits tårer er ekte, og Hassan blir matt av nye råd om kjønnsnøytralt språk.]]></description>
@@ -457,15 +466,6 @@ og har danskene – og kanskje vi alle - falt ned i kaninhullet?]]></description
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 01 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
-    </item>
-    <item>
-      <title>Europa har blitt dumpa</title>
-      <description><![CDATA[Trump vekker den nordiske kampånden, advokat kaller sovevoldtekt for vårt tiårs justismord, og dømt svensk forfatter nekter å gå i fengsel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8032c438-2334-4c00-a30e-caf630ab64dc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8032c438-2334-4c00-a30e-caf630ab64dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 22 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>
 </rss>
