@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:30:36 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:31:15 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    <item>
+      <title>FF: Salaten din kan inneholde antidepressiva</title>
+      <description><![CDATA[Planter suger opp medisiner fra avløpsvann. Kokain dobler risikoen for hjerneslag, og forskere har funnet opp selvreparerende plast]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f19bc4b2-c5d3-4355-9bc4-b2c5d37355f2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f19bc4b2-c5d3-4355-9bc4-b2c5d37355f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:56</itunes:duration>
+      <pubDate>Mon, 06 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Kvantehistorier (10:10) - QBism og bevisthetskollaps</title>
       <description><![CDATA[Flere tolkninger!
@@ -482,16 +491,6 @@ Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></
       <itunes:duration>57:32</itunes:duration>
       <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/bMS_e-Cspuo2Ex0RnAfAOgyKre8wbx3DQWQ6mjy76-Xg.jpg"/>
-    </item>
-    <item>
-      <title>Forskningsfronten - Batman-effekten påvirker moralen din</title>
-      <description><![CDATA[Hva skjer med moralen din når noen i kostyme dukker opp? 
-Også på forskningsfronten: dette har hunder og mennesker til felles, og sånn klarer svartmetall-vokalister å synge uten å skade stemmen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/87da01a8-bfca-4665-9a01-a8bfcab665d5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/87da01a8-bfca-4665-9a01-a8bfcab665d5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:01</itunes:duration>
-      <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VB38uJRQ3GYpynLJUpa71wK6uFxLPWj_1mfuqzz_uiHA.jpg"/>
     </item>
   </channel>
 </rss>
