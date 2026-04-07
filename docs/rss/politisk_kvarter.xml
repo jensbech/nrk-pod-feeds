@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:32:38 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:31:45 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Tilgjeving for truslar</title>
+      <description><![CDATA[Mímir Kristjánsson sendte valdstruslar i fylla. 
+Raudt har allereie gått vidare. Er det rett å tilgje?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ae971127-d328-4c65-9711-27d328bc65ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ae971127-d328-4c65-9711-27d328bc65ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:13</itunes:duration>
+      <pubDate>Tue, 07 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ny5bzmhFNWKcN3_R5atDCwfw2uiVm8JIRiNnBTz9IlUA.jpg"/>
+    </item>
     <item>
       <title>Meir kraft!</title>
       <description><![CDATA[Men er vindkraft for upopulært og kjernekraft for dyrt?]]></description>
@@ -472,15 +482,6 @@ Men hvem tjener på det?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Thu, 22 Jan 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vne5g5nxZnxVxqn7oHvJKAm1nJcxXPuLpAa8aEM0IeDg.jpg"/>
-    </item>
-    <item>
-      <title>Stortingspresidenten provoserer eksil-iranere</title>
-      <description><![CDATA[Eksil-iranere mener stortingspresident Masud Gharahkhani overser dem, samtidig som han favoriserer monarkister – iranere som støtter prins Reza Pahlavi i USA, dersom regimet i Teheran faller. Er han vår stortingspresident, spør de.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/122e9964-2766-42c9-ae99-642766b2c9be_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/122e9964-2766-42c9-ae99-642766b2c9be_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:00</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1iH0HAJtZ_brJls1tEXh1Qg6doIlta9O4T1Nl40uhWzw.jpg"/>
     </item>
   </channel>
 </rss>
