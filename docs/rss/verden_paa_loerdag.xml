@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:32:22 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:33:49 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 09:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Vant Iran krigen nå?</title>
+      <description><![CDATA[Går det mot fred nå? Hva har skjedd? Er Israel egentlig med på dette og hvem vil sitte igjen som vinner?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/f8f7c33a-eca3-42de-b7c3-3aeca3a2dee7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/f8f7c33a-eca3-42de-b7c3-3aeca3a2dee7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:03</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 09:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZDoHekd-qx-nnX-dYiS40gjNghmRU00CT0hv9mbrlPKw.jpg"/>
+    </item>
     <item>
       <title>Ukraina: Å lese er å krige</title>
       <description><![CDATA[Unge ukrainere leser mer enn før. Å lese bok er en form for motstandskamp, sier forfatteren Andrej Kurkov.]]></description>
@@ -454,15 +463,6 @@ Hva vil skje videre nå? Og spesielt i New York?]]></description>
       <itunes:duration>14:23</itunes:duration>
       <pubDate>Fri, 24 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IlBa5sZ6EAt5cDwwQR4XSgi2k4PoMRdceIB0dl5aajrQ.jpg"/>
-    </item>
-    <item>
-      <title>Hva er det som skjer i Venezuela?</title>
-      <description><![CDATA[Sprengte småbåter, frykt for militær invasjon mot en autoritær leder, en opposisjonspolitiker har fått Nobels fredspris og hun sier at man kun kan få maktskifte i Venezuela med makt - vi spør: Hva er det som skjer i Venezuela?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/bca05099-53ab-43e0-a050-9953ab23e096_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/bca05099-53ab-43e0-a050-9953ab23e096_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:49</itunes:duration>
-      <pubDate>Tue, 21 Oct 2025 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6XBDTwjD7Bk4s_GCuuY-sQFxmbBUuT8Ez_MhJ-fmHzPg.jpg"/>
     </item>
   </channel>
 </rss>

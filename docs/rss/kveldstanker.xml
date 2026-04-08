@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:31:03 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:32:09 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Slapp av - med Oda Gravdal Ulriksen</title>
+      <description><![CDATA[- Slutt å lev livet ditt med en sjekkliste, råder studenten Oda Gravdal Ulriksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/567a7b87-79e0-48bb-ba7b-8779e068bbd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/567a7b87-79e0-48bb-ba7b-8779e068bbd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:55</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
+    </item>
     <item>
       <title>Grønn mann - med Lena Lindahl</title>
       <description><![CDATA[- Å gå på rød mann ga meg en opplevelse for livet, forteller forfatter Lena Lindahl.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:30</itunes:duration>
       <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/dxg9if-FvIPg0BF-CBKttQ9Q6HD0O4_jsHmJE7m7QfNw.jpg"/>
-    </item>
-    <item>
-      <title>Småprat - med Ingelin Røssland</title>
-      <description><![CDATA[Småprat kan vere ein lykkeboost, hevdar forfattar Ingelin Røssland]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d5578352-14eb-4ef4-9783-5214eb3ef475_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:14</itunes:duration>
-      <pubDate>Wed, 22 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
     </item>
   </channel>
 </rss>

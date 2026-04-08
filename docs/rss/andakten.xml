@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:30:05 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:30:38 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Kråka - Ragnhild Opsahl</title>
+      <description><![CDATA[Ragnhild Bjørvik Opsahl skjønte at dette var en fugl som ville henne noe, da hun var ute med hunden og møtte en kråke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/2625829c-6d43-4ff0-a582-9c6d43bff019_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/2625829c-6d43-4ff0-a582-9c6d43bff019_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:41</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
+    </item>
     <item>
       <title>Vandrerne - Ragnhild Opsahl</title>
       <description><![CDATA[Det er godt å ha en god venn å snakke med. Et godt sted å ta opp de viktige tingene kan være i bilen.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/d0593bc7-c099-4720-993b-c7c0999720f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:37</itunes:duration>
       <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
-    </item>
-    <item>
-      <title>Hode på et fat - Helga Samset</title>
-      <description><![CDATA[Å være leder er en balansegang, og enkelte ledere har i sin rådvillhet gått langt for å ikke miste ansikt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/d62883e6-d967-4d56-a883-e6d967bd56d6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/d62883e6-d967-4d56-a883-e6d967bd56d6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:22</itunes:duration>
-      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
     </item>
   </channel>

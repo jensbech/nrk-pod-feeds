@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:31:43 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:31:27 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Riksmekleren rykker inn</title>
+      <description><![CDATA[Det handler om lønn, avtaletekst og sykepenger. Hva står på spill i årets lønnsoppgjør?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/989de707-da97-4718-9de7-07da97071839_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/989de707-da97-4718-9de7-07da97071839_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:47</itunes:duration>
+      <pubDate>Tue, 07 Apr 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7WIhwOHInpwUqNb38_Kx-Qg9iKJ-46-mfLMoKgibV4dQ.jpg"/>
+    </item>
     <item>
       <title>Pressevesten som målskive</title>
       <description><![CDATA[Yama Wolasmal måtte kaste vesten for å overleve. Kvifor har journalistar blitt dei nye måla i krig?]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>24:45</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/AEyJdpQ73qBqs5Hr9KSSEw0WmOHfTzoMnqXF2ekM21rQ.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: Gir seg ikke</title>
-      <description><![CDATA[Trump sier det er psykologisk viktig for ham å eie Grønland, men hva tenker ekspertene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06941078-700a-48f7-9410-78700aa8f705_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06941078-700a-48f7-9410-78700aa8f705_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:49</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YU32Ixzlu3wHiPoKv1vp6A3XPQn9aPE8IfWrXZtgxWqg.jpg"/>
     </item>
   </channel>
 </rss>

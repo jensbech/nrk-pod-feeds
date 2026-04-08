@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:31:17 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:32:31 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Verdens nordligste morrapulere</title>
+      <description><![CDATA[Sandeep har vært på Svalbard. Heier vi på Mímir eller ikke? En ny generasjon rasshøl er på vei. Og ja til infertile boller!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/05ed1447-c0d5-492c-ad14-47c0d5292c8f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/05ed1447-c0d5-492c-ad14-47c0d5292c8f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:29</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Nja til alt!</title>
       <description><![CDATA[Galvan skifter politisk standpunkt hele tida. Noen er ute etter Tara. Abu dro rasistkortet. Anders blir av og til grusom.]]></description>
@@ -454,15 +463,6 @@ og deler gladelig ut helseråd til alle som vil høre på - og i dette tilfellet
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/0158ea25-e4bd-4fee-98ea-25e4bd5fee28_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:26</itunes:duration>
       <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Nostalgi-jerking</title>
-      <description><![CDATA[Vi savner nittitallet! Sandeep har kjøpt CK1, Abu samler på Pokémon-kort og Anders vil spille hele dagen. Galvan har hatt flypikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/1eb1b086-89b5-40cc-b1b0-8689b5b0cca9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/1eb1b086-89b5-40cc-b1b0-8689b5b0cca9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:39</itunes:duration>
-      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

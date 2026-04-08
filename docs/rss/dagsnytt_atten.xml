@@ -3,15 +3,24 @@
   <channel>
     <title>Dagsnytt 18</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Ugo Fermariello.</description>
+    <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Anne Katrine Førli.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:31:04 +0000</lastBuildDate>
-    <pubDate>Tue, 31 Mar 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:30:56 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Trump truer Iran</title>
+      <description><![CDATA[– En hel sivilisasjon vil dø i natt, sier han etter flere store angrep mot infrastruktur i Iran det siste døgnet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c8c6548e-cb88-4925-8654-8ecb881925e6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c8c6548e-cb88-4925-8654-8ecb881925e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:40</itunes:duration>
+      <pubDate>Tue, 07 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xrOz6Jga021znRWUPf0CPQjLMFMT7BRra3spa6B7n9LQ.jpg"/>
+    </item>
     <item>
       <title>Sverige halverer matmomsen</title>
       <description><![CDATA[Grensehandelen blomstrer, mens NHO er bekymret for norske butikker.]]></description>
@@ -454,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 22 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Yfdg5rmFr0hJD-fjEtk3hgIsBuY2KZIM-bTkyKqHl6fQ.jpg"/>
-    </item>
-    <item>
-      <title>Donald Trump om Grønland: - Jeg vil ikke bruke makt</title>
-      <description><![CDATA[USAs president talte i Davos]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eafcef77-f78e-4fc9-bcef-77f78e6fc933_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eafcef77-f78e-4fc9-bcef-77f78e6fc933_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:45</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MbH9RGNEzicab6lSV4bWnge5DP-8JtQsRdnmT68HDa7Q.jpg"/>
     </item>
   </channel>
 </rss>
