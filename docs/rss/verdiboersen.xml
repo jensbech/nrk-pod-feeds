@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 29 Mar 2026 04:01:41 +0000</lastBuildDate>
-    <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:33:42 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 12:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <item>
+      <title>Det tredje riket 4:12</title>
+      <description><![CDATA[Hvordan kunne et moderne samfunn bli et brutalt regime? Del 4: Arbeit macht frei. Nazistenes arbeidspolitikk og syn på arbeid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cc477083-599b-4f59-8770-83599b6f5963_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cc477083-599b-4f59-8770-83599b6f5963_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:33</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 12:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/noSXaCH0Lavp8p8__YYswwCik5eeht289SPIJIlOJpyQ.jpg"/>
+    </item>
     <item>
       <title>Før Norge gikk under</title>
       <description><![CDATA[Erik Valkendorf var den danske kongens mann. Han skulle ordne opp med egenrådige nordmenn,
@@ -460,15 +469,6 @@ Gjenhør fra 27.09.25]]></description>
       <itunes:duration>34:01</itunes:duration>
       <pubDate>Fri, 19 Sep 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gNQr4yRJDpIk0fX14WCIcQvpVaQkeNw5DA7lINDgOv4A.jpg"/>
-    </item>
-    <item>
-      <title>Charlie Kirk og de 7 fjell</title>
-      <description><![CDATA[En spesiell teologi kan forklare aktivisten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6a42e078-57aa-4b53-82e0-7857aa9b53df_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6a42e078-57aa-4b53-82e0-7857aa9b53df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:24</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 11:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wnWbWEPr-xB1e-NOmFXfZgjct2Hki2ZdPTGz7-5LmCMw.jpg"/>
     </item>
   </channel>
 </rss>

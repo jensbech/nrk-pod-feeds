@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Apr 2026 07:22:15 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Apr 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:32:26 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Er knuta i flokken løst opp?</title>
+      <description><![CDATA[Nicolai ville bedre forholdet til broren sin, vi får høre hvordan det har gått! Legendarisk fyllemail og en oppstoppernese-historie fra virkeligheten! Advarsel: Mye futt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/87879132-3ec2-4ee5-8791-323ec2cee5d0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/87879132-3ec2-4ee5-8791-323ec2cee5d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:18</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra 2025 - nr. 5</title>
       <description><![CDATA[Rådgivere er: Lars Berrum / Mia Hundvin / Magnus Devold / Hilde Skaar / Finger'n / Solveig Kloppen / Linnéa Myhre / Einar Tørnquist / Adelina Ibishi]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:17:24</itunes:duration>
       <pubDate>Sat, 27 Sep 2025 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/U4j-oLyfVOcClouXDBErfQA_Ps-1EOEIn9DLV2VluDZQ.jpg"/>
-    </item>
-    <item>
-      <title>Rapport fra Verdens-beste-bryllups-jenter!</title>
-      <description><![CDATA[Visdom om bryllupsunderholdning - og DU kan være med å bestemme hva det skal stå på Lørdagsrådetkoppen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/3b96c776-c81c-4f1c-96c7-76c81c7f1ca6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3b96c776-c81c-4f1c-96c7-76c81c7f1ca6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:02</itunes:duration>
-      <pubDate>Wed, 24 Sep 2025 15:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>

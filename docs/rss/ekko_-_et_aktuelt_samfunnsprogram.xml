@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:31:27 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:31:38 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Kaller paven for Antikrist</title>
+      <description><![CDATA[Peter Thiel kriger mot paven og demokratiet. Hvem er den mektige tek-milliardæren bak J.D Vance?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d2f46af0-de7d-4f55-b46a-f0de7d1f55f9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d2f46af0-de7d-4f55-b46a-f0de7d1f55f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:27</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5KNi2iaSfTRZfCTiZ9EBSwsZgWbWZQ9fEWsLtGzr-Olg.jpg"/>
+    </item>
     <item>
       <title>Riksmekleren rykker inn</title>
       <description><![CDATA[Det handler om lønn, avtaletekst og sykepenger. Hva står på spill i årets lønnsoppgjør?]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>24:30</itunes:duration>
       <pubDate>Mon, 19 Jan 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PcorF6yLsgwjT8h00Ro2qw8xrIi_qvAoOqoOIcVnkHrA.jpg"/>
-    </item>
-    <item>
-      <title>Den mektige Fifa-presidenten</title>
-      <description><![CDATA[Han deler ut fredspris og knyt tette band til verdas leiarar. Men kva er det Gianni Infantino eigentleg prøver å oppnå med Fifa?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f8ac19b2-1173-44c3-ac19-b2117364c353_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f8ac19b2-1173-44c3-ac19-b2117364c353_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:45</itunes:duration>
-      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AEyJdpQ73qBqs5Hr9KSSEw0WmOHfTzoMnqXF2ekM21rQ.jpg"/>
     </item>
   </channel>
 </rss>
