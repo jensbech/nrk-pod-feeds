@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Apr 2026 10:23:09 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 10:25:45 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 09:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Sigg og hjemmebrent</title>
+      <description><![CDATA[Henning og Jonas forteller om sigg og hjemmebrent, og deler en flyplasshemmelighet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/23b8f23b-49e4-4a06-b8f2-3b49e44a06ba_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/23b8f23b-49e4-4a06-b8f2-3b49e44a06ba_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Thu, 09 Apr 2026 09:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
+    </item>
     <item>
       <title>Spis tress-is med hendene!</title>
       <description><![CDATA[Hvilken vei åpner du bananen? Dypper du hele sushien i soyasausen? Spiser du med hendene eller med bestikk? Vi diskuterer!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Wallah, helt ferdig!</title>
-      <description><![CDATA[Jonas avslører at han på seg dongeribukser når han er syk, Henning holdt på å ta livet sitt i dag og Arin ler av det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/20dd24f2-bcb8-4d1a-9d24-f2bcb80d1ac1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/20dd24f2-bcb8-4d1a-9d24-f2bcb80d1ac1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:26</itunes:duration>
-      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
