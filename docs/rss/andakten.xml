@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:30:54 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:31:07 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Stepkasse - Ragnhild Opsahl</title>
+      <description><![CDATA[Det sjelden man føler seg så dum som når man gjør noe sammen med mange andre, og bare roter det til, mens resten fikser det greit.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/18b77fc3-364c-4e98-b77f-c3364c1e9872_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/18b77fc3-364c-4e98-b77f-c3364c1e9872_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:26</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
+    </item>
     <item>
       <title>Oppstandelse - Ragnhild Opsahl</title>
       <description><![CDATA[Tror du at det faktisk er mulig å stå opp fra de døde. Selv en prest kan slite med den tanken.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:37</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YuqkvQovDMZoyFgbS7gFkglAg7Ir-P2rBgWvKLuygpjg.jpg"/>
-    </item>
-    <item>
-      <title>Kondolerer - Kristin N. Mork</title>
-      <description><![CDATA[Kondolerer - et vanskelig ord for noen, men en klippe for andre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/8f9e96e8-f3e9-4383-9e96-e8f3e96383ff_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/8f9e96e8-f3e9-4383-9e96-e8f3e96383ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:36</itunes:duration>
-      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YuqkvQovDMZoyFgbS7gFkgDsm04PUGpvdgWvKLuygpjg.jpg"/>
     </item>
   </channel>
 </rss>

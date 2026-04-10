@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:50:02 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:32:05 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Flatlegging og flatfylla</title>
+      <description><![CDATA[Facebook-fylla og HA-trusler. Stormen Dave skuffet stort. En ny tysk lov vekker minner fra 2. verdenskrig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/717930e0-7178-4971-b930-e07178997123_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/717930e0-7178-4971-b930-e07178997123_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:08</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Dieselbrølet</title>
       <description><![CDATA[Stengingen av Hormuzstredet fører til stenging av norske veier. For mange ADHD-diagnoses fører til problemer. Skattepenger fører til ellevill USA-tur.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/d555b4ba-d552-44e4-b3f6-9b85f422d363_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:42</itunes:duration>
       <pubDate>Fri, 18 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Sitt helt stille i yachten</title>
-      <description><![CDATA[Et aksjemarked i krise. Små peanøtter og store anklager som ryster hockey-Norge. Skolemat til ingen nytte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/0d9bbc11-9473-4003-be91-aa34f6bf4024_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0d9bbc11-9473-4003-be91-aa34f6bf4024_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:58</itunes:duration>
-      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>

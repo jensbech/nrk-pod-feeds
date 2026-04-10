@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:00:07 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Mar 2026 16:28:00 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:33:19 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 14:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Har Trump mistet det? – Sitter på atomkofferten</title>
+      <description><![CDATA[Donald Trumps utsagn blir mer og mer ekstreme. Har han mistet det? 
+Og Jonas Gahr Støre sliter i Stortinget. Kan det ende med kabinettspørsmål?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/5a65609f-6f10-4c5d-a560-9f6f105c5d67_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/5a65609f-6f10-4c5d-a560-9f6f105c5d67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:41</itunes:duration>
+      <pubDate>Thu, 09 Apr 2026 14:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/a7E3fgtDmmr0cDBH8WVfYwKVsG96v4UJ0Xmus28n_DzQ.jpg"/>
+    </item>
     <item>
       <title>Dramatisk bensinkrangel: – Har felt regjering før</title>
       <description><![CDATA[Prisene på bensin og diesel har ført til et politisk drama, og mange partier vil nå gjøre drivstoff billigere. Men er det lurt?
@@ -486,16 +496,6 @@ Og Høyre med dårligste valg på 20 år. Hva gikk galt?]]></description>
       <itunes:duration>18:52</itunes:duration>
       <pubDate>Fri, 13 Jun 2025 13:43:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dvMSxWe61n5lER5JHXO0FQW_afOq2w4d1eW9IgJU-P4g.jpg"/>
-    </item>
-    <item>
-      <title>Feriepenger er økonomisk barnevakt</title>
-      <description><![CDATA[Feriepenger er som å ha økonomisk barnevakt, i følge Cecilie. – Gi meg mine egne penger. 
-Og Norge har aldri nådd et klimamål uten kvotekjøp. Hvorfor bruke masse penger hjemme når vi kan kjøpe billige kvoter ute?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/1c437204-625b-4002-9237-8694d5bb0153_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/1c437204-625b-4002-9237-8694d5bb0153_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:52</itunes:duration>
-      <pubDate>Thu, 12 Jun 2025 14:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m7SCo-oi8eyXrr5ZQOoVswfBQdIhuRzZGNadAAA8dmpQ.jpg"/>
     </item>
   </channel>
 </rss>

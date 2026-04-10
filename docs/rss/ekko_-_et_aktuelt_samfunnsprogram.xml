@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:31:38 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:32:21 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Atomkrigen avlyst?</title>
+      <description><![CDATA[Mange pusta letta ut då vi vakna til våpenkvile, ikkje eit utsletta Iran. Var Trumps truslar berre dryg forhandlingstaktikk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7990dab9-eb06-45b7-90da-b9eb0635b783_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7990dab9-eb06-45b7-90da-b9eb0635b783_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:40</itunes:duration>
+      <pubDate>Thu, 09 Apr 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8v_9eyrbaaBKBHjt8CrRKwydgvCM7icIgiydUjgMcZ7Q.jpg"/>
+    </item>
     <item>
       <title>Kaller paven for Antikrist</title>
       <description><![CDATA[Peter Thiel kriger mot paven og demokratiet. Hvem er den mektige tek-milliardæren bak J.D Vance?]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>20:07</itunes:duration>
       <pubDate>Tue, 20 Jan 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7upbx66VyNSa4VfqOBOBYAubr7Ex0FyydxnyQ1yvSxDA.jpg"/>
-    </item>
-    <item>
-      <title>Designet for et kort liv?</title>
-      <description><![CDATA[Hva er grunnen til at mange av tingene vi har, har så kort holdbarhet? Lages tingene våre bevisst for å ikke vare evig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0673064b-7c2c-42d7-b306-4b7c2cc2d73c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0673064b-7c2c-42d7-b306-4b7c2cc2d73c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:30</itunes:duration>
-      <pubDate>Mon, 19 Jan 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PcorF6yLsgwjT8h00Ro2qw8xrIi_qvAoOqoOIcVnkHrA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:31:08 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:31:39 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Rødgrønt krisemøte</title>
+      <description><![CDATA[MDG beskylder Senterpartiet for politisk svindel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d57651f0-c26e-4137-b651-f0c26ee13755_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d57651f0-c26e-4137-b651-f0c26ee13755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 09 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pZ-6Eb3cJIVq1u9bgmLjkQc_2_CFVXH684j1Oh4Snx5Q.jpg"/>
+    </item>
     <item>
       <title>Iran truer med å trekke seg</title>
       <description><![CDATA[Israel fortsetter med massiv bombing av Libanon etter våpenhvilen ble innført i natt. Iran truer med å trekke seg fra avtalen.]]></description>
@@ -454,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Mon, 26 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/S6_prdEZiy4gfYka_qxniw9RKfkZ4R-x2zag2juXrgNA.jpg"/>
-    </item>
-    <item>
-      <title>Kritikk av nye krav til flyktninger</title>
-      <description><![CDATA[Regjeringen kutter støtteordninger og innfører aktivitetsplikt for flyktninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d5e01623-6f0a-4992-a016-236f0aa99225_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d5e01623-6f0a-4992-a016-236f0aa99225_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Fri, 23 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nCYLnA5dXY3xLiRh5ZegQQN3wvfEvCE-z6eXu4wGZ56g.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 28 Mar 2026 03:50:41 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:32:39 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Fotballmusikk og politisk retorikk</title>
+      <description><![CDATA[Har den politiske retorikken i verden endret seg i retning Trump? 
+Skal myndigheter blande seg inn i hvilke artister festivaler skal ha på plakaten? 
+Trenger hvert land som er kvalifisert til VM, hver sin nye VM-låt, hvert fjerde år? 
+
+Fredagspanelet har svarene og mer til!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/48a7594c-1a6a-48a7-a759-4c1a6a88a793_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/48a7594c-1a6a-48a7-a759-4c1a6a88a793_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:55</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Gjør vi for lite narr av Trump?</title>
       <description><![CDATA[Sosiale medier, norske landslagsdrakter og Donald Trump.]]></description>
@@ -521,18 +534,6 @@ Spørsmål:
       <itunes:duration>13:41</itunes:duration>
       <pubDate>Fri, 14 Feb 2025 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>Jens Stoltenberg - tips eller ikke? - og porno</title>
-      <description><![CDATA[Kjersti Mo, direktør i Norsk filminstitutt,
-Erik Sæther - TV-produsent og tidligare realityprofil og 
-Jan Fredrik Karlsen - kreativ leiar i eventbyrået All-in 
-sitter i dagens panel]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/22f64da4-b80b-432d-b154-1ae2adc69474_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/22f64da4-b80b-432d-b154-1ae2adc69474_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:19</itunes:duration>
-      <pubDate>Fri, 07 Feb 2025 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_DmZt5Z9lSA-_gGQVaH3PwfR1dX5yWoAdXRuWnF5QyNQ.jpg"/>
     </item>
   </channel>
 </rss>
