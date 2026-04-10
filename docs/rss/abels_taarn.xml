@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:31:15 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 10:21:19 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    <item>
+      <title>Når kan vi filme våre drømmer?</title>
+      <description><![CDATA[I den grad egne fantasier er verdt å mangfoldiggjøres, da.
+Send inn dine spørsmål til Abels Tårns svært kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/55552e4d-dae9-4891-952e-4ddae9d8911c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/55552e4d-dae9-4891-952e-4ddae9d8911c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:38</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTzvOjdnuHrIiB-D9R2cpA5uex8dKCbhMFoh-uV4G1QA.jpg"/>
+    </item>
     <item>
       <title>FF: Salaten din kan inneholde antidepressiva</title>
       <description><![CDATA[Planter suger opp medisiner fra avløpsvann. Kokain dobler risikoen for hjerneslag, og forskere har funnet opp selvreparerende plast]]></description>
@@ -481,16 +491,6 @@ I denne miniserien tar vi et dypdykk i drømmenes verden.]]></description>
       <itunes:duration>31:40</itunes:duration>
       <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XbpKKqu4V50Y059GMPYgAA5_kKfjhRr_4iwfaJmhgdhQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvorfor får vi dårligere syn, men ikke dyr?</title>
-      <description><![CDATA[Eller hender det at også gribber blir nærsynte? 
-Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fffd7683-0a1e-4624-bd76-830a1ef624c9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fffd7683-0a1e-4624-bd76-830a1ef624c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:32</itunes:duration>
-      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bMS_e-Cspuo2Ex0RnAfAOgyKre8wbx3DQWQ6mjy76-Xg.jpg"/>
     </item>
   </channel>
 </rss>
