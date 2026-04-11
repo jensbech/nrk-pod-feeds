@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:31:39 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:21:46 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Skjebnevalg i Ungarn</title>
+      <description><![CDATA[Søndag går ungarerne til valgurnene. I EU er spenningen stor om hvorvidt det blir et maktskifte i landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/38875994-05cd-40e8-8759-9405cd80e810_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/38875994-05cd-40e8-8759-9405cd80e810_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gC9FnN8vKVlIL0jXE2A7Fg4I924-eWvOdWfWtk-dNwGQ.jpg"/>
+    </item>
     <item>
       <title>Rødgrønt krisemøte</title>
       <description><![CDATA[MDG beskylder Senterpartiet for politisk svindel.]]></description>
@@ -454,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Tue, 27 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PmRhgtGqig4hVv9a3qRRrAMYNQYa-GzjswzTzgxH-mJQ.jpg"/>
-    </item>
-    <item>
-      <title>Prinsesse Ingrid Alexandra på første offisielle tur alene</title>
-      <description><![CDATA[– Undertrykkelse av samisk kultur er en trist del av norsk historie, sa prinsessen da hun møtte pressen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f7a8b307-7b3e-45cd-a8b3-077b3ea5cdde_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f7a8b307-7b3e-45cd-a8b3-077b3ea5cdde_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Mon, 26 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/S6_prdEZiy4gfYka_qxniw9RKfkZ4R-x2zag2juXrgNA.jpg"/>
     </item>
   </channel>
 </rss>
