@@ -285,7 +285,7 @@
         "id": "filmpolitiet",
         "title": "Filmpolitiets podkast ",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "forstaa_norge",

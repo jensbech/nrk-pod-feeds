@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-04-12  
+- Updated podcast 'Filmpolitiets podkast ' (`filmpolitiet`)  
 ### 2026-04-11  
 - Updated podcast 'Seriesnakk' (`seriesnakk`)  
 ### 2026-04-11  
