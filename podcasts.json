@@ -393,7 +393,7 @@
         "id": "hele_historien",
         "title": "Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "historiske_kjendiser",
