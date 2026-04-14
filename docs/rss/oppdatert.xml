@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:35:12 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:33:36 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Hacker-marerittet: 30.000 pasienters liv blottlagt</title>
+      <description><![CDATA[En finsk hacker krevde løsepenger for å ikke publisere dype hemmeligheter på Internett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/7361a4d9-6d2e-46ad-a1a4-d96d2ea6adc1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/7361a4d9-6d2e-46ad-a1a4-d96d2ea6adc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:12</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HVphWdIRhG-aUDeh_EWFAA5aph5R84pdzNnXBzQtkgYQ.jpg"/>
+    </item>
     <item>
       <title>Tommy vs. Hellas: Hjelpearbeider eller spion?</title>
       <description><![CDATA[Tromsøværingen etterforskes for menneskesmugling og spionasje i Hellas, og risikerer 30 år i gresk fengsel.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>25:18</itunes:duration>
       <pubDate>Fri, 30 Jan 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yja91DVLzTgq_h0F3nOINg9RsDsCgKNJTnuVPUkORkhg.jpg"/>
-    </item>
-    <item>
-      <title>Spotify: Fra gründer-eventyr til kontroverser</title>
-      <description><![CDATA[Idéen svenske Daniel Ek jobbet med fra kjelleren sin ble til verdensdominans i musikkbransjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f982342a-573b-472c-8234-2a573be72c84_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f982342a-573b-472c-8234-2a573be72c84_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:50</itunes:duration>
-      <pubDate>Thu, 29 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MuGLLdB0KmAoef9s1vWymQzzQ54nq2YznCBi_jZPp1Bw.jpg"/>
     </item>
   </channel>
 </rss>

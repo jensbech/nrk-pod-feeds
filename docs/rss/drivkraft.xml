@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:31:28 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:32:12 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 14:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
     <item>
-      <title>Drivkraft med Anders Brun Hennum</title>
+      <title>Ary</title>
+      <description><![CDATA[— Jeg spydde ned doveggene av nervøsitet, forteller artisten om den gangen hun skulle spille en scene mot Anders Danielsen Lie]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4480cad9-8b98-43f8-80ca-d98b9843f853_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4480cad9-8b98-43f8-80ca-d98b9843f853_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Mon, 13 Apr 2026 14:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JNdi9r85f5Wj2PKu7iRSGw-hgV0IUvqJuj6DM065j-pw.jpg"/>
+    </item>
+    <item>
+      <title>Anders Brun Hennum</title>
       <description><![CDATA[– Min multihandikappede søster betydde alt for meg - sier bonden og skiskyttertreneren fra TV-serien Team Pølsa.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8b5f856c-fc41-4392-9f85-6cfc4173922d_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/8b5f856c-fc41-4392-9f85-6cfc4173922d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -452,15 +461,6 @@
       <itunes:duration>57:14</itunes:duration>
       <pubDate>Wed, 03 Dec 2025 13:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DGE57eHgZIWqTDm7-NdoZgqfK9u3iO9yI9-hy0u2gLPg.jpg"/>
-    </item>
-    <item>
-      <title>Ine Eriksen Søreide</title>
-      <description><![CDATA[– Jeg er nok ikke så tabloid som mange ønsker, sier Høyres lederkandidat.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/471a9af3-5176-4772-9a9a-f35176a772c5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/471a9af3-5176-4772-9a9a-f35176a772c5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:18</itunes:duration>
-      <pubDate>Tue, 02 Dec 2025 13:16:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ThPgLnWo3m9J5kxK7xUTVwc6l8Ess3YXrD-WJlXl_99Q.jpg"/>
     </item>
   </channel>
 </rss>

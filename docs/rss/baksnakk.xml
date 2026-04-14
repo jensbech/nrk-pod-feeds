@@ -11,10 +11,21 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Apr 2026 10:21:33 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:31:45 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Pappa, blinklys og konsekvensen av en hvit løgn</title>
+      <description><![CDATA[En liten kommentar førte til år med irritasjon for Zara.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/4b80af90-00d6-43c8-80af-9000d6b3c801_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/4b80af90-00d6-43c8-80af-9000d6b3c801_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:34</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Flauser, infantilisering og Sofies første fest</title>
       <description><![CDATA[Hvor vanlig er det egentlig å kalle læreren sin for «mamma»?
@@ -549,17 +560,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/31928bb7-2ffe-43c5-928b-b72ffe23c5b0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:01</itunes:duration>
       <pubDate>Tue, 21 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Halloweenfest, «everything shower» og skoleshow-finale</title>
-      <description><![CDATA[Hvilke smågodt-biter er de aller beste, og hvordan tar man den perfekte dusjen? 
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/ed17de27-cbdc-4292-97de-27cbdc129217_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/ed17de27-cbdc-4292-97de-27cbdc129217_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:51</itunes:duration>
-      <pubDate>Fri, 17 Oct 2025 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:33:43 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:33:18 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>40, feit og ferdig?</title>
+      <description><![CDATA[Vennene våre begynner å bli gamle! Hva sier det om oss? Galvan har møtt en drittsekk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/8758fb1e-b244-42f9-98fb-1eb24412f98f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/8758fb1e-b244-42f9-98fb-1eb24412f98f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:04</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>«Gå og spis!» – på bergensk</title>
       <description><![CDATA[Tara må snakke til hunden sin på dialekt. Galvan skal rante på nabolandene, men mister selvtilliten. Og vi hjelper noen morrapulere.]]></description>
@@ -454,15 +463,6 @@ og deler gladelig ut helseråd til alle som vil høre på - og i dette tilfellet
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e0f7bade-f28c-444b-b7ba-def28c544b2f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:21</itunes:duration>
       <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Mer disko, mindre dreping</title>
-      <description><![CDATA[Shoutout til folket som gjør opprør i Iran. La dem danse! Galvan synes alkohol har blitt kjedelig. Abu har dollartegn i øynene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/7014a225-7822-4124-94a2-25782201242a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/7014a225-7822-4124-94a2-25782201242a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:45</itunes:duration>
-      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

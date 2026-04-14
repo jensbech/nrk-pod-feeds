@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:35:27 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:33:47 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Tromsøs underskudd</title>
+      <description><![CDATA[Tromsø kan miste makten over egen økonomi etter stort underskudd.
+Et bevis på at Arbeiderpartiet er en ulykke for kommune-Norge, mener Høyre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/f3652ed9-0966-4f62-a52e-d909669f62ee_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/f3652ed9-0966-4f62-a52e-d909669f62ee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:51</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N5JhTd30Lsk82R7QG_4x8wNdfGgR8MVTMXwGxRJu5wBA.jpg"/>
+    </item>
     <item>
       <title>Ute av kontroll?</title>
       <description><![CDATA[Arbeiderpartiet går på stadig flere nederlag i Stortinget. - Har de mistet kontrollen?]]></description>
@@ -472,15 +482,6 @@ Vi kjøper oss fri fra å kutte i Norge, advarer MDG.]]></description>
       <itunes:duration>14:55</itunes:duration>
       <pubDate>Thu, 29 Jan 2026 08:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WRL2DPwKMpRIfmX3xP-U8wyaZJc-_Qrr3g6Dhycj7LjQ.jpg"/>
-    </item>
-    <item>
-      <title>Fortsatt heilt konge</title>
-      <description><![CDATA[Eit storting med færre republikanarar sikrar fortsatt monarki.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/46b4ef10-29ee-4be1-b4ef-1029eebbe199_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/46b4ef10-29ee-4be1-b4ef-1029eebbe199_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fSOv-bxB__Xy5mVnZsx9rgTGYUCD6rKWnRISwP0swvUg.jpg"/>
     </item>
   </channel>
 </rss>
