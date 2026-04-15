@@ -669,7 +669,7 @@
         "id": "luois_luohti",
         "title": "Luođis luohtái",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "lyden_av_17_mai",
@@ -705,7 +705,7 @@
         "id": "markus_og_wolfgang_snakker_klassisk",
         "title": "Markus og Wolfgang snakker klassisk",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "maskoramapodkasten",
