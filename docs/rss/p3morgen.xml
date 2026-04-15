@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 10:29:08 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 10:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 10:28:42 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 10:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Italia eller Kina?</title>
+      <description><![CDATA[Vi snakker om barn, «Biler 2» og andre verdenskrig. Det blir også snakk om flytting til utlandet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f3f88317-5cc3-46bb-b883-175cc3b6bb75_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f3f88317-5cc3-46bb-b883-175cc3b6bb75_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 10:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
+    </item>
     <item>
       <title>Pannekaker og død</title>
       <description><![CDATA[En tidvis bekmørk episode om mat og henrettelser]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Hverdagslige nær døden-opplevelser</title>
-      <description><![CDATA[Noen pastavarianter er bedre enn andre, hvile av dem er best og verst? OL er straks, og vi leker cringe eller 67 med Ingrid Stenvold og Ole Rolfnes. Et mysterie blir løst, og magi er kansellert.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/38673081-8454-43ad-a730-81845413add9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/38673081-8454-43ad-a730-81845413add9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:16</itunes:duration>
-      <pubDate>Sat, 07 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4VEQgVfZd4FkLP48xwttAgds8s7bgoncw5mhEtgIDEZw.jpg"/>
     </item>
   </channel>
 </rss>
