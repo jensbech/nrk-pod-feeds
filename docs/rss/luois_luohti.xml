@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:20:51 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Apr 2025 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:33:10 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    <item>
+      <title>Dáloniid ja bajoniid luđiin</title>
+      <description><![CDATA[Terje Henriksen Joks lea mielde go mii čiekŋudit luohteerohusain ja imaštat leat go dálonat Kárášjogas heaitán juoigamis?!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/6dd6c7a3-5681-46a3-96c7-a3568156a3fd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/6dd6c7a3-5681-46a3-96c7-a3568156a3fd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:01</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
     <item>
       <title>Lávdebargu riggodahkan</title>
       <description><![CDATA[Musihkkaoahpahus ja hárjehallan nanosmahttá mánáid iešdovddu.]]></description>

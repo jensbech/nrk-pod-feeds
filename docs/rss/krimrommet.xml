@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:31:58 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:32:44 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Lastebil-Jonas (1): Dødelig flørt</title>
+      <description><![CDATA[En kort flørt setter i gang en årelang hevnaksjon som ender i drap. Men var planen egentlig å ta livet av Jonas Aarseth Henriksen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb5ff686-857c-4e49-9ff6-86857cbe49cc_5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb5ff686-857c-4e49-9ff6-86857cbe49cc_5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:02</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v6DGHh-_LknhMHiqON80YAzIA8vc5ywcbvkEwJPXIdVw.jpg"/>
+    </item>
     <item>
       <title>Vilma Andersson: Kroppsdelene i kjøleskapet (2)</title>
       <description><![CDATA[En kvinne blir funnet drept og partert i Sverige i romjula 2025. Mannen som nå er pågrepet har en mørk historie.]]></description>
@@ -40,7 +49,7 @@
       <itunes:image href="https://gfx.nrk.no/W3n4E34EzeqNnubWehHSGAvar1J4Fkxou8FPj9CO0Nug.jpg"/>
     </item>
     <item>
-      <title>Økse-drapet i Løten: Slik endret kvinnen forklaring</title>
+      <title>Økse-drapet i Løten (2): Slik endret kvinnen forklaring</title>
       <description><![CDATA[Drapsdømte Veronica Lystrup tilstod å ha drept, men hevdet nødverge, da saken kom opp i lagmannsretten.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6ed02099-248a-4691-9020-99248af6912f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/6ed02099-248a-4691-9020-99248af6912f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -49,7 +58,7 @@
       <itunes:image href="https://gfx.nrk.no/rX_7sQwj4o0bP6A8aQE6ZAEjIJnbOt-tb_lPvHxKWnzA.jpg"/>
     </item>
     <item>
-      <title>Høiby: Forsvaret vil ha ett års fengsel (19)</title>
+      <title>Høiby (19): Forsvaret vil ha ett års fengsel</title>
       <description><![CDATA[Den siste dagen i retten var forsvarets endelige mulighet til å overbevise dommerne om lavest mulig straff for Marius Borg Høiby.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/b9fbd74a-74aa-4d7f-bbd7-4a74aacd7f96_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/b9fbd74a-74aa-4d7f-bbd7-4a74aacd7f96_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -58,7 +67,7 @@
       <itunes:image href="https://gfx.nrk.no/GSjrhADphw1Jyks94x13oQU7M2Q81Hu6G7QQwQ9Z2Nlg.jpg"/>
     </item>
     <item>
-      <title>Høiby: Aktor vil ha 7 års fengsel (18)</title>
+      <title>Høiby (18): Aktor vil ha 7 års fengsel</title>
       <description><![CDATA[Aktoratet og bistandsadvokatene la frem sine siste argumenter i retten i dag.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/8fd21276-b11a-4b70-9212-76b11a5b70e1_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/8fd21276-b11a-4b70-9212-76b11a5b70e1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -67,7 +76,7 @@
       <itunes:image href="https://gfx.nrk.no/LkrAKsBIf0EfTZFMwRaT4Ac9w5YL6YI2eI0yKO-XFAUg.jpg"/>
     </item>
     <item>
-      <title>Høiby: «Høiby er ikke et monster» (17)</title>
+      <title>Høiby (17): «Høiby er ikke et monster»</title>
       <description><![CDATA[Mandag var det statsadvokatens siste sjanse til å overbevise retten om at Marius Borg Høiby er skyldig.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/84feb0c2-4ab8-464c-beb0-c24ab8364c35_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/84feb0c2-4ab8-464c-beb0-c24ab8364c35_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -76,7 +85,7 @@
       <itunes:image href="https://gfx.nrk.no/__IfMymy8dM1R6YmNMB_7QDhGNBF_io2G-5AijT8UAoQ.jpg"/>
     </item>
     <item>
-      <title>Høiby: «Monsteret Marius» (16)</title>
+      <title>Høiby (16): «Monsteret Marius»</title>
       <description><![CDATA[Høiby sa han var blitt «hele Norges hatobjekt» da han tok ordet fredag ettermiddag i den nest siste uken av rettssaken mot ham.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/40430f06-6cfc-4a82-830f-066cfc8a82d4_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/40430f06-6cfc-4a82-830f-066cfc8a82d4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -85,7 +94,7 @@
       <itunes:image href="https://gfx.nrk.no/PYArHzEwObWDLNV6s66s3AhDZOlMKQCQ9UOq83NDPjJw.jpg"/>
     </item>
     <item>
-      <title>Høiby: Badekar-nach og panikkanfall (15)</title>
+      <title>Høiby (15): Badekar-nach og panikkanfall</title>
       <description><![CDATA[Høiby forklarte seg om kvelertak, kjærlighet og brudd på besøksforbud i relasjonen til Frogner-kvinnen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/88a49f15-1c72-4e33-a49f-151c72ce3369_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/88a49f15-1c72-4e33-a49f-151c72ce3369_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -94,7 +103,7 @@
       <itunes:image href="https://gfx.nrk.no/iK_dcqpxqtzGHfwI6lk6egzEdsaFLUgC_jk-DsRQJbWQ.jpg"/>
     </item>
     <item>
-      <title>Høiby: Knust glass og kniv i veggen (14)</title>
+      <title>Høiby (14): Knust glass og kniv i veggen</title>
       <description><![CDATA[«Frogner-kvinnen» snakket om vold, rus og utroskap da hun forklarte seg i retten om forholdet til Marius Borg Høiby.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/d23de111-2b0c-48db-bde1-112b0c68dbb6_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/d23de111-2b0c-48db-bde1-112b0c68dbb6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -103,7 +112,7 @@
       <itunes:image href="https://gfx.nrk.no/uW1ZhVwBRc5l_fE8h68zZgubqAvO4EUpnL0Ciy_TY0DA.jpg"/>
     </item>
     <item>
-      <title>Høiby: Kjendisfester, makt og meldinger (13)</title>
+      <title>Høiby (13): Kjendisfester, makt og meldinger</title>
       <description><![CDATA[Dommeren måtte bryte inn opptil flere ganger da influenser-vennene til Nora Haukland og Marius Borg Høiby forklarte seg i retten.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/0f1bacf3-ba58-4012-9bac-f3ba58d01260_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/0f1bacf3-ba58-4012-9bac-f3ba58d01260_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -112,7 +121,7 @@
       <itunes:image href="https://gfx.nrk.no/rNekiKtsIjfqlNh2xNTvLARxK2aG-8M9utbJ2Q6drWLg.jpg"/>
     </item>
     <item>
-      <title>Høiby: Familien, forholdet og sviket (12)</title>
+      <title>Høiby (12): Familien, forholdet og sviket</title>
       <description><![CDATA[Marius Borg Høiby forklarte at Nora Haukland også bidro til det turbulente forholdet.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/bf58c464-1f93-4058-98c4-641f93b058ea_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/bf58c464-1f93-4058-98c4-641f93b058ea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -121,7 +130,7 @@
       <itunes:image href="https://gfx.nrk.no/16KbLMIy916fXIMH3-fewQlkCgQ7vTkRhE6QG7drqHOA.jpg"/>
     </item>
     <item>
-      <title>Høiby: Motorsykkeldate og Nora-tatovering (11)</title>
+      <title>Høiby (11): Motorsykkeldate og Nora-tatovering</title>
       <description><![CDATA[Marius Borg Høiby forklarte seg om forholdet til Nora Haukland i retten i dag, og sa han ikke kjente seg igjen i det hun forklarte på fredag.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/746d8fc1-e81a-4a76-ad8f-c1e81a8a76b1_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/746d8fc1-e81a-4a76-ad8f-c1e81a8a76b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -130,7 +139,7 @@
       <itunes:image href="https://gfx.nrk.no/wl9luqPdCwjJZMDk9W2YbgzmleW682MD7F4PrOwHSaDA.jpg"/>
     </item>
     <item>
-      <title>Høiby: Dette sa Haukland om volden (10)</title>
+      <title>Høiby (10): Dette sa Haukland om volden</title>
       <description><![CDATA[Ekskjæresten forklarte seg om vold, trusler og krenkelser i tiden hun var sammen med Marius Borg Høiby.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/4c936795-67b1-4083-9367-9567b17083ce_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/4c936795-67b1-4083-9367-9567b17083ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -139,7 +148,7 @@
       <itunes:image href="https://gfx.nrk.no/4t4LuC7UCdYG4fK6qgWokAKvlXd8qTe1REk16o1zeVWg.jpg"/>
     </item>
     <item>
-      <title>Høiby: «Liker å filme» (9)</title>
+      <title>Høiby (9): «Liker å filme»</title>
       <description><![CDATA[Marius Borg Høiby forklarte seg om mobilbilder, nach hos en reality-kjendis, og det siste tiltalepunktet om voldtekt.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6da6aa9a-df20-4baa-a6aa-9adf202baab0_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/6da6aa9a-df20-4baa-a6aa-9adf202baab0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -148,7 +157,7 @@
       <itunes:image href="https://gfx.nrk.no/jFiEQLAgUpGG-k7eNbvXHg6LJ1rPA2_eIRhTdmkhXzcA.jpg"/>
     </item>
     <item>
-      <title>Høiby: Sprit-taxi, drikkelek og tips til politiet (8)</title>
+      <title>Høiby (8): Sprit-taxi, drikkelek og tips til politiet</title>
       <description><![CDATA[Retten fikk i dag høre en kvinne forklare seg om nach hos en reality-kjendis som endte med drikke fra sprit-taxi og en natt med Marius Borg Høiby.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/5832fe23-8988-47c8-b2fe-23898817c894_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/5832fe23-8988-47c8-b2fe-23898817c894_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -157,7 +166,7 @@
       <itunes:image href="https://gfx.nrk.no/C8Dpu0iwaZnmxsED7xXvCwiGh22FxjRWATk2DsBeCr6g.jpg"/>
     </item>
     <item>
-      <title>Høiby: Brudd, blackout og drikkelek på nach (7)</title>
+      <title>Høiby (7): Brudd, blackout og drikkelek på nach</title>
       <description><![CDATA[En fuktig kveld på byen ender med et nach, en revnet t-skjorte og en voldtekts-tiltale.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/62dbb533-a148-4dc0-9bb5-33a148fdc074_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/62dbb533-a148-4dc0-9bb5-33a148fdc074_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -166,7 +175,7 @@
       <itunes:image href="https://gfx.nrk.no/Tm-ICdNUe-GpuYv2Jxyl0AZYViOPUmcWgRMsAU4HGOTw.jpg"/>
     </item>
     <item>
-      <title>Høiby: Hardkjør fra statsadvokaten (6)</title>
+      <title>Høiby (6): Hardkjør fra statsadvokaten</title>
       <description><![CDATA[Statsadvokaten hadde et tydelig mål for dagen i retten: Bygge ned bildet av personen Marius Borg Høiby.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/ad15fb6f-70cb-4fe0-95fb-6f70cbffe075_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/ad15fb6f-70cb-4fe0-95fb-6f70cbffe075_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -175,7 +184,7 @@
       <itunes:image href="https://gfx.nrk.no/fK3C_15nZDHNvZ5XLGOQTQjkHg0yDEFxCMcvjaLHaiXA.jpg"/>
     </item>
     <item>
-      <title>Høiby: Tinder-møtet i Lofoten (5)</title>
+      <title>Høiby (5): Tinder-møtet i Lofoten</title>
       <description><![CDATA[Et privat notat og et rorbu-nachspiel ble tema da Marius Borg Høibys forsvarer spurte ut en fornærmet kvinne i retten i dag.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/ad49ddc1-bcf7-4d1b-89dd-c1bcf7cd1bba_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/ad49ddc1-bcf7-4d1b-89dd-c1bcf7cd1bba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -184,7 +193,7 @@
       <itunes:image href="https://gfx.nrk.no/QaDxjdNs36YgvF0yRZmxTAXA0g3nX6vlKRWGXmOzy9QQ.jpg"/>
     </item>
     <item>
-      <title>Økse-drapet i Løten</title>
+      <title>Økse-drapet i Løten (1)</title>
       <description><![CDATA[Drapet i en lavvo i Løten skal opp i retten denne uken. En kvinne har anket dommen på 16 års fengsel.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/d072dc93-1d29-495b-b2dc-931d29395ba2_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/d072dc93-1d29-495b-b2dc-931d29395ba2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -193,7 +202,7 @@
       <itunes:image href="https://gfx.nrk.no/NnmVP8cx_OZL_ulQVpBiQARmZEefieD7fxFzarxVyB7g.jpg"/>
     </item>
     <item>
-      <title>Høiby: Søkehistorikk, søvnekspert og gardister (4)</title>
+      <title>Høiby (4): Søkehistorikk, søvnekspert og gardister</title>
       <description><![CDATA[Dennis og Valentina oppsummerer første uke fra tingretten i Oslo, og ser på hva som skjer neste uke.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/2ad33cde-1673-4112-933c-de16734112f8_3_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/2ad33cde-1673-4112-933c-de16734112f8_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -202,7 +211,7 @@
       <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
     </item>
     <item>
-      <title>Høiby: Uenighet om natten på Skaugum (3)</title>
+      <title>Høiby (3): Uenighet om natten på Skaugum</title>
       <description><![CDATA[Marius Borg Høiby forklarte seg om dop, sex og et ekstremt bekreftelsesbehov på rettssakens andre dag.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/4730253f-98d8-45f7-b025-3f98d835f76c_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/4730253f-98d8-45f7-b025-3f98d835f76c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -211,7 +220,7 @@
       <itunes:image href="https://gfx.nrk.no/TPhQxnHUKTU9lvhiAXozbAcMi-0lNiUPgrPJi00PN_BA.jpg"/>
     </item>
     <item>
-      <title>Høiby: Uro, Skaugum-nachspiel og sort hull (2)</title>
+      <title>Høiby (2): Uro, Skaugum-nachspiel og sort hull</title>
       <description><![CDATA[Marius Borg Høiby satt urolig og fiklet med et smykke da rettssaken mot ham startet. Den første fornærmede kvinnen begynte å forklare seg om et nachspiel på Skaugum i 2018. En annen fornærmet kvinne fulgte saken i retten fra første rad.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/62210374-279f-4fcd-a103-74279f3fcd06_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/62210374-279f-4fcd-a103-74279f3fcd06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -220,7 +229,7 @@
       <itunes:image href="https://gfx.nrk.no/jmIiPDxeEPnNltn7tf-PEwMvQ38K9ec7Hb51ckVrzp5A.jpg"/>
     </item>
     <item>
-      <title>Høiby: Dette må du vite (1)</title>
+      <title>Høiby (1): Dette må du vite</title>
       <description><![CDATA[Når Marius Borg Høiby møter i retten, er det første gang i historien et medlem av kongefamilien er tiltalt i en straffesak. Hva har skjedd, og hva skjer videre?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/ae2e044d-2dc3-41ca-ae04-4d2dc3a1cafa_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/ae2e044d-2dc3-41ca-ae04-4d2dc3a1cafa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>

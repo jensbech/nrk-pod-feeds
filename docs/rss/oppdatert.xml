@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:33:36 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:33:36 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>«Ga fingeren» til Putin: Dette er Europas nye håp</title>
+      <description><![CDATA[I 16 år har Viktor Orban styrt Ungarn med jernhånd. Peter Magyar klarte å vippe han av tronen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/373627ff-20ea-4e3a-b627-ff20eaee3a71_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/373627ff-20ea-4e3a-b627-ff20eaee3a71_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:24</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rYbSWzmL19R03Ktxf4_zfQzmxawmILEd1FUNA-UAk13w.jpg"/>
+    </item>
     <item>
       <title>Hacker-marerittet: 30.000 pasienters liv blottlagt</title>
       <description><![CDATA[En finsk hacker krevde løsepenger for å ikke publisere dype hemmeligheter på Internett.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>21:25</itunes:duration>
       <pubDate>Mon, 02 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/w3edS9nJ2qFR6mBw57kH9gVFes-FG3f26e4lfbNlnCzQ.jpg"/>
-    </item>
-    <item>
-      <title>Rekruttert av Foxtrot: «Davids» historie</title>
-      <description><![CDATA[Dette er historien om en av guttene som ble rekruttert av et kriminelt nettverk. Og morens kamp for å redde ham.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/7a19f7a9-1d5e-43ce-99f7-a91d5e13ce93_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/7a19f7a9-1d5e-43ce-99f7-a91d5e13ce93_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:18</itunes:duration>
-      <pubDate>Fri, 30 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yja91DVLzTgq_h0F3nOINg9RsDsCgKNJTnuVPUkORkhg.jpg"/>
     </item>
   </channel>
 </rss>

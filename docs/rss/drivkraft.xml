@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:32:12 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 14:35:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:32:02 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 13:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Dennis Asbjørnsen</title>
+      <description><![CDATA[Hageinfluenseren vil vinne, og oppnå det jeg ikke fikk til som liten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a94193a6-19a6-4179-8193-a619a601796f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a94193a6-19a6-4179-8193-a619a601796f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:09</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 13:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gXLg5lSE-3liGmubW9HzQgveXcbTDk-L_G36Vho2KKJA.jpg"/>
+    </item>
     <item>
       <title>Ary</title>
       <description><![CDATA[— Jeg spydde ned doveggene av nervøsitet, forteller artisten om den gangen hun skulle spille en scene mot Anders Danielsen Lie]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Thu, 04 Dec 2025 12:39:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/s8cY9RebakQ1HQcOMkqQXgDt0HheJEx6Me56nn8l5gbw.jpg"/>
-    </item>
-    <item>
-      <title>Liv Glaser</title>
-      <description><![CDATA[– Jeg begynte å spille så snart jeg rakk opp til tangene, forteller stjernepianisten på 90.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ca4f0d52-fe3b-4e73-8f0d-52fe3bfe73c9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ca4f0d52-fe3b-4e73-8f0d-52fe3bfe73c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:14</itunes:duration>
-      <pubDate>Wed, 03 Dec 2025 13:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DGE57eHgZIWqTDm7-NdoZgqfK9u3iO9yI9-hy0u2gLPg.jpg"/>
     </item>
   </channel>
 </rss>

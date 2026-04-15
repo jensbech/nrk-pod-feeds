@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:33:32 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:31:37 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    <item>
+      <title>FF: Du bør sladre om sjefen din</title>
+      <description><![CDATA[Det kan bedre arbeidsmiljøet, viser forskning. Og natur kan hjelpe mot ensomhet. Men en ny partikkel funnet på CERN, er bare kjempekjedelig]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/12a932cb-33a7-4cad-a932-cb33a75cad61_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/12a932cb-33a7-4cad-a932-cb33a75cad61_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:14</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>FF: Fire timers søvn er nok</title>
       <description><![CDATA[For forskere har funnet genet som kan effektivisere natta di. Andre har oppdaget sammenhengen mellom hunder og sang. Og du får svaret på om private helsetjenester er bra for samfunnet]]></description>
@@ -480,17 +489,6 @@ Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></
       <itunes:duration>29:38</itunes:duration>
       <pubDate>Mon, 15 Dec 2025 18:31:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2wIEzPfTxlMVptjgmF_zFwTp86d2XOL3JXhCStLy3a4w.jpg"/>
-    </item>
-    <item>
-      <title>Hvorfor drømmer vi? (1:2)</title>
-      <description><![CDATA[Hva er det som egentlig skjer i hjernen når vi drømmer? Hvordan kan drømmer føles så ekte, og hvorfor drømmer vi i det hele tatt?
-
-I denne miniserien tar vi et dypdykk i drømmenes verden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8028544e-1ce4-4462-a854-4e1ce454629b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8028544e-1ce4-4462-a854-4e1ce454629b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:12</itunes:duration>
-      <pubDate>Mon, 15 Dec 2025 18:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GrkKMSE656isUAn6uKzPbwEb9ch4vAUOIghcsgsQZqBQ.jpg"/>
     </item>
   </channel>
 </rss>

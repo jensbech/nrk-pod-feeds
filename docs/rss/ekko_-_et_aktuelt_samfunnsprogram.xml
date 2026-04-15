@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:32:23 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 13:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:32:12 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hvem bør få fredsprisen i år?</title>
+      <description><![CDATA[Fra Trump-støy til seks nye håp: Fredsforskeren gir oss de heteste kandidatene og røper hvem som er hennes favoritt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6f5e7ea2-5a16-42ae-9e7e-a25a1602ae25_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6f5e7ea2-5a16-42ae-9e7e-a25a1602ae25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:03</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ekw5SMl3u_Gc9CBUPknozwUg7e7SNkxDS_3DTUt6frmg.jpg"/>
+    </item>
     <item>
       <title>Er ketamin løsningen?</title>
       <description><![CDATA[Partydopet ketamin inntar terapirommet. Bør flere få det mot depresjon?]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>42:58</itunes:duration>
       <pubDate>Thu, 22 Jan 2026 14:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yFwIGfzCG7DLwkooxhlwxAzehvVgbiS7L61SrJjPfPgg.jpg"/>
-    </item>
-    <item>
-      <title>Dansk hygge mot Trumps sinne</title>
-      <description><![CDATA[Etter eit tøft møte med USA-toppar tente Lars Løkke Rasmussen pipa. Var det berre nikotinsug eller eit nøye planlagt signal?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d56c06d6-430c-45fb-ac06-d6430ca5fb64_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d56c06d6-430c-45fb-ac06-d6430ca5fb64_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:47</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oS0QyjF3Q9jiEShvlNr1JQa2RhlFADAx6zAjPoc7_C4A.jpg"/>
     </item>
   </channel>
 </rss>

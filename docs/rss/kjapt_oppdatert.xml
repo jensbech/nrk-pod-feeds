@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:32:48 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:32:37 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>I dag kjem dommen mot Isak Dreyer</title>
+      <description><![CDATA[Og trass i svoltkatastrofe, ser det ikkje ut til at krigen i Sudan kjem til å stoppe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e78c86b0-139f-4e3b-8c86-b0139fae3b6e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e78c86b0-139f-4e3b-8c86-b0139fae3b6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:57</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZgzcrNTg94WRbdtNfaMMRQz3W8S_vAh_AsNAwBZMDAVQ.jpg"/>
+    </item>
     <item>
       <title>FN ber stormakter starte fredssamtaler</title>
       <description><![CDATA[Og hvorfor får flere tinnitus nå?]]></description>
@@ -454,15 +463,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:09</itunes:duration>
       <pubDate>Mon, 02 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ym7j8ajrzVREMuEWNZAb_QzdpCzcY-rgN2u1dqnpHfRg.jpg"/>
-    </item>
-    <item>
-      <title>Storstreik i protest mot ICE</title>
-      <description><![CDATA[Og banning kan være effektivt på trening.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f4a2b242-d71e-4213-a2b2-42d71e821327_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f4a2b242-d71e-4213-a2b2-42d71e821327_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:57</itunes:duration>
-      <pubDate>Fri, 30 Jan 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4ku6_hyxOzbFtVi-x7sIdg4TavWS7h8Y-mP4VKyl6iPg.jpg"/>
     </item>
   </channel>
 </rss>

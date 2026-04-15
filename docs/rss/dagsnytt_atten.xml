@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:31:59 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:31:51 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ukrainas president besøker Norge i dag</title>
+      <description><![CDATA[Volodymyr Zelenskyj møter Jonas Gahr Støre i kveld]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nCMSQQfTN6XnYG6XJL44NQ-djglhoFL1TkEaLfqhej1A.jpg"/>
+    </item>
     <item>
       <title>Trump hevder å blokkere iranske havner</title>
       <description><![CDATA[Klokken 16 begynte USAs varslede blokade. Eksperter frykter konsekvenser for verdensøkonomien.]]></description>
@@ -454,15 +463,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 29 Jan 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Dkh36PRlam5ciANN2EJSOAP4PNRm37eU-lyryNIZsE9g.jpg"/>
-    </item>
-    <item>
-      <title>Ikke tilstede under Høiby-rettsak</title>
-      <description><![CDATA[Kronprinsparet kommer ikke til å være til stede under rettssaken mot Marius Borg Høiby.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/02ddf1ad-3dee-44ea-9df1-ad3deee4eaf4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/02ddf1ad-3dee-44ea-9df1-ad3deee4eaf4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7JgMTM0yrpauoqooOKWQygNm1D9bROyddo9WBsO8_T4w.jpg"/>
     </item>
   </channel>
 </rss>
