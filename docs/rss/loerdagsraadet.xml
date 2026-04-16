@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:29:04 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Apr 2026 13:55:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:34:00 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Ga vi gode eller dårlige råd om svigermor?!</title>
+      <description><![CDATA[Vi får tilbakemelding fra snart nybakt mor!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c9112612-577c-4c73-9126-12577cac73f5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c9112612-577c-4c73-9126-12577cac73f5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:46</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
+    </item>
     <item>
       <title>Tuva Fellman / Vidar Magnussen / Cathrine Frost</title>
       <description><![CDATA[Tilbakemelding: Skal 80-årsdagen feires? PROBLEMER / Lei av sommeren i april / Hvordan takle svigermor når baby kommer? / Bedrager på jobben / Lost in sex / Jeg vil ikke bo på gård / Jeg hater Strava / Vibratormysteriet / Hjelp, samboeren min har for mye penger / Forloverfloke!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:16:58</itunes:duration>
       <pubDate>Sat, 04 Oct 2025 13:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dzc_WiRhCApyBl3ke28riAAgQ_-J5yKhx7r5v6CpsWlw.jpg"/>
-    </item>
-    <item>
-      <title>Koppen skal hete...</title>
-      <description><![CDATA[Vi kårer koppenavn og koser oss med mailer!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ba8edba6-27a0-43cd-8edb-a627a0a3cd40_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ba8edba6-27a0-43cd-8edb-a627a0a3cd40_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:21</itunes:duration>
-      <pubDate>Wed, 01 Oct 2025 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>

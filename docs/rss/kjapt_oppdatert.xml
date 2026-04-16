@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:32:37 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:33:15 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Telia-kunder kunne spores</title>
+      <description><![CDATA[Nå skal Datatilsynet sjekke hvem som kan ha blitt rammet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/beb7970e-6104-43f4-b797-0e610443f435_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/beb7970e-6104-43f4-b797-0e610443f435_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:17</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bW-5osJj7ElH9Ci3buzA5w88muHZdtx_0qacyBrHr84g.jpg"/>
+    </item>
     <item>
       <title>I dag kjem dommen mot Isak Dreyer</title>
       <description><![CDATA[Og trass i svoltkatastrofe, ser det ikkje ut til at krigen i Sudan kjem til å stoppe.]]></description>
@@ -454,15 +463,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:51</itunes:duration>
       <pubDate>Tue, 03 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/q9BRwgs3HlXIQNOkLPdeiQBeq0aRa4aIXGFIiBKTfD3g.jpg"/>
-    </item>
-    <item>
-      <title>Dette er Epsteins norske forbindelser</title>
-      <description><![CDATA[Og motstand mot ICE gikk igjen blant artistene som var samla på Grammy-utdelinga i natt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/8a35d453-3eef-4f8a-b5d4-533eefef8a99_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/8a35d453-3eef-4f8a-b5d4-533eefef8a99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:09</itunes:duration>
-      <pubDate>Mon, 02 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ym7j8ajrzVREMuEWNZAb_QzdpCzcY-rgN2u1dqnpHfRg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:37:16 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Mar 2026 13:07:00 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:33:30 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
+    <item>
+      <title>Mitt indre kompass: Ali Jones Alkazemi</title>
+      <description><![CDATA[Han vokste opp med sjiaislam, utforsket nihilisme og ateisme før han døpte seg i en katolsk kirke. Nå er han 26 år og har han skrevet boka om sin trosreise "Jeg, en kristen-muslimsk ateist".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/9a0641a8-a6b6-4aeb-8641-a8a6b61aebaf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/9a0641a8-a6b6-4aeb-8641-a8a6b61aebaf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:41</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0tO1UBXFvXdHlqNaYFUeEAX2UCmo4J16Cz0rdXOKcq4A.jpg"/>
+    </item>
     <item>
       <title>Synnøve - en nekrolog verdig</title>
       <description><![CDATA[Synnøve kunne verken se eller høre, og i 30 år på institusjon fikk ikke det livet hun fortjente. Etter hvert kom hun i en bolig der hun ble tatt vare på, og fikk mennesker rundt seg som ble berørt av det mennesket hun faktisk var. Da Synnøve døde som 80-åring skrev de en nekrolog til henne. - Rørende. Flere burde skrive sånn, sier norsk forfatter.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>17:17</itunes:duration>
       <pubDate>Tue, 19 Aug 2025 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vb-y8CaknCaG4KrRt3FnPASrDEsJT_jt_xbwaZO6S9uA.jpg"/>
-    </item>
-    <item>
-      <title>Er det mulig å være optimist i 2025?</title>
-      <description><![CDATA[Visste du at begrepet optimisme egentlig springer ut av et filosofisk livssyn som ble født på 1700-tallet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/e61200c2-d61a-4a18-a2f3-02bd14d6cf5c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/e61200c2-d61a-4a18-a2f3-02bd14d6cf5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:35</itunes:duration>
-      <pubDate>Tue, 19 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HZFAyY0ooe2iT9OvIfUBuAJ8_p_qpb6G0dSag5y6llNQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:33:47 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:34:51 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>MDGs samarbeidskrav</title>
+      <description><![CDATA[MDG vil samle det raudgrøne laget, men gå mot alle avgiftsreduksjonar på drivstoff. Betrar det stemninga?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/dd580d24-5044-4cf0-980d-2450442cf07b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/dd580d24-5044-4cf0-980d-2450442cf07b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:02</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5pkejIdlRXv8roCeJshESQdx_-YAhi8OsB3bhrJD4iQQ.jpg"/>
+    </item>
     <item>
       <title>Sentralbanksjefen svarer kritikerne</title>
       <description><![CDATA[LO-sjef advarer Norges Bank mot å motarbeide lønnsoppgjøret 
@@ -473,15 +482,6 @@ Det vil være i strid med loven, sier jusprofessor.]]></description>
       <itunes:duration>15:00</itunes:duration>
       <pubDate>Mon, 02 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/IEn5pprJkavg6rmVtlQ6QAmX19ZpZZkKoOOGSHiT6Fxg.jpg"/>
-    </item>
-    <item>
-      <title>Høyre og ytre høyre</title>
-      <description><![CDATA[Høyre i Norge, Moderaterna i Sverige og toryene i Storbritannia sliter i skyggeland. Skal de følge etter velgerne, som nå går mot ytre høyre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4155e7b0-d19e-4d65-95e7-b0d19e4d6506_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4155e7b0-d19e-4d65-95e7-b0d19e4d6506_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k8Ihgds7lq-jpjB43xWMmQKqkx59Qw8wCnLdQWB0BvZw.jpg"/>
     </item>
   </channel>
 </rss>

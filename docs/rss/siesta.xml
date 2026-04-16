@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:34:04 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:35:12 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel angriper oss alle</title>
+      <description><![CDATA[Markus jakter på Hitler, kan man smalltalke kjøttboller og hvem av Markus og Anna er best gårdsdyr?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/41ed60cf-cc4a-457b-ad60-cfcc4a157bfb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/41ed60cf-cc4a-457b-ad60-cfcc4a157bfb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:26</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel og Anna krangler</title>
+      <description><![CDATA[Det blir temperatur i «Anna er fette kokforbanna», hvem er best til å oversette Shakira og er pølse uten ketchup smæsj eller bæsj?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/57c790b5-cecd-4f53-8790-b5cecd6f5348_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/57c790b5-cecd-4f53-8790-b5cecd6f5348_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:37</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Vi må sitte på fanget til Anna</title>
       <description><![CDATA[Finn Glede har ny måte å få unge damer på, Daniel har hull i buksa og Anna tvinger oss til å sitte på fanget til "onkel Anders".]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/618bf3e4-c427-4fcd-8bf3-e4c4276fcd86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:48</itunes:duration>
       <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna kaller Daniel for pappa</title>
-      <description><![CDATA[Vi diskuterer en rottelampe i gull, Daniel smurfifiserer Queen og Anna har med en sjekk utkledd som et bankkort, forstå det den som kan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/4b8f291b-2f95-4224-8f29-1b2f951224c0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/4b8f291b-2f95-4224-8f29-1b2f951224c0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:47</itunes:duration>
-      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel er forlova!!!</title>
-      <description><![CDATA[Tante Rita avslører at Daniel har fridd til Janne,  Anna er frelst etter kirka og Markus blir konfrontert med pustinga si.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f5a72132-308a-4f2a-a721-32308a4f2ade_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/f5a72132-308a-4f2a-a721-32308a4f2ade_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:06</itunes:duration>
-      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

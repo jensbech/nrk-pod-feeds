@@ -8,10 +8,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:31:07 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:31:41 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Bønn uten ord - Stig Lægdene</title>
+      <description><![CDATA[Av og til strekker ikke tanken til. Holder ikke til å kunne finne og forme ord som kan bli til den bønnen vi vil be.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/d86ada3c-f5ca-425b-aada-3cf5ca025b39_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/d86ada3c-f5ca-425b-aada-3cf5ca025b39_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:18</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
+    </item>
+    <item>
+      <title>Bønn - Stig Lægdene</title>
+      <description><![CDATA[Ikke alle snakker om det, men veldig mange av oss ber en bønn regelmessig, eller i helt spesielle tilfeller.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/138af578-6064-4d2b-8af5-7860644d2b88_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/138af578-6064-4d2b-8af5-7860644d2b88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:24</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
+    </item>
+    <item>
+      <title>Kort bønn - Stig Lægdene</title>
+      <description><![CDATA[Den  korteste bønnen av dem alle, er en bønn du kanskje ikke har tenkt så nøye over, men som rommer mye.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c1fd2b6a-2403-491a-bd2b-6a2403a91aee_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/c1fd2b6a-2403-491a-bd2b-6a2403a91aee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:28</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
+    </item>
+    <item>
+      <title>Sinte bønner - Stig Lægdene</title>
+      <description><![CDATA[Mange tyr til bønn når de har det vanskelig og vondt. Men muligheten for bønn er også der når du er skikkelig sint.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/d6e982c2-864c-43de-a982-c2864c43dedf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/d6e982c2-864c-43de-a982-c2864c43dedf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:40</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
+    </item>
     <item>
       <title>Stepkasse - Ragnhild Opsahl</title>
       <description><![CDATA[Det sjelden man føler seg så dum som når man gjør noe sammen med mange andre, og bare roter det til, mens resten fikser det greit.]]></description>
@@ -425,42 +461,6 @@
       <itunes:duration>03:50</itunes:duration>
       <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
-    </item>
-    <item>
-      <title>Forsoning - Claes K. Ericsson</title>
-      <description><![CDATA[Når man sitter sammen over god mat og drikke, og kvelden går, glir praten ofte over i de store spørsmålene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/71a6c6ed-b645-4cd5-a6c6-edb645ccd51f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/71a6c6ed-b645-4cd5-a6c6-edb645ccd51f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:13</itunes:duration>
-      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
-    </item>
-    <item>
-      <title>Feire seire - Kristin N. Mork</title>
-      <description><![CDATA[I vår digitale tidsalder, er det mange små dingser og digitale løsninger som nesten kan drive oss til vanvidd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/1cffc2e0-68ad-4188-bfc2-e068ada188f1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/1cffc2e0-68ad-4188-bfc2-e068ada188f1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:23</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YuqkvQovDMZoyFgbS7gFkgV0MyFj9AatNgWvKLuygpjg.jpg"/>
-    </item>
-    <item>
-      <title>Januarlys - Kristin N. Mork</title>
-      <description><![CDATA[Januar er mørk, og dagene er korte. Men det er flere måter å skape lys på i denne mørke måneden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/41336050-9640-4772-b360-509640e77269_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/41336050-9640-4772-b360-509640e77269_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:17</itunes:duration>
-      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YuqkvQovDMZoyFgbS7gFkgPGQVd84upT9gWvKLuygpjg.jpg"/>
-    </item>
-    <item>
-      <title>De kristne - Kristin N. Mork</title>
-      <description><![CDATA[Du er egentlig stolt av en merkelapp du bærer. Men sliter allikevel, pga andre som også har satt samme merke på seg selv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/a40567c5-12c6-4a12-8567-c512c69a12b3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/a40567c5-12c6-4a12-8567-c512c69a12b3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:37</itunes:duration>
-      <pubDate>Tue, 13 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YuqkvQovDMZoyFgbS7gFkglAg7Ir-P2rBgWvKLuygpjg.jpg"/>
     </item>
   </channel>
 </rss>

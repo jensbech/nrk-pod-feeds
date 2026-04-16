@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:34:23 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:35:39 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Sunniva Tillson: ADHD i parforhold</title>
+      <description><![CDATA[Sunniva Tillson, "St. Sunniva", forteller om ADHD, hva det har hatt å si for kjærlighetslivet og hvordan hun fant den rette.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ae615887-45ff-44d7-a158-8745ff44d789_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ae615887-45ff-44d7-a158-8745ff44d789_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:28</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VVP5lfDQLPQ_DvpX1gDSxgkrqaIphEj1XUANbYtKN6Ig.jpg"/>
+    </item>
     <item>
       <title>Henrik Fladseth: Om følelser</title>
       <description><![CDATA[Henrik Fladseth snakker om sitt forhold til følelser, møtet med Oda og hvordan han taklet å bli far for første gang.]]></description>
