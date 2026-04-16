@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Apr 2026 10:28:42 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 10:15:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 10:28:51 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 10:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Konfrontasjon og Jahn Teigen</title>
+      <description><![CDATA[Produsent Johannes konfronterer Jonas og gamle fabler diskuteres]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/439eb9f2-478b-4222-9eb9-f2478b1222e8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/439eb9f2-478b-4222-9eb9-f2478b1222e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 10:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
+    </item>
     <item>
       <title>Italia eller Kina?</title>
       <description><![CDATA[Vi snakker om barn, «Biler 2» og andre verdenskrig. Det blir også snakk om flytting til utlandet!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>En «gay» helg.</title>
-      <description><![CDATA[Jonas har fått ny shotte-venn, Henning er allergisk mot det russiske språket og Arin forklarer konseptet «plankebiff».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e5f614f7-ca7f-4eba-b614-f7ca7fdeba91_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e5f614f7-ca7f-4eba-b614-f7ca7fdeba91_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
