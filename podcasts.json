@@ -555,7 +555,7 @@
         "id": "kompass",
         "title": "Kompass",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kongerekka",
@@ -1382,8 +1382,8 @@
     {
         "id": "verdiboersen",
         "title": "Verdibørsen",
-        "season": null,
-        "enabled": true
+        "season": "LATEST_SEASON",
+        "enabled": false
     },
     {
         "id": "vg3",
