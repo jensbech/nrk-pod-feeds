@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Apr 2026 07:34:51 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:34:30 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>- Hvor har det blitt av kraftsosialismen?</title>
+      <description><![CDATA[- Energi har gått fra å "bygge landet" til å bli identitetspolitikk, noe av det mest polariserte vi har.
+Bård Vegar Solhjell i Fornybar Norge utfordrer rødgrønne partier, men Rødt og Senterpartiet føler seg ikke truffet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/622751ef-fbb0-4baf-a751-effbb06baffc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/622751ef-fbb0-4baf-a751-effbb06baffc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKE1Z6fpG0tgecRLGY2DwwZMl4zZxMvGEd7vJ_4czZzg.jpg"/>
+    </item>
     <item>
       <title>MDGs samarbeidskrav</title>
       <description><![CDATA[MDG vil samle det raudgrøne laget, men gå mot alle avgiftsreduksjonar på drivstoff. Betrar det stemninga?]]></description>
@@ -473,15 +483,6 @@ Det vil være i strid med loven, sier jusprofessor.]]></description>
       <itunes:duration>15:04</itunes:duration>
       <pubDate>Tue, 03 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8m8lOYZupHQtN2K333iFfAYNcr6ho7rAp8WrOzxIK_FQ.jpg"/>
-    </item>
-    <item>
-      <title>Matkøene som ikke forsvinner</title>
-      <description><![CDATA[For to år siden diskuterte vi fattige i matkø i Norge. Hvorfor har ikke køene blitt kortere?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/54aa9d58-79fa-477e-aa9d-5879fa877ef8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/54aa9d58-79fa-477e-aa9d-5879fa877ef8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:00</itunes:duration>
-      <pubDate>Mon, 02 Feb 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IEn5pprJkavg6rmVtlQ6QAmX19ZpZZkKoOOGSHiT6Fxg.jpg"/>
     </item>
   </channel>
 </rss>

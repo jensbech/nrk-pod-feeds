@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:31:24 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:32:12 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Erik Fosnes Hansen: Asfalt, sølvskjeer og sorg</title>
+      <description><![CDATA[Etter år med sperre løsnet det over pizza og vin, og 17 selvbiografiske noveller ble til på rekordtid. Erik Fosnes Hansen debuterer med novellesamlingen "Om natten er jeg i Kina". I episoden forteller han åpenhjertig om sorgen etter å ha mistet tre nære forfattervenner på kort tid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/63351dd4-2888-436a-b51d-d42888b36ad3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/63351dd4-2888-436a-b51d-d42888b36ad3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/anhZe31iWnzbz2x8uOxg6wyrwKAlxz1h_51nhe4PO5lA.jpg"/>
+    </item>
     <item>
       <title>Steinar Opstad: Gutt, jente eller alv?</title>
       <description><![CDATA[Unggutten Snorre lurer på hvem han er. Dikteren Steinar Opstad har skrevet roman om uklare følelser i et macho bygdemiljø 
@@ -476,15 +485,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Fri, 13 Dec 2024 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/crumLyvnfNlY--dyZHribAbVxe5rRad3kReVKj5OMmwg.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet Erika Fatland</title>
-      <description><![CDATA[Forfatter Erika Fatland gjør mye research på tur, men har en dagbok som blir hennes hukommelse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/7bec324c-6d3d-44c1-a4e4-be5f480e824a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/7bec324c-6d3d-44c1-a4e4-be5f480e824a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 06 Dec 2024 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QMmDYYNaih9mdY7ETzgZ0g8NJzGj-VO-5LA-wzcgz2UA.jpg"/>
     </item>
   </channel>
 </rss>
