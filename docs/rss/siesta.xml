@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Apr 2026 07:35:12 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:27:33 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Ble klippa ut av nytt på nytt</title>
+      <description><![CDATA[Vi ble klippa ut av «Nytt på nytt»-sketsj, Markus glemte Quizvang og Daniel har med fredagshilsen<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1fa0d239-68b1-4564-a0d2-3968b175641c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/1fa0d239-68b1-4564-a0d2-3968b175641c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:00</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Vi løp etter en kake</title>
+      <description><![CDATA[Det blir sylskarp stand up, er det forksjell på lyden av tennis og hvor desperat kan man bli etter mat?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:48</itunes:duration>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel angriper oss alle</title>
       <description><![CDATA[Markus jakter på Hitler, kan man smalltalke kjøttboller og hvem av Markus og Anna er best gårdsdyr?]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/ad28e258-9fd5-4fb9-a8e2-589fd59fb9c7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:33</itunes:duration>
       <pubDate>Fri, 30 Jan 2026 14:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Ubehagelige spørsmål</title>
-      <description><![CDATA[Daniel vurderer å stille Markus og Anna for retten, ubehagelige spørsmål stilles og hvilken ketchup er den beste?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/77d2ca19-1f14-47c9-92ca-191f1477c945_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/77d2ca19-1f14-47c9-92ca-191f1477c945_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:08</itunes:duration>
-      <pubDate>Thu, 29 Jan 2026 13:43:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Skal Daniel ha piratbryllup?</title>
-      <description><![CDATA[Markus og Anna fikk voksenkjeft, det er vine-spesial i papegøye og vi smalltalker wiener for en tier.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/618bf3e4-c427-4fcd-8bf3-e4c4276fcd86_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/618bf3e4-c427-4fcd-8bf3-e4c4276fcd86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:48</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

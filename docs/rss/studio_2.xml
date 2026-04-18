@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 11 Apr 2026 07:24:06 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:27:54 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Sigrid Sollund og Solveig Kloppen møtes til platedate</title>
+      <description><![CDATA[Sigrid Sollund og Solveig Kloppen er programledere for ganske ulike programmer, men begge elsker gamle skillingsviser! De møtes til platedate.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/57386003-c8c6-487a-b860-03c8c6587aa5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/57386003-c8c6-487a-b860-03c8c6587aa5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cbIHri3GeyAseZqtc8eXMwmf6M2vEG-V9J_KFUkE-ozw.jpg"/>
+    </item>
     <item>
       <title>"Bare Egil" Hegerberg og tegneserieredaktør Tormod Løkling i platedate</title>
       <description><![CDATA[Tormod Løkling har jobbet med tegneserier nesten hele livet og nå er han redaktør, mens Egil Hegerberg er artist med alias som Bare Egil og Bare Egil Spellemannslag og prøver å "Holde tritt med Trump"]]></description>
@@ -456,15 +465,6 @@ Lea Myren spiller i premiereklare "Den Stygge Stesøsteren".]]></description>
       <itunes:duration>57:09</itunes:duration>
       <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
-    </item>
-    <item>
-      <title>Platedate med Audun Molde og Kjell Erik Moen</title>
-      <description><![CDATA[Audun Molde er musikkviter, forfatter og førstelektor ved Høyskolen Kristiania. Der underviser han i pop-musikk. Kjell Erik Moen er  programleder og regissør i NRK. Han startet 2025 med programmet "Norge Rundt på 80 låter". Sammen deler de sin musikalske oppvåkning, flaue musikalske øyeblikk, og hva får dem ut på dansegulvet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/1e790e4c-0ae0-4445-b31c-81a0e77a5755_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/1e790e4c-0ae0-4445-b31c-81a0e77a5755_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Fri, 24 Jan 2025 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6ROQscaVFBf8Kdgdkze7YwWmP94xxnNlVoCWrXu1nsIw.jpg"/>
     </item>
   </channel>
 </rss>
