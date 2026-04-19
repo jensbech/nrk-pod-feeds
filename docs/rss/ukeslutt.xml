@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:29:46 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Apr 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:30:52 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Hvor lurt er det å krangle med paven?</title>
+      <description><![CDATA[Donald Trump og Pave Leo har nok en gang havnet i klammeri denne uken. Men hvor lurt er det å krangle med paven, hvis man ser det i et historisk lys?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:08</itunes:duration>
+      <pubDate>Sat, 18 Apr 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9pCbp6aNwXKbxa4VTcrNlgXdGX4GoPxiv9L9Q6Kqi18A.jpg"/>
+    </item>
     <item>
       <title>Snakk til meg!</title>
       <description><![CDATA[Harry Hole har satt ny standard for hvordan vi svarer når noen ringer.]]></description>
@@ -468,15 +477,6 @@ Til oss kommer også den rykende ferskende LO-lederen, og vi skal i tillegg inno
       <itunes:duration>01:04:30</itunes:duration>
       <pubDate>Sat, 26 Apr 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YJC37PJ2AVDeIxy8uznfJQh31cYRiy_gZdCjb3FTrlWg.jpg"/>
-    </item>
-    <item>
-      <title>Oljefondet åpner dørene</title>
-      <description><![CDATA[NIcolai Tangen er med på alt som er gøy, sier han - men kan Oljefondet bli gøyal TV?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/3af6c197-a3e4-4f43-b8fd-c5f0cc0de2b9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/3af6c197-a3e4-4f43-b8fd-c5f0cc0de2b9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:14</itunes:duration>
-      <pubDate>Sat, 19 Apr 2025 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8dnaciX1773QNgQVKlcsdgdXGGqi5VkspgSDUHNRPrkA.jpg"/>
     </item>
   </channel>
 </rss>
