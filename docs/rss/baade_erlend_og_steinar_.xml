@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:33:45 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:34:42 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Fra nostalgiker til fremtidsoptimist</title>
+      <description><![CDATA[Steinar vil ha mer håndball uten mål. Erlend vil ha mer fremtidsoptimisme. Og: rygger du inn eller kjører du inn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/27f6b286-1379-4759-b6b2-861379d759a4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/27f6b286-1379-4759-b6b2-861379d759a4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:29</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Gnagsårparadokset</title>
       <description><![CDATA[Steinar har funnet et nytt paradoks på fjellet. Erlend har funnet en ny diett. Og hva er det med klatrere?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/b4650cb3-a733-4c1a-8221-520273656bd2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:02</itunes:duration>
       <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Sammen om skammen</title>
-      <description><![CDATA[Hva er det mest uattraktive man kan være norgesmester i? Og ville menn født hvis de kunne?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/dbdc2dbe-345a-4fb3-905a-223c0a0c07f8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/dbdc2dbe-345a-4fb3-905a-223c0a0c07f8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:01</itunes:duration>
-      <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>

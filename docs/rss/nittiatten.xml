@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:34:56 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:35:46 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Odd-Magnus Williamson på besøk</title>
+      <description><![CDATA[Odda forteller om da han kjøpte leilighet i dundrende fylla og hvorfor han mener «alfa-menn» bare driver med lureri]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/ae1d5005-56d1-4da2-9d50-0556d17da2d2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/ae1d5005-56d1-4da2-9d50-0556d17da2d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:02</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UjswOUaEvIglAHy0neHABQvTpVG5BFYm6jDZQKYlpFVQ.jpg"/>
+    </item>
     <item>
       <title>Nutritac på besøk</title>
       <description><![CDATA[Klinisk ernæringsfysiolog Christian Johnston svarer på alt om mat og trening. Hva er overvurdert og undervurdert?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>38:57</itunes:duration>
       <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nYVcJdRbzUw_GUG2Ow56vg_lbS8F2Tb-2OREzFi-L05A.jpg"/>
-    </item>
-    <item>
-      <title>My man, Kongen</title>
-      <description><![CDATA[Hva skjer hvis Prinsesse Ingrid Alexandra og Mo matcher på Hinge? Og Franky er slått ut av 17. mai og Kongens aura.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/70505775-89bf-45f0-a2e4-f270687a52d9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/70505775-89bf-45f0-a2e4-f270687a52d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:24</itunes:duration>
-      <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8rsbZqiGYx_zS8uaJiPZjgi2RYBUtoWiu69JRJp7Iamw.jpg"/>
     </item>
   </channel>
 </rss>

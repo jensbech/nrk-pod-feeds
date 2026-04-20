@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:36:03 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:36:45 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Ada Sofie Austegard</title>
+      <description><![CDATA[Etter at datteren ble drept i Baneheia i 2000,  har Ada Sofie Austegard ført en utrettelig kamp for barns rettsvern.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/45d2f2a0-8780-43fe-92f2-a0878003fe41_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/45d2f2a0-8780-43fe-92f2-a0878003fe41_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XjaPpu-MWTjROVno4YEAUwqBOUK7Er2JkQzr7Dv1pSkg.jpg"/>
+    </item>
     <item>
       <title>MAGAs kristne univers</title>
       <description><![CDATA[Hvordan kan millioner av kristne amerikanere omfavne Donald Trump? Teolog Ragnar Misje Bergem har dykket ned i MAGA-bevegelsens religiøse inspirasjonskilder.]]></description>
@@ -461,15 +470,6 @@ Tall fra en 40-årig helseundersøkelse gir ikke bare mål på kroppens tilstand
       <itunes:duration>57:39</itunes:duration>
       <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/abVi6BTkofJliCa7S_Oz6wBAkP3NrZh3ka65ZYGbTzcw.jpg"/>
-    </item>
-    <item>
-      <title>Verdensrommet</title>
-      <description><![CDATA[Spørretime om det aller største rommet med astrofysiker Maria Hammerstrøm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/7dbe140f-e82d-426a-97b6-70a86bbafb80_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7dbe140f-e82d-426a-97b6-70a86bbafb80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:15</itunes:duration>
-      <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3Cm5vIhoUDmPd5c2uoz9bAFzCuV-aLMr4BxQ8g_WlC7Q.jpg"/>
     </item>
   </channel>
 </rss>
