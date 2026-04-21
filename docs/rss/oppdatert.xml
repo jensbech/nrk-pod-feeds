@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 07:36:01 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:34:53 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Mormon wives-skandalen: Disney i hardt vær</title>
+      <description><![CDATA[Slik gikk reality-dronningen Taylor Frankie Paul fra å være Disneys gullgruve, til å bli en PR-skandale.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/9e2e14c7-b01d-4aa1-ae14-c7b01d7aa159_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/9e2e14c7-b01d-4aa1-ae14-c7b01d7aa159_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:05</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7mR4LmHFWiCCkfBK4DI9GQJyLtC0AdI-59PJb5ITZAMQ.jpg"/>
+    </item>
     <item>
       <title>Uro i verda: Kva skjer om alarmen går i Noreg?</title>
       <description><![CDATA[Vi følgjer fiktive Thea på 26 år, som er på veg heim frå jobb når flyalarmen ular over byen.]]></description>
@@ -22,8 +31,8 @@
       <itunes:image href="https://gfx.nrk.no/66DY53QvxMXUY7vAKnls7A7KZSbaVzJZ42AI3Su-M6Rg.jpg"/>
     </item>
     <item>
-      <title>NRK-profil Isak Dreyer og den ulovlige bjørnejakten</title>
-      <description><![CDATA[To videoer og et bjørneskinn gjorde at TV-profilen havnet på tiltalebenken i Sverige.]]></description>
+      <title>NRK-profil og den ulovlige bjørnejakten</title>
+      <description><![CDATA[To videoer og et bjørneskinn gjorde at Isak Dreyer havnet på tiltalebenken i Sverige.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/400c76d3-acbd-45f8-8c76-d3acbdb5f8e1_2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/400c76d3-acbd-45f8-8c76-d3acbdb5f8e1_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>17:53</itunes:duration>
@@ -452,15 +461,6 @@
       <itunes:duration>17:17</itunes:duration>
       <pubDate>Fri, 06 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ixr-50AKPWinDi9H6i9b4woSWqTTPLGAs1oPFVwqdwXQ.jpg"/>
-    </item>
-    <item>
-      <title>Presidentens plan: Hva skjer i Syria nå?</title>
-      <description><![CDATA[Syrias president tok et grep som gjorde hundretusenvis av kurdere livredde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5a1b83b4-83f9-49b4-9b83-b483f9f9b4af_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5a1b83b4-83f9-49b4-9b83-b483f9f9b4af_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:53</itunes:duration>
-      <pubDate>Thu, 05 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CnSCea5ncR-f2w8iFfci3QQa3bpppF_G2hfCY31Kk7BA.jpg"/>
     </item>
   </channel>
 </rss>

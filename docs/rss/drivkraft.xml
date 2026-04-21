@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:32:52 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 13:40:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:33:07 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Vegard Bjørsmo</title>
+      <description><![CDATA[– Jeg omfavnet først nylig at jeg er skeiv, sier musikeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s_9DsrXgzBq06kvgosYBwQt_rfZ6vTivGEHLoIgoOvdA.jpg"/>
+    </item>
     <item>
       <title>Marianne Heske</title>
       <description><![CDATA[–  Kunstnere holder seg best - sier billedkunstner Marianne Heske på 80 år]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>56:55</itunes:duration>
       <pubDate>Wed, 10 Dec 2025 12:39:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0b-Vd6BzulA13lnzCwosSQjAeaGYPQoOBBLRzWMc4ZvA.jpg"/>
-    </item>
-    <item>
-      <title>Kåre Magnus Bergh</title>
-      <description><![CDATA[Han leder "Kvelden før kvelden": – Jeg gleder meg til å bli pensjonist.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a1d91697-0916-49a0-9916-970916f9a0ae_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a1d91697-0916-49a0-9916-970916f9a0ae_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
-      <pubDate>Tue, 09 Dec 2025 13:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WX5TWwRgnh0rKeCpWFC3Gg3NsW8WZUNu4krAInhOiatA.jpg"/>
     </item>
   </channel>
 </rss>

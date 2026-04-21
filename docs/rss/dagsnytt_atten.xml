@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:26:02 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:32:52 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Streik i hotell- og restaurantbransjen</title>
+      <description><![CDATA[Flere hundre ble i helgen tatt ut i streik der hovedkonflikten er sykepenger]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dfd701ce-1d49-489a-9701-ce1d49689ae7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dfd701ce-1d49-489a-9701-ce1d49689ae7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:40</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fw6JPxlsPN3b6IpR2jzDhQHPAefnzzKPtoBOSq2EfRdg.jpg"/>
+    </item>
     <item>
       <title>Hormuzstredet åpnet, ifølge Iran.</title>
       <description><![CDATA[NHO advarer om at Norge kan stoppe helt opp ved en internasjonale drivstoffkrise.]]></description>
@@ -455,15 +464,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/164CoB9nDZJe4lxQmASvdAbW4XXJz8fPyILdow67RPag.jpg"/>
-    </item>
-    <item>
-      <title>Første dag i Høiby-rettssaken</title>
-      <description><![CDATA[Marius Borg Høiby nekter straffskyld for de mest alvorlige tiltalepunktene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/49c73e2c-de78-4dcb-873e-2cde784dcb9b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/49c73e2c-de78-4dcb-873e-2cde784dcb9b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Tue, 03 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_oFTbNIT0gBgWO7uDkoqPwpmIU1YWPaUIULFRaN06NvA.jpg"/>
     </item>
   </channel>
 </rss>
