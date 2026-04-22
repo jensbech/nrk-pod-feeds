@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:32:52 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:32:17 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen dropper endringer i hytteskatten</title>
+      <description><![CDATA[SV sterkt kritisk til beslutningen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8722cd78-6537-4812-a2cd-78653708127e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8722cd78-6537-4812-a2cd-78653708127e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x3hPL_5zVHh47qcBfYoYcAFtDjwn6lIiFm7Xk6hnd4CQ.jpg"/>
+    </item>
     <item>
       <title>Streik i hotell- og restaurantbransjen</title>
       <description><![CDATA[Flere hundre ble i helgen tatt ut i streik der hovedkonflikten er sykepenger]]></description>
@@ -455,15 +464,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 05 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/-K7OKERMO_n29dXc7WELdQBmOHTnKC_xDcokL42dYXPA.jpg"/>
-    </item>
-    <item>
-      <title>Nobelinstituttet om Jaglands Epsteinkontakt</title>
-      <description><![CDATA[– Kan være i strid med vårt etisk regelverk, sier direktør Kristian Berg Harpviken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0962d0c5-b1c8-4d46-a2d0-c5b1c8cd4683_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0962d0c5-b1c8-4d46-a2d0-c5b1c8cd4683_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 04 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/164CoB9nDZJe4lxQmASvdAbW4XXJz8fPyILdow67RPag.jpg"/>
     </item>
   </channel>
 </rss>

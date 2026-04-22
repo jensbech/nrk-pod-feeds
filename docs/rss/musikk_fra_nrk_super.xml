@@ -8,171 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:21:29 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Jun 2025 12:44:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:33:57 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q.jpg"/>
     <item>
-      <title>BlimE! - 2011 og 2012</title>
-      <description><![CDATA[Noah og Eline med BlimE!-sangen fra 2011 og 2012.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/e78b7719-1254-49fd-afd3-47d3a442be42_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e78b7719-1254-49fd-afd3-47d3a442be42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:54</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 11:52:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/00_RJ5Irc1HL4dS6E_FceA_Sn4iFjfVv4Ws0hhRe02zw.jpg"/>
+      <title>BlimE! – Her for deg/Lean álo dás – 2026</title>
+      <description><![CDATA[Viljar & Máijá med BlimE!-sangen 2026.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9f8e827-5d7f-4203-b8e8-275d7fa20397_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9f8e827-5d7f-4203-b8e8-275d7fa20397_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:05</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SA9FNaYKtqu8_5ou0wSdDAq6gBE02kusEXj1Pe0K9q3A.jpg"/>
     </item>
     <item>
-      <title>BlimE! - 2013</title>
-      <description><![CDATA[Kash King (Kashfa King Gashamura) med BlimE!-sangen 2013.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/c486206e-48ab-4114-8ab4-955f7a36aff7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c486206e-48ab-4114-8ab4-955f7a36aff7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:53</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 11:56:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/blpX2-5P_sJYYp500aFisg7-mTC904iuQZ2zIgYTrsvw.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Ekte venner - 2014</title>
-      <description><![CDATA[Markus Bailey og Mathea-Mari med BlimE!-sangen 2014.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/ad202552-a770-4e9a-a2e7-0c2d1eb988e7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ad202552-a770-4e9a-a2e7-0c2d1eb988e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:54</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 11:58:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JcRmy5WkcC95vIMr72jbqA_gl6S0K_dBKsQul94yApcw.jpg"/>
-    </item>
-    <item>
-      <title>BlimE - Dilla på -  2015</title>
-      <description><![CDATA[Raylee synger BlimE!-låta fra 2015.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/16d9fdbe-80eb-4402-937e-9cc203e2ed93_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/16d9fdbe-80eb-4402-937e-9cc203e2ed93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:18</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p_XKUh_al36yYN306dBTpwFdj1VfMiEYKN3GtxNyR2Rw.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! -  Kom igjen 'a - 2016</title>
-      <description><![CDATA[Madcon fremfører BlimE!-låta 2016.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/0d19b956-d36f-4b65-9c9c-22ac584a8e09_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/0d19b956-d36f-4b65-9c9c-22ac584a8e09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:09</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QFVgZNrq060IdIBZknR_Lgbt3kEn8BZMgt8wkwEMwUZA.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Venn -  2017</title>
-      <description><![CDATA[TRXD ft. Ramón med BlimE!-låta fra 2017.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/3685c5b2-ba8e-4fac-99c2-5cd87c8ec822_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3685c5b2-ba8e-4fac-99c2-5cd87c8ec822_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:54</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2Q_4XBh2MWV6e5nnTVX4kQEU1aND8o7XzQbFgSjdiW1g.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - 2018</title>
-      <description><![CDATA[Freddy Kalas synger BlimE!-sangen fra 2018.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/210495e6-64a0-4d97-90e1-e298c4159205_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/210495e6-64a0-4d97-90e1-e298c4159205_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:41</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-3E5HQaOKhfDYWN8YGHtMQkqIpvYTmNRJ0S9vseX2VOA.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Mer enn god nok - 2019</title>
-      <description><![CDATA[Stina Talling fremfører BlimE!-låta fra 2019.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9da2228-204f-4c9a-8fb9-ecde24afa452_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9da2228-204f-4c9a-8fb9-ecde24afa452_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:06</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:08:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/IQMg9b3XMC9pu0wTEgRi0AhlggC4Zu-pZF66HfMtu6PQ.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Oainnán du - 2020</title>
-      <description><![CDATA[Vegard Bjørsmo synger den samiske BlimE!-sangen 2020.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/16fd3b67-bcc9-417c-bc30-e56ed1b746e5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/16fd3b67-bcc9-417c-bc30-e56ed1b746e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:06</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:09:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vjY6QY3EQtof7ztvskapHgDFNY6HqaorSwTpbFHF5nkw.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Ser deg - 2020</title>
-      <description><![CDATA[Victor Sotberg synger BlimE!-sangen fra 2020.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/8fd2cbb4-ab49-429e-8de4-a2a64aef9d26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/8fd2cbb4-ab49-429e-8de4-a2a64aef9d26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:07</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:11:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9AzRtWqm7yMtVooz4dC-DQ08iePZEcbnwt-pfRkk_b6Q.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Bávkkanas - 2021</title>
-      <description><![CDATA[Elin Oskal synger den samiske BlimE!-låta 2021.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb727d3a-d3fc-451b-b2d2-5747731307ab_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb727d3a-d3fc-451b-b2d2-5747731307ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:50</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:12:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3Uc0nLxtKsEdfhNio1XpOAF2hO_g_K7LEZWv3RtYRVJg.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Dynamitt - 2021</title>
-      <description><![CDATA[Nicolay Ramm synger BlimE!-sangen 2021.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/4a8cabe3-12cd-40a7-be3b-9f4831145c66_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/4a8cabe3-12cd-40a7-be3b-9f4831145c66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:49</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:13:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sLQSxg38SAJsbOFsNd7xawzRBbdXtAH3bnAJz8DJa8Pw.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Boerehke - 2022</title>
-      <description><![CDATA[Åvla synger BlimE!-låta 2022.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/ccbe9042-0b70-4301-8320-d530ad83a5e9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ccbe9042-0b70-4301-8320-d530ad83a5e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:19</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4hQ2512fLJ-m4Kux-vsS_QcQP82V37rr1uZJFnk-LIIw.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Den Ene - 2022</title>
-      <description><![CDATA[Selma synger BlimE!-sangen 2022.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/b56a8b6d-c79b-4325-85f1-60a8ea12b675_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/b56a8b6d-c79b-4325-85f1-60a8ea12b675_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:20</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:16:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/P0UEZ2gSY4yUeanRbHyyFgbUi9D49eqbYVtZ4q-i0v7Q.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Moai Girde - 2023</title>
-      <description><![CDATA[Ánde synger den samiske BlimE!-låta 2023.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/f74fb87b-38fe-4e73-bf78-072844b560a3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f74fb87b-38fe-4e73-bf78-072844b560a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:12</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:17:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W-C3zJCCybDi9L4KLldHvQ0lFoZsocAS43d5fN7VUqQw.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Sveve høyt - 2023</title>
-      <description><![CDATA[Martin Lilleberg synger BlimE!-låta 2023.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb348ac5-9ae5-4d18-8376-99dcc0723ede_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb348ac5-9ae5-4d18-8376-99dcc0723ede_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:11</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:19:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yKGM7Zze0OAGvY97EmSIYgO7sgmhxs_ddskPfPw1L-Gg.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Jupptsagárre - 2024</title>
-      <description><![CDATA[Ailo Thomassen synger den samiske BlimE!-sangen 2024.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/c3f85372-0657-4c96-b176-80a7667efbe6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c3f85372-0657-4c96-b176-80a7667efbe6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:24</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MoudSTtlZATjd3ux_47IzgBCRFlQzK5K-g-Q6YfCPy0w.jpg"/>
-    </item>
-    <item>
-      <title>BlimE! - Ferdig snakka - 2024</title>
-      <description><![CDATA[Ane Norum Kvistad synger BlimE-låta 2024.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/3afc134e-7699-4b68-bb44-b5dd678307b1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3afc134e-7699-4b68-bb44-b5dd678307b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:26</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:22:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p7nsQmVxUdACxb5VCHpydATJjZXVIdbOMVvaoLGJH_PQ.jpg"/>
+      <title>BlimE! - Være med - 2025</title>
+      <description><![CDATA[Matoma & Agnete Saba med BlimE!-sangen 2025.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/7dd23ae9-c5ac-476e-aafc-6b68eb1ebd5a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/7dd23ae9-c5ac-476e-aafc-6b68eb1ebd5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:52</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:44:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WVY2KGVjpZH3Q-Z9d3XPDwz-cdFXDEp-GIqS5LLg1oSA.jpg"/>
     </item>
     <item>
       <title>BlimE! - Vuolgge mielde - 2025</title>
@@ -184,13 +40,166 @@
       <itunes:image href="https://gfx.nrk.no/xNgIYouxw_gVMMcgYcOqUA1JKR7SjAa5LgadrqSthfwg.jpg"/>
     </item>
     <item>
-      <title>BlimE! - Være med - 2025</title>
-      <description><![CDATA[Matoma & Agnete Saba med BlimE!-sangen 2025.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/7dd23ae9-c5ac-476e-aafc-6b68eb1ebd5a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/7dd23ae9-c5ac-476e-aafc-6b68eb1ebd5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:52</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 12:44:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WVY2KGVjpZH3Q-Z9d3XPDwz-cdFXDEp-GIqS5LLg1oSA.jpg"/>
+      <title>BlimE! - Ferdig snakka - 2024</title>
+      <description><![CDATA[Ane Norum Kvistad synger BlimE-låta 2024.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/3afc134e-7699-4b68-bb44-b5dd678307b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3afc134e-7699-4b68-bb44-b5dd678307b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:26</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:22:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p7nsQmVxUdACxb5VCHpydATJjZXVIdbOMVvaoLGJH_PQ.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Jupptsagárre - 2024</title>
+      <description><![CDATA[Ailo Thomassen synger den samiske BlimE!-sangen 2024.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/c3f85372-0657-4c96-b176-80a7667efbe6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c3f85372-0657-4c96-b176-80a7667efbe6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:24</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MoudSTtlZATjd3ux_47IzgBCRFlQzK5K-g-Q6YfCPy0w.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Sveve høyt - 2023</title>
+      <description><![CDATA[Martin Lilleberg synger BlimE!-låta 2023.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb348ac5-9ae5-4d18-8376-99dcc0723ede_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb348ac5-9ae5-4d18-8376-99dcc0723ede_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:11</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:19:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yKGM7Zze0OAGvY97EmSIYgO7sgmhxs_ddskPfPw1L-Gg.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Moai Girde - 2023</title>
+      <description><![CDATA[Ánde synger den samiske BlimE!-låta 2023.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/f74fb87b-38fe-4e73-bf78-072844b560a3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f74fb87b-38fe-4e73-bf78-072844b560a3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:12</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:17:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W-C3zJCCybDi9L4KLldHvQ0lFoZsocAS43d5fN7VUqQw.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Den Ene - 2022</title>
+      <description><![CDATA[Selma synger BlimE!-sangen 2022.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/b56a8b6d-c79b-4325-85f1-60a8ea12b675_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/b56a8b6d-c79b-4325-85f1-60a8ea12b675_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:20</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:16:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/P0UEZ2gSY4yUeanRbHyyFgbUi9D49eqbYVtZ4q-i0v7Q.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Boerehke - 2022</title>
+      <description><![CDATA[Åvla synger BlimE!-låta 2022.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/ccbe9042-0b70-4301-8320-d530ad83a5e9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ccbe9042-0b70-4301-8320-d530ad83a5e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:19</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4hQ2512fLJ-m4Kux-vsS_QcQP82V37rr1uZJFnk-LIIw.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Dynamitt - 2021</title>
+      <description><![CDATA[Nicolay Ramm synger BlimE!-sangen 2021.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/4a8cabe3-12cd-40a7-be3b-9f4831145c66_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/4a8cabe3-12cd-40a7-be3b-9f4831145c66_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:49</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:13:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sLQSxg38SAJsbOFsNd7xawzRBbdXtAH3bnAJz8DJa8Pw.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Bávkkanas - 2021</title>
+      <description><![CDATA[Elin Oskal synger den samiske BlimE!-låta 2021.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb727d3a-d3fc-451b-b2d2-5747731307ab_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb727d3a-d3fc-451b-b2d2-5747731307ab_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:50</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:12:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3Uc0nLxtKsEdfhNio1XpOAF2hO_g_K7LEZWv3RtYRVJg.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Ser deg - 2020</title>
+      <description><![CDATA[Victor Sotberg synger BlimE!-sangen fra 2020.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/8fd2cbb4-ab49-429e-8de4-a2a64aef9d26_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/8fd2cbb4-ab49-429e-8de4-a2a64aef9d26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:07</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:11:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9AzRtWqm7yMtVooz4dC-DQ08iePZEcbnwt-pfRkk_b6Q.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Oainnán du - 2020</title>
+      <description><![CDATA[Vegard Bjørsmo synger den samiske BlimE!-sangen 2020.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/16fd3b67-bcc9-417c-bc30-e56ed1b746e5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/16fd3b67-bcc9-417c-bc30-e56ed1b746e5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:06</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:09:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vjY6QY3EQtof7ztvskapHgDFNY6HqaorSwTpbFHF5nkw.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Mer enn god nok - 2019</title>
+      <description><![CDATA[Stina Talling fremfører BlimE!-låta fra 2019.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9da2228-204f-4c9a-8fb9-ecde24afa452_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9da2228-204f-4c9a-8fb9-ecde24afa452_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:06</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IQMg9b3XMC9pu0wTEgRi0AhlggC4Zu-pZF66HfMtu6PQ.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - 2018</title>
+      <description><![CDATA[Freddy Kalas synger BlimE!-sangen fra 2018.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/210495e6-64a0-4d97-90e1-e298c4159205_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/210495e6-64a0-4d97-90e1-e298c4159205_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:41</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-3E5HQaOKhfDYWN8YGHtMQkqIpvYTmNRJ0S9vseX2VOA.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Venn -  2017</title>
+      <description><![CDATA[TRXD ft. Ramón med BlimE!-låta fra 2017.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/3685c5b2-ba8e-4fac-99c2-5cd87c8ec822_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3685c5b2-ba8e-4fac-99c2-5cd87c8ec822_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2Q_4XBh2MWV6e5nnTVX4kQEU1aND8o7XzQbFgSjdiW1g.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! -  Kom igjen 'a - 2016</title>
+      <description><![CDATA[Madcon fremfører BlimE!-låta 2016.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/0d19b956-d36f-4b65-9c9c-22ac584a8e09_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/0d19b956-d36f-4b65-9c9c-22ac584a8e09_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:09</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QFVgZNrq060IdIBZknR_Lgbt3kEn8BZMgt8wkwEMwUZA.jpg"/>
+    </item>
+    <item>
+      <title>BlimE - Dilla på -  2015</title>
+      <description><![CDATA[Raylee synger BlimE!-låta fra 2015.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/16d9fdbe-80eb-4402-937e-9cc203e2ed93_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/16d9fdbe-80eb-4402-937e-9cc203e2ed93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:18</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p_XKUh_al36yYN306dBTpwFdj1VfMiEYKN3GtxNyR2Rw.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - Ekte venner - 2014</title>
+      <description><![CDATA[Markus Bailey og Mathea-Mari med BlimE!-sangen 2014.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/ad202552-a770-4e9a-a2e7-0c2d1eb988e7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ad202552-a770-4e9a-a2e7-0c2d1eb988e7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 11:58:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JcRmy5WkcC95vIMr72jbqA_gl6S0K_dBKsQul94yApcw.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - 2013</title>
+      <description><![CDATA[Kash King (Kashfa King Gashamura) med BlimE!-sangen 2013.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/c486206e-48ab-4114-8ab4-955f7a36aff7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c486206e-48ab-4114-8ab4-955f7a36aff7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:53</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 11:56:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/blpX2-5P_sJYYp500aFisg7-mTC904iuQZ2zIgYTrsvw.jpg"/>
+    </item>
+    <item>
+      <title>BlimE! - 2011 og 2012</title>
+      <description><![CDATA[Noah og Eline med BlimE!-sangen fra 2011 og 2012.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/e78b7719-1254-49fd-afd3-47d3a442be42_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e78b7719-1254-49fd-afd3-47d3a442be42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Fri, 06 Jun 2025 11:52:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/00_RJ5Irc1HL4dS6E_FceA_Sn4iFjfVv4Ws0hhRe02zw.jpg"/>
     </item>
   </channel>
 </rss>

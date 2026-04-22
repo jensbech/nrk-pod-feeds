@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:33:07 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:32:37 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 13:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Henrik Skaug Sætra</title>
+      <description><![CDATA[KI truer demokratiet, sier teknologieksperten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/64f55fb5-62f3-4c15-b55f-b562f3bc15e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/64f55fb5-62f3-4c15-b55f-b562f3bc15e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 13:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/J53u1xSUhEkJsmPvR4smfQFp9bsEbcQucpZzrzUjnurw.jpg"/>
+    </item>
     <item>
       <title>Vegard Bjørsmo</title>
       <description><![CDATA[– Jeg omfavnet først nylig at jeg er skeiv, sier musikeren]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>57:15</itunes:duration>
       <pubDate>Thu, 11 Dec 2025 16:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/I2QSaCoNBAchoAoEsIqLoQcoO8jOPM3-FDiNzPwYfZdA.jpg"/>
-    </item>
-    <item>
-      <title>Anne Marie Ottersen</title>
-      <description><![CDATA[– Det er et liv i angst, sier 80-åringen om livet som skuespiller.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/74ad2f0a-a652-4ddf-ad2f-0aa6529ddfa8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/74ad2f0a-a652-4ddf-ad2f-0aa6529ddfa8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:55</itunes:duration>
-      <pubDate>Wed, 10 Dec 2025 12:39:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0b-Vd6BzulA13lnzCwosSQjAeaGYPQoOBBLRzWMc4ZvA.jpg"/>
     </item>
   </channel>
 </rss>
