@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:32:37 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2026 13:05:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:33:09 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 13:26:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Solveig Kloppen</title>
+      <description><![CDATA[– Jeg holdt meg for ørene mens foreldrene mine kranglet da jeg var barn, sier programlederen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/22314080-bb03-400b-b140-80bb03200be5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/22314080-bb03-400b-b140-80bb03200be5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:53</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 13:26:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OqMKc-c5LddNKhmIWrrrLQXIe2bz2bGzR5NR8Mj4UBUw.jpg"/>
+    </item>
     <item>
       <title>Henrik Skaug Sætra</title>
       <description><![CDATA[KI truer demokratiet, sier teknologieksperten.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Mon, 05 Jan 2026 13:25:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hGiKL785y-4aOGBHuhe6ngZgqGmD3G96nvXafTSS_nqg.jpg"/>
-    </item>
-    <item>
-      <title>Veronica Akselsen</title>
-      <description><![CDATA[– Det er varige skader på sjelen min, sier musikeren om oppveksten som "tater". Hun flyttet 14 ganger før hun fylte 10, og mener familien ble forfulgt av taterstempelet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3400fafb-b1b7-4622-80fa-fbb1b756222e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3400fafb-b1b7-4622-80fa-fbb1b756222e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Thu, 11 Dec 2025 16:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/I2QSaCoNBAchoAoEsIqLoQcoO8jOPM3-FDiNzPwYfZdA.jpg"/>
     </item>
   </channel>
 </rss>

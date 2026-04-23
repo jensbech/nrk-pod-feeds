@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:32:04 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:32:20 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>De 10 bud - Ingjerd Egeberg</title>
+      <description><![CDATA[VI har kommet til finalen i Ingjerd Egebergs mentale vårrengjøring. Her har hun litt av en sjekkliste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/bdcd8cfc-e834-4641-8d8c-fce83496413f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/bdcd8cfc-e834-4641-8d8c-fce83496413f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:05</itunes:duration>
+      <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TRxU0KbAFPcvbuq3KD5eTgvQdOK2hx6nWCepmmDLBQKg.jpg"/>
+    </item>
     <item>
       <title>Bordet - Ingjerd Egeberg</title>
       <description><![CDATA[Skal vi holde fasaden så godt vi kan, eller skal vi pusse overflata vår, slik at ripene og sårene vi har kommer fram?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/4935b586-2102-4b96-b5b5-8621025b9683_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:21</itunes:duration>
       <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5iYQQBOZwM9FD6Q2BEVemwp3upHD9UxrY1RY5W0KMFyA.jpg"/>
-    </item>
-    <item>
-      <title>Overtenke - Trygve Skaug</title>
-      <description><![CDATA[Er man en overtenker, er det lurt å finne seg noen gode teknikker for å unngå de dummeste tankene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/a7f809d4-26f5-4720-b809-d426f5c72053_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/a7f809d4-26f5-4720-b809-d426f5c72053_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:25</itunes:duration>
-      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5iYQQBOZwM9FD6Q2BEVemwp3upHD9UxrY1RY5W0KMFyA.jpg"/>
     </item>
   </channel>

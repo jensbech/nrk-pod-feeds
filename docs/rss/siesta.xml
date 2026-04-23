@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:35:30 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:35:50 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Noen vil spytte på Markus</title>
+      <description><![CDATA[Ikke alle syns humoren til Finn Glede er gøy, det blir «Looney Tunes» i papegøye og hvordan ville Siesta hørtes ut på dansk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:43</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Er det lov med sokker i sandaler</title>
+      <description><![CDATA[Anna er kokforbanna på folk som ikke vippser, vi får besøk av Onan Hemsworth fra KrfU og Daniel får oss til å oversette Michael Jackson.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f04895c2-cb98-422b-8895-c2cb98322bec_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f04895c2-cb98-422b-8895-c2cb98322bec_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:38</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Smakte brystmelk fra venn</title>
       <description><![CDATA[Markus lager ASMR av mat, Daniel kårer ukas dumfette og Anna deler om sitt forhold til brystmelk.]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/f40bf154-8683-4b1c-8bf1-5486834b1c45_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:46</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Sangkonkurransen fra helvete</title>
-      <description><![CDATA[Anna er forbanna på uker, Daniel smelter i Emma Steinbakken spalten og Markus blir til Borat. Blir Siesta av sånt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/97bb4ba1-e801-4bdb-bb4b-a1e801abdba0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/97bb4ba1-e801-4bdb-bb4b-a1e801abdba0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:39</itunes:duration>
-      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna vokser Markus til blods</title>
-      <description><![CDATA[Finn Glede vil skille seg fra Epstein, hva er det motsatte av brunøyet til Vangen og Anna vokser Daniel og Markus til blods.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:05</itunes:duration>
-      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
