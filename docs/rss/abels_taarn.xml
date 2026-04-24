@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:31:55 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 10:30:41 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    <item>
+      <title>Hva med hjerte lagd på labben?</title>
+      <description><![CDATA[Verden kunne saktens behøvd mer kjærlighet.
+Lurer du på geniale ting? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1dFYEXeIIii4apyIIPpaMQX6NZkgDuBh841A1zgeF7AA.jpg"/>
+    </item>
     <item>
       <title>FF: Bermudatriangelet over hodet ditt</title>
       <description><![CDATA[Forskere har funnet stedet astronauter må unngå. En ny vitenskap basert på lukten av gamle bøker er funnet opp. Og vet vi nå hvorfor flytende magma er bra for livet]]></description>
@@ -476,16 +486,6 @@ Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/26ee6156-aa61-4ba8-ae61-56aa61bba845_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ.jpg"/>
-    </item>
-    <item>
-      <title>Blir du herdet av å gå i "drittklær" i surt vær?</title>
-      <description><![CDATA[Stafetten går! Sju eksperter svarer på åtte spørsmål på rappen (2:3)
-Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f0e752d9-137d-430e-a752-d9137de30e7a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f0e752d9-137d-430e-a752-d9137de30e7a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 26 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DP8GQwk6yOPS_SJahG0l0gIdrOwE9JFxev6u3Ra9y9pQ.jpg"/>
     </item>
   </channel>
