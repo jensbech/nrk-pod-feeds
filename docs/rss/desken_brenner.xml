@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:32:43 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:35:03 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Ikke rør krigsprofitten vår</title>
+      <description><![CDATA[Nå finnes Strava for råkjøring. Europaparlamentet vil ha oljepenga våre. Hva kan egentlig gå galt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/92367255-87e6-4320-b672-5587e6a3200f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/92367255-87e6-4320-b672-5587e6a3200f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:16</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Barnefotballbaneheia</title>
       <description><![CDATA[Vi er inne i gullalderen for: boikott av barnefotball i Kristiansand, salget av vaksine mot helvetesild, og ledere i Ungarn som er litt mindre jævlige enn de forrige.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/4ba55e41-681b-4a66-a55e-41681bda66a5_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/4ba55e41-681b-4a66-a55e-41681bda66a5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:20</itunes:duration>
+      <itunes:duration>42:55</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/964f8754-37e1-4c19-b068-2ee0e5b67f21_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:26</itunes:duration>
       <pubDate>Fri, 02 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Der ingen skulle tru at nokon kunne ha buplikt</title>
-      <description><![CDATA[Tusenvis av operasjoner avlyses i siste liten. Målfrid (95) har boplikt i en ubeboelig rønne. Bygging i strandsonen er nå forbeholdt de rike.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/524df041-cfbc-4a2d-83b8-cc41ec627cb4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/524df041-cfbc-4a2d-83b8-cc41ec627cb4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:56</itunes:duration>
-      <pubDate>Fri, 25 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>

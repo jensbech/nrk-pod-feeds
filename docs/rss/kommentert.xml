@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:33:44 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 14:53:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:35:53 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Energikrisen kan lamme alt: – Amatørenes festaften</title>
+      <description><![CDATA[Vi er midt oppi verdens verste energikrise. Hvor lenge skal den vare? Hvorfor greier ikke Donald Trump å avslutte krigen?
+Og hvem skal styre Norge fremover, når ingen av de store partiene greier å samle flertall?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/31033784-f671-46c9-8337-84f671c6c99e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/31033784-f671-46c9-8337-84f671c6c99e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:41</itunes:duration>
+      <pubDate>Thu, 23 Apr 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dhzdz3HadKzf-g9581Jb7gkAmZ4RBblHfXnhyDm9IgZQ.jpg"/>
+    </item>
     <item>
       <title>Renter og prisvekst: Tar Norges Bank feil?</title>
       <description><![CDATA[Flere og flere påstår at Norges Bank tar feil i å sette opp styringsrenten for å få ned prisveksten. Tar Norges Bank feil? Og hva med politikernes ansvar?]]></description>
@@ -487,15 +497,6 @@ Og Høyre med dårligste valg på 20 år. Hva gikk galt?]]></description>
       <itunes:duration>37:14</itunes:duration>
       <pubDate>Tue, 12 Aug 2025 15:25:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RCGcEUPI62CwjfJOB5Xtzwifq9M7uk31K9O5dHtKpugQ.jpg"/>
-    </item>
-    <item>
-      <title>Israel og Iran: Hva gjør USA nå?</title>
-      <description><![CDATA[Angrepene på begge sider fortsetter, men hvor nær er vi en amerikansk involvering? Og hva vil egentlig Israel oppnå? Og så snakker vi litt om at mange politikere sier vi har dårlig råd i Norge, men har vi egentlig det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b07513ce-8fff-4257-aeb0-e10d3dc33110_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/b07513ce-8fff-4257-aeb0-e10d3dc33110_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:00</itunes:duration>
-      <pubDate>Wed, 18 Jun 2025 14:13:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ki_LI1bgGR40nLYTRJ1wjg66seUYc2tH5KB6H45XLUpA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:33:16 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:35:26 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Michael Jackson og kongehuset</title>
+      <description><![CDATA[Dagens panel skal finne ut av følgende:
+Er Kongehuset verdt pengene? 
+Kan du slippe unna med det meste så lenge kunsten din er god nok?
+Er det innafor å tjene penger på krig og død?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/311b5582-8a61-443e-9b55-828a61043e07_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/311b5582-8a61-443e-9b55-828a61043e07_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:14</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Er du med på bollebonanza?</title>
       <description><![CDATA[Me får og får - bør me vera meir takksame overfor staten? 
@@ -514,17 +526,6 @@ Og er det harmløst at USAs president deler KI-video?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/748a3c76-d903-473a-8413-d421bd347c70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:45</itunes:duration>
       <pubDate>Fri, 28 Feb 2025 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>Norge som filmkulisse, utenlandske bøker og tiktok-trender</title>
-      <description><![CDATA[Panel: Ahmed Mamow - komiker, Marte Spurkland - sakprosaforfatter og redaktør og Marit Moum Aune - regissør.
-
-Er det om å å gjøre å få utelandske storfilmer og -serier til Norge? Spøker det for bøker på norsk? Er det for lav tersker for å kalle noe for en TikTok-trend?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/add2e18a-9f88-4fe0-a019-ee4c6003d596_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/add2e18a-9f88-4fe0-a019-ee4c6003d596_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:15</itunes:duration>
-      <pubDate>Fri, 21 Feb 2025 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>

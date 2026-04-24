@@ -3,15 +3,25 @@
   <channel>
     <title>Skiklubben</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i skiløypa. Konkurranse eller kos – lidenskapen for langrenn skal dyrkes!</description>
+    <description>I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:34:47 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:36:55 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    <item>
+      <title>Gunn-Rita Dahle Flesjå - Norges mestvinnende syklist</title>
+      <description><![CDATA[Sindre og Anders skal sykle Birken i år og får tips fra Gunn Rita Dahle Flesjå ,  Norges suverent mestvinnende syklist gjennom tidende når vi snakker om mesterskapstitler.
+Den tidligere verdenseneren på terrengsykkel forteller om alt fra steinharde treninger, jaget om å holde tritt med utstyr og teknikk og hvordan hun ble overtalt til å ikke legge opp - før den lange seiersrekken startet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/9b3d9963-1e17-4fb5-bd99-631e171fb5b8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/9b3d9963-1e17-4fb5-bd99-631e171fb5b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:34</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    </item>
     <item>
       <title>Løpelege Marius Bakkens beste tips</title>
       <description><![CDATA[Det viktigste nå er å holde seg skadefri. Tidligere toppløper, lege og forfatter Marius Bakken gir tips nå som nå som 
@@ -20,7 +30,7 @@ løpesesongen er i gang for veldig mange. Her får den vanlige mosjonist til den
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/b48b2c18-1ec5-434f-8b2c-181ec5d34f6a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
     </item>
     <item>
       <title>Treningsprogram og matforgiftning</title>
@@ -30,17 +40,17 @@ Anders vurderer Silje og Sindres treningsplaner og vi får høre om en noe smert
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/d0883bc6-2f8a-424d-883b-c62f8a724da3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>59:53</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gIzRV4aMLezffOPuZhO0ZQi8dT1SdRSjnlK5afS-k2Wg.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
     </item>
     <item>
-      <title>Kristin Harila: Rekord, hets og skiglede</title>
+      <title>Kristin Harila: Til Everest uten oksygen</title>
       <description><![CDATA[Hun har klatret verdens fjelltopper over 8000 meter raskere enn noen andre og skal nå forsøke seg på Mount Everest uten oksygen.
 Kristin Harila forteller om skigleden, om da hun måtte forsvare seg mot en global rykteflom og hvorfor hun har med tørrfisk og smågodt til verdens tak.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/5df4653c-80fd-45bb-b465-3c80fda5bbfa_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/5df4653c-80fd-45bb-b465-3c80fda5bbfa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:01:29</itunes:duration>
       <pubDate>Fri, 03 Apr 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
     </item>
     <item>
       <title>Våre mål for sommersesongen</title>
@@ -49,7 +59,7 @@ Kristin Harila forteller om skigleden, om da hun måtte forsvare seg mot en glob
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/4cc8f753-5053-44ea-88f7-53505374ea2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:35</itunes:duration>
       <pubDate>Fri, 27 Mar 2026 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/breYlKGj5DxCwZPtKMxCzQRUzwBeONzLD8Nel_6IyVNQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
     </item>
     <item>
       <title>Debrief med lytterne</title>
@@ -468,15 +478,6 @@ Hvordan er de i rute? Og ikke minst - går Jansrud i brudd, eller holder han seg
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/528ef723-da31-4b62-a3af-ba2f1bcc4df2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:12:37</itunes:duration>
       <pubDate>Fri, 01 Aug 2025 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
-    </item>
-    <item>
-      <title>Vegard Ulvang om skisportens fremtid</title>
-      <description><![CDATA[Vegard Ulvang om langrennsportens fremtid, og hvorfor ikke staking bør være en del av den. OL- og VM-vinneren deler også treningstips og historier fra karrieren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/c9267358-d4ce-4100-97d7-0208a59f30cb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/c9267358-d4ce-4100-97d7-0208a59f30cb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:06:38</itunes:duration>
-      <pubDate>Fri, 25 Jul 2025 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
     </item>
   </channel>

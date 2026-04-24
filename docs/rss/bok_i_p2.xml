@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:32:12 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:34:34 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Pascal Engman: Klaner, kokain og makt</title>
+      <description><![CDATA[I «Klanen» skriver Pascal Engman om mørke familiehemmeligheter, barndom som leiemorder og hvordan virkeligheten overgår fiksjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/94f0ae04-aa2d-4ab9-b0ae-04aa2d0ab9c1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/94f0ae04-aa2d-4ab9-b0ae-04aa2d0ab9c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-91brKBq9hjVEfJvzaKZIwMO85Y1S_1F11zsWCEDNaSg.jpg"/>
+    </item>
     <item>
       <title>Erik Fosnes Hansen: Asfalt, sølvskjeer og sorg</title>
       <description><![CDATA[Etter år med sperre løsnet det over pizza og vin, og 17 selvbiografiske noveller ble til på rekordtid. Erik Fosnes Hansen debuterer med novellesamlingen "Om natten er jeg i Kina". I episoden forteller han åpenhjertig om sorgen etter å ha mistet tre nære forfattervenner på kort tid.]]></description>
@@ -476,15 +485,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>56:18</itunes:duration>
       <pubDate>Fri, 13 Dec 2024 15:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fZc3lwHVFrCjqa9mpdVEQQvd8IlEcYnfPDLogpKWMQXg.jpg"/>
-    </item>
-    <item>
-      <title>Kritikernes favorittbøker del 1</title>
-      <description><![CDATA[Kritikerne deler noen av sine personlige favorittbøker fra året som har gått.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/bd1c71c9-ab07-4e2b-a580-eb415e43daeb_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/bd1c71c9-ab07-4e2b-a580-eb415e43daeb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 13 Dec 2024 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/crumLyvnfNlY--dyZHribAbVxe5rRad3kReVKj5OMmwg.jpg"/>
     </item>
   </channel>
 </rss>
