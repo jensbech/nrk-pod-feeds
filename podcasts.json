@@ -393,7 +393,7 @@
         "id": "hele_historien",
         "title": "Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "historiske_kjendiser",
@@ -597,7 +597,7 @@
         "id": "kringkastingsorkestret_",
         "title": "Kringkastingsorkestret ",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kroppen",
