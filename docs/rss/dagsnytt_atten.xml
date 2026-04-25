@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:34:43 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:29:38 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>- Flere kutt i drivstoffavgiftene kan være ulovlige.</title>
+      <description><![CDATA[Det sier finansministeren. Bedriftene som får fordeler av avgiftskutt kan måtte tilbakebetale beløpet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b426a9a6-3379-4d32-a6a9-a63379dd3233_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b426a9a6-3379-4d32-a6a9-a63379dd3233_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c9kq7xvJhOxBeIJZl5TsqwM_nBTH_C_RcirhPNIHuHdg.jpg"/>
+    </item>
     <item>
       <title>Vil ha røykeforbud</title>
       <description><![CDATA[Britene vil forby nye generasjoner å kjøpe tobakk. - Vi bør gjøre det samme, sier LHL.]]></description>
@@ -455,15 +464,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 10 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/csDIBtfKblhGal3oTSBFhQ9cXB63VwzNn3Cnt4TR_shQ.jpg"/>
-    </item>
-    <item>
-      <title>Søreide om Epstein-varsel</title>
-      <description><![CDATA[UD kunne ha undersøkt Terje Rød-Larsens tankesmie ytterligere i 2019. Det sier påtroppende Høyreleder Ine Eriksen Søreide.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/675b55bc-0b64-4443-9b55-bc0b64244365_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/675b55bc-0b64-4443-9b55-bc0b64244365_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Mon, 09 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/f-PF4yaIIU3HiDgycBGNBggcQayY6uOP2EpVs_2e302g.jpg"/>
     </item>
   </channel>
 </rss>

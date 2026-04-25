@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:31:48 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:30:49 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Fersket på seminar!</title>
+      <description><![CDATA[Jakten på Norges beste bolle er i gang! Smaker man forskjell på billig og dyr skolebolle? Dette er det beste fra P3morgen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4f5c8b88-4663-4b27-9c8b-8846631b271b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4f5c8b88-4663-4b27-9c8b-8846631b271b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:55</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dNA3ULHkxG2_R1h8PdFdowSe21bdQMYbAbuSk2OJPfqw.jpg"/>
+    </item>
     <item>
       <title>Overdose på sterk mais-snacks.</title>
       <description><![CDATA[Arin er tilbake! Vi snakker om potetgull og døde Soundcloud-rappere.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Alt ble sendt til Iran.</title>
-      <description><![CDATA[Jonas har fått en ny hobby, men Arin og Henning er litt usikre på om de støtter det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/57b57cd2-3190-4e79-b57c-d23190de794e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/57b57cd2-3190-4e79-b57c-d23190de794e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>

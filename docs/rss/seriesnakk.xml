@@ -8,8 +8,8 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:27:20 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:30:58 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
@@ -29,6 +29,15 @@
       <itunes:duration>42:17</itunes:duration>
       <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CFeQTf-pEYodLQpBFqatgg_tsl18nPqDbthxDBrL0gKw.jpg"/>
+    </item>
+    <item>
+      <title>– En du går i krigen med (3:4)</title>
+      <description><![CDATA[Cathrine Frost forteller om forberedelsene til «LIS»-rollen, mens Marlene Stavrum måtte spole over en scene i serien. Hvilken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:04</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA.jpg"/>
     </item>
   </channel>
 </rss>

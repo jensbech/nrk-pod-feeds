@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:26:52 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:30:34 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>«Memes»-politikere</title>
+      <description><![CDATA[Unge politikere tøyer strikken for å få oppmerksomhet, statue av Michael Jackson skaper hodebry i Sverige, og Iran bruker Lego mot Trump.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/57ceb7de-5115-48ca-8eb7-de511578ca31_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/57ceb7de-5115-48ca-8eb7-de511578ca31_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Blod, makt og femisfære</title>
       <description><![CDATA[Danskene krangler om ånd og DNA, radikaliserte jenter samles i femisfæren, og Jimmie Åkesson-Wunderbaum skaper reaksjoner.]]></description>
@@ -457,15 +466,6 @@ og har danskene – og kanskje vi alle - falt ned i kaninhullet?]]></description
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 22 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NE__3hPIp9o7Ixf1GrmnEwdp8495nsjM1LALHajiwuQQ.jpg"/>
-    </item>
-    <item>
-      <title>Juksemaker, pipelort</title>
-      <description><![CDATA[Fem år etter korona slikker vi fremdeles sår, politisk snøskred på Grønland, og kan ikke alt like godt bare være lov i idretten? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f2e2fa92-dee3-4076-8d2f-5f8a9ad729a9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/f2e2fa92-dee3-4076-8d2f-5f8a9ad729a9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 15 Mar 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>
 </rss>

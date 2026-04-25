@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:27:54 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Apr 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:31:28 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 17:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Platedate med Solveig og Leif Ove Andsnes</title>
+      <description><![CDATA[Leif Ove Andsnes må tilbake til ungdomsskoletiden for å finne en sang som får ham ut på dansegulvet. Det viser seg at søsteren hans Solveig har koret til akkurat denne sangen i Unity Arena på Fornebu - uten at han visste om det. De to søsknene møtes til Platedate, på samme dag som de for første gang har gitt ut musikk sammen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/b1b6c8f5-2cdd-496c-b6c8-f52cddb96c8f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/b1b6c8f5-2cdd-496c-b6c8-f52cddb96c8f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:58</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 17:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fngDtTcrSDIPhvpXnxD4vg5_NBYwpSEJilVx0CIQUUyw.jpg"/>
+    </item>
     <item>
       <title>Sigrid Sollund og Solveig Kloppen møtes til platedate</title>
       <description><![CDATA[Sigrid Sollund og Solveig Kloppen er programledere for ganske ulike programmer, men begge elsker gamle skillingsviser! De møtes til platedate.]]></description>
@@ -455,15 +464,6 @@ Lea Myren spiller i premiereklare "Den Stygge Stesøsteren".]]></description>
       <enclosure url="https://podkast.nrk.no/fil/studio_2/0337c80c-4607-4c43-82d5-6e83854693b0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:45</itunes:duration>
       <pubDate>Fri, 14 Feb 2025 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
-    </item>
-    <item>
-      <title>Platedate med Frida Ånnevik og Julie Moe Sandø</title>
-      <description><![CDATA[Hvordan det er å spille mot en katt, og hvordan er det å slippe tak i en musikal du har oversatt tekstene til? Skuespiller Julie Moe Sandø og artist Frida Ånnevik forteller i denne ukas platedate.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/67a9a465-c9a2-499c-8887-fc7343dde694_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/67a9a465-c9a2-499c-8887-fc7343dde694_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:09</itunes:duration>
-      <pubDate>Fri, 31 Jan 2025 18:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
     </item>
   </channel>
