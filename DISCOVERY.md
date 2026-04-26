@@ -1,4 +1,10 @@
 # Podcast Discovery Changelog  
+### 2026-04-26  
+- Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
+- Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Hvem skjøt Balder?' (`hvem_skjoet_balder`)  
+- Updated podcast 'Mysterier fra Norge' (`mysterier_fra_norge`)  
 ### 2026-04-25  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
