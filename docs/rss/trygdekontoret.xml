@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 07:36:45 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:47:43 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Mord i middelalderen</title>
+      <description><![CDATA[En rik bonde blir funnet drept i 1432. Var det hesten eller kona Gudrun som hadde gjort det? Historiker Ole-Albert Rønning Nordby byr på true crime fra middelalderen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/5d7eed5b-29c5-490e-beed-5b29c5790e67_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5d7eed5b-29c5-490e-beed-5b29c5790e67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Gp7di-cGNkQ8cbqbOkRgwAY2YpNgdRXQLuN1oTsi6dA.jpg"/>
+    </item>
     <item>
       <title>Ada Sofie Austegard</title>
       <description><![CDATA[Etter at datteren ble drept i Baneheia i 2000,  har Ada Sofie Austegard ført en utrettelig kamp for barns rettsvern.]]></description>
@@ -460,16 +469,6 @@ Denne episoden er felt i Pressens Faglige Utvalg (PFU) for brudd på presseetikk
       <itunes:duration>01:10:56</itunes:duration>
       <pubDate>Mon, 03 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zDKpxv4byW5e21fU64rqqQ0qMv9zeCZbrqveellzBGNQ.jpg"/>
-    </item>
-    <item>
-      <title>Helseundersøkelse som roman</title>
-      <description><![CDATA[– Traumer kan arves!
-Tall fra en 40-årig helseundersøkelse gir ikke bare mål på kroppens tilstand, men viser hvordan sår og traumer går i arv. Ingrid Storholmen har skrevet romanen «Bloddråpetall»  basert på data fra en 40 år pågående helseundersøkelse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/ed144c3b-9ad1-4b64-8590-0f5777748d27_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ed144c3b-9ad1-4b64-8590-0f5777748d27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:39</itunes:duration>
-      <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/abVi6BTkofJliCa7S_Oz6wBAkP3NrZh3ka65ZYGbTzcw.jpg"/>
     </item>
   </channel>
 </rss>

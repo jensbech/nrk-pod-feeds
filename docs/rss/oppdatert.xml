@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:36:28 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:47:07 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Idrettsdop og forgifting: Slår Putins plan sprekker?</title>
+      <description><![CDATA[Nye avsløringer kobler russiske dopingsjefer til forgiftning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/526f0737-747a-4a9b-af07-37747a2a9be1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/526f0737-747a-4a9b-af07-37747a2a9be1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:29</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/necixk9FE6OwTeZwexd-uAe8XQV2v2cQ9MzS4_5o3y_Q.jpg"/>
+    </item>
     <item>
       <title>Epstein-saken ingen fikk lese: – Begynte å true meg</title>
       <description><![CDATA[Vi har møtt journalisten Vicky Ward, som var på sporet av den overgrepsdømte finansmannen lenge før noen andre.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
+      <itunes:duration>20:46</itunes:duration>
       <pubDate>Fri, 24 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/76cSAEgX_37fNEHk-K_9XAqe55-z6JM1v4rV-wrFuSIw.jpg"/>
     </item>
@@ -452,15 +461,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Thu, 12 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/diYViAOUaGKBb8xlCNzCSQIKsvuqWIVurJxMGYrEhgBg.jpg"/>
-    </item>
-    <item>
-      <title>Spredte nakenbilder: Slik ble «Guttas drøm» avslørt</title>
-      <description><![CDATA[Politiet gikk undercover for å avdekke den historisk store saken. Nå er rettssaken over.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/bbc521d7-bd00-4cae-8521-d7bd00ecae81_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/bbc521d7-bd00-4cae-8521-d7bd00ecae81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:03</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/l3aQbraTqEub67ev59M6OQc0qEJsjGKSVEXV0uZ_e0oA.jpg"/>
     </item>
   </channel>
 </rss>

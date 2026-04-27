@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Apr 2026 07:35:46 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:46:55 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Erna Solberg på besøk</title>
+      <description><![CDATA[Erna forteller om den gangen hun prøvde å dra en likestillingsvits i Iran og om det dummeste hun noensinne har kjøpt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/d22300d5-ea38-4bd6-a300-d5ea38bbd68f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/d22300d5-ea38-4bd6-a300-d5ea38bbd68f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:31</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U780xdEWXh6fIAxah7AAlgq9OMp6hAqGlG-Bjx1AbsbQ.jpg"/>
+    </item>
     <item>
       <title>Odd-Magnus Williamson på besøk</title>
       <description><![CDATA[Odda forteller om da han kjøpte leilighet i dundrende fylla og hvorfor han mener «alfa-menn» bare driver med lureri]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>26:53</itunes:duration>
       <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
-    </item>
-    <item>
-      <title>Tale Torjussen på besøk</title>
-      <description><![CDATA[Tale Torjussen er på besøk og gir gutta tips om alt fra skuespill til hvordan man ikke blir lurt i Asia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/fd5d76e2-cb38-4a9c-be43-90fc735ae83c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fd5d76e2-cb38-4a9c-be43-90fc735ae83c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:57</itunes:duration>
-      <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nYVcJdRbzUw_GUG2Ow56vg_lbS8F2Tb-2OREzFi-L05A.jpg"/>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:36:38 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:47:17 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Garantist for Støre?</title>
+      <description><![CDATA[Støre kan ikke ta oss for gitt, sa Arild Hermstad på vei ut av landsmøtesalen. Men har MDG noen andre de kan lage budsjett med?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/db2329f4-94d1-475d-a329-f494d1d75dd4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/db2329f4-94d1-475d-a329-f494d1d75dd4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/P-eOZg-ufLa6PF1da_XyiA94cTLn58bwOgBBZFQ_KZVA.jpg"/>
+    </item>
     <item>
       <title>16-årsgrense for sosiale medier</title>
       <description><![CDATA[Regjeringen skjerper aldersgrensa for sosiale medier. Ungdom under 16 skal ikke ha Snapchat, Tiktok og Instagram. Utrolig dumt, ifølge Simen Velle (Frp)]]></description>
@@ -473,16 +482,6 @@ I helgen velges hun til leder i Høyre.]]></description>
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Wed, 11 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mpbBQwK9xYPMqeheooxk_A4xfzRjMKHeusFPKVOXURDg.jpg"/>
-    </item>
-    <item>
-      <title>Fredsnasjonen Norge</title>
-      <description><![CDATA[I morgen kommer palestinernes president til Norge.
-Bør vi fortsatt prøve å skape fred i Midtøsten, Colombia og Filippinene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9cdd2ceb-6bca-4e28-9d2c-eb6bca6e283a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9cdd2ceb-6bca-4e28-9d2c-eb6bca6e283a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:02</itunes:duration>
-      <pubDate>Tue, 10 Feb 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CEuLeZ7FHOioW5C005YaAd-G_kab5O1nhPwX_EFNfIA.jpg"/>
     </item>
   </channel>
 </rss>

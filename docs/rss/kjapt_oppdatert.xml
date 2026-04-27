@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:35:44 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 07:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:46:32 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>USA-skyttar skreiv manifest før skytinga</title>
+      <description><![CDATA[Og ein bank prøver å førebygge sjølvmord blant kundane sine.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/286b2a7f-11fe-41d0-ab2a-7f11fe21d087_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/286b2a7f-11fe-41d0-ab2a-7f11fe21d087_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:06</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7Rz9QBlWDHOctR9EGFlw8QO3gop6uU7KKz2a6pAZ6lww.jpg"/>
+    </item>
     <item>
       <title>Vil innføre 16-årsgrense på sosiale medier</title>
       <description><![CDATA[Og våpenhvilen mellom Israel og Libanon forlenges med tre uker.]]></description>
@@ -454,15 +463,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:53</itunes:duration>
       <pubDate>Thu, 12 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/1jpulDWj_3wwe7R_-ESKvAPkyuBdnOLnWURrxniiG0Nw.jpg"/>
-    </item>
-    <item>
-      <title>Hamas vil gi fra seg makta i Gaza</title>
-      <description><![CDATA[Og flere personer har blitt drept i masseskyting i Canada.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/54df487f-7f8c-4b6c-9f48-7f7f8c6b6cf6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/54df487f-7f8c-4b6c-9f48-7f7f8c6b6cf6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:27</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hG8uQILUn0gTba6sZAteTgzw-iqFlO49j6pR9hUgjH7g.jpg"/>
     </item>
   </channel>
 </rss>
