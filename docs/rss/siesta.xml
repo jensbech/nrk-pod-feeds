@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Apr 2026 07:31:10 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:48:56 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel klipper tånegler live</title>
+      <description><![CDATA[Ørjan Borre kommer innom for ha quiz for oss, vi diskuterer hva det motsatte av sjokolade er og Daniel klipper tåneglene sine.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d06dd990-3ffa-49e4-add9-903ffa69e4e9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d06dd990-3ffa-49e4-add9-903ffa69e4e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:09</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Rævpult av SAS (igjen)</title>
       <description><![CDATA[SAS har endret på Daniels ferie, Anna er best likt av sjefen og Markus kjører bolle-spesial i quizvang!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>43:05</itunes:duration>
       <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5uJDlxDgc4zwQDnoPd-FGgWkZvQFg3Fq1J7oq0zi-eNQ.jpg"/>
-    </item>
-    <item>
-      <title>Markus skal tatovere seg!</title>
-      <description><![CDATA[Det er fredag som betyr vennskapstest, Quizvang og ikke minst en helt ny konkurranse: Norges dummeste tatovering! Meld deg på inne på P3.no<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f4cdf794-73cf-471d-8df7-9473cf671d9e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/f4cdf794-73cf-471d-8df7-9473cf671d9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:13</itunes:duration>
-      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
 </rss>

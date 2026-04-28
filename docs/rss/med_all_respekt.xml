@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:36:11 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:48:00 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Velfrisert og velduftende</title>
+      <description><![CDATA[Tara har brukt helga på å forberede besøk til gynekologen. Det er mange ting vi ikke forteller foreldrene våre om.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/b5da8e63-92af-4dc6-9a8e-6392af6dc690_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/b5da8e63-92af-4dc6-9a8e-6392af6dc690_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:29</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Don't fuck with the Jesus</title>
       <description><![CDATA[Der går tydeligvis grensa. Vi trodde afterski var for alle, men ikke alle er enige i det. Og hurra for kjærlighetssorg!]]></description>
@@ -454,15 +463,6 @@ og deler gladelig ut helseråd til alle som vil høre på - og i dette tilfellet
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/ae314c5d-a03e-47c5-b14c-5da03eb7c5b5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:32</itunes:duration>
       <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Biji Kurdistan!</title>
-      <description><![CDATA[Abu har forska på nonner og horer. Hvor lang var køen på mikrokjendis awards? Hva skjer med bananrepublikken USA? Leve Kurdistan!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/4685ca6e-3985-4175-85ca-6e3985817510_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4685ca6e-3985-4175-85ca-6e3985817510_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:21</itunes:duration>
-      <pubDate>Tue, 27 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

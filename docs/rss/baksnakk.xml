@@ -11,10 +11,21 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:30:54 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Apr 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:46:08 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>«Six seven», eskorte og musikk-ick</title>
+      <description><![CDATA[Sofie har oppdaget en ny «six seven»-app, og Milie er lei av klein musikk.
+
+Send oss spørsmål i appen NRK Radio!:)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/797fa2e0-3bc3-4294-bfa2-e03bc3129442_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/797fa2e0-3bc3-4294-bfa2-e03bc3129442_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:12</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Kritikk, spøkelser og kleine ting i hverdagen</title>
       <description><![CDATA[Å nyse i offentligheten tyder på null selvkontroll.
@@ -548,18 +559,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/3d24a3ea-a0c1-4ecf-a4a3-eaa0c19ecf07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:02</itunes:duration>
       <pubDate>Fri, 31 Oct 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Vi ser skrekkfilm sammen!</title>
-      <description><![CDATA[Liker du ikke å se skrekkfilm alene? Ikke noe problem!
-Sofie og Zara har filmkveld med «The Conjuring» på skjermen, og du er invitert!
-
-Start filmen når Zara teller ned fra tre, og bli med på kalaset.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/2fab6970-3c18-428c-ab69-703c18a28cbb_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/2fab6970-3c18-428c-ab69-703c18a28cbb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:50:08</itunes:duration>
-      <pubDate>Thu, 30 Oct 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

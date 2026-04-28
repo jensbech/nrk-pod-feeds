@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Apr 2026 07:47:07 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:48:21 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Drapstiltalt artist: Hva skjedde med Celeste (14)?</title>
+      <description><![CDATA[En ung jente dør, og den milliard-strømma artisten D4vd havner midt i stormen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/352e2090-80f0-4b67-ae20-9080f01b676f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/352e2090-80f0-4b67-ae20-9080f01b676f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:03</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vPQDDHS48eO5OMIKbKDxrQzAcvdqTUdKtleHANeSznaQ.jpg"/>
+    </item>
+    <item>
+      <title>Gallaskytingen i USA: NRK-journalist midt i dramaet</title>
+      <description><![CDATA[Den tradisjonsrike middagen ble alt annet enn forventet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/eeafa197-e418-4bd2-afa1-97e418fbd28c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/eeafa197-e418-4bd2-afa1-97e418fbd28c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:18</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 14:52:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kp2XtvIDqe_z_R7w3B8g0AABHzCAxtMmM1-kjoYdthHA.jpg"/>
+    </item>
     <item>
       <title>Idrettsdop og forgifting: Slår Putins plan sprekker?</title>
       <description><![CDATA[Nye avsløringer kobler russiske dopingsjefer til forgiftning.]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>19:28</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_GJioOz0bUltzkQL6s03iwdo75UupvOl7cHfuD-G86-g.jpg"/>
-    </item>
-    <item>
-      <title>Kanyes nazi-hyllest: Nå forklarer han hvorfor</title>
-      <description><![CDATA[I flere år har Kanye West sagt og gjort ting som har fått folk til å rase. Nå sier han unnskyld.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/acb45750-a54b-420d-b457-50a54b520dd9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/acb45750-a54b-420d-b457-50a54b520dd9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:47</itunes:duration>
-      <pubDate>Fri, 13 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hYiNNkBmE98LQIEcM3hd9A-G4B-zQYHwuUNYLhry1XSA.jpg"/>
-    </item>
-    <item>
-      <title>Trusler og avsløringer: Epsteins norske koblinger</title>
-      <description><![CDATA[Et tips i 2019 førte til avsløringer om at Epstein hadde kontakt med en rekke norske samfunnstopper.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f0fe3daa-6378-4e6d-be3d-aa6378ee6dcf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f0fe3daa-6378-4e6d-be3d-aa6378ee6dcf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Thu, 12 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/diYViAOUaGKBb8xlCNzCSQIKsvuqWIVurJxMGYrEhgBg.jpg"/>
     </item>
   </channel>
 </rss>

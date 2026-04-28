@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Apr 2026 10:29:48 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:46:40 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 14:51:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Isalill Kolpus</title>
+      <description><![CDATA[Jakten på sannheten om John Savio: Isalill Kolpus om bestefarens hemmelighet og hvorfor hun forlater Nytt på nytt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ba434362-aabc-4700-8343-62aabca70055_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ba434362-aabc-4700-8343-62aabca70055_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Mon, 27 Apr 2026 14:51:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HM-rcwfnH56m_3fPaiYItQ8x0-gJxf2CSYvv__v3h8sg.jpg"/>
+    </item>
     <item>
       <title>Ståle Solbakken</title>
       <description><![CDATA[-  Legene tok livet av meg for å teste hjertet, og da så jeg en lyseblå tunnel, forteller landslagssjefen i fotball]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>56:48</itunes:duration>
       <pubDate>Wed, 07 Jan 2026 13:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Tzvbp51OrbAArzKR5YkTpwr8y4iCfCsPrcoNWzOKSPIg.jpg"/>
-    </item>
-    <item>
-      <title>Espen Aas</title>
-      <description><![CDATA[– Jeg scorer lavt på medmenneskelighet, sier den nye Debatten-programlederen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cacfa67f-64ae-47ad-8fa6-7f64ae27ad44_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cacfa67f-64ae-47ad-8fa6-7f64ae27ad44_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:13</itunes:duration>
-      <pubDate>Tue, 06 Jan 2026 13:50:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w2ip8EjFpn21abR4P-KzzQy-IEI0OocPXyLmXXCc0_ow.jpg"/>
     </item>
   </channel>
 </rss>
