@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:39:38 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:40:26 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Axe-kurder og diss track.</title>
+      <description><![CDATA[Jonas deler hva som har stresset han de to siste ukene og Arin føler seg disset av Henning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/26c117e7-a0ba-4083-8117-e7a0ba208318_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/26c117e7-a0ba-4083-8117-e7a0ba208318_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Hvem er best til å kysse?</title>
       <description><![CDATA[Henning har skadet fingeren, Jonas har glemt en bibel i bagen sin og Arin er visst sykt god til å kysse.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>01:00:40</itunes:duration>
       <pubDate>Sat, 21 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tnjE6V2Mmop7PV7qgP2lLQr6HKmzpm2kpiVJLNeFzGBg.jpg"/>
-    </item>
-    <item>
-      <title>Hva sa de første menneskene?</title>
-      <description><![CDATA[Henning har kanskje blodpropp, Jonas bekymrer seg og Arin gir faen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/747e216d-77ee-4d90-be21-6d77ee8d901c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/747e216d-77ee-4d90-be21-6d77ee8d901c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
