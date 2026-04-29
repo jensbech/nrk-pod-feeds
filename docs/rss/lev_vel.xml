@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:33:31 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:42:58 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Derfor er du fortsatt singel</title>
+      <description><![CDATA[Hva er det vi sliter med i jakten på en kjæreste og hvilke feller er det vi stadig går i? Psykolog Marius Stavang gir oss svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/950c1165-79dc-43e3-8c11-6579dc53e37d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/950c1165-79dc-43e3-8c11-6579dc53e37d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:47</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Katastrofetanker</title>
       <description><![CDATA[Hvorfor kan vi bli så redde for hai eller å få en alvorlig sykdom selv om det er usannsynlig? Psykolog Lars Dehli forklarer.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>16:53</itunes:duration>
       <pubDate>Fri, 29 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
-    </item>
-    <item>
-      <title>Få kontroll på økonomien</title>
-      <description><![CDATA[Blir du overveldet av tanken på budsjett, utgifter og kontoutskrifter? Da er denne episoden for deg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f8f4e197-ad91-4c26-b4e1-97ad91ac265d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f8f4e197-ad91-4c26-b4e1-97ad91ac265d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:22</itunes:duration>
-      <pubDate>Wed, 27 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>

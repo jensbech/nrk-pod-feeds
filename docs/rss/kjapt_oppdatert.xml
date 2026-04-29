@@ -8,18 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Apr 2026 07:47:25 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:42:24 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
     <item>
-      <title>Artister er redde for å bli misbrukt av KI</title>
-      <description><![CDATA[Og å slutte å shoppe kan være like vanskelig som å slutte å røyke.]]></description>
+      <title>Karpe gir seg: Nå hylles de</title>
+      <description><![CDATA[Og det kan få konsekvenser hvis vi ikke får mer politi i gatene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/70b439c3-7747-4c16-b439-c37747ec16b1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/70b439c3-7747-4c16-b439-c37747ec16b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:23</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T82uWN6v-TidU6h9wyEVKQsoL5B0Vlt0ZSW_abdHmGAQ.jpg"/>
+    </item>
+    <item>
+      <title>Shopping sammenlignes med å røyke</title>
+      <description><![CDATA[Og en MC-gjeng etterforskes etter skytinga på Økern i helga.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/71659c15-1211-480b-a59c-151211f80bb9_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/71659c15-1211-480b-a59c-151211f80bb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:40</itunes:duration>
       <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hnQ1h62aJASqa8teQ3xxdQ7aUUE9-1ggiCXy81bp8Edg.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/48b65UKMZeO4qppNP9ULWAV0I5z6GLAt26yR3Cci4zAw.jpg"/>
     </item>
     <item>
       <title>USA-skyttar skreiv manifest før skytinga</title>
@@ -454,15 +463,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>04:53</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Bbh-TzCNzSpzGupKjcX8ugl7l8pNpKoCFLvEGk3bKmmg.jpg"/>
-    </item>
-    <item>
-      <title>Vil nekte elever å gå med hijab</title>
-      <description><![CDATA[Og Epstein-saken skal opp på Stortinget.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/fdb56192-f036-43de-b561-92f03683de00_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/fdb56192-f036-43de-b561-92f03683de00_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:34</itunes:duration>
-      <pubDate>Fri, 13 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/b0IZ23lNmpQX6IlfD1d_Nwar8oZxPEcPGrs7c7Y5a3yQ.jpg"/>
     </item>
   </channel>
 </rss>

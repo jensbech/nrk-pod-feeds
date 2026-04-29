@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Apr 2026 07:46:53 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:42:03 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Barnekreft: Kan vi redde alle?</title>
+      <description><![CDATA[Norge er i verdenstoppen på overlevelse ved barnekreft. Rundt 200 barn rammes årlig – hva er neste steg i kampen mot sykdommen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8d03c499-7064-4870-83c4-997064987030_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8d03c499-7064-4870-83c4-997064987030_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:38</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/04h1N0hUh0elmFWpswJUXg9EWO5r9IUCK6HVrr2WghWQ.jpg"/>
+    </item>
     <item>
       <title>Blir Afrika en dumpeplass?</title>
       <description><![CDATA[En ny plan kan sende afghanske flyktninger til Kongo. Hvorfor blir Afrika stadig oftere løsningen i USAs flyktningpolitikk?]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>53:45</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/6JmumY57SUVoGsd8PesflAKFsPFwMDsYHJRAcOMdoV0A.jpg"/>
-    </item>
-    <item>
-      <title>Urfolk i skvis mellom stormaktene</title>
-      <description><![CDATA[Over hele Arktis skjerper nå stormaktene kampen om kontroll og herredømme, mens urfolkene lever inneklemt i maktkampen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0dd75eef-4e43-41f1-975e-ef4e4371f163_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0dd75eef-4e43-41f1-975e-ef4e4371f163_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:44</itunes:duration>
-      <pubDate>Tue, 03 Feb 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UM82z0QSmlFUSari9-08aAcfea86JzXON9P5XwHR5Eyw.jpg"/>
     </item>
   </channel>
 </rss>

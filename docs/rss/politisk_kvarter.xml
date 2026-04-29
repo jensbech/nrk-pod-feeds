@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Apr 2026 07:48:35 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:43:45 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Strengere krav til familieinnvandring</title>
+      <description><![CDATA[Senterpartiet vil kreve en inntekt på 520 000 kroner for å hente familie til Norge.
+Kravet skal også gjelde asylbarn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ef727fba-d2b6-4ac0-b27f-bad2b62ac005_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ef727fba-d2b6-4ac0-b27f-bad2b62ac005_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JaCOLPu4YnmBJFn7FUU1MwrZ27k-r2SY_uDg9MCiUp_w.jpg"/>
+    </item>
     <item>
       <title>Anna arbeid for sjukmeldte</title>
       <description><![CDATA[Sjukmeldte må gjere andre oppgåver enn til vanleg. Viss ikkje ryk sjukepengane, foreslår arbeidsministeren.]]></description>
@@ -473,15 +483,6 @@ I helgen velges hun til leder i Høyre.]]></description>
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FdQmi_YmbJgjMDO2UZHfAgTWOISUvBSmdY1h7De-5-zA.jpg"/>
-    </item>
-    <item>
-      <title>Nedstemt om sjukehus</title>
-      <description><![CDATA[Strid om rekninga for sjukehusbygg gjer at helseminister Vestre får stortingsfleirtal mot seg. Igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/18b560d8-98b3-4576-b560-d898b3657611_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/18b560d8-98b3-4576-b560-d898b3657611_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:08</itunes:duration>
-      <pubDate>Thu, 12 Feb 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Fvz14qT9SJaXWoibz8-FRg4oJkif5JdTOxpkNMseGh5g.jpg"/>
     </item>
   </channel>
 </rss>

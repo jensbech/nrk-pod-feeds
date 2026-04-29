@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:34:53 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Apr 2026 22:40:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:41:50 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 22:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>Listhaug utfordrer Støre</title>
+      <description><![CDATA[Frp påstår å være det nye arbeiderpartiet. Hva sier Arbeiderpartiet til det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/159ae240-6ec8-4e96-9ae2-406ec83e9644_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/159ae240-6ec8-4e96-9ae2-406ec83e9644_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:13</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 22:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
     <item>
       <title>Styrer Støre trygt?</title>
       <description><![CDATA[Støre fristet med rentekutt, men det var ikke det vi fikk. Hva gjør han nå?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>43:27</itunes:duration>
       <pubDate>Thu, 25 Sep 2025 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ihEwgoPeUW-9YY_WAT_3HQ1xmwW8yr_jFt0fjG51Cc4Q.jpg"/>
-    </item>
-    <item>
-      <title>Er vi under angrep?</title>
-      <description><![CDATA[Droner stenger Gardermoen og Kastrup, kampfly krenker estisk og norsk luftrom. Angriper Putin oss?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/8355ab6d-b9aa-468d-95ab-6db9aa268d88_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/8355ab6d-b9aa-468d-95ab-6db9aa268d88_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:52</itunes:duration>
-      <pubDate>Tue, 23 Sep 2025 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Kc7wVq2jE-vCpPmSpShWKAvRd8c55mvktVr_yq9YPTnA.jpg"/>
     </item>
   </channel>
 </rss>
