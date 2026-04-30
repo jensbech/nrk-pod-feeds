@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:42:24 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:45:38 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Innvandrere opplever mer mobbing på jobb</title>
+      <description><![CDATA[Og dette må du huske før du leverer skattemeldinga]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/bae93108-d43e-4a12-a931-08d43e2a128f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/bae93108-d43e-4a12-a931-08d43e2a128f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:13</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HdnJ2eDEIh9HMGpzbAeOdg09-NYLcXeX7fVoNZM5Wq2w.jpg"/>
+    </item>
     <item>
       <title>Karpe gir seg: Nå hylles de</title>
       <description><![CDATA[Og det kan få konsekvenser hvis vi ikke får mer politi i gatene.]]></description>
@@ -454,15 +463,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>05:01</itunes:duration>
       <pubDate>Tue, 17 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wUSUIuFs2a_34OdDc9ThZQnqsvndwTxO8yWzFT6-nWrQ.jpg"/>
-    </item>
-    <item>
-      <title>Kan det bli likestilling i hoppsporten?</title>
-      <description><![CDATA[Og nytt tiltak fra Israel kan gjøre det vanskeligere for palestinere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d12a33dd-97a6-43c5-aa33-dd97a6f3c5d0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d12a33dd-97a6-43c5-aa33-dd97a6f3c5d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:53</itunes:duration>
-      <pubDate>Mon, 16 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Bbh-TzCNzSpzGupKjcX8ugl7l8pNpKoCFLvEGk3bKmmg.jpg"/>
     </item>
   </channel>
 </rss>

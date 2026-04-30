@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:41:41 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2026 20:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:44:35 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Høyre pauser avgiftskutt</title>
+      <description><![CDATA[Høyre vil stanse de fire omstridte vedtakene om avgiftskutt inntil videre. Sp raser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/faac2e74-4269-447a-ac2e-744269247a63_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/faac2e74-4269-447a-ac2e-744269247a63_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/El5KnY-g2047VkPAYEcqvAt7exXRL8uD22K0LzkboORA.jpg"/>
+    </item>
     <item>
       <title>Regjeringa vil lette på kravene til boligbygging</title>
       <description><![CDATA[- Dagens 10-åringer må trolig bo hjemme hos foreldrene til de er minst 30 år, mener eiendomsutvikler.]]></description>
@@ -455,15 +464,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>58:48</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/TVGK6ybamO6P1OxWsY-yHQwACfZSwOnwyp_ynIzLX3lQ.jpg"/>
-    </item>
-    <item>
-      <title>Thorbjørn Jagland siktet for grov korrupsjon</title>
-      <description><![CDATA[Begge boligene og hytta til Jagland ransaket i dag. - Glad for at saken opplyses, sier den tidligere statsministeren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ff916a03-094e-420b-916a-03094e820b8d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ff916a03-094e-420b-916a-03094e820b8d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 12 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6XVZOkyee1RawLMr9f4SpQByl4ifLXCysZXl2VYOLRaw.jpg"/>
     </item>
   </channel>
 </rss>

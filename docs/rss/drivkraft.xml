@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Apr 2026 07:46:40 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 14:51:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:45:02 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>ALESSANDRA MELE</title>
+      <description><![CDATA[- Musikk ble terapi i vanskelig barndom, forteller artisten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0373d2a9-6e6b-41e7-b3d2-a96e6b51e79f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0373d2a9-6e6b-41e7-b3d2-a96e6b51e79f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/25Y1XNIdtXEMqoRQD-t-JwbZucZorN6LBix7Akp3wsaw.jpg"/>
+    </item>
     <item>
       <title>Isalill Kolpus</title>
       <description><![CDATA[Jakten på sannheten om John Savio: Isalill Kolpus om bestefarens hemmelighet og hvorfor hun forlater Nytt på nytt.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Thu, 08 Jan 2026 12:52:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnLBUIRYCFnnxTMDsNQXzgyWl6oAyr7BwQ9zA3mzOvbw.jpg"/>
-    </item>
-    <item>
-      <title>Ole Christoffer Ertvaag</title>
-      <description><![CDATA[- Sist jeg slappet av var i 2023, sier skuespilleren, som sliter med alvorlige tvangstanker]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/edab480a-aadf-49b7-ab48-0aaadf29b743_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/edab480a-aadf-49b7-ab48-0aaadf29b743_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:48</itunes:duration>
-      <pubDate>Wed, 07 Jan 2026 13:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Tzvbp51OrbAArzKR5YkTpwr8y4iCfCsPrcoNWzOKSPIg.jpg"/>
     </item>
   </channel>
 </rss>
