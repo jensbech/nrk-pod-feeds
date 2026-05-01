@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-05-01  
+- Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 ### 2026-04-26  
 - Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
 - Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  

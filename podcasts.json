@@ -117,7 +117,7 @@
         "id": "brenner_deler_dikt",
         "title": "Brenner deler dikt",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "brillebjoerns_kvissvas",
