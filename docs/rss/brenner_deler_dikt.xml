@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:17:21 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Dec 2025 06:05:00 +0100</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 07:44:29 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 10:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Nye episoder kommer snart!</title>
+      <description><![CDATA[Søndag 3. mai er Brenner deler dikt endelig tilbake med nye episoder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/9b50629b-3c7a-4a31-9062-9b3c7a6a31c4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/9b50629b-3c7a-4a31-9062-9b3c7a6a31c4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:32</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    </item>
     <item>
       <title>Jon Almaas: –⁠ Klarer ikke si «jeg elsker deg»</title>
       <description><![CDATA[Diktet gir ham klump i halsen. For Almaas-slekta er full av tause menn, som ikke sier det de føler. Som da Jon skulle ta farvel med mamma. 
@@ -536,18 +545,6 @@ Ukas dikt er hentet fra "Haugtussa" av Arne Garborg
       <itunes:duration>21:39</itunes:duration>
       <pubDate>Sat, 11 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mrPSHcsNJaktmYxwBbc3Mw8V9GzxP2VVd69CVXN8bWdA.jpg"/>
-    </item>
-    <item>
-      <title>Kristopher Schau: Så bra at jeg bare måtte stjæle litt!</title>
-      <description><![CDATA[Musikeren og podkasteren ble så besatt av tekstene til den vietnamesisk-amerikanske forfatteren Ocean Vuong at han bare måtte gjenbruke noen formuleringer i egne låttekster. Hva er det med språket til det litterære stjerneskuddet som får Kristopher til å føle seg som et barn foran en godteriskål?
-Ukas dikt er Künstlerroman (utdrag) av Ocean Vuong
-Gjendiktet av Mathias R. Samuelsen
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/4b0eb73e-47a8-489e-970a-8b9eaa4bfec6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/4b0eb73e-47a8-489e-970a-8b9eaa4bfec6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:00</itunes:duration>
-      <pubDate>Sat, 04 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w0ErBOggGcIrRr6J2Kk-sASbLTpeHhwBJ-AKuUvqdhtQ.jpg"/>
     </item>
   </channel>
 </rss>

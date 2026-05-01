@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:41:50 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Apr 2026 22:25:00 +0200</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 07:44:54 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 23:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>Vil stenge tenåringer ute</title>
+      <description><![CDATA[Hvor lurt er det å holde tenåringer borte fra sosiale medier? Regjeringen foreslår 16-års aldersgrense.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/44d12932-89a0-4cb8-9129-3289a0acb8de_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/44d12932-89a0-4cb8-9129-3289a0acb8de_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:52</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 23:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
     <item>
       <title>Listhaug utfordrer Støre</title>
       <description><![CDATA[Frp påstår å være det nye arbeiderpartiet. Hva sier Arbeiderpartiet til det?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>48:47</itunes:duration>
       <pubDate>Tue, 30 Sep 2025 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/p3qmmHfm8LpUDZ-8tvVB8QO1ru6vapVPi0TOgPJRzDiA.jpg"/>
-    </item>
-    <item>
-      <title>Kvinnekampen 2.0</title>
-      <description><![CDATA[Unge kvinner mener kvinnekampen har skadet kvinner. De som sto på barrikadene for likestilling tror ikke egne ører.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/0c8ac76d-a1f4-4772-8ac7-6da1f407724f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/0c8ac76d-a1f4-4772-8ac7-6da1f407724f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:27</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ihEwgoPeUW-9YY_WAT_3HQ1xmwW8yr_jFt0fjG51Cc4Q.jpg"/>
     </item>
   </channel>
 </rss>

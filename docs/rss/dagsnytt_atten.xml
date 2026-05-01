@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:44:35 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 07:44:42 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Drivstoffdramaet i Stortinget</title>
+      <description><![CDATA[Etter dager med politisk drama blir det opprinnelige forslaget om drivstoffkutt gjennomført.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/101cd44d-89be-48d4-9cd4-4d89bef8d40c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/101cd44d-89be-48d4-9cd4-4d89bef8d40c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gtVRUxolnRvo0fmcO8bwGw2wuH2tmR0r0gHX0ONQ1Huw.jpg"/>
+    </item>
     <item>
       <title>Høyre pauser avgiftskutt</title>
       <description><![CDATA[Høyre vil stanse de fire omstridte vedtakene om avgiftskutt inntil videre. Sp raser.]]></description>
@@ -455,15 +464,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>58:55</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JcH4GE_m4bz3fByiEjSe7gBtSv-n6bWQ8hWupoW8iJdw.jpg"/>
-    </item>
-    <item>
-      <title>Europa diskuterer atomvåpen</title>
-      <description><![CDATA[Norge topper laget på sikkerhetskonferansen i München. Forholdet til USA sentralt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2b618b87-01c4-4ae4-a18b-8701c40ae4d4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2b618b87-01c4-4ae4-a18b-8701c40ae4d4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:48</itunes:duration>
-      <pubDate>Fri, 13 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TVGK6ybamO6P1OxWsY-yHQwACfZSwOnwyp_ynIzLX3lQ.jpg"/>
     </item>
   </channel>
 </rss>
