@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 01 May 2026 07:44:29 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Apr 2026 10:30:00 +0200</pubDate>
+    <lastBuildDate>Sun, 03 May 2026 07:34:52 +0000</lastBuildDate>
+    <pubDate>Sun, 03 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Marie Ulven: Den første voksensorgen</title>
+      <description><![CDATA[Artisten Girl in red trøster millioner med musikken sin. Da hun selv trengte trøst, var det en gave fra søsteren som ble redningen.
+Dikt: Uten tittel fra Søppelsolen av Tor Ulven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/5e29ff6d-6c73-4d39-a9ff-6d6c732d391f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/5e29ff6d-6c73-4d39-a9ff-6d6c732d391f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:12</itunes:duration>
+      <pubDate>Sun, 03 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pGLkW_dhw5mawKLoa6vJkAdupDOZBo6EcV5UJhbp1SmQ.jpg"/>
+    </item>
     <item>
       <title>Nye episoder kommer snart!</title>
       <description><![CDATA[Søndag 3. mai er Brenner deler dikt endelig tilbake med nye episoder.]]></description>
@@ -533,18 +543,6 @@ Ukas dikt er "Ta vare" av Jan Erik Vold]]></description>
       <itunes:duration>16:39</itunes:duration>
       <pubDate>Sat, 18 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iI7U1O7W-kQ9_Rg_2qDI1ArDBJPsAlQDa1wLF-X_8K3Q.jpg"/>
-    </item>
-    <item>
-      <title>Ane Dahl Torp: Som å gå på byen og drikke seg full</title>
-      <description><![CDATA[Kjærlighet, svik og overnaturlige krefter er noe av innholdet i Arne Garborgs diktfortelling om synske Haugtussa. Skuespiller Ane Dahl Torp ble dypt fascinert og redd av denne spøkelseshistorien for voksne. 
- 
-Ukas dikt er hentet fra "Haugtussa" av Arne Garborg 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/2129389c-2014-4aa1-a487-abbdf0f3980d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/2129389c-2014-4aa1-a487-abbdf0f3980d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:39</itunes:duration>
-      <pubDate>Sat, 11 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mrPSHcsNJaktmYxwBbc3Mw8V9GzxP2VVd69CVXN8bWdA.jpg"/>
     </item>
   </channel>
 </rss>

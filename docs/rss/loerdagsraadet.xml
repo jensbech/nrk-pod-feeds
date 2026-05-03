@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:46:19 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 16:40:00 +0200</pubDate>
+    <lastBuildDate>Sun, 03 May 2026 07:35:29 +0000</lastBuildDate>
+    <pubDate>Sat, 02 May 2026 13:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Ingrid Gjessing Linhave / Thomas Gullestad / Nora Svenningsen</title>
+      <description><![CDATA[TILBAKEMELDING: Fant Anna ut hvordan hun kan hjelpe kjæresten? / PROBLEMER: Vil være mer med kameraten min / Røde flagg, men ekte følelser / Fin kjæreste, dårlig trøster / Skaff «Petrine» et liv / Kumøkk og verdens søteste nabo / Arbeidsledig og bitter / Kranglete svigers / Gamle minner, minner meg på hvem jeg var]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/14da616c-a2e4-466c-9a61-6ca2e4666c58_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/14da616c-a2e4-466c-9a61-6ca2e4666c58_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:06:09</itunes:duration>
+      <pubDate>Sat, 02 May 2026 13:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1Q7a6_z6fi13kqD9CVW7WQKffNdQ0JJje2j35xfqK6Qg.jpg"/>
+    </item>
     <item>
       <title>En hilen fra Hufsa... og var vi for moralske?</title>
       <description><![CDATA[Sol likte rådene hun fikk - noen synes vi var litt vel moralske med Roar i helgens sending!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:18:46</itunes:duration>
       <pubDate>Sat, 25 Oct 2025 14:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Z1z6oEyGiNn2oNI0ADHgbwvz88jLxBAnzkcgrmOa_jUA.jpg"/>
-    </item>
-    <item>
-      <title>Intervensjon og motivasjon... og en rar drøm!</title>
-      <description><![CDATA[Hva har Jonas Solberg gjort med sin overpolitiske venn? Andrea slet med motivasjonen, har den blitt bedre? En strålende isj... som holder seg bra, nesten helt til slutt!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/14c15a5c-1609-484d-815a-5c1609784d5a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/14c15a5c-1609-484d-815a-5c1609784d5a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:26</itunes:duration>
-      <pubDate>Fri, 24 Oct 2025 17:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>
