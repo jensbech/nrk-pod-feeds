@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:41:26 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 07:55:59 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>FF: Derfor spøker det</title>
+      <description><![CDATA[Forskere vet nå hvorfor noen hus får hårene dine til å reise seg. Dessuten er det oppdaget en spesiell kur mot søppelmat. Og sykkelfelt er ikke så trygge som vi trodde]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3380ee1c-142c-4f8b-80ee-1c142c7f8bc5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3380ee1c-142c-4f8b-80ee-1c142c7f8bc5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:22</itunes:duration>
+      <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>FF: Klitoris er større enn du tror</title>
       <description><![CDATA[Forskere har kartlagt alle nervecellene i det undervurderte organet. Andre vet hvordan gamle celler kan bli som nye. Og så er det oppdaget et spesielt cellevev som jobber som megler i kroppen]]></description>
@@ -476,15 +485,6 @@ Send oss gjerne dine spørsmål også ved å trykke på snakkebobla øverst.]]><
       <itunes:duration>57:33</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_K6UwjIUUxM7egNdKxCKdAKs61gKpFR5BbgTrgOaea8w.jpg"/>
-    </item>
-    <item>
-      <title>Årets forskningsgjennombrudd (2:2)</title>
-      <description><![CDATA[Torkild Jemterud og hans panel ser på 2025s forskningsresultater, og finner det endelige svaret på om vi lever i en simulering.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9bdfda2c-b52c-4f2a-9fda-2cb52c6f2a3f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9bdfda2c-b52c-4f2a-9fda-2cb52c6f2a3f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:36</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/S6vqM4Zl0jNlsRjh3cSH3QSpDNBRExt05ItPBRFm38vQ.jpg"/>
     </item>
   </channel>
 </rss>

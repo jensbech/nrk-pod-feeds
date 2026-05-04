@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Apr 2026 07:46:55 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 07:57:40 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>YLVA på besøk</title>
+      <description><![CDATA[YLVA har med seg en pendel som spår Mo i bryllup og Frankie i luksusfellen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/cfe29e94-37c1-4213-a29e-9437c17213d8_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/cfe29e94-37c1-4213-a29e-9437c17213d8_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:53</itunes:duration>
+      <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GQG3S_vbbDZ5UxtwkMt1SgkwHR5DU-bfa47vQm1Z-vrw.jpg"/>
+    </item>
     <item>
       <title>Erna Solberg på besøk</title>
       <description><![CDATA[Erna forteller om den gangen hun prøvde å dra en likestillingsvits i Iran og om det dummeste hun noensinne har kjøpt.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/nittiatten/d054a6ff-0c7c-4a77-8db3-935f9d30364a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:26</itunes:duration>
       <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
-    </item>
-    <item>
-      <title>Diddy er cooked</title>
-      <description><![CDATA[Mo har sett en dame bæsje ute i byen og Franky vil snakke om Diddy-saken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/e46abee1-6123-4b13-b62c-81db40114fd8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/e46abee1-6123-4b13-b62c-81db40114fd8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:53</itunes:duration>
-      <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
     </item>
   </channel>
