@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 May 2026 07:56:13 +0000</lastBuildDate>
-    <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 07:37:06 +0000</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Pekefinger - Silje Meisal</title>
+      <description><![CDATA[Det er mange måter å si ifra på, og det er mange måter å svare på. Er du bevisst på når hvilken måte du velger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/95200ad3-9973-450e-a00a-d39973350ee1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/95200ad3-9973-450e-a00a-d39973350ee1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:25</itunes:duration>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A.jpg"/>
+    </item>
     <item>
       <title>Bamsemums - Silje Meisal</title>
       <description><![CDATA[Et liv uten tillit blir ett fattigere liv, sier Silje Kristin Meisal]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/ca6ca9a8-0684-41b2-aca9-a8068481b2ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:26</itunes:duration>
       <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5iYQQBOZwM9FD6Q2BEVemwp3upHD9UxrY1RY5W0KMFyA.jpg"/>
-    </item>
-    <item>
-      <title>Takknemlig - Trygve Skaug</title>
-      <description><![CDATA[Vi har mye å være takknemlig for. Artist og poet Trygve Skaug, jobber aktivt med sin takknemlighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/2d24771e-a93f-47e9-a477-1ea93f77e990_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/2d24771e-a93f-47e9-a477-1ea93f77e990_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:59</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5iYQQBOZwM9FD6Q2BEVemwp3upHD9UxrY1RY5W0KMFyA.jpg"/>
     </item>
   </channel>

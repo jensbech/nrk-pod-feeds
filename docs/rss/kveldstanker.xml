@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:42:48 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 07:39:21 +0000</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Le - med Terje Torkildsen</title>
+      <description><![CDATA[- Når var det vi sluttet og le, spør forfatter og komiker Terje Torkildsen. Han mener noe skjer på veien vår fra barn til voksen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/f2be120b-9b09-4eaa-be12-0b9b093eaa6a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/f2be120b-9b09-4eaa-be12-0b9b093eaa6a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:38</itunes:duration>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
+    </item>
+    <item>
+      <title>Kontakt Kveldstanker</title>
+      <description><![CDATA[Bruk send inn-knappen om du vil kontakte oss i Kveldstanker.  Kom med ris og ros, og tips om folk du vil høre fortelle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/0b10c3e2-e8f4-4d1a-90c3-e2e8f46d1a88_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0b10c3e2-e8f4-4d1a-90c3-e2e8f46d1a88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:28</itunes:duration>
+      <pubDate>Mon, 04 May 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    </item>
     <item>
       <title>Slum - med Vegard Tjøhom</title>
       <description><![CDATA[- Alle kan vel like ros av heimplassen sin, men kva med dei som bur i slummen? undrar NRKs Afrika-korrespondent Vegard Tjørhom.]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>02:26</itunes:duration>
       <pubDate>Tue, 25 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
-    </item>
-    <item>
-      <title>Wirkola - med Ragnhild Lund Ansnes</title>
-      <description><![CDATA[- I løpet av livet treffer vi alle mennesker som kan sende oss i riktig retning, hevder forfatter Ragnhild Lund Ansnes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/a4ec46bd-b918-4345-ac46-bdb918934521_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a4ec46bd-b918-4345-ac46-bdb918934521_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:42</itunes:duration>
-      <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0zJ-UbE0qPji64DnbsB9MA4IeOueKLJ_nN4l3fsclYXg.jpg"/>
-    </item>
-    <item>
-      <title>Flukt - med Thor Eirik Torkildsen</title>
-      <description><![CDATA[Mennesker er villige til å satse livet for å få det slik som deg og meg, forteller sjømannen Thor Eirik Torkildsen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3fb774c0-a56d-4cdb-b774-c0a56d6cdb73_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3fb774c0-a56d-4cdb-b774-c0a56d6cdb73_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:56</itunes:duration>
-      <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ve4b_Q8Hsw5GzSSCw_AGHwT0duMCez9v6VpPVSriwY-Q.jpg"/>
     </item>
   </channel>
 </rss>
