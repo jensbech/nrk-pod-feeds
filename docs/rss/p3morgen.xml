@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 05 May 2026 10:33:15 +0000</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 10:40:41 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Baggen, Bangen og Ann-Magdi</title>
+      <description><![CDATA[Skriver du dagbok? Hva hører du på når du sover? Betaler du bensin for venner? Har du kallenavn? Vi er innom mye i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a8819482-2ef7-4c12-8194-822ef78c1266_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a8819482-2ef7-4c12-8194-822ef78c1266_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Blue Waffle.</title>
       <description><![CDATA[Vi har fått en mystisk melding i innboksen og Arin er klar for å kjøpe leilighet, tror hun...]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>01:01:27</itunes:duration>
       <pubDate>Sat, 28 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3CRZdSX32q0uOvg1pFc5ogmh90LXYqhXFr_LoonxJXPQ.jpg"/>
-    </item>
-    <item>
-      <title>Hva øver du på i speilet?</title>
-      <description><![CDATA[Vi mimrer tilbake til High School Musical 2 og Camp Rock. Det var litt rart eller?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/81fe88b9-0123-4f50-be88-b901238f506e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/81fe88b9-0123-4f50-be88-b901238f506e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
     </item>
   </channel>
 </rss>
