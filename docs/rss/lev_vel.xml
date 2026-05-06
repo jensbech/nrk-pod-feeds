@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 01 May 2026 07:46:05 +0000</lastBuildDate>
-    <pubDate>Fri, 01 May 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 07:49:03 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Ernæring: Fett (3:3)</title>
+      <description><![CDATA[Visste du at hjernen stort sett er bygd opp av fett? Klinisk ernæringsfysiolog Jacob Juel Christensen forklarer alt du trenger å vite om fett.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:33</itunes:duration>
+      <pubDate>Wed, 06 May 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Bonus: Knakk motivasjonskoden</title>
       <description><![CDATA[Motivasjonen er tilbake, men Linnéa sliter fortsatt med et av målene, noe de mest oppmerksomme av lytterne har fått med seg.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>18:21</itunes:duration>
       <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
-    </item>
-    <item>
-      <title>Sjalusi er ikke kjærlighet</title>
-      <description><![CDATA[Hva er mest utfordrende; å være sjalu eller å være mottaker av sjalusi? Psykolog Andreas Løes Narum forklarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/dd27741e-af5c-4130-a774-1eaf5c61308c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/dd27741e-af5c-4130-a774-1eaf5c61308c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:36</itunes:duration>
-      <pubDate>Wed, 03 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>
