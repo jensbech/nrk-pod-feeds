@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-05-07  
+- Updated podcast 'Abels tårn' (`abels_taarn`)  
+- Added podcast 'Herreavdelingen' (`herreavdelingen`)  
 ### 2026-05-01  
 - Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 ### 2026-04-26  

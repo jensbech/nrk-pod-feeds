@@ -14,8 +14,8 @@
     {
         "id": "abels_taarn",
         "title": "Abels tårn",
-        "season": null,
-        "enabled": true
+        "season": "LATEST_SEASON",
+        "enabled": false
     },
     {
         "id": "andakten",
@@ -394,6 +394,12 @@
         "title": "Hele historien",
         "season": "LATEST_SEASON",
         "enabled": true
+    },
+    {
+        "id": "herreavdelingen",
+        "title": "Herreavdelingen",
+        "season": null,
+        "enabled": false
     },
     {
         "id": "historiske_kjendiser",
