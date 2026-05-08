@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 May 2026 07:53:58 +0000</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 07:31:25 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norges Bank hever renten</title>
+      <description><![CDATA[Høyre beskylder regjeringen for lureri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f6dffd0e-0da1-487b-9ffd-0e0da1e87b22_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f6dffd0e-0da1-487b-9ffd-0e0da1e87b22_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 07 May 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FwVY9SS7C3n58cfN9QTdzgbuVyAU8L8k4rUUoHd1Y1IA.jpg"/>
+    </item>
     <item>
       <title>Er krigen over?</title>
       <description><![CDATA[Donald Trump sier Iran og USA er nærmere en fredsavtale.]]></description>
@@ -455,15 +464,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>59:08</itunes:duration>
       <pubDate>Fri, 20 Feb 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eWBcW6IQ6oDNAgCPMJPmYwGWCf_rI9kXXIofeGcSlCTA.jpg"/>
-    </item>
-    <item>
-      <title>Andrew Mountbatten-Windsor pågrepet</title>
-      <description><![CDATA[Den tidligere prinsen er mistenkt for grov tjenesteforsømmelse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/63c55c4e-91c9-44ff-855c-4e91c9f4ff60_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/63c55c4e-91c9-44ff-855c-4e91c9f4ff60_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nimRSb4x-4Ihp8jo4sqkpwyT7RnkKjlHtx4_kJEmuvYw.jpg"/>
     </item>
   </channel>
 </rss>

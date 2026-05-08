@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 May 2026 07:54:50 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 07:32:28 +0000</lastBuildDate>
+    <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Det blir kaos i hovedstaden i helga</title>
+      <description><![CDATA[Og hva bør du gjøre for å spare penger etter at renta ble satt opp?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/5af4bd3e-b9f8-4663-b4bd-3eb9f8c6634e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5af4bd3e-b9f8-4663-b4bd-3eb9f8c6634e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:36</itunes:duration>
+      <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X_KwXYiOOd0g4tJZOWZnyQzGnAE4tED6lyel3QqJT17w.jpg"/>
+    </item>
     <item>
       <title>Komiker er rasende på tastaturkrigere</title>
       <description><![CDATA[Og passasjerene på det virusrammede cruiseskipet vil trolig evakueres på mandag.]]></description>
@@ -454,15 +463,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>05:39</itunes:duration>
       <pubDate>Tue, 24 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/n9u_Qjy_uUSSGVKJQWJpTwO9YJoZJOZHbkOLeho-GzbQ.jpg"/>
-    </item>
-    <item>
-      <title>Når kan det bli OL i Norge?</title>
-      <description><![CDATA[Og Ukrainas president mener Vladimir Putin har starta tredje verdenskrig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e822409f-5ac3-495e-a240-9f5ac3295ea8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e822409f-5ac3-495e-a240-9f5ac3295ea8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:44</itunes:duration>
-      <pubDate>Mon, 23 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WJk0sFBGF3Dr-KRfsgy-LAwvL5RXycaAIwTp_m3Qne0A.jpg"/>
     </item>
   </channel>
 </rss>

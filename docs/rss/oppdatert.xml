@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 May 2026 07:55:35 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 07:33:11 +0000</lastBuildDate>
+    <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Rimi-milliardæren: Slik endra han Noreg</title>
+      <description><![CDATA[Stein Erik Hagen var kunstsamlar, spaentusiast og mangemilliardær. Kva rolle har han spelt i norsk samfunnsliv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a97c2a72-36a3-4ac4-bc2a-7236a3eac403_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a97c2a72-36a3-4ac4-bc2a-7236a3eac403_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:51</itunes:duration>
+      <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vVhuKOEDXG74GDyreAdUKAdPMlTrbOfzarSRMT8LATKA.jpg"/>
+    </item>
     <item>
       <title>Skapte «nettets farligste sted»: Så angret han</title>
       <description><![CDATA[8chan ble internettforumet som dyrket frem masseskytere.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/93b7e623-dc5b-411e-b7e6-23dc5b611e15_2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/93b7e623-dc5b-411e-b7e6-23dc5b611e15_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:40</itunes:duration>
+      <itunes:duration>18:37</itunes:duration>
       <pubDate>Thu, 07 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4tbJXkc91yBeKuPmC0eOcAleCbEEf_dCVM-VzZhieHiw.jpg"/>
     </item>
@@ -452,15 +461,6 @@
       <itunes:duration>19:34</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mruQY1BAvz4eHcv0UV79SAagX_RyNm0RQ7ZyqgZj_F-A.jpg"/>
-    </item>
-    <item>
-      <title>Forsvinningsgåte: Drapene som sjokkerte Australia</title>
-      <description><![CDATA[To politimenn er drept, og en konspirasjonsteoretiker er på rømmen. Slik startet Australias største politijakt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e640073b-bfaa-41dd-8007-3bbfaaf1ddfe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e640073b-bfaa-41dd-8007-3bbfaaf1ddfe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:41</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_HIUoCyQhqBPp_Gj8BfaMAlJauJm4uthGfBo_uz8UVjg.jpg"/>
     </item>
   </channel>
 </rss>

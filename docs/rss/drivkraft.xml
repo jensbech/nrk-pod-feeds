@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 May 2026 07:54:17 +0000</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 13:45:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 07:31:52 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Magnus Devold</title>
+      <description><![CDATA[– Jeg har ikke så mye jubel og glede i meg, sier komikeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/139c8e6b-e799-4174-9c8e-6be799b17444_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/139c8e6b-e799-4174-9c8e-6be799b17444_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Thu, 07 May 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6k7a9rV8-qSzMFqtdLoFmgueisNHhVFqP6bSGm39vDzA.jpg"/>
+    </item>
     <item>
       <title>Hilde Sandvik</title>
       <description><![CDATA[Kommentator og programleder Hilde Sandvik:- Jeg skulle bli misjonær eller danse med lite klær. Ble noe midt i mellom.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>57:13</itunes:duration>
       <pubDate>Mon, 19 Jan 2026 13:12:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/n-oxesM1wY1ocWj5K08V3g8PEkGU-VR-fbrvJOeO6Xfg.jpg"/>
-    </item>
-    <item>
-      <title>Magnus Marsdal</title>
-      <description><![CDATA[- I perioder flyktet jeg fra livet og dykket i stedet ned i arbeidet, forteller samfunnsdebatten, som lenge var arbeidsnarkoman.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/12a5c986-7ef0-423b-a5c9-867ef0a23bfb_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/12a5c986-7ef0-423b-a5c9-867ef0a23bfb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:13</itunes:duration>
-      <pubDate>Thu, 15 Jan 2026 14:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CIcMbudDalgm5b3Yh2Fnzw6Cuk4u0K6QPzXIlx-xwQZQ.jpg"/>
     </item>
   </channel>
 </rss>

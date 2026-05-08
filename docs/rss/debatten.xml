@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 06 May 2026 07:47:47 +0000</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 23:45:00 +0200</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 07:31:34 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 22:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>Mindre jobb, mer familie?</title>
+      <description><![CDATA[En some-video setter ny fart på diskusjonen om balansen mellom arbeid og fritid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/de272040-799a-4228-a720-40799a322895_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/de272040-799a-4228-a720-40799a322895_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:49</itunes:duration>
+      <pubDate>Thu, 07 May 2026 22:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
     <item>
       <title>Rasismeskandale i Frp</title>
       <description><![CDATA[Frp-er kaller pakistanere for minusvarianter. Har partiet et rasismeproblem?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>46:31</itunes:duration>
       <pubDate>Tue, 07 Oct 2025 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/l--WzjSkL5Qg1rXcvec0jAMJ0oKT0pRmvsY-Vjd20PHg.jpg"/>
-    </item>
-    <item>
-      <title>Barn som bomber</title>
-      <description><![CDATA[På en uke har politiet pågrepet åtte barn i Norge etter granatangrep og skyting. Slik rekrutterer gjengene barna.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/90cf8087-71af-413a-8f80-8771af013acd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/90cf8087-71af-413a-8f80-8771af013acd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:43</itunes:duration>
-      <pubDate>Thu, 02 Oct 2025 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Oz-F7NXa1e7AOg1gKUx8pAuiflpsdNLOdp17ziUEN0Sg.jpg"/>
     </item>
   </channel>
 </rss>
