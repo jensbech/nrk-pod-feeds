@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 03 May 2026 07:35:29 +0000</lastBuildDate>
-    <pubDate>Sat, 02 May 2026 13:25:00 +0200</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 07:33:03 +0000</lastBuildDate>
+    <pubDate>Fri, 08 May 2026 14:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Den store ekornmassakren?!</title>
+      <description><![CDATA[Nøtteliten har tilbakemelding, vi er i julekottet til Live og Ronny... utrolig merkelig for oss – helt vanlig for deg? Pluss fyllemail om brød!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ad2b8e54-50db-4ae5-ab8e-5450db0ae57c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ad2b8e54-50db-4ae5-ab8e-5450db0ae57c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:56</itunes:duration>
+      <pubDate>Fri, 08 May 2026 14:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Ingrid Gjessing Linhave / Thomas Gullestad / Nora Svenningsen</title>
       <description><![CDATA[TILBAKEMELDING: Fant Anna ut hvordan hun kan hjelpe kjæresten? / PROBLEMER: Vil være mer med kameraten min / Røde flagg, men ekte følelser / Fin kjæreste, dårlig trøster / Skaff «Petrine» et liv / Kumøkk og verdens søteste nabo / Arbeidsledig og bitter / Kranglete svigers / Gamle minner, minner meg på hvem jeg var]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>25:48</itunes:duration>
       <pubDate>Wed, 29 Oct 2025 16:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Vegard Ylvisåker / Nora Svenningsen / Jon Martin Henriksen</title>
-      <description><![CDATA[Er det hemmelige ligget fremdeles hemmelig? / PROBLEMER: Kollektivt forelsket (bortsett fra meg) / Halloween-ansvaret / Kollega graver seg ned / Date på tur er fristende, meeeen / Hvor blir det av min verdi? / Roomien skal ligge / Moonwalke ut av det? / Eksen er fremdeles med på lasset / Hundeglad ansatt, men jeg er sjef / I ferd med å miste... hjemmet vårt]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/8d7744dd-d863-4b62-b744-ddd863bb623f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/8d7744dd-d863-4b62-b744-ddd863bb623f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:18:46</itunes:duration>
-      <pubDate>Sat, 25 Oct 2025 14:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Z1z6oEyGiNn2oNI0ADHgbwvz88jLxBAnzkcgrmOa_jUA.jpg"/>
     </item>
   </channel>
 </rss>
