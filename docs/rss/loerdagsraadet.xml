@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 09 May 2026 07:33:03 +0000</lastBuildDate>
-    <pubDate>Fri, 08 May 2026 14:50:00 +0200</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 07:42:30 +0000</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Harald Rønneberg / Tara Lina Shahin / Henrik Farley</title>
+      <description><![CDATA[Tilbakemelding fra Bøgesen Møbler / PROBLEMER: En lang biltur truer / Overraskelsesfesten ingen har bedt om / Rettighetsmareritt fra 2008 / Livet, på stedet hvil / Utveksling med eks-flørtens kompiser? / Når festens midtpunkt blir for stort / Jeg sier ja til alt / Jeg trenger eksamens-opp-piffing / Cupfinale eller bursdag? / Må ein alltid dra på jobb når ein kan?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/a93ac7f7-dafb-4c50-bac7-f7dafbfc5052_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/a93ac7f7-dafb-4c50-bac7-f7dafbfc5052_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:07:42</itunes:duration>
+      <pubDate>Sat, 09 May 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WojgWCVmD3PbGH8f2Dk9QwMv4xzm4l6Lkc-H45niulKQ.jpg"/>
+    </item>
     <item>
       <title>Den store ekornmassakren?!</title>
       <description><![CDATA[Nøtteliten har tilbakemelding, vi er i julekottet til Live og Ronny... utrolig merkelig for oss – helt vanlig for deg? Pluss fyllemail om brød!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:12:48</itunes:duration>
       <pubDate>Sat, 01 Nov 2025 13:39:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8uUoZITqR0WOB88JLRSQsQ--kgNUisgQK_kXDOTjmnWg.jpg"/>
-    </item>
-    <item>
-      <title>Er snapstreaken med eksen avsluttet?</title>
-      <description><![CDATA[Linn og Gunnar gir lyd fra seg etter streng tale fra rådgiverne! Får «Noen» passe på hunden til «Sjefen»?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/18b19399-f14a-489b-b193-99f14ae89bf2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/18b19399-f14a-489b-b193-99f14ae89bf2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:48</itunes:duration>
-      <pubDate>Wed, 29 Oct 2025 16:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>

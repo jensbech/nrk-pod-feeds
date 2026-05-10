@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 03 May 2026 07:34:52 +0000</lastBuildDate>
-    <pubDate>Sun, 03 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 07:41:49 +0000</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Mímir Kristjánsson: Å reise seg igjen</title>
+      <description><![CDATA[Da det stormet som verst, fant politiker Mímir Kristjánsson trøst i et helt spesielt dikt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/e3677c89-15dc-4550-a77c-8915dcd55024_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/e3677c89-15dc-4550-a77c-8915dcd55024_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:22</itunes:duration>
+      <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C-TGSkQSyyrgGX0XLfItsAWxnqB082coqWMVchJmlz_A.jpg"/>
+    </item>
     <item>
       <title>Marie Ulven: Den første voksensorgen</title>
       <description><![CDATA[Artisten Girl in red trøster millioner med musikken sin. Da hun selv trengte trøst, var det en gave fra søsteren som ble redningen.
@@ -532,17 +541,6 @@ Ukas dikt er "Trøytt tre" av Tarjei Vesaas ]]></description>
       <itunes:duration>18:39</itunes:duration>
       <pubDate>Sat, 25 Nov 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/uIYwJybqLKPrVgmVmXgTEQO1_GV5aWF2ha7tYsSzvJlw.jpg"/>
-    </item>
-    <item>
-      <title>Alexander Sandtorv: Norges mest utålmodige person</title>
-      <description><![CDATA[- Jeg blir så sur! Hans Olav har fått oppleve at rikskjemiker og podkastprogramleder Alexander Sandtorv kan være litt krass på sms, og bestemmer seg for å dele et dikt om vennlighet med ham. Synes Alexander budskapet fenger? 
-
-Ukas dikt er "Ta vare" av Jan Erik Vold]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/3e12b707-2416-4658-859d-26fe8bc72e5a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/3e12b707-2416-4658-859d-26fe8bc72e5a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:39</itunes:duration>
-      <pubDate>Sat, 18 Nov 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iI7U1O7W-kQ9_Rg_2qDI1ArDBJPsAlQDa1wLF-X_8K3Q.jpg"/>
     </item>
   </channel>
 </rss>

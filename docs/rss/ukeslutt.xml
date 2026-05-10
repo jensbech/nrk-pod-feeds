@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 03 May 2026 07:36:12 +0000</lastBuildDate>
-    <pubDate>Sat, 02 May 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 07:43:23 +0000</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Innesperret på skip</title>
+      <description><![CDATA[Folk og mannskap er innesperret på cruiseskip og i Hormuzstredet. Hvordan er det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/7fef6827-cee2-4481-af68-27cee2c48155_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/7fef6827-cee2-4481-af68-27cee2c48155_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:54</itunes:duration>
+      <pubDate>Sat, 09 May 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kFqmMSxvqT5xkk_N58ZsbADoxZtkSZigterR5GkJ98GA.jpg"/>
+    </item>
     <item>
       <title>Farvel, eller på gjensyn Karpe?</title>
       <description><![CDATA[Karpe gir seg etter 28 år i musikkbransjen. Når blir det comeback?]]></description>
@@ -467,16 +476,6 @@ I tillegg skal vi i Ukeslutt snakke om skam etter overgrep, jaget etter reisetip
       <itunes:duration>01:04:27</itunes:duration>
       <pubDate>Sat, 24 May 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MhR1WlcUKf9Ths7Jtv5akAdiCx77gv3E_f2wd90mpo3A.jpg"/>
-    </item>
-    <item>
-      <title>Passer vi for godt på barna?</title>
-      <description><![CDATA[Å ikke la unger ta risiko i lek og liv, kan være skadelig, mener forsker. Hvordan finner vi balansen til et fritt, men samtidig trygt liv, spør vi.
-Til oss kommer også den rykende ferskende LO-lederen, og vi skal i tillegg innom Kashmir-konflikten, bordtennis, folkeeventyr, pavens nye navn, og et skikkelig morbid ultraløp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/ee6ee34c-a6fa-43a5-bc95-c019968978ff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/ee6ee34c-a6fa-43a5-bc95-c019968978ff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:07</itunes:duration>
-      <pubDate>Sat, 10 May 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_0oNNo5ZVr9ldii9L5HTmwz_kxjGcePgcK8jitkNkaKw.jpg"/>
     </item>
   </channel>
 </rss>
