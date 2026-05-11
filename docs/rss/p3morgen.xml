@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 09 May 2026 07:33:42 +0000</lastBuildDate>
-    <pubDate>Sat, 09 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 08:10:12 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Vekket av kjendispar.</title>
+      <description><![CDATA[Arin lærer hvordan trær blir til, Jonas tror ikke på sykdommer og Henning ble vekket av et kjendispar utenfor vinduet sitt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/fdca685a-f036-4ce4-8a68-5af036ace4ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fdca685a-f036-4ce4-8a68-5af036ace4ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
+    </item>
     <item>
       <title>Norges beste bolle og Epstein!</title>
       <description><![CDATA[Emma Ellingsen er i Epstein-filene og endelig vet vi hva som er Norges beste bolle! Vi får Stortinget til å reagere! Klemz!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>— Fuck bybanen.</title>
-      <description><![CDATA[Jonas har vært i Bergen, Henning beskriver den perfekte dagligvarebutikken og Arin lager perfekte brødskiver.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9cd42e32-b7ed-447c-942e-32b7ed147c8c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9cd42e32-b7ed-447c-942e-32b7ed147c8c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:34</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>

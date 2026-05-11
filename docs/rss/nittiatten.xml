@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 04 May 2026 07:57:40 +0000</lastBuildDate>
-    <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 08:09:52 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Else Kåss Furuseth på besøk</title>
+      <description><![CDATA[Et lysende McDonald’s-skilt holdt på å drepe Else. 
+Franky og Mo sjekker ut om hun egentlig har rizz.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/022b4885-2dcc-4fd6-ab48-852dccffd6f3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/022b4885-2dcc-4fd6-ab48-852dccffd6f3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:28</itunes:duration>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r9mP48rYt_6QI66BQJIyGwCT1axoJPXiCcpxczY3aj0A.jpg"/>
+    </item>
     <item>
       <title>YLVA på besøk</title>
       <description><![CDATA[YLVA har med seg en pendel som spår Mo i bryllup og Frankie i luksusfellen]]></description>
@@ -451,15 +461,6 @@
       <enclosure url="https://podkast.nrk.no/fil/nittiatten/7093844e-4cd3-467b-8653-43c25aa6e3ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:23</itunes:duration>
       <pubDate>Thu, 19 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
-    </item>
-    <item>
-      <title>Top five white people</title>
-      <description><![CDATA[Hvem er Franky og Mo sine topp fem hvite folk? Og Mo lurer på hvordan han kan gå bak damer uten å skremme dem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/d054a6ff-0c7c-4a77-8db3-935f9d30364a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/d054a6ff-0c7c-4a77-8db3-935f9d30364a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:26</itunes:duration>
-      <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
     </item>
   </channel>

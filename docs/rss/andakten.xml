@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 07 May 2026 07:53:45 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 08:08:55 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Bank! Bank! - Torbjørn Olsen</title>
+      <description><![CDATA[Hvem er vi i livet, og hvem er vi når livet er over. Vi stiller likt uansett hvem vi er, når det skal gjøres opp status.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/057ce2e3-e490-4c2d-bce2-e3e490bc2d39_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/057ce2e3-e490-4c2d-bce2-e3e490bc2d39_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:08</itunes:duration>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kEp4E_fILylfVmxj-M5SIAszl32-I-1E-UC5R3ZibrPw.jpg"/>
+    </item>
     <item>
       <title>Kortstokken - Sijle Meisal</title>
       <description><![CDATA[Føler du at livet kan gå litt på "repeat"? At mye bare gjentar seg og gjentar seg. Det behøver ikke å være sånn.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/5dacf23e-b0bc-4414-acf2-3eb0bc341406_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:44</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Rlb-Gap1AMsDUGS9pCiTGAwuDeYfS4r2LWQOlnXIiTqw.jpg"/>
-    </item>
-    <item>
-      <title>Frihet - Elin Sofye Rabbevåg</title>
-      <description><![CDATA[Frihet, og det vi legger i å ha frihet, kan også være det å binde seg til noe eller noen. Forpliktelser kan oppleves som frihet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/b2df87db-0385-4e92-9f87-db03856e9286_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/b2df87db-0385-4e92-9f87-db03856e9286_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:43</itunes:duration>
-      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Rlb-Gap1AMsDUGS9pCiTGAwuDeYfS4r2LWQOlnXIiTqw.jpg"/>
     </item>
   </channel>

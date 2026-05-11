@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 08 May 2026 07:32:28 +0000</lastBuildDate>
-    <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 08:09:30 +0000</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>7 av 10 vil ha kortere arbeidsuke</title>
+      <description><![CDATA[Og Russland og Ukraina anklager hverandre for brudd på våpenhvilen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/81c03a09-1c57-44ec-803a-091c5724ec44_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/81c03a09-1c57-44ec-803a-091c5724ec44_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:38</itunes:duration>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xyi-kD6irRndnB7xhSrmRwcMlqNI90plUsYkuw5D7_fw.jpg"/>
+    </item>
     <item>
       <title>Det blir kaos i hovedstaden i helga</title>
       <description><![CDATA[Og hva bør du gjøre for å spare penger etter at renta ble satt opp?]]></description>
@@ -454,15 +463,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:28</itunes:duration>
       <pubDate>Wed, 25 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/AcQbLygllUXvCCUMSSdjTwZoUl63Z6QYHOOaCc6RmjZw.jpg"/>
-    </item>
-    <item>
-      <title>Fire år siden fullskalakrigen</title>
-      <description><![CDATA[Kan det bli fred i Ukraina?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/00503aa3-7ac7-43d1-903a-a37ac7b3d152_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/00503aa3-7ac7-43d1-903a-a37ac7b3d152_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:39</itunes:duration>
-      <pubDate>Tue, 24 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/n9u_Qjy_uUSSGVKJQWJpTwO9YJoZJOZHbkOLeho-GzbQ.jpg"/>
     </item>
   </channel>
 </rss>
