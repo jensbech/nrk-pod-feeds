@@ -789,7 +789,7 @@
         "id": "monsens_univers",
         "title": "Monsens univers",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "museum",
@@ -993,7 +993,7 @@
         "id": "radiodokumentaren",
         "title": "Historier fra virkeligheten",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "radiolegen",

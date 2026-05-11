@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-05-11  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
+- Updated podcast 'Monsens univers' (`monsens_univers`)  
 ### 2026-05-07  
 - Updated podcast 'Abels tårn' (`abels_taarn`)  
 - Added podcast 'Herreavdelingen' (`herreavdelingen`)  
