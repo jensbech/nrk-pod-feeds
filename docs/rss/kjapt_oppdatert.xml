@@ -8,10 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 11 May 2026 08:09:30 +0000</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 07:57:47 +0000</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Revidert statsbudsjett: Hva betyr det for deg?</title>
+      <description><![CDATA[Og er du yngst i søskenflokken så har du større sjanse for å gjøre det dårligere. Hør hvorfor!
+
+// 
+Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt for semifinalene i Eurovision. Dette er nå retta.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b98e79fe-df94-4386-8e79-fedf94c386c3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b98e79fe-df94-4386-8e79-fedf94c386c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:05</itunes:duration>
+      <pubDate>Tue, 12 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6SdP5qaEYfo9Xra9kxESOQLWV7nRJAiehqu_Kv7slEnw.jpg"/>
+    </item>
     <item>
       <title>7 av 10 vil ha kortere arbeidsuke</title>
       <description><![CDATA[Og Russland og Ukraina anklager hverandre for brudd på våpenhvilen.]]></description>
@@ -454,15 +466,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:12</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vNRG8e_vr3LKy7rJEvhjKQVrLSitUpqjkvr8-eHI2YJg.jpg"/>
-    </item>
-    <item>
-      <title>Siste nytt om kongen på sjukehus</title>
-      <description><![CDATA[Og Bodø/Glimt verkar ustoppelege.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d6c628e1-b43e-4969-8628-e1b43ef969e2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d6c628e1-b43e-4969-8628-e1b43ef969e2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:28</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AcQbLygllUXvCCUMSSdjTwZoUl63Z6QYHOOaCc6RmjZw.jpg"/>
     </item>
   </channel>
 </rss>

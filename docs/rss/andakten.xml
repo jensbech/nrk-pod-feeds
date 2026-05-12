@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 11 May 2026 08:08:55 +0000</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 07:56:08 +0000</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Ingenting - Torbjørn Olsen</title>
+      <description><![CDATA[Her er det ingenting står det på døra. Ville ikke du blitt nysgjerrig om du ble møtt slik?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/1cef5dc0-8e1d-4340-af5d-c08e1df340c5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/1cef5dc0-8e1d-4340-af5d-c08e1df340c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:59</itunes:duration>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kEp4E_fILylfVmxj-M5SIAxg3Hydy_1xOUC5R3ZibrPw.jpg"/>
+    </item>
     <item>
       <title>Bank! Bank! - Torbjørn Olsen</title>
       <description><![CDATA[Hvem er vi i livet, og hvem er vi når livet er over. Vi stiller likt uansett hvem vi er, når det skal gjøres opp status.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:52</itunes:duration>
       <pubDate>Thu, 05 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Rlb-Gap1AMsDUGS9pCiTGAe_paoaIrUCMO3bhHKel2bw.jpg"/>
-    </item>
-    <item>
-      <title>Det evige- Elin Sofye Rabbevåg</title>
-      <description><![CDATA[Å stå og se opp mot evigheten og en klar stjernehimmel, kan gi oss tanker om så mangt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5dacf23e-b0bc-4414-acf2-3eb0bc341406_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/5dacf23e-b0bc-4414-acf2-3eb0bc341406_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:44</itunes:duration>
-      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Rlb-Gap1AMsDUGS9pCiTGAwuDeYfS4r2LWQOlnXIiTqw.jpg"/>
     </item>
   </channel>
 </rss>
