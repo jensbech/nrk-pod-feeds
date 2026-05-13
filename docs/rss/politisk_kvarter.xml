@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 12 May 2026 07:59:18 +0000</lastBuildDate>
-    <pubDate>Tue, 12 May 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 08:02:00 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Boligforventingene kuttes</title>
+      <description><![CDATA[Regjeringen lovet 130.000 nye boliger innen 2030.
+Nå kutter de i forventningene i revidert budsjett]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/c4703ee7-19d5-4c92-b03e-e719d59c92ce_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/c4703ee7-19d5-4c92-b03e-e719d59c92ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Wed, 13 May 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KcCv-LKqMAHCZ7Ui9a_rqgKeeukYnrw8XUTd8QFxSEdQ.jpg"/>
+    </item>
     <item>
       <title>Revidert rødgrønt rabalder?</title>
       <description><![CDATA[Jens Stoltenberg vil bruke mindre penger for å sikre lav rente og lavere priser.  Det sa han i fjor også - uten at det hjalp. Så hvorfor skal de rødgrønne holde igjen?]]></description>
@@ -474,15 +484,6 @@ Slik bygges den offentlige fellesskolen ned - bit for bit, advarer kunnskapsmini
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/SRfrarLxfSCe2OBHaXQPWA6iIal3I1mwtELrKImQhu-w.jpg"/>
-    </item>
-    <item>
-      <title>Politikk til salgs?</title>
-      <description><![CDATA[Byrådet anklages for å kjøpe seg flertall i Trondheim. Stygg og uanstendig kritikk, svarer byrådet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/012b1ee3-1906-4f9b-ab1e-e319068f9b6c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/012b1ee3-1906-4f9b-ab1e-e319068f9b6c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:51</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6kxSiECp1NZgAd5_LHUSag1NTjhDLur-Ul6PvNsC6ZKg.jpg"/>
     </item>
   </channel>
 </rss>

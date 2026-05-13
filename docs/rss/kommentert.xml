@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 08 May 2026 07:32:37 +0000</lastBuildDate>
-    <pubDate>Thu, 07 May 2026 15:23:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 08:00:34 +0000</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 17:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Trumps stormaktsspill mot Kina: – Bekmørkt</title>
+      <description><![CDATA[En svekket Donald Trump drar til Kina for å møte president Xi Jinping. Er Kina i ferdmed å ta over rollen som verdens supermakt?
+Og vil Arbeiderpartiet greie å samle flertall for sitt reviderte nasjonalbudsjett?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/0947e1d8-d1e2-4d9f-87e1-d8d1e2cd9f66_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/0947e1d8-d1e2-4d9f-87e1-d8d1e2cd9f66_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:50</itunes:duration>
+      <pubDate>Tue, 12 May 2026 17:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lfsmZLJbBAP8z77eEg3zCQ-En1dxpl0U5c-7XcmOfjEA.jpg"/>
+    </item>
     <item>
       <title>Nato svekket: Vil Russland teste Svalbard?</title>
       <description><![CDATA[USA trekker tilbake soldater fra Europa. Vil Russland utnytte muligheten til å teste Nato? Og kan Svalbard være den testen?
@@ -491,15 +501,6 @@ Og Høyre med dårligste valg på 20 år. Hva gikk galt?]]></description>
       <itunes:duration>23:10</itunes:duration>
       <pubDate>Tue, 02 Sep 2025 21:18:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1XmRFrZWi9_9x7KTHhpYpwB_euoIYuWKxTYiu4AfUwWw.jpg"/>
-    </item>
-    <item>
-      <title>EKSTRAEPISODE: Oljefondsjefen om Israel-bråket</title>
-      <description><![CDATA[Nicolai Tangen er gjest. Vi snakker om Israel-bråket, hvordan han ser på USA nå hvor halve oljefondet er investert og hvorfor Europa ikke får det helt til.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:01</itunes:duration>
-      <pubDate>Thu, 28 Aug 2025 23:27:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Mf8E_pRZcrZ0RIL_AGpMAwmnNIFI28mg4i7DEA6bSxig.jpg"/>
     </item>
   </channel>
 </rss>

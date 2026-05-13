@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 11 May 2026 11:03:07 +0000</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 08:00:03 +0000</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Frå u-land til supermakt</title>
+      <description><![CDATA[Korleis vart Kina så mektige at verda er heilt avhengig? Ekspertane svarer på lyttarspørsmål om makt, økonomi og miljøkamp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7c92967c-0a81-4f6a-9296-7c0a811f6ad6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7c92967c-0a81-4f6a-9296-7c0a811f6ad6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:16</itunes:duration>
+      <pubDate>Tue, 12 May 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fXB-rzfsogfbfKqKKD21GwxQqEbG7uIUtB36__K0HsnQ.jpg"/>
+    </item>
     <item>
       <title>Hvordan få renta ned?</title>
       <description><![CDATA[Håpet om fortsatt lavere rente brast med ny renteoppgang. Hva skal til for å snu det? Norges Bank forklarer.]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>23:50</itunes:duration>
       <pubDate>Wed, 18 Feb 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GUoCdJi0cYtpRmo7QeZrowTXqloGjY-TW6CQMWh8osAw.jpg"/>
-    </item>
-    <item>
-      <title>Mediejakta på ungdommen</title>
-      <description><![CDATA[Hvis du er tjue, følger med i tiden og forventer effektivitet, da er du interessant for mediene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06ee4bbd-5c77-4b5b-ae4b-bd5c778b5baf_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/06ee4bbd-5c77-4b5b-ae4b-bd5c778b5baf_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:22</itunes:duration>
-      <pubDate>Tue, 17 Feb 2026 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZjGsaVZF7PQB4RKH7tLnaQJztFFSjhhzKXC9fDftGs_A.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 06 May 2026 07:49:11 +0000</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 08:01:11 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    <item>
+      <title>Garrarockajuoigan</title>
+      <description><![CDATA[Kai Somby mearridii heaitit musihkain, muhto de son oaččui reivve ovttá beakkan vokalistas ja dat movttidahttii su joatkit.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/fd1b4279-65c3-4a1f-9b42-7965c3aa1f7d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/fd1b4279-65c3-4a1f-9b42-7965c3aa1f7d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:29</itunes:duration>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    </item>
     <item>
       <title>Unnán nissonjuoigit</title>
       <description><![CDATA[Manne eai searvva Sámi Grand Prix juoiganoassái seamma olu nissonolbmot go dievddut? Máret Ristiinna Hætta Sara lea guossin.]]></description>

@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 06 May 2026 07:49:03 +0000</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 08:01:03 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>Hvordan leve med traumer</title>
+      <description><![CDATA[Hvorfor blir en hendelse et traume for noen, men ikke for andre? Og hva gjør du når et traume har satt seg i kroppen? 
+Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist Mari Kjølseth Bræin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/416e2d9b-9c9a-473f-ae2d-9b9c9ac73fe7_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/416e2d9b-9c9a-473f-ae2d-9b9c9ac73fe7_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:04</itunes:duration>
+      <pubDate>Wed, 13 May 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Ernæring: Fett (3:3)</title>
       <description><![CDATA[Visste du at hjernen stort sett er bygd opp av fett? Klinisk ernæringsfysiolog Jacob Juel Christensen forklarer alt du trenger å vite om fett.]]></description>
@@ -452,15 +462,6 @@
       <itunes:duration>01:09:23</itunes:duration>
       <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Er søskensjalusi uungåelig?</title>
-      <description><![CDATA[Hvordan kan man navigere sjalusi mellom barn? Og kan man reparere det selv som voksen? Psykolog Andreas Løes Narum forklarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/5f3bf6e5-41a5-4868-bbf6-e541a5286879_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/5f3bf6e5-41a5-4868-bbf6-e541a5286879_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:21</itunes:duration>
-      <pubDate>Fri, 05 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q.jpg"/>
     </item>
   </channel>
 </rss>
