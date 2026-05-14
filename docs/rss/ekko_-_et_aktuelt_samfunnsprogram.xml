@@ -11,10 +11,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 13 May 2026 08:00:03 +0000</lastBuildDate>
-    <pubDate>Tue, 12 May 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 07:56:34 +0000</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Pen hud med høy helserisiko</title>
+      <description><![CDATA[Tollerne advarer: Peptider kommer ulovlig til landet. Jakten på ungdomshud kan ha en høy pris.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1c0a5bb5-549a-40b2-8a5b-b5549ae0b2c0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1c0a5bb5-549a-40b2-8a5b-b5549ae0b2c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:03</itunes:duration>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uS0Ow1TZE6fPrCtl7IxqgQHOBLaxd9TS4YC1TZZOBq7w.jpg"/>
+    </item>
+    <item>
+      <title>Trumps USA: Kina og USA i viktig møte</title>
+      <description><![CDATA[De har møttes før, og nå møtes de igjen. Kan Kina ha nøkkelen til fred i Midtøsten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e95de719-7c7f-427c-9de7-197c7f727c39_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e95de719-7c7f-427c-9de7-197c7f727c39_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:52</itunes:duration>
+      <pubDate>Wed, 13 May 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3LHVK-KIu2ZCSW24Ibe2IAxaMhScRb13hm_KsV1J9m9g.jpg"/>
+    </item>
     <item>
       <title>Frå u-land til supermakt</title>
       <description><![CDATA[Korleis vart Kina så mektige at verda er heilt avhengig? Ekspertane svarer på lyttarspørsmål om makt, økonomi og miljøkamp.]]></description>
@@ -446,24 +464,6 @@
       <itunes:duration>26:37</itunes:duration>
       <pubDate>Mon, 23 Feb 2026 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kpPqNVaeizPU6bjacfuJNwwYRLDn2mASy1jaoymkSNVg.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: Hillarys hevn</title>
-      <description><![CDATA[Clinton anklager Trump for forræderi. Er det et personlig oppgjør eller et forsøk på å redde USAs sjel?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a5393631-f7c0-411a-b936-31f7c0811ab9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a5393631-f7c0-411a-b936-31f7c0811ab9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:16</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XMoLL0oyOBPSI1wo_rOxZA04IcFy8svblQ9dBjpXqvgA.jpg"/>
-    </item>
-    <item>
-      <title>Hvem er Mossad?</title>
-      <description><![CDATA[Har Jeffrey Epstein jobbet for Israels etterretningstjeneste Mossad?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/69368c8a-f313-4edf-b68c-8af3131edf04_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/69368c8a-f313-4edf-b68c-8af3131edf04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:50</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GUoCdJi0cYtpRmo7QeZrowTXqloGjY-TW6CQMWh8osAw.jpg"/>
     </item>
   </channel>
 </rss>

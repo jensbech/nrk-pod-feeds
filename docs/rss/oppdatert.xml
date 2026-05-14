@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 13 May 2026 08:01:40 +0000</lastBuildDate>
-    <pubDate>Wed, 13 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 07:57:19 +0000</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Skapte norsk klon: Hemmelighold og millionsatsing</title>
+      <description><![CDATA[Milliardærfrue Kristin G. Andresen ville klone superhesten sin. Nå er den første offisielle norske klonen født.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5d6aff13-df07-419d-aaff-13df07919d73_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5d6aff13-df07-419d-aaff-13df07919d73_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:47</itunes:duration>
+      <pubDate>Thu, 14 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/No7FdkkduxO0fOgBBktbfgqSqNUGRyeE0BC_l-u2eb4g.jpg"/>
+    </item>
     <item>
       <title>Trumps forsvarsplan: Vil bygge gigakuppel over USA</title>
       <description><![CDATA[Trump mener han kan få til noe som amerikanske presidenter har drømt om i årevis. Andre mener det er umulig.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>13:51</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/5YFzBdTcnmfpPHQ5k6qBHQymAgAUjy2qmipkr0IBILwg.jpg"/>
-    </item>
-    <item>
-      <title>Britenes Epstein-bånd: Dette er «Mørkets fyrste»</title>
-      <description><![CDATA[Et ti sider langt bursdagsbrev har skapt kaos i Storbritannia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/4f042965-3635-4a11-8429-653635ca11c3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/4f042965-3635-4a11-8429-653635ca11c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:20</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6rkHKSay5XJUn7FRgEgV9AKio-ilI5c5JHWUFbK5ppsQ.jpg"/>
     </item>
   </channel>
 </rss>
