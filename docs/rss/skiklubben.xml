@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 08 May 2026 07:33:37 +0000</lastBuildDate>
-    <pubDate>Fri, 08 May 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 10:48:51 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    <item>
+      <title>Unngå såre tær og vonde tanker</title>
+      <description><![CDATA[Hvordan unngå vonde tær og negler på trening og løp? Og hvordan tenke positivt underveis i trening og konkrurranser?
+Vil Anders si ja til salsakurs etter å ha prøvd seg på pedikyr? Og 
+har "71 grader nord" vært god trening for Sindre eller bare slit?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/235d51ed-25c8-42fb-9d51-ed25c882fbf6_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/235d51ed-25c8-42fb-9d51-ed25c882fbf6_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:12</itunes:duration>
+      <pubDate>Fri, 15 May 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    </item>
     <item>
       <title>"Rulleskiboom" i Thailand og Finnmarksvidda på langs</title>
       <description><![CDATA[Anders og Silje har vært på hvert sitt eventyr og i hver sin del av kloden. Visste du at rulleski er populært blant barn i Thailand?
@@ -470,15 +481,6 @@ Hvordan er de i rute? Og ikke minst - går Jansrud i brudd, eller holder han seg
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/87ec6073-2d22-4efd-ac60-732d22cefdcd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:20</itunes:duration>
       <pubDate>Fri, 22 Aug 2025 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
-    </item>
-    <item>
-      <title>Døgning og forbigått av eliten</title>
-      <description><![CDATA[Anders har døgnet i skogen, Silje har døgnet etter fest og Emil testet kreftene mot eliten på rulleski - og ble til slutt tatt igjen med en runde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/b07c86ab-dcc5-4070-9e8e-d50b37bab31b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/b07c86ab-dcc5-4070-9e8e-d50b37bab31b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:09</itunes:duration>
-      <pubDate>Fri, 15 Aug 2025 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
     </item>
   </channel>

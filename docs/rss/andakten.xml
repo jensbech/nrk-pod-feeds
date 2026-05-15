@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 13 May 2026 07:59:24 +0000</lastBuildDate>
-    <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 10:46:41 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Sjefen - Torbjørn Olsen</title>
+      <description><![CDATA[Å bli kalt inn til sjefen kan behøver ikke alltid å være en innkalling man setter pris på. Men det kan også handle om noe uventet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/906412f1-0b0e-462d-a412-f10b0ea62d02_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/906412f1-0b0e-462d-a412-f10b0ea62d02_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:10</itunes:duration>
+      <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kEp4E_fILylfVmxj-M5SIAHyMJnP8RhYqUC5R3ZibrPw.jpg"/>
+    </item>
     <item>
       <title>Himmelfart - Torbjørn Olsen</title>
       <description><![CDATA[Når man er prest på en flyplass, slik Torbjørn Olsen er, kan det spøkes om mange tema. Himmelfart er bare ett av dem.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/957f5974-2dac-46e1-bf59-742dacf6e1e9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:11</itunes:duration>
       <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d9FTFBImmlTbyKtrVUByMQ0FF81CV_AEyRhSsoUATkGw.jpg"/>
-    </item>
-    <item>
-      <title>Å modnes - Geir Erik Berge</title>
-      <description><![CDATA[Det man husker som barn, og det man ser når man betrakter det som voksen, er veldig ulike perspektiver på ting.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/973d3497-ee35-46a2-bd34-97ee3516a225_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/973d3497-ee35-46a2-bd34-97ee3516a225_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:29</itunes:duration>
-      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/d9FTFBImmlTbyKtrVUByMQ0FF81CV_AEyRhSsoUATkGw.jpg"/>
     </item>
   </channel>

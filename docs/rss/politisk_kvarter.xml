@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 13 May 2026 08:02:00 +0000</lastBuildDate>
-    <pubDate>Wed, 13 May 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 10:48:36 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Den revolusjonære Jesus</title>
+      <description><![CDATA[Kristendommen er for viktig til å overlates til høyresida, ifølge Mímir Kristjánsson og Sosialistenes guide til Bibelen. Rødts ideologi er ikke forenlig med kristen tro, parerer KrF-er.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/74dcd634-dbcd-4c29-9cd6-34dbcd9c294d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/74dcd634-dbcd-4c29-9cd6-34dbcd9c294d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Sr387EtoQfEscGnqO0ayhAMK9ps_0f0uSY_o8qy3yRqQ.jpg"/>
+    </item>
     <item>
       <title>Boligforventingene kuttes</title>
       <description><![CDATA[Regjeringen lovet 130.000 nye boliger innen 2030.
@@ -474,16 +483,6 @@ Vil det gjøre norsk olje attraktiv? Eller vil verden snu ryggen til fossil ener
       <itunes:duration>15:04</itunes:duration>
       <pubDate>Fri, 27 Feb 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/s-pYz6G3Lh0PeWFyTakZvQvX01ASmMry_h_aabKDI6oQ.jpg"/>
-    </item>
-    <item>
-      <title>Er fellesskolen i fare?</title>
-      <description><![CDATA[Stortinget overkjører regjeringen og redder internasjonal IB-linje.   
-Slik bygges den offentlige fellesskolen ned - bit for bit, advarer kunnskapsministeren]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/22b1a67a-cbc9-4800-b1a6-7acbc9a800bd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/22b1a67a-cbc9-4800-b1a6-7acbc9a800bd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Thu, 26 Feb 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SRfrarLxfSCe2OBHaXQPWA6iIal3I1mwtELrKImQhu-w.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 14 May 2026 07:57:19 +0000</lastBuildDate>
-    <pubDate>Thu, 14 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 10:48:17 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Geniet bak Pokémon: Kampen i kulissene</title>
+      <description><![CDATA[Spilleventyret startet med en fascinasjon for insekter. Nå er det en millionbusiness.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/64e497ce-29a4-4b5b-a497-ce29a40b5b21_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/64e497ce-29a4-4b5b-a497-ce29a40b5b21_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:08</itunes:duration>
+      <pubDate>Fri, 15 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sseKq30mFQPoKhuWbykbKgO29nWFi0oGnvWEw7Ykpz0Q.jpg"/>
+    </item>
     <item>
       <title>Skapte norsk klon: Hemmelighold og millionsatsing</title>
       <description><![CDATA[Milliardærfrue Kristin G. Andresen ville klone superhesten sin. Nå er den første offisielle norske klonen født.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:36</itunes:duration>
       <pubDate>Fri, 06 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/L6MzhaW8KYyzxU-i5l3tvQsTCPgrpBqv-dzitmOW4VDg.jpg"/>
-    </item>
-    <item>
-      <title>Overvåket i årevis: Slik drepte de Irans leder</title>
-      <description><![CDATA[På innsiden av CIA og Mossads hemmelige oppdrag som tok livet av ayatollah Ali Khamenei.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1a5fd9ea-5012-471c-9fd9-ea5012971ca5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1a5fd9ea-5012-471c-9fd9-ea5012971ca5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:51</itunes:duration>
-      <pubDate>Thu, 05 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5YFzBdTcnmfpPHQ5k6qBHQymAgAUjy2qmipkr0IBILwg.jpg"/>
     </item>
   </channel>
 </rss>
