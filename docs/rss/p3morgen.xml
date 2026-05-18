@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 16 May 2026 07:36:46 +0000</lastBuildDate>
-    <pubDate>Sat, 16 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 11:18:53 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Bunadsknivdrap på moskus.</title>
+      <description><![CDATA[Jonas sin 17. mai varte i tre timer, Arin tror hun bryter Vær varsom-plakaten  og Henning vil deporteres til Alaska.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/651ea6af-f5bd-4edd-9ea6-aff5bd6eddfc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/651ea6af-f5bd-4edd-9ea6-aff5bd6eddfc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Øvelseskjøring med Javad El-Bil-kali</title>
       <description><![CDATA[Johanne Holmedahl, jenta bak «Til Dovre Faller» er på besøk, vi hører også om Javad El Bakali sine mange prosjekter og tar han med på øvelseskjøring]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Historien tok en mørk vending.</title>
-      <description><![CDATA[Vi snakker om språk, luring av folk og freestyle rap]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b44aff26-b59a-4902-8aff-26b59a490248_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b44aff26-b59a-4902-8aff-26b59a490248_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MqSnHpWfxJ4KYJKwEeX8PAUBf4szQH36Xhozo6djsreg.jpg"/>
     </item>
   </channel>
 </rss>
