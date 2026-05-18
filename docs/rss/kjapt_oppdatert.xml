@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 15 May 2026 10:47:43 +0000</lastBuildDate>
-    <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 08:21:10 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Rekordmange på kokainavrusning</title>
+      <description><![CDATA[Og det ble litt kaos rundt omkring i landet på nasjonaldagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f783195b-2417-46ac-8319-5b241766acd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f783195b-2417-46ac-8319-5b241766acd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:16</itunes:duration>
+      <pubDate>Mon, 18 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BMhmJLJQMteBtmLJbOCcbAtp284j6oe_hhNJg-RkUwnA.jpg"/>
+    </item>
     <item>
       <title>Norge videre til ESC-finale: – Det er jævlig deilig</title>
       <description><![CDATA[Og Israel og Libanon møtes til nye fredsforhandlinger.]]></description>
@@ -457,15 +466,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>07:35</itunes:duration>
       <pubDate>Tue, 03 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Bz0rKZ5Kpon0MFvHrThjvgIwSm9mPiTW707XSjKnQTfw.jpg"/>
-    </item>
-    <item>
-      <title>USA og Israel angriper Iran: Hva har skjedd?</title>
-      <description><![CDATA[165 iranske barn skal ha blitt drept på en skole.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/4246fabd-8157-4fd6-86fa-bd8157dfd6e5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/4246fabd-8157-4fd6-86fa-bd8157dfd6e5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:49</itunes:duration>
-      <pubDate>Mon, 02 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dr0HW5xo75HC4A1f3ntH7gi197H1mRSWEqoKVCrGBqcw.jpg"/>
     </item>
   </channel>
 </rss>

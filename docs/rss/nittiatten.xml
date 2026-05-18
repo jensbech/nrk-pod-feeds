@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 11 May 2026 08:09:52 +0000</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 08:21:38 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Kristine Arntzen på besøk</title>
+      <description><![CDATA[– Jeg tømte Se og Hør-hylla! Kristine vil ikke være dama som melket kuer under fyllefest]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/0335625a-5527-49a7-b562-5a5527d9a73e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/0335625a-5527-49a7-b562-5a5527d9a73e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:44</itunes:duration>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1XoI9CdqTzIi0RW4EWshfwncanldDTJ3ca2B7m4gOsUA.jpg"/>
+    </item>
     <item>
       <title>Else Kåss Furuseth på besøk</title>
       <description><![CDATA[Et lysende McDonald’s-skilt holdt på å drepe Else. 
@@ -453,15 +462,6 @@ Franky og Mo sjekker ut om hun egentlig har rizz.]]></description>
       <itunes:duration>42:01</itunes:duration>
       <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fgkNocjxkwu0DkQbI6KaUQsdUnQyCfnwaZrEppIejgdA.jpg"/>
-    </item>
-    <item>
-      <title>Reality og ketchup</title>
-      <description><![CDATA[Franky og Mo deler store nyheter og diskuterer hvor ketchupen egentlig skal stå.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/7093844e-4cd3-467b-8653-43c25aa6e3ba_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/7093844e-4cd3-467b-8653-43c25aa6e3ba_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:23</itunes:duration>
-      <pubDate>Thu, 19 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg.jpg"/>
     </item>
   </channel>
 </rss>
