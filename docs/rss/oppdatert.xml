@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 18 May 2026 08:21:51 +0000</lastBuildDate>
-    <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 08:10:56 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Terget Trump med skjell: Nå er han tiltalt</title>
+      <description><![CDATA[En tidligere FBI-sjef har blitt etterforsket i det skjulte, på grunn av et kryptisk bilde. Hva er det som skjer?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a4cac93d-276f-49e5-8ac9-3d276ff9e562_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a4cac93d-276f-49e5-8ac9-3d276ff9e562_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:56</itunes:duration>
+      <pubDate>Tue, 19 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XAJ0gWOtBjUa8bXD30B9EARCAJuHbfJV2uY7ttKCwkGg.jpg"/>
+    </item>
     <item>
       <title>Spionsaken på Andøya: Sporene som peker mot Kina</title>
       <description><![CDATA[PST mener Kina står bak en spionoperasjon. Kinesisk UD aviser anklagene blankt.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/befac803-2402-40e7-bac8-03240260e780_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/befac803-2402-40e7-bac8-03240260e780_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:48</itunes:duration>
+      <itunes:duration>14:50</itunes:duration>
       <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/t3Jk9qFu6UsRRaEjaYDfiAueZaLCRDDiwVHD7RCpGZhg.jpg"/>
     </item>
@@ -40,8 +49,8 @@
       <itunes:image href="https://gfx.nrk.no/No7FdkkduxO0fOgBBktbfgqSqNUGRyeE0BC_l-u2eb4g.jpg"/>
     </item>
     <item>
-      <title>Trumps forsvarsplan: Vil bygge gigakuppel over USA</title>
-      <description><![CDATA[Trump mener han kan få til noe som amerikanske presidenter har drømt om i årevis. Andre mener det er umulig.]]></description>
+      <title>Trumps forsvarsplan: For god til å være sann?</title>
+      <description><![CDATA[Presidenten mener han kan få til noe som amerikanske presidenter har drømt om i årevis. Andre mener det er umulig.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f6af3bff-9d60-4caf-af3b-ff9d609cafc5_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/f6af3bff-9d60-4caf-af3b-ff9d609cafc5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:03</itunes:duration>
@@ -452,15 +461,6 @@
       <itunes:duration>22:28</itunes:duration>
       <pubDate>Tue, 10 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qPt9rIKNXLup-Wanm3GJGAZqSRuh4RMOoTT1GtiMzVQA.jpg"/>
-    </item>
-    <item>
-      <title>Tek-toppen som snudde: Nå frykter han KI</title>
-      <description><![CDATA[Han jobbet på innsiden av de største KI-selskapene. Men brått sluttet han i jobben for å advare folk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cbfd64e1-79e4-435b-bd64-e179e4335b59_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cbfd64e1-79e4-435b-bd64-e179e4335b59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:02</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qs90UiBlxIfE2_APnnxsQg4M-_8Kk8wLhtwJ0RBO9W4A.jpg"/>
     </item>
   </channel>
 </rss>

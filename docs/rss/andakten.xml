@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 18 May 2026 08:20:25 +0000</lastBuildDate>
-    <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 08:08:52 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Kaos - Ingrid Ivo Vatnar</title>
+      <description><![CDATA[Man kan kjenne på at livet er kaotisk. Men kanskje er det ikke så kaotisk. Kanskje har du bare et feil perspektiv på saken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c4859464-d0d0-4f38-8594-64d0d07f387f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/c4859464-d0d0-4f38-8594-64d0d07f387f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:41</itunes:duration>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw8pyoRLM0Vqcp0drawQ702g.jpg"/>
+    </item>
     <item>
       <title>Våren - Ingrid Ivo Vatnar</title>
       <description><![CDATA[I motsetning til dem som blir våryre, kan Ingrid Ivo Vatnar synes at våren kan være vanskelig]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/770a4b40-ed31-43f1-8a4b-40ed31c3f121_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:44</itunes:duration>
       <pubDate>Thu, 12 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d9FTFBImmlTbyKtrVUByMQ0FF81CV_AEyRhSsoUATkGw.jpg"/>
-    </item>
-    <item>
-      <title>Vitenskap - Geir Erik Berge</title>
-      <description><![CDATA[Vitenskap og gudstro er ikke så lett å kombinere. Går det i det hele tatt an?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/a3c52ad2-50e8-4280-852a-d250e84280ec_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/a3c52ad2-50e8-4280-852a-d250e84280ec_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:52</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/d9FTFBImmlTbyKtrVUByMQ0FF81CV_AEyRhSsoUATkGw.jpg"/>
     </item>
   </channel>
