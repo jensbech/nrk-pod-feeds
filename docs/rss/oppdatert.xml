@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 19 May 2026 08:10:56 +0000</lastBuildDate>
-    <pubDate>Tue, 19 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 08:12:33 +0000</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Kampen mot «krigsmaskinen»: Er Norge på feil spor?</title>
+      <description><![CDATA[Europas største sprengstoff-fabrikk skal bygges i en norsk dal. Denne gjengen kjemper for at det aldri skal skje.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/9635b598-9893-4533-b5b5-9898930533f7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/9635b598-9893-4533-b5b5-9898930533f7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:13</itunes:duration>
+      <pubDate>Wed, 20 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3SDMxFphSnaz1-BB9Vq5lg4BZ_FJLjFMVvqYjJUZoO8Q.jpg"/>
+    </item>
     <item>
       <title>Terget Trump med skjell: Nå er han tiltalt</title>
       <description><![CDATA[En tidligere FBI-sjef har blitt etterforsket i det skjulte, på grunn av et kryptisk bilde. Hva er det som skjer?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>16:02</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/L2WEreXr50fXVbPW51ptOgqVZTqGO3HJLy64sc8tivmA.jpg"/>
-    </item>
-    <item>
-      <title>Krig og kontroverser: Hvem er Pete Hegseth?</title>
-      <description><![CDATA[«Krigsministerens» reise fra talkshow-vert til sjef over verdens mektigste hær.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/25ff6a43-119d-4b53-bf6a-43119dab538c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/25ff6a43-119d-4b53-bf6a-43119dab538c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:28</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qPt9rIKNXLup-Wanm3GJGAZqSRuh4RMOoTT1GtiMzVQA.jpg"/>
     </item>
   </channel>
 </rss>

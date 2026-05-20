@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 19 May 2026 08:09:45 +0000</lastBuildDate>
-    <pubDate>Mon, 18 May 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 08:10:12 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Kvinnosfæren: Kvinner som hater menn?</title>
+      <description><![CDATA[Kvinner under 30 år er tre ganger mer negative til menn enn omvendt. Bør alarmklokkene ringe?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/323bfc3a-c6ad-4377-bbfc-3ac6ad037705_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/323bfc3a-c6ad-4377-bbfc-3ac6ad037705_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:44</itunes:duration>
+      <pubDate>Tue, 19 May 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aMV5Pr2SuT7y8z_8t1Z88gkUIdMvyv5qDBmkpCOTTVRA.jpg"/>
+    </item>
     <item>
       <title>Spør finansministeren</title>
       <description><![CDATA[Frå matprisar og kvardagsøkonomi til kva samfunn regjeringa vil ha. Jens Stoltenberg svarte på dykkar spørsmål på direkten.]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>24:10</itunes:duration>
       <pubDate>Wed, 25 Feb 2026 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/uhtwOk7Ke_Hsn4ttmWKAUQIbJsINCArtKzEUHxWPVu6A.jpg"/>
-    </item>
-    <item>
-      <title>Klimakrise? Det er jo iskaldt!</title>
-      <description><![CDATA[Iskald vinter gjør flere skeptiske til klimakrise, har de grunn til det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2c311617-4cfc-45ba-b116-174cfc25bae4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2c311617-4cfc-45ba-b116-174cfc25bae4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:37</itunes:duration>
-      <pubDate>Tue, 24 Feb 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UgPu0o9dN0p-37qHvBlMkwWGvh_Hwx7YRaSZgC7prFcw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 19 May 2026 08:11:06 +0000</lastBuildDate>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 08:12:47 +0000</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Unge Høyre angriper Oslo Høyre</title>
+      <description><![CDATA[Frp er dobbelt så store som Høyre. Hva skal Høyre gjøre?
+Ikke lær av Oslo Høyre, sier Unge Høyre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e1529d62-241c-45eb-929d-62241c75ebd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e1529d62-241c-45eb-929d-62241c75ebd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:10</itunes:duration>
+      <pubDate>Wed, 20 May 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8FiaArreh0HNlQd-3K-AFwc0mkbzWM-B6Cj5DqjkZZtA.jpg"/>
+    </item>
     <item>
       <title>Kutt boligskatten</title>
       <description><![CDATA[Dropp boligskatten, sier tidligere sentralbanksjef Øystein Olsen.  Hva sier Ap og Frp, rett før skattekommisjonen avslører sine forslag ?]]></description>
@@ -474,16 +484,6 @@ Men Høgre deler liberale Venstres syn på omstridde kjønnsråd.]]></descriptio
       <itunes:duration>15:11</itunes:duration>
       <pubDate>Wed, 04 Mar 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/K3zSVFEIlKOczTMZrrCQBwv3a8mdSpd3nMaTg3xbV8mg.jpg"/>
-    </item>
-    <item>
-      <title>Krig og norsk olje</title>
-      <description><![CDATA[Det meste av oljeproduksjonen i verden skjer i udemokratiske land og i urolige regioner.
-Vil det gjøre norsk olje attraktiv? Eller vil verden snu ryggen til fossil energi?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ea0e82b1-f3ce-40fb-8e82-b1f3ced0fb05_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ea0e82b1-f3ce-40fb-8e82-b1f3ced0fb05_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Tue, 03 Mar 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReqKwgqUA6d_ebd1nfKHjg3ELzKctCMNqkAR8wGiAPJg.jpg"/>
     </item>
   </channel>
 </rss>

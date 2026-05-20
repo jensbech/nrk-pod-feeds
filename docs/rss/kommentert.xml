@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 13 May 2026 08:00:34 +0000</lastBuildDate>
-    <pubDate>Tue, 12 May 2026 17:25:00 +0200</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 08:11:09 +0000</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 17:24:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Ukraina med massivt angrep: Kan de snu krigen?</title>
+      <description><![CDATA[Ukraina angriper Russland og hovedstaden Moskva hardere og hardere. Hvordan er situasjonen i krigen nå?
+Og politiske slagord: Funker de? Bryr folk seg om det? Nå vil SV ha et nytt et og ber om hjelp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/86612dbd-b0b3-4469-a12d-bdb0b33469e9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/86612dbd-b0b3-4469-a12d-bdb0b33469e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:03</itunes:duration>
+      <pubDate>Tue, 19 May 2026 17:24:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DGAPujoZIGLtQSw9NcN29wjYWiX2zu_3aK3qrThVaPOA.jpg"/>
+    </item>
     <item>
       <title>Trumps stormaktsspill mot Kina: – Bekmørkt</title>
       <description><![CDATA[En svekket Donald Trump drar til Kina for å møte president Xi Jinping. Er Kina i ferdmed å ta over rollen som verdens supermakt?
@@ -492,15 +502,6 @@ Og Høyre med dårligste valg på 20 år. Hva gikk galt?]]></description>
       <itunes:duration>46:47</itunes:duration>
       <pubDate>Fri, 05 Sep 2025 13:38:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iQ4GgHYiieTlQ6Snj6WAdgodXl04Sji8J20tfVAGQtaQ.jpg"/>
-    </item>
-    <item>
-      <title>Ung blå bølge: Kan den gi maktskifte?</title>
-      <description><![CDATA[Tidenes beste skolevalg for Frp, og stort borgerlig flertall. Hva kan dette ha å si for stortingsvalget?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/9f565b59-961a-41f8-965b-59961a01f8d1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/9f565b59-961a-41f8-965b-59961a01f8d1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:10</itunes:duration>
-      <pubDate>Tue, 02 Sep 2025 21:18:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1XmRFrZWi9_9x7KTHhpYpwB_euoIYuWKxTYiu4AfUwWw.jpg"/>
     </item>
   </channel>
 </rss>
