@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 14 May 2026 07:56:59 +0000</lastBuildDate>
-    <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 08:13:58 +0000</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Skamgang og kåtestråler</title>
+      <description><![CDATA[Anne elsker dagen derpå, Halvor fortsetter korstoget mot nostalgien, mens Rune glimrer med sitt fravær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/3bcae3b2-cddf-41bf-8ae3-b2cddf21bf3b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/3bcae3b2-cddf-41bf-8ae3-b2cddf21bf3b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:55</itunes:duration>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
     <item>
       <title>Fri i egen kropp</title>
       <description><![CDATA[Anne har vært på brutal treningsleir, Rune feirer en homofil høytid og Halvor tar et oppgjør med fortiden.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/39fbfa3c-4445-4e00-8dc7-89f43c391135_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:01</itunes:duration>
       <pubDate>Thu, 08 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Svindler med stil</title>
-      <description><![CDATA[Anne har oppdaget fordelene ved å kjøre en gammel og sliten kassebil.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/636b274d-c215-4708-a353-7e5c672208c6_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/636b274d-c215-4708-a353-7e5c672208c6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:47</itunes:duration>
-      <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
     </item>
   </channel>

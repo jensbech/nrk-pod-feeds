@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 19 May 2026 08:11:22 +0000</lastBuildDate>
-    <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 08:15:32 +0000</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Det er en due i studio!</title>
+      <description><![CDATA[Det er dansk-spesial i papegøye, vi får besøk av Norges "største" youtuber og vi smalltalker norsk folketro.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/b1f46307-aef3-4cfd-b463-07aef3fcfd43_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/b1f46307-aef3-4cfd-b463-07aef3fcfd43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:40</itunes:duration>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Er dette Norges verste VM-låt?</title>
+      <description><![CDATA[Daniel starter jakten på Norges beste VM-låt, det blir begått en stor feil i Emma Steinbakken-spalten og Anna hater 17 mai bilder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2aba9ccc-8342-4bbf-ba9c-cc83423bbfa5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/2aba9ccc-8342-4bbf-ba9c-cc83423bbfa5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:35</itunes:duration>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Drakk 4 pils og spiste en pizza</title>
       <description><![CDATA[Vi finner ut av hva det motsatte av en pølse er, ukas dumfette skal kåres og Daniel prøver seg på en russeknute.]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/52c7162d-5b78-49a8-8716-2d5b7849a8b8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:47</itunes:duration>
       <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Når runka Markus sist?</title>
-      <description><![CDATA[Daniel er frekk mot Anna, hvor mye tjener Markus og hva er det motsatte av en flamingo?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d28b7f6f-4418-469b-8b7f-6f4418069b86_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/d28b7f6f-4418-469b-8b7f-6f4418069b86_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:38</itunes:duration>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Hvem er minst likt?</title>
-      <description><![CDATA[God fredag! Det blir Quizvang, en legendarisk fredagshilsen og dårlig stemning når vi diskuterer hvem som er mest likt på kontoret.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/98759e53-71c2-4ff6-b59e-5371c2eff67f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/98759e53-71c2-4ff6-b59e-5371c2eff67f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:38</itunes:duration>
-      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

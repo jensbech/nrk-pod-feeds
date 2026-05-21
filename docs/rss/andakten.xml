@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 May 2026 08:09:16 +0000</lastBuildDate>
-    <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 08:12:06 +0000</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Tillit - Ingrid Ivo Vatnar</title>
+      <description><![CDATA[Hverdagseventyrer kaller hun seg, og er det i aller høyeste grad, og med en stor tillit til mennesket!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/d27a1a6f-6563-4cd2-ba1a-6f65630cd27b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/d27a1a6f-6563-4cd2-ba1a-6f65630cd27b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:40</itunes:duration>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw8pyoRLM0Vqcp0drawQ702g.jpg"/>
+    </item>
     <item>
       <title>Kirka - Ingrid Ivo Vatnar</title>
       <description><![CDATA[Hun hadde grublet en del på hva en kirke egentlig er, og fikk langt på vei hjelp med svaret fra en av våre store, norske lyrikere.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/4a623a30-2c5f-4e45-a23a-302c5f2e45a4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:56</itunes:duration>
       <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MjpusSZIA234P8QghRbcwgW7TKMsT7czdTvwXJGohxjg.jpg"/>
-    </item>
-    <item>
-      <title>Selve livet - Åste Dokka</title>
-      <description><![CDATA[Mange får ekstra god tid til å tenke når de gjør husarbeid. Her kan det være plass for både store og små tanker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/f429d774-394c-4889-a9d7-74394c6889aa_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/f429d774-394c-4889-a9d7-74394c6889aa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:15</itunes:duration>
-      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MjpusSZIA234P8QghRbcwgW7TKMsT7czdTvwXJGohxjg.jpg"/>
     </item>
   </channel>

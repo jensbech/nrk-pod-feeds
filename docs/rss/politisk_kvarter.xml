@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 May 2026 08:12:47 +0000</lastBuildDate>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 08:15:09 +0000</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Datasentrene spiser opp krafta</title>
+      <description><![CDATA[Flere datasentre kan gjøre strømmen dyrere - er det en pris vi er villige til å betale?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/8351a50c-9276-4a17-91a5-0c9276fa1700_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/8351a50c-9276-4a17-91a5-0c9276fa1700_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Thu, 21 May 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gt5inJN8m7CtSEosWhxHDATEkLwkuxI4JXYebbbrPQQw.jpg"/>
+    </item>
     <item>
       <title>Unge Høyre angriper Oslo Høyre</title>
       <description><![CDATA[Frp er dobbelt så store som Høyre. Hva skal Høyre gjøre?
@@ -475,15 +484,6 @@ Men Høgre deler liberale Venstres syn på omstridde kjønnsråd.]]></descriptio
       <itunes:duration>15:13</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QKESI0RJugiFzjcLZjUKlQs4laA2QWGAB-NFH-mCqkdg.jpg"/>
-    </item>
-    <item>
-      <title>Israels aller beste venner</title>
-      <description><![CDATA[Israel mener de angriper Iran i selvforsvar. Norske fordømmelser går på autopilot og bidrar til stigmatisering av jøder, mener Israels venner i Stortinget.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/03b0f32d-a505-4f0f-b0f3-2da5055f0ffb_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/03b0f32d-a505-4f0f-b0f3-2da5055f0ffb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K3zSVFEIlKOczTMZrrCQBwv3a8mdSpd3nMaTg3xbV8mg.jpg"/>
     </item>
   </channel>
 </rss>

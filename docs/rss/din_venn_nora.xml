@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 14 May 2026 07:56:16 +0000</lastBuildDate>
-    <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 08:12:43 +0000</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Vestkantens mørke bakside</title>
+      <description><![CDATA[En konspirasjonsteori om homofile, ukas verste flauser og grusomme opplevelser på vestkanten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/c8c2aef7-c4ab-424b-82ae-f7c4ab724b63_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/c8c2aef7-c4ab-424b-82ae-f7c4ab724b63_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:15</itunes:duration>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Faceplant i beste sendetid</title>
       <description><![CDATA[Et stunt på Gullruten har gitt varige mén, et særdeles intimt øyeblikk med en fotballlegende, og tips til deg som hater 17. mai!]]></description>
@@ -456,15 +465,6 @@ Blokkfløytetraumer fra barndommen, dårlige samtalestartere og noe vi måtte kl
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/ccc65fc9-3418-454a-afbe-0c8e8721294d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:40</itunes:duration>
       <pubDate>Wed, 06 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
-    </item>
-    <item>
-      <title>Innboksen: Ikke tenk på meg som onanerer</title>
-      <description><![CDATA[Sannheten om "Førstemann", drømmetydning fra Chat GPT, låt om Megaflis, og gode råd til deg som vil tulle med eget liv.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/6c751d60-8fc4-4d82-8a9b-c5e80646b086_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/6c751d60-8fc4-4d82-8a9b-c5e80646b086_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:09</itunes:duration>
-      <pubDate>Sun, 03 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
     </item>
   </channel>
