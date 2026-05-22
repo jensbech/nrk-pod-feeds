@@ -980,7 +980,7 @@
     {
         "id": "radio_moerch",
         "title": "Radio Mørch",
-        "season": null,
+        "season": "LATEST_SEASON",
         "enabled": false
     },
     {
