@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 21 May 2026 08:15:09 +0000</lastBuildDate>
-    <pubDate>Thu, 21 May 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 08:09:10 +0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 08:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Nok cruise-turistar no?</title>
+      <description><![CDATA[Er 13.000 turistar i eit trangt norsk kystsentrum eit argument for å begrense cruiseturismen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/8d2040c0-26e6-4153-a040-c026e67153a2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/8d2040c0-26e6-4153-a040-c026e67153a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Fri, 22 May 2026 08:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XZzMB-a6AtAZM2EQlWQTkQL72avzSCI5gmKCfWE1Zkpw.jpg"/>
+    </item>
     <item>
       <title>Datasentrene spiser opp krafta</title>
       <description><![CDATA[Flere datasentre kan gjøre strømmen dyrere - er det en pris vi er villige til å betale?]]></description>
@@ -298,7 +307,7 @@ Hvordan skal Norge forholde seg til vår viktigste allierte nå?]]></description
       <itunes:image href="https://gfx.nrk.no/p7fMfh0ULjNkDVRxxDDfswJQba0G1VNKlb2dxyMEIV1Q.jpg"/>
     </item>
     <item>
-      <title>Mimir seier unnskyld</title>
+      <title>Mímir seier unnskyld</title>
       <description><![CDATA[Mímir Kristjánsson sendte valdstruslar i fylla. 
 Raudt har allereie gått vidare. Er det rett å tilgje?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ae971127-d328-4c65-9711-27d328bc65ae_1_ID192MP3.mp3</guid>
@@ -474,16 +483,6 @@ Kan Senterpartiet skifte side?]]></description>
       <itunes:duration>14:52</itunes:duration>
       <pubDate>Fri, 06 Mar 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nQr-LZdOjufapUmvzsD6UgNcm9h0LEL931fF4UBy7-Ng.jpg"/>
-    </item>
-    <item>
-      <title>Verdistrid på høgresida</title>
-      <description><![CDATA[KrF og Høgre sikrar skulegudstenester. 
-Men Høgre deler liberale Venstres syn på omstridde kjønnsråd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/125f9b82-6dc7-4a93-9f9b-826dc7fa93d3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/125f9b82-6dc7-4a93-9f9b-826dc7fa93d3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:13</itunes:duration>
-      <pubDate>Thu, 05 Mar 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QKESI0RJugiFzjcLZjUKlQs4laA2QWGAB-NFH-mCqkdg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 May 2026 08:11:09 +0000</lastBuildDate>
-    <pubDate>Tue, 19 May 2026 17:24:00 +0200</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 08:08:19 +0000</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 15:27:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Trumps Nato-tvil: Hvem skal forsvare Norge ved krig?</title>
+      <description><![CDATA[USA trekker tilbake soldater fra Europa og Donald Trump sår tvil om Natos verdi. Hvem skal forsvare Norge ved krig? 
+Og så lurer vi: Hvor er Ine Eriksen Søreide?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/623852e8-ee02-4eb1-b852-e8ee024eb1dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/623852e8-ee02-4eb1-b852-e8ee024eb1dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:22</itunes:duration>
+      <pubDate>Thu, 21 May 2026 15:27:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9J2NlvqTZQVsGFDyzSmcRgR_Fw9gXTgsfjIWuOGuVylg.jpg"/>
+    </item>
     <item>
       <title>Ukraina med massivt angrep: Kan de snu krigen?</title>
       <description><![CDATA[Ukraina angriper Russland og hovedstaden Moskva hardere og hardere. Hvordan er situasjonen i krigen nå?
@@ -493,15 +503,6 @@ Og Høyre med dårligste valg på 20 år. Hva gikk galt?]]></description>
       <itunes:duration>27:28</itunes:duration>
       <pubDate>Tue, 09 Sep 2025 04:06:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iRDJlXaY__VRuSOEQBbNpwQzWih-ftCVNgVda9IhsxeQ.jpg"/>
-    </item>
-    <item>
-      <title>Hvem vinner valget?</title>
-      <description><![CDATA[Miljøpartiet De Grønne er plutselig landets fjerde største parti, og sikrer rødgrønn seier på mange målinger. Men ulike målinger viser ulike ting: Så hvem vinner valget?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/2be51e98-84db-4449-a51e-9884db84496d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/2be51e98-84db-4449-a51e-9884db84496d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:47</itunes:duration>
-      <pubDate>Fri, 05 Sep 2025 13:38:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iQ4GgHYiieTlQ6Snj6WAdgodXl04Sji8J20tfVAGQtaQ.jpg"/>
     </item>
   </channel>
 </rss>

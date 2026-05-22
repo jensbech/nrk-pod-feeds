@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 21 May 2026 08:13:34 +0000</lastBuildDate>
-    <pubDate>Thu, 21 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 08:08:07 +0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Eksperter tror vi kan komme langt i VM</title>
+      <description><![CDATA[Og trenger du egentlig å bruke solkrem i ansiktet hver dag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d6168c88-11cf-45cc-968c-8811cf05cca6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d6168c88-11cf-45cc-968c-8811cf05cca6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:31</itunes:duration>
+      <pubDate>Fri, 22 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LS0doFnELY6oeaPYgUZ4HQF1jGIQ_IEZ6SsL-3wICuaA.jpg"/>
+    </item>
     <item>
       <title>«Usynlig» kvinnesykdom skal bli diagnose</title>
       <description><![CDATA[Og i dag blir det klart hvilke spillere som blir med Norge til fotball-VM.]]></description>
@@ -457,15 +466,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:11</itunes:duration>
       <pubDate>Mon, 09 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aVnMas1RCKI73-z3IfHowQxloCNrrxPl5qZ1WZ4zNaxw.jpg"/>
-    </item>
-    <item>
-      <title>Kaos og boikott før Paralympics</title>
-      <description><![CDATA[Og Harry Styles har sluppet nytt album.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/6f37b3ed-4cd5-442d-b7b3-ed4cd5242d78_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6f37b3ed-4cd5-442d-b7b3-ed4cd5242d78_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:31</itunes:duration>
-      <pubDate>Fri, 06 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fqvqf3lK1DW-SnDSMt7aTA7vohk9vO7eh6mzN9oh-S_Q.jpg"/>
     </item>
   </channel>
 </rss>

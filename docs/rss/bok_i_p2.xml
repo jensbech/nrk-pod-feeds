@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 15 May 2026 10:47:01 +0000</lastBuildDate>
-    <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 08:06:57 +0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Stian Hjelvin Andersen: Må alt være perfekt?</title>
+      <description><![CDATA[Når bestevenninnen brått får kreft, innser journalist Merete Moe hvor overfladisk selvhjelpsbransjens egentlig er.
+Hjelvin Andersen er ute med ny satirisk roman.
+Nyeste bok: «Bukke, nikke, neie»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/ce4e2614-ce3f-47e2-8e26-14ce3f37e25e_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/ce4e2614-ce3f-47e2-8e26-14ce3f37e25e_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:40</itunes:duration>
+      <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3i44a9ViAea6P7rCgwyVrQupnkYW-FyL7lLWgvA0LQrw.jpg"/>
+    </item>
     <item>
       <title>Maria Sand</title>
       <description><![CDATA[- Hvorfor skal bare menn over 60 skrive tjukke bøker?  Maria Sand med historisk roman. -Ville heller tryne enn å aldri ha prøvd.]]></description>
@@ -353,8 +364,8 @@ Siste bok: «Blodbank».]]></description>
       <itunes:image href="https://gfx.nrk.no/-bp5latD6AGosr_e3__9JgVyj5yFmTIHkIT48N2ohhHQ.jpg"/>
     </item>
     <item>
-      <title>Mysteriet døden</title>
-      <description><![CDATA[Rune Christiansen skriver om mennesker som karrer seg på beina igjen etter store tap. Siste bok: «Tragedie under drivende skyer».]]></description>
+      <title>Rune Christiansen: Mysteriet døden</title>
+      <description><![CDATA[Christiansen skriver om mennesker som karrer seg på beina igjen etter store tap. Siste bok: «Tragedie under drivende skyer».]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/2a20c675-2046-4443-a7f5-aa3c7375eaff_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/2a20c675-2046-4443-a7f5-aa3c7375eaff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:43</itunes:duration>
@@ -477,15 +488,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>55:29</itunes:duration>
       <pubDate>Thu, 16 Jan 2025 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kjmpSN2dkT0bw1HnB5V0Aw0aiQfhEocKOOGkKfmHtUDA.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Jon Fosse</title>
-      <description><![CDATA[Vi byr på en eksklusiv julespesial med Jon Fosse. Her får du en samtale om engstelsen for å snakke i forsamlinger, om at syvbindsverket «Septologien» egentlig er en adventsfortelling, og om fire notatbøker som skal bli roman. Knut Hoem Intervjuer Jon Fosse i Stockholm i forbindelse med Nobelprisen i Litteratur. Lesetips av Sarah Adekoya.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/99d37c3b-3af9-4da6-b324-06b9afe609b5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/99d37c3b-3af9-4da6-b324-06b9afe609b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Fri, 27 Dec 2024 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C5rfSCA8iyEf-do_SGxdBA1rTu1ds23dN2MZ4Z08qg8g.jpg"/>
     </item>
   </channel>
 </rss>
