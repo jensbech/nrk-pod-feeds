@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 22 May 2026 11:01:33 +0000</lastBuildDate>
-    <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 07:48:23 +0000</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Ferskvaredisk + Tobias Sten = Sant</title>
+      <description><![CDATA[Vi er fulle av konfrontasjon denne uka. Hva er det Tobias Sten mener at lukten fra ferskvaredisken på Meny minner om, angreer Sophie Elise på hennes tidligere reality detltakelse, og følger Morten Ramm og Erik Solbakken landslaget til VM kun for å reise og henge med fotballspillere?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/5f1cae0f-34f1-4bbd-9cae-0f34f10bbd04_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/5f1cae0f-34f1-4bbd-9cae-0f34f10bbd04_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:48</itunes:duration>
+      <pubDate>Sat, 23 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RK2m0lllXE0h0aeW4kZ1LA2whqtHokpTeH2dJtGd75GA.jpg"/>
+    </item>
     <item>
       <title>Skremselspropaganda i barnehagen</title>
       <description><![CDATA[Vi deler minner om da vi lærte oss å tørke rumpa og Henning deler minner om "Tussemor".]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>PowerPoint-porno</title>
-      <description><![CDATA[Jonas har vært på utdrikkingslag, Henning har vært på konspirasjons-kveld med familien og Arin tar opp guttas julekalender.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/66184895-8c87-4031-9848-958c8780314f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/66184895-8c87-4031-9848-958c8780314f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
     </item>
   </channel>
 </rss>

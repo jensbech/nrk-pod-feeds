@@ -8,10 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 21 May 2026 08:15:32 +0000</lastBuildDate>
-    <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 07:48:40 +0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 14:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>HER STEMMER DU PÅ TATTIS!</title>
+      <description><![CDATA[På bilde ser du hvilken det står i mellom. Vil du ha skibbidy diddy eller bjørnen med fisk i rumpa? Valget er ditt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5140343e-8ca6-49e9-8034-3e8ca699e9c3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5140343e-8ca6-49e9-8034-3e8ca699e9c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:00</itunes:duration>
+      <pubDate>Fri, 22 May 2026 14:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CofE7M23RcW_TyVsFZjFpA7oRI8zNIumutpoJEMI2pIA.jpg"/>
+    </item>
+    <item>
+      <title>Hvem har mest juicy lepper?</title>
+      <description><![CDATA[Hvem har de mest juicy leppene, hva betyr Vebbju og hvilke tattiser går videre til finalen? Alle svarene får du i dagens episode!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6b0edca8-cc65-4659-8edc-a8cc653659ce_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6b0edca8-cc65-4659-8edc-a8cc653659ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:12</itunes:duration>
+      <pubDate>Fri, 22 May 2026 14:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Drepe en million kyllinger</title>
+      <description><![CDATA[Det blir beatboxing i spalte-spalten, hvor mange kyllinger kunne vi drept og hva har skjedd i kirken i Skjåk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c8888d29-2ccd-46c6-888d-292ccd16c600_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c8888d29-2ccd-46c6-888d-292ccd16c600_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:07</itunes:duration>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Det er en due i studio!</title>
       <description><![CDATA[Det er dansk-spesial i papegøye, vi får besøk av Norges "største" youtuber og vi smalltalker norsk folketro.]]></description>
@@ -433,33 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/849e88bc-3193-4125-9e88-bc31933125be_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:09</itunes:duration>
       <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Kan skalla folk bruke sjampo?</title>
-      <description><![CDATA[Markus blir sensurert i stand-up, Anna leder slampoesi-spalte og kan the rock ha eget sjampomerke?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/830a75b2-aa23-41a4-8a75-b2aa23e1a457_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/830a75b2-aa23-41a4-8a75-b2aa23e1a457_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:44</itunes:duration>
-      <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus skremmer fremmed dame</title>
-      <description><![CDATA[Vi savner is fra barndommen, Anna er på Hitler-jakt og Markus har vært idiot på åpen gate.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:32</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus dreit nesten på seg</title>
-      <description><![CDATA[Kan man gå med hawaiiskjorte på jobb, hvorfor har Daniel med seg en skitten sokk og måtte Markus låne doen til Anna?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/52c7162d-5b78-49a8-8716-2d5b7849a8b8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/52c7162d-5b78-49a8-8716-2d5b7849a8b8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:47</itunes:duration>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
