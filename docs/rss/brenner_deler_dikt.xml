@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 17 May 2026 07:48:19 +0000</lastBuildDate>
-    <pubDate>Sun, 17 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 07:55:14 +0000</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Tone Sofie Aglen: Fra diktanalyse til politisk analyse</title>
+      <description><![CDATA[Som ung mor leste kommentatoren dikt på fiskefabrikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/d9ebd863-edb5-4e5f-abd8-63edb58e5f7c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/d9ebd863-edb5-4e5f-abd8-63edb58e5f7c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:26</itunes:duration>
+      <pubDate>Sun, 24 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nYZIUh4FBlbDGHV5pZcx3QRNJ2q6w-3XB7bIaf8oezLg.jpg"/>
+    </item>
     <item>
       <title>Solveig Kloppen: Livsviktige venner</title>
       <description><![CDATA[Slik fant den folkekjære programlederen trygghet utenfor hjemmet.]]></description>
@@ -529,16 +538,6 @@ Ukas dikt er «Kvarandre» av Jon Fosse.
       <itunes:duration>17:31</itunes:duration>
       <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YEhAHkkYNML9oU-_rSRgPA_Mb1qkaOJTksS3YlQxkrgA.jpg"/>
-    </item>
-    <item>
-      <title>Adelina Ibishi: Gikk rundt i byen og gråt </title>
-      <description><![CDATA[Kjærlighetssorgen rammet programleder Adelina Ibishi samtidig som hun mistet tilgangen til Spotify-kontoen sin. Da hun kom tilbake på plattformen hadde en venninne lagt klar en spilleliste med en sang som helt uventet ga henne trøst.  
-Ukas tekst er "Ikke gråt om det er vinter og det snør" av Stein Ove Berg ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/4368a2b7-cf88-495c-8d59-795817a6c54b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/4368a2b7-cf88-495c-8d59-795817a6c54b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:31</itunes:duration>
-      <pubDate>Sat, 02 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x3l920ylYmCVJEt44KhZAA7RUz586P_2itcQ3VWix8ZA.jpg"/>
     </item>
   </channel>
 </rss>
