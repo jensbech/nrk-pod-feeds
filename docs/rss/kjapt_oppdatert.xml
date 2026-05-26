@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 22 May 2026 08:08:07 +0000</lastBuildDate>
-    <pubDate>Fri, 22 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 26 May 2026 08:12:56 +0000</lastBuildDate>
+    <pubDate>Tue, 26 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Vi bruker mye mer KI enn resten av Europa</title>
+      <description><![CDATA[Og Norge gjør det veldig bra i ishockey om dagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/510ea999-7c3c-4171-8ea9-997c3c0171b9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/510ea999-7c3c-4171-8ea9-997c3c0171b9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:50</itunes:duration>
+      <pubDate>Tue, 26 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_TyPgWKh3cP5Tv1TJBGDcwPh71TYX6_QfSmTJy0p26rA.jpg"/>
+    </item>
     <item>
       <title>Eksperter tror vi kan komme langt i VM</title>
       <description><![CDATA[Og trenger du egentlig å bruke solkrem i ansiktet hver dag?]]></description>
@@ -457,15 +466,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>07:24</itunes:duration>
       <pubDate>Tue, 10 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/gX-AnTLrJRUkV1vSTsn2qwTBsVFm5DkfYESPmEH8OdFA.jpg"/>
-    </item>
-    <item>
-      <title>Nå kommer de første skattemeldingene</title>
-      <description><![CDATA[Og en Iran-ekspert tror valget av ny leder der viser at krigen ikke vil stoppe med det første.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f3cf264c-8151-4a72-8f26-4c8151da7294_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f3cf264c-8151-4a72-8f26-4c8151da7294_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:11</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aVnMas1RCKI73-z3IfHowQxloCNrrxPl5qZ1WZ4zNaxw.jpg"/>
     </item>
   </channel>
 </rss>
