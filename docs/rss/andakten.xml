@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 26 May 2026 08:11:49 +0000</lastBuildDate>
-    <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 08:17:24 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Øynenes faste - Bjørn Bore</title>
+      <description><![CDATA[Fasten er for mange en tid for måtehold. Men har du tenkt på at øynene dine hadde trengt en faste også - ikke bare magen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/02dd17db-9c74-4580-9d17-db9c74c58015_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/02dd17db-9c74-4580-9d17-db9c74c58015_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:54</itunes:duration>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gGyvp6Fc6gzQavBQyCgOnA1jffDOl9tEjk-YS8reYHsQ.jpg"/>
+    </item>
     <item>
       <title>160 slag - Bjørn Bore</title>
       <description><![CDATA[Det finnes øyeblikk der det går opp for deg at livet er i ferd med å endre seg, for så å aldri bli det samme igjen.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/df384622-a861-4ccc-b846-22a8611ccc18_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:59</itunes:duration>
       <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MjpusSZIA234P8QghRbcwgW7TKMsT7czdTvwXJGohxjg.jpg"/>
-    </item>
-    <item>
-      <title>Tiltro - Åste Dokka</title>
-      <description><![CDATA[Har du møtt en kjendis, en berømthet, en stjerne? Åste Dokka er opptatt av hvordan et slikt møte får oss til å føle oss.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/495b7a64-23f7-4539-9b7a-6423f725393c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/495b7a64-23f7-4539-9b7a-6423f725393c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:41</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MjpusSZIA234P8QghRbcwgW7TKMsT7czdTvwXJGohxjg.jpg"/>
     </item>
   </channel>

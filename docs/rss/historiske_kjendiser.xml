@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 20 May 2026 08:10:36 +0000</lastBuildDate>
-    <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 08:18:19 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Gianni Versace – visjonær designer</title>
+      <description><![CDATA[Med fargerike design og populære show bygget han et av verdens største motehus, men så ble han offer for en kaldblodig seriemorder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/539938fc-ab44-49e3-9938-fcab4449e3ea_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/539938fc-ab44-49e3-9938-fcab4449e3ea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:48</itunes:duration>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hOM0vpdRDANLlnWqEPTx3gHuu-3bdcNyEd676ZvONk_g.jpg"/>
+    </item>
     <item>
       <title>Margrete I – unionsdronningen</title>
       <description><![CDATA[Den danske dronningen styrte hele Norden med jernhånd.]]></description>
@@ -453,15 +462,6 @@
       <itunes:duration>58:40</itunes:duration>
       <pubDate>Wed, 07 Jun 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nR9DHW4PZU1Atu4AcMWAxw5mAkRkVPVyg716ooguR5tA.jpg"/>
-    </item>
-    <item>
-      <title>Josephine Baker – dansende agent</title>
-      <description><![CDATA[Showartisten danset seg til hemmelig agent under andre verdenskrig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/b6dc4ad2-43a0-4c7b-b1cf-08e943713988_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/b6dc4ad2-43a0-4c7b-b1cf-08e943713988_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:11</itunes:duration>
-      <pubDate>Wed, 31 May 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/l2mD-eDoorOabxHl_c7yrQOfnTn_LQOpIuLu6DmGoyIw.jpg"/>
     </item>
   </channel>
 </rss>
