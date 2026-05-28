@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 08:17:24 +0000</lastBuildDate>
-    <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 08:18:40 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Uklare ord - Bjørn Bore</title>
+      <description><![CDATA[Skal man ta alt bokstavelig eller bør man legge inn rom for tolkninger. Bibelen er vanskelig sånn, og mange mener mye forskjellig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/ac8f99f8-8052-419e-8f99-f88052419e50_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/ac8f99f8-8052-419e-8f99-f88052419e50_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:34</itunes:duration>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gGyvp6Fc6gzQavBQyCgOnA1jffDOl9tEjk-YS8reYHsQ.jpg"/>
+    </item>
     <item>
       <title>Øynenes faste - Bjørn Bore</title>
       <description><![CDATA[Fasten er for mange en tid for måtehold. Men har du tenkt på at øynene dine hadde trengt en faste også - ikke bare magen?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:08</itunes:duration>
       <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Slwy7oZRXBPoK7D3msi_0wq6na_QbkaLAdnFrgq9-CdQ.jpg"/>
-    </item>
-    <item>
-      <title>Frykt ikke - Åste Dokka</title>
-      <description><![CDATA[I fjor gikk nesten 1600 unge mennesker til kirka og lot seg døpe, for å kunne bli konfirmant. Tro har blitt interessant for mange.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/df384622-a861-4ccc-b846-22a8611ccc18_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/df384622-a861-4ccc-b846-22a8611ccc18_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:59</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MjpusSZIA234P8QghRbcwgW7TKMsT7czdTvwXJGohxjg.jpg"/>
     </item>
   </channel>
 </rss>

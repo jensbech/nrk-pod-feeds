@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 08:18:33 +0000</lastBuildDate>
-    <pubDate>Wed, 27 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 08:19:42 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Streiken er over (for de fleste)</title>
+      <description><![CDATA[Og hvordan går det med dronninga vår, etter at hun ble lagt inn på sykehus?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a16ca550-ca86-454b-aca5-50ca86d54b8d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a16ca550-ca86-454b-aca5-50ca86d54b8d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:07</itunes:duration>
+      <pubDate>Thu, 28 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4kYnrJ1QChuPYbX3R3_UUQ8a9GCeM5veYqECbKu0zMEA.jpg"/>
+    </item>
     <item>
       <title>Får støtte fra partiet i barnehagedebatten</title>
       <description><![CDATA[Og nordmenn har blitt mer negative til innvandring.]]></description>
@@ -457,15 +466,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>05:37</itunes:duration>
       <pubDate>Thu, 12 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KShZAM8p7H77uGhToW_ozgjIvgOJNxTMOdSX4FKm4JbQ.jpg"/>
-    </item>
-    <item>
-      <title>Iran angriper flere mål i Midtøsten</title>
-      <description><![CDATA[Og nå kan det bli enklere å ta seg en utepils.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/7725839c-5146-491d-a583-9c5146391d4e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/7725839c-5146-491d-a583-9c5146391d4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:31</itunes:duration>
-      <pubDate>Wed, 11 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1wIacBg2rdMdbA1fhkR95AldznqXQ4Q9-sNgH1cCahiw.jpg"/>
     </item>
   </channel>
 </rss>

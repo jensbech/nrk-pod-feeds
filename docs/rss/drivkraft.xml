@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 22 May 2026 08:07:30 +0000</lastBuildDate>
-    <pubDate>Thu, 21 May 2026 13:35:00 +0200</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 08:19:15 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 13:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Gaute Børstad Skjervø</title>
+      <description><![CDATA[- Det har vært et jevnt hat mot meg i lang tid, forteller lederen i AUF, som den siste tiden har mottatt nærmere 30 000 svært aggressive kommentarer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/166b125c-9325-40b8-ab12-5c932550b8ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/166b125c-9325-40b8-ab12-5c932550b8ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Wed, 27 May 2026 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/00YDEnnD759nOoWUHLZYhQH51Qgd6Gos8HyP57-_Y4Tg.jpg"/>
+    </item>
     <item>
       <title>Niels Christian Geelmuyden</title>
       <description><![CDATA[– Jeg snakket bare om sæd i ett og et halvt år, forteller forfatteren om sine researchmetoder.]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:07</itunes:duration>
       <pubDate>Thu, 29 Jan 2026 15:23:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2PKFSJ4Y8N3hTRcfopg8tQWJw9Hn0kbSsOlNUj6cSkXw.jpg"/>
-    </item>
-    <item>
-      <title>Vebjørn Selbekk</title>
-      <description><![CDATA[– Jeg sluttet å telle da jeg kom opp i 50 dødstrusler, sier sjefsredaktøren om karikaturstriden i 2006.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d80ec455-1f73-48be-8ec4-551f73c8beb5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d80ec455-1f73-48be-8ec4-551f73c8beb5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:38</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 13:43:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Heb8RNyDWMK0qKJA2LlHHA98rs4lRVaGHlpy60QLODPQ.jpg"/>
     </item>
   </channel>
 </rss>
