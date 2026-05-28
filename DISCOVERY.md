@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-05-28  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2026-05-26  
 - Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-05-25  

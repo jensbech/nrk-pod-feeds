@@ -981,7 +981,7 @@
         "id": "radio_moerch",
         "title": "Radio Mørch",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "radio_utslagsnes",
