@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 08:17:48 +0000</lastBuildDate>
-    <pubDate>Tue, 26 May 2026 22:45:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 08:17:17 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 23:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>Har vi nok kraft?</title>
+      <description><![CDATA[Hvordan sikre nok strøm når datasentrene truer kraftoverskuddet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/af3784e8-0bbf-4719-b784-e80bbf67194a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/af3784e8-0bbf-4719-b784-e80bbf67194a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:14</itunes:duration>
+      <pubDate>Thu, 28 May 2026 23:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
     <item>
       <title>Ettåringer i barnehagen</title>
       <description><![CDATA[Sender vi ettåringene i barnehagen av hensyn til foreldrene eller de små barna?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>51:20</itunes:duration>
       <pubDate>Thu, 16 Oct 2025 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/wMVst5Y4-uGXg-Co5BfkGA2BOdb1m5AvULVgj3cQAoqw.jpg"/>
-    </item>
-    <item>
-      <title>De avgjør om du får den dyre medisinen</title>
-      <description><![CDATA[Blir du alvorlig syk og trenger en sjelden medisin, ligger livet ditt i hendene på fire helsedirektører.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/383fa41f-ab0b-42f6-bfa4-1fab0ba2f6a7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/383fa41f-ab0b-42f6-bfa4-1fab0ba2f6a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:14</itunes:duration>
-      <pubDate>Tue, 14 Oct 2025 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ji9GSV15Fk2u0Cw7JPHsUAJY60eBjORdH7qXFFnq8LOg.jpg"/>
     </item>
   </channel>
 </rss>

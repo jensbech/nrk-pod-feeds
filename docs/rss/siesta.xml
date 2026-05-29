@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 08:20:10 +0000</lastBuildDate>
-    <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 08:20:07 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Vi lukter på stinke-finger</title>
+      <description><![CDATA[Hva lukter fingeren til Daniel, hva slags katter hadde vi vært og hvem får kjørt seg i dagsaktuell stand-up? Alle svara får du her!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/80995179-d50d-4be5-9951-79d50debe545_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/80995179-d50d-4be5-9951-79d50debe545_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:05</itunes:duration>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Bacon er ikke overvurdert!</title>
+      <description><![CDATA[Anna kommer med brannfakkel om bacon, Daniel leder Korea-spesial i papegøye og Markus sliter med å finne Hitler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/4de75733-fb8e-4e28-a757-33fb8e9e2827_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/4de75733-fb8e-4e28-a757-33fb8e9e2827_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:34</itunes:duration>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Kan man gå med caps i bryllup?</title>
       <description><![CDATA[Anna er forbanna på tog-snikere, Daniel anmelder VM-låta til «Soppgirobygget» og Markus holdt på å drite på seg før jobb.]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/794aa1eb-3630-4abc-8aa1-eb3630babc2c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:28</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna skjeller ut Daniel</title>
-      <description><![CDATA[Anna er fette kokforbanna på Daniel, er svensk smörgåstårta smæsj eller bæsj og har bare Daniel laget Norge rundt-reportasje?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3f548268-74fd-4399-9482-6874fd439920_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/3f548268-74fd-4399-9482-6874fd439920_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:26</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel går i musefella</title>
-      <description><![CDATA[Tante Rita ringer inn og forteller om fortida si, hva er det motsatte av et rivjern og Daniel skal legge fingrene i en musefelle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:35</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 28 May 2026 08:20:43 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 08:19:48 +0000</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 08:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Kampen om bil i byen</title>
+      <description><![CDATA[Frp vil skrote målet om null vekst i biltrafikken.
+Tidenes dårligste deal for byene våre, sier samferdselsministeren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/d138bc0a-5b97-4054-b8bc-0a5b97305474_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/d138bc0a-5b97-4054-b8bc-0a5b97305474_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Fri, 29 May 2026 08:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFFoRzhaWwxfabmYOMxV6AjauYOx0RuCgcfcKjlyBbWQ.jpg"/>
+    </item>
     <item>
       <title>Framtida for lakseskatten</title>
       <description><![CDATA[Lakseskatten er endra i Stortinget. Blir den betre? Eller får oppdrettarane bestemme skatten sjølv?]]></description>
@@ -472,15 +482,6 @@ Og - staten har gjort utvalgte fiskeredere styrtrike. Innbyr til korrupsjon, men
       <itunes:duration>14:55</itunes:duration>
       <pubDate>Thu, 12 Mar 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/NHp0vuCf3jQTo2ycQ-m08gWP-fN3uEPrGu0aisjAYb9Q.jpg"/>
-    </item>
-    <item>
-      <title>Listhaug eller Stoltenberg?</title>
-      <description><![CDATA[Krig og krise treff bankkontoen. Har Frp-leiaren eller finansministeren den beste økonomiske oppskrifta?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/eaa4f8ff-3f16-4f44-a4f8-ff3f160f4478_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/eaa4f8ff-3f16-4f44-a4f8-ff3f160f4478_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Wed, 11 Mar 2026 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PlCm1RJ7tAJvrDWzMkjAFw1kRjgu-zCv7li9N7lAJq5A.jpg"/>
     </item>
   </channel>
 </rss>

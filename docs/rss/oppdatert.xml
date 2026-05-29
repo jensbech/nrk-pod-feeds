@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 28 May 2026 08:20:30 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 08:19:27 +0000</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Drapet på danske Emilie: Mannen politiet overså</title>
+      <description><![CDATA[Drapet på Emilie Meng (17) stod uløst i 7 år. Så forsvant en ny jente. Nå tilstår gjerningsmannen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/7f556b57-4f75-4805-956b-574f750805b3_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/7f556b57-4f75-4805-956b-574f750805b3_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:36</itunes:duration>
+      <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/90ALKhHDxJcaxHlAlw7qWw5eXjCQTWhjeRKvUGyxR_rA.jpg"/>
+    </item>
     <item>
       <title>Trumps plan: Vil han ta Cuba?</title>
       <description><![CDATA[I flere måneder har Donald Trump kommet med nye trusler mot Cuba. Hva er det den amerikanske presidenten vil?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>13:42</itunes:duration>
       <pubDate>Fri, 20 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/09BVUaLqa-ZLGv4K8KdDmQ6FZodE1ZB4enz9LQ2BnFFA.jpg"/>
-    </item>
-    <item>
-      <title>Michelin-stormen: Voldsanklager og fryktkultur</title>
-      <description><![CDATA[Den danske restauranten er en av verdens beste. Men hva har egentlig skjedd på det lukkede kjøkkenet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/da4f937b-1b6f-4140-8f93-7b1b6f814005_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/da4f937b-1b6f-4140-8f93-7b1b6f814005_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:47</itunes:duration>
-      <pubDate>Thu, 19 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N9QVKHITQeWW6JniRg5ftw4TQhJMF28gsNhoDYpQinfA.jpg"/>
     </item>
   </channel>
 </rss>

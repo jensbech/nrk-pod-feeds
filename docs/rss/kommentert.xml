@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 22 May 2026 08:08:19 +0000</lastBuildDate>
-    <pubDate>Thu, 21 May 2026 15:27:00 +0200</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 08:18:39 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 14:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Frp-topp delte voldsbilde: – Vet godt hva han gjør</title>
+      <description><![CDATA[Hva er mest provoserende? Minoritetsungdom som banker opp en russ på 17. mai, eller en Frp-topp som deler et usladdet bilde av gjerningspersonene?
+
+Og sier unge politikere drøye ting med vilje kun for å komme på TV?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3e9066e2-02e7-4045-9066-e202e7b0454f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/3e9066e2-02e7-4045-9066-e202e7b0454f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:17</itunes:duration>
+      <pubDate>Thu, 28 May 2026 14:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8DToICzjZFkzvXQ2rn6qLwEbeIWAByJrWj3FtXGIoXXQ.jpg"/>
+    </item>
     <item>
       <title>Trumps Nato-tvil: Hvem skal forsvare Norge ved krig?</title>
       <description><![CDATA[USA trekker tilbake soldater fra Europa og Donald Trump sår tvil om Natos verdi. Hvem skal forsvare Norge ved krig? 
@@ -492,17 +503,6 @@ Og Jens Stoltenberg med ny bok. Er det bare hyllest og ingen kritikk å få når
       <itunes:duration>51:53</itunes:duration>
       <pubDate>Wed, 10 Sep 2025 15:25:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vl8DHucYCyrdFrW3H1xDDQobXjy1T47RtAybe3dUDyBQ.jpg"/>
-    </item>
-    <item>
-      <title>Dramatisk valgnatt: Støres skjøre flertall</title>
-      <description><![CDATA[Jonas Gahr Støre blir statsminister i fire nye år. Men hvordan skal Norge styres nå som han må samarbeide med Rødt, SV, MDG og Senterpartiet?
-
-Og Høyre med dårligste valg på 20 år. Hva gikk galt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/88d79595-6ad4-4235-9795-956ad432354d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/88d79595-6ad4-4235-9795-956ad432354d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:28</itunes:duration>
-      <pubDate>Tue, 09 Sep 2025 04:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iRDJlXaY__VRuSOEQBbNpwQzWih-ftCVNgVda9IhsxeQ.jpg"/>
     </item>
   </channel>
 </rss>
