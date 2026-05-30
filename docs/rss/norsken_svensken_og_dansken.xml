@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 23 May 2026 07:48:10 +0000</lastBuildDate>
-    <pubDate>Sat, 23 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 07:54:41 +0000</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Rike barn leker verst</title>
+      <description><![CDATA[Er Sveriges elitekostskole bra for barna? Vinner Mette Fredriksen valget likevel? Og er det ok å ta intravenøs behandling mot fyllesyke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c2f10e39-658d-433e-b10e-39658d733ed4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c2f10e39-658d-433e-b10e-39658d733ed4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Jesus, sex og voldseksport</title>
       <description><![CDATA[Sverige har gjort vold til handelsvare, de (godt) voksnes sexliv vekker avsky hos de unge voksne, og hvilket parti ville Jesus stemt på?]]></description>
@@ -455,15 +464,6 @@ Og hvorfor blir Greta Thunberg utpekt som antikrist? ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9842a9cc-ac42-4cb5-a545-c7a179d4a316_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 26 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
-    </item>
-    <item>
-      <title>Tro, håp og naboskap </title>
-      <description><![CDATA[Naboskap kan være kjernen til både god helse og evige konflikter. Og vil man virkelig være høyrehånden til skolegårdens bølle?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/90e0bc58-7948-4b65-aca8-472bda75e7c9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/90e0bc58-7948-4b65-aca8-472bda75e7c9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 19 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>

@@ -9,10 +9,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 16 May 2026 07:37:18 +0000</lastBuildDate>
-    <pubDate>Fri, 15 May 2026 18:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 07:55:35 +0000</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Platedate med Maria Mena og Julie Strømsvåg</title>
+      <description><![CDATA[Artisten Maria Mena og programlederen Julie Strømsvåg ble venner over Instagram, og nå er de nærmest som familie å regne - og snart bor de også vegg i vegg. Maria feirer i hele år 25-årsjubileum som artist, mens Julie i dag kårer landets beste baker i Bakemesterskapet. Røpealarm: Det blir både tårer, sang og fliring når de to møtes til Platedate hos Studio2.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/71e6d00b-a254-4ae0-a6d0-0ba254aae0d7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/71e6d00b-a254-4ae0-a6d0-0ba254aae0d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Fri, 29 May 2026 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MXdCxEhVCdwJjGfcinDM7A42AI9DFksKjLsQjUWIMkXQ.jpg"/>
+    </item>
+    <item>
+      <title>Platedate: Jarle Bernhoft og Rû</title>
+      <description><![CDATA[Jarle Bernhoft og artisten Rü har gitt ut låt sammen, men liker de hverandres musikksmak?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/f5b335b3-127c-4d19-b335-b3127cad1903_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/f5b335b3-127c-4d19-b335-b3127cad1903_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fm0GzMqC34P0LJYH0Njh6Qq-8nq_ATMzCLQe5oCMu65w.jpg"/>
+    </item>
     <item>
       <title>Valentina Baisotti og Dennis Ravndal fra Krimrommet</title>
       <description><![CDATA[Hva er egentlig flauest?  Å bli Jahn Teigen-bombet på fest, eller jukse i musikkspillet Hitster?]]></description>
@@ -446,25 +464,6 @@ I Platedate letter de på sløret, om flaue øyeblikk ,og musikken som får dem 
       <itunes:duration>58:27</itunes:duration>
       <pubDate>Fri, 14 Mar 2025 18:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/A7m9epwF99zyzRn-zZcEPwQCKjwmwp830seqmtWKBWwA.jpg"/>
-    </item>
-    <item>
-      <title>Lea Myren og Ella Øverbye i Platedate</title>
-      <description><![CDATA[To av Norges nyeste filmstjerner møtes i Platedate. Ella Øverbye spiller i Gullbjørn-vinneren "Drømmer", og 
-Lea Myren spiller i premiereklare "Den Stygge Stesøsteren".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/d131fc3d-f8fc-48f5-b9b9-e4b32b83c59b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/d131fc3d-f8fc-48f5-b9b9-e4b32b83c59b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Fri, 07 Mar 2025 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1GNER_GQ-2Qgv-N87uEyDg1JV1spZUFRXvgU37JXcrmw.jpg"/>
-    </item>
-    <item>
-      <title>Platedate med Vita og Wanda</title>
-      <description><![CDATA[Blitsen på Grotto er historie, hos oss krangler de seg gjennom en time med musikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/56ae2cc5-8956-4ab5-9a14-db62407ad382_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/56ae2cc5-8956-4ab5-9a14-db62407ad382_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Fri, 28 Feb 2025 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
     </item>
   </channel>
 </rss>
