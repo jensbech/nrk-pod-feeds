@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 24 May 2026 07:55:14 +0000</lastBuildDate>
-    <pubDate>Sun, 24 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 08:02:23 +0000</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Bård Tufte Johansen: Gleden ved å hjelpe</title>
+      <description><![CDATA[Hjelpen strømmet til da faren til komikeren døde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/623f3b62-4c96-4b51-bf3b-624c966b518c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/623f3b62-4c96-4b51-bf3b-624c966b518c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:16</itunes:duration>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fLIvyT7Mbs6o_Fui96xdRgokAiqAyRlZDjm3p2Kc1DWw.jpg"/>
+    </item>
     <item>
       <title>Tone Sofie Aglen: Fra diktanalyse til politisk analyse</title>
       <description><![CDATA[Som ung mor leste kommentatoren dikt på fiskefabrikken.]]></description>
@@ -527,17 +536,6 @@ Ukas dikt er "Kvardag" av Olav H. Hauge ]]></description>
       <itunes:duration>16:38</itunes:duration>
       <pubDate>Sat, 16 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2pTEnCI0XtpQJVElFFkH6gymJgGuGapZPOyuiUwsU6-w.jpg"/>
-    </item>
-    <item>
-      <title>Margreth Olin: Eit vakkert og overraskande kjærleiksdikt </title>
-      <description><![CDATA[- Jon Fosse bruker berre seks linjer til å skape ein perfekt scene, seier filmregissør Margreth Olin. Diktet frå Nobelprisvinnaren kan tolkast på fleire vis. Handlar det om to elskande? To venner? Eller om kjærleiken mellom foreldre og barn? For Olin sjølv går tankane til mora som døde i år - og til faren som skal leva vidare med tapet. 
-Ukas dikt er «Kvarandre» av Jon Fosse.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/3186c118-64cf-4a94-a6a5-a2ea19dfa88a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/3186c118-64cf-4a94-a6a5-a2ea19dfa88a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:31</itunes:duration>
-      <pubDate>Sat, 09 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YEhAHkkYNML9oU-_rSRgPA_Mb1qkaOJTksS3YlQxkrgA.jpg"/>
     </item>
   </channel>
 </rss>

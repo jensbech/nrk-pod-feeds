@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 08:18:54 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 08:03:15 +0000</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 14:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Mia Hundvin / Sindre Reinholt / Kristin Jess Rodin</title>
+      <description><![CDATA[TILBAKEMELDING: Er Ellen sin utveksling fremdeles en realityserie? / PROBLEMER: Mann (37) vil ha drømmebryllup / Ikke baksnakking, ikke sladder, men... omsorg! Vi trenger nytt ord! / Kjæresten vil ikke drikke med meg / Fra designerveske til kiwipose / Rotteproblemet / Plutselig ville jeg ha barn allikevel / Er Fotball-VM en sjekkearena, eller ikke? / Hjelp, jeg har blitt en grå mus / Slå opp, være sammen, slå opp, være sammen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/6989814c-b0ea-4f22-8981-4cb0ea5f22fb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6989814c-b0ea-4f22-8981-4cb0ea5f22fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:18:40</itunes:duration>
+      <pubDate>Sat, 30 May 2026 14:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2U03L6_XP47TMSz3H55SUwUwUK4g9pJkKhFp4FX3txjg.jpg"/>
+    </item>
     <item>
       <title>Kopper deles ut - og bok avsløres!</title>
       <description><![CDATA[Hanne og Bettan forteller oss hvilken bok de sliter med i boklubben. Vi deler ut stjernemarkering-kopper... og Live har rare lunger!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:20:07</itunes:duration>
       <pubDate>Sat, 22 Nov 2025 13:17:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hehX2XFToErx0_8HX0c1vgyIOJrw0NK0oEQ9VqBrvTcQ.jpg"/>
-    </item>
-    <item>
-      <title>Vi drar på nachspiel</title>
-      <description><![CDATA[Live har fått to (!) tilbakemeldinger ansikt-til-ansikt - og vi får endelig høre hvordan det var på nachspielet til det bråkete kollektivet!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/92e8b7bc-136f-46d0-a8b7-bc136f16d02e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/92e8b7bc-136f-46d0-a8b7-bc136f16d02e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:58</itunes:duration>
-      <pubDate>Wed, 19 Nov 2025 16:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>
