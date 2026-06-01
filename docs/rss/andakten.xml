@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 08:16:34 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:49:22 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Gjess - Hanne Marie</title>
+      <description><![CDATA[Løfte i flokk, hjelpe hverandre, bytte på de tyngste takene. Du ser dette i praksis når du ser opp og får øye på en gåseplog.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/3c8d6173-6a73-473b-8d61-736a73d73baa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/3c8d6173-6a73-473b-8d61-736a73d73baa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:42</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fDteYP_aCefDZjqmt85QIQ580AuAR61HBUcAypxvuq-w.jpg"/>
+    </item>
     <item>
       <title>Et skrivende liv - Bjørn Bore</title>
       <description><![CDATA[Det kan være litt vondt å trykke slett og fjerne et nummer i telefonlista på telefonen, sjøl om nummeret ikke er aktivt lenger.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/309a11f1-1dde-438b-9a11-f11dde038bed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:16</itunes:duration>
       <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Slwy7oZRXBPoK7D3msi_0wq6na_QbkaLAdnFrgq9-CdQ.jpg"/>
-    </item>
-    <item>
-      <title>Forberedelser - Henrik Syse</title>
-      <description><![CDATA[Før festen trenger man å forberede seg, og man trenger ro og refleksjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/a8efb1f0-01ce-4e09-afb1-f001ce2e09ed_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/a8efb1f0-01ce-4e09-afb1-f001ce2e09ed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:09</itunes:duration>
-      <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Slwy7oZRXBPoK7D3msi_0wq6na_QbkaLAdnFrgq9-CdQ.jpg"/>
     </item>
   </channel>

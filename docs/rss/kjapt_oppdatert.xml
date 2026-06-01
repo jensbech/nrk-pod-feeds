@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 08:18:27 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:50:07 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Kampen-drapet opp i retten</title>
+      <description><![CDATA[Og FN skal holde et hastemøte om Israel sine angrep mot Libanon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/ffac5899-c93d-404c-ac58-99c93d704c7b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/ffac5899-c93d-404c-ac58-99c93d704c7b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:54</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LIuneNZZzIA47u-v2-K0Kg5HoZkY5MrWbnxbcG5g-dvw.jpg"/>
+    </item>
     <item>
       <title>Historisk VM-bragd for Norge</title>
       <description><![CDATA[Og kan Norge bli røykfritt nå?]]></description>
@@ -457,15 +466,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:38</itunes:duration>
       <pubDate>Mon, 16 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xcN68wJ3Ozxy7EhxmNG_dwfuwI64lB8Q5O5N_ncg23sg.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan er Oscar-sjansene våre?</title>
-      <description><![CDATA[Og USA sier Iran legger ut miner i Hormuzstredet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b650772c-a6a6-4b93-9077-2ca6a63b939e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b650772c-a6a6-4b93-9077-2ca6a63b939e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:50</itunes:duration>
-      <pubDate>Fri, 13 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/dUocIiz6sF7QfbOUqVuFNwYZfjep_LoS7GJgwO_bdteA.jpg"/>
     </item>
   </channel>
 </rss>

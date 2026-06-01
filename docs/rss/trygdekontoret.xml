@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 25 May 2026 08:30:52 +0000</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:51:39 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Tema: Temu</title>
+      <description><![CDATA[Billig ræl eller Kinas kyniske handelspolitikk?
+Med professor og Kina-forsker Heidi Østbø Haugen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/0bdad6c2-73af-423f-9ad6-c273afd23fd6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0bdad6c2-73af-423f-9ad6-c273afd23fd6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rpg9vOApgip-1QieTxzf3QqDntDSKUAYR5WJuxq0_Jhg.jpg"/>
+    </item>
     <item>
       <title>KI i krig</title>
       <description><![CDATA[Hva skjer når verdens stormakter overlater krigføringen til kunstig intelligens? Med dokumentarfilmskaper Tonje Hessen Schei.]]></description>
@@ -462,15 +472,6 @@ Denne episoden er felt i Pressens Faglige Utvalg (PFU) for brudd på presseetikk
       <itunes:duration>01:11:33</itunes:duration>
       <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zgYahRVGj0XrUqVMkZY4KQHJp_wnsm8XYzeL9jZdoz3g.jpg"/>
-    </item>
-    <item>
-      <title>Drap i nære relasjoner</title>
-      <description><![CDATA[Hvorfor dreper noen sine nærmeste? Drapsforsker Vibeke Ottesen forklarer de mørke mekanismene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/58b98126-5841-4d4b-92f2-889c291c78f1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/58b98126-5841-4d4b-92f2-889c291c78f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:20</itunes:duration>
-      <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
     </item>
   </channel>
 </rss>

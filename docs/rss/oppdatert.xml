@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 08:19:27 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:50:59 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Bak USAs mektigste: Hvem er Israel-lobbyen AIPAC?</title>
+      <description><![CDATA[Republikaner Thomas Massie gikk ut og advarte om Israel-lobbyens skjulte makt i USA. Det kostet ham dyrt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f6f4999b-77d9-4b48-b499-9b77d97b4875_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f6f4999b-77d9-4b48-b499-9b77d97b4875_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:22</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ve-RuPjnuAzwF_ih_5ieIA6PEkUApClQhF7UYjfJtixQ.jpg"/>
+    </item>
     <item>
       <title>Drapet på danske Emilie: Mannen politiet overså</title>
       <description><![CDATA[Drapet på Emilie Meng (17) stod uløst i 7 år. Så forsvant en ny jente. Nå tilstår gjerningsmannen.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>17:25</itunes:duration>
       <pubDate>Fri, 20 Mar 2026 15:54:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hUPUE_zDHBDVgAjeBjWV9AOcJ42KFoxCs85QLZGO4MwQ.jpg"/>
-    </item>
-    <item>
-      <title>TikTok-legen: Truet iranere fra norsk sykehus</title>
-      <description><![CDATA[En legestudent ved Lærdal sykehus vekker oppsikt. Hva skal han ha gjort?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/20082081-f3ec-42be-8820-81f3ec62be7a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/20082081-f3ec-42be-8820-81f3ec62be7a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:42</itunes:duration>
-      <pubDate>Fri, 20 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/09BVUaLqa-ZLGv4K8KdDmQ6FZodE1ZB4enz9LQ2BnFFA.jpg"/>
     </item>
   </channel>
 </rss>

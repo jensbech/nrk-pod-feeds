@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 25 May 2026 08:30:08 +0000</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:50:47 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Big T på besøk</title>
+      <description><![CDATA[Fotballspilleren Big T ble stor på TikTok over natten og i «Nittiatten» blir han erklært kjendis. Hør om flausen da han ble benka foran mamma.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/f2d9ceb4-8278-4ff8-99ce-b482789ff853_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f2d9ceb4-8278-4ff8-99ce-b482789ff853_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:31</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HnDiDDEY_iJQdNQ6WqL8OQjL7t2PUcB8nQXjQlrPknkw.jpg"/>
+    </item>
     <item>
       <title>Ekstra large i Vietnam</title>
       <description><![CDATA[Gutta har vært på hver sin kaotiske ferie!
@@ -454,15 +463,6 @@ Franky og Mo sjekker ut om hun egentlig har rizz.]]></description>
       <itunes:duration>24:50</itunes:duration>
       <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
-    </item>
-    <item>
-      <title>Iselin Guttormsen på besøk</title>
-      <description><![CDATA[Hvorfor er det bra å være en følsom grisegutt? Hva skjer med fitta når ei jente ligger rundt? Iselin Guttormsen gir seksualundervisning til Franky og Mo.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:37</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/joK7cCT-TEtQS7j9YYowlQvX2VbXh1mITb_3VXVDud9A.jpg"/>
     </item>
   </channel>
 </rss>
