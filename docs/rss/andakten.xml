@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:49:22 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:31:13 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Rollebytte - med Hanne Marie</title>
+      <description><![CDATA[Det er ikke alltid at vi fyller den rollen vi pleier å ha. Av og til er det på tide med et rollebytte]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/7cc8062a-d315-42cd-8806-2ad31582cd6e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/7cc8062a-d315-42cd-8806-2ad31582cd6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fDteYP_aCefDZjqmt85QIQ580AuAR61HBUcAypxvuq-w.jpg"/>
+    </item>
     <item>
       <title>Gjess - Hanne Marie</title>
       <description><![CDATA[Løfte i flokk, hjelpe hverandre, bytte på de tyngste takene. Du ser dette i praksis når du ser opp og får øye på en gåseplog.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/3924089e-fa48-40b2-a408-9efa4820b26c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:29</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Slwy7oZRXBPoK7D3msi_0wq6na_QbkaLAdnFrgq9-CdQ.jpg"/>
-    </item>
-    <item>
-      <title>Å være god - Henrik Syse</title>
-      <description><![CDATA[Hva vil det si å være et godt menneske. Det er mange gode dyder, og mange rettesnorer vi kan holde oss til.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/309a11f1-1dde-438b-9a11-f11dde038bed_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/309a11f1-1dde-438b-9a11-f11dde038bed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Slwy7oZRXBPoK7D3msi_0wq6na_QbkaLAdnFrgq9-CdQ.jpg"/>
     </item>
   </channel>

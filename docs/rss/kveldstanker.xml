@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 27 May 2026 08:18:52 +0000</lastBuildDate>
-    <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:32:41 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Musikk - med Ingrid Helene Kopperstad Raunehaug</title>
+      <description><![CDATA[Sanger er det nærmeste vi kommer en tidsmaskin, forteller Ingrid Helene Kopperstad Raunehaug.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3ab7fe26-9972-4f75-b7fe-2699723f7589_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3ab7fe26-9972-4f75-b7fe-2699723f7589_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:29</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O_gNdgIc-TgRZdaCj_l4zAyG_Y47nZ3e5NpiDt7B_ksg.jpg"/>
+    </item>
     <item>
       <title>Sjølvtillit- med Sunniva Relling Berg</title>
       <description><![CDATA[- Ikkje gjer som læraren din seier, rådar forfattaren Sunniva Relling Berg.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:32</itunes:duration>
       <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
-    </item>
-    <item>
-      <title>Gjørekalender - med Miriam Våga</title>
-      <description><![CDATA[Vår gjørekalender gir oss i familien tid sammen i desember, forteller Miriam Våga. Miriam Våga er musiker og vokalist fra Skreia i Innlandet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/784aa644-a8ad-468d-8aa6-44a8ad868dc7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/784aa644-a8ad-468d-8aa6-44a8ad868dc7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:43</itunes:duration>
-      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
     </item>
   </channel>
 </rss>

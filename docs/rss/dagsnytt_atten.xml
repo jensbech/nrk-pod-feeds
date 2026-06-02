@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 30 May 2026 07:53:23 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:31:51 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>USA kutter Nato-bidrag</title>
+      <description><![CDATA[USA planlegger å redusere militær tilstedeværelse i Europa. – Alvorlig, men ventet, sier utenriksminister Espen Barth Eide.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9dc86ed3-d5c2-4eeb-886e-d3d5c26eeb24_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9dc86ed3-d5c2-4eeb-886e-d3d5c26eeb24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dw1wsWJlA2dmB3dB8pSgkgC-2sS0ZUQr__MSA-gHE7ig.jpg"/>
+    </item>
     <item>
       <title>Storstreik i staten unngått</title>
       <description><![CDATA[Men LO Stat sier de er «enormt skuffet» med resultatet i forhandlingene som ble signert i dag.]]></description>
@@ -456,15 +465,6 @@ Erstatningskrav på 1,95 millioner kroner ble også lagt frem i retten]]></descr
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Fri, 13 Mar 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BqjH6E8g9gkVKP6DKPeIjwxSWhTzkXzt5eK8dRE2l7Fg.jpg"/>
-    </item>
-    <item>
-      <title>Klovner i kamp på timeplanen</title>
-      <description><![CDATA[Regjeringa foreslår hva fagene norsk, musikk, samfunnsfag og samisk skal inneholde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c1f063de-2028-4f30-b063-de20289f30e8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c1f063de-2028-4f30-b063-de20289f30e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Thu, 12 Mar 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bWR3ftI7F7hVxNXNkm_Aggh0qKjDizOrmmtv4h3vou0Q.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Jun 2026 11:59:20 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:33:20 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Søvnparalyse og bjørner</title>
+      <description><![CDATA[Henning deler drømmer, Jonas deler opplevelser med søvnparalyse og Arin vil ha brutal stemme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ef08a0f2-03aa-4746-88a0-f203aa87465b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ef08a0f2-03aa-4746-88a0-f203aa87465b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
+    </item>
     <item>
       <title>Hvor skal føttene vaskes?</title>
       <description><![CDATA[Hvordan er riktig måte å vaske føttene på og har vi noen gang tagget? Det blir også litt rampestreker i dag!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Airbnb på NRK</title>
-      <description><![CDATA[Fuck, marry, kill, Jonas skal på årsmøte og bor det noen på NRK?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4ddfefa1-727e-4bf7-9fef-a1727e1bf7f6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4ddfefa1-727e-4bf7-9fef-a1727e1bf7f6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 10:13:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
     </item>
   </channel>
 </rss>

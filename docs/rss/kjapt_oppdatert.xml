@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:50:07 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:32:27 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Er det lov med jente- og guttekollektiv?</title>
+      <description><![CDATA[Og det er klimakrangel på Stortinget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c5110797-5cd7-4a46-9107-975cd7da46c8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c5110797-5cd7-4a46-9107-975cd7da46c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:32</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q1YhUZrlIIfFI-5vTfj4JwmLORIxg0Ii11TB4JhW4Zcg.jpg"/>
+    </item>
     <item>
       <title>Kampen-drapet opp i retten</title>
       <description><![CDATA[Og FN skal holde et hastemøte om Israel sine angrep mot Libanon.]]></description>
@@ -457,15 +466,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>07:03</itunes:duration>
       <pubDate>Tue, 17 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tnoxZIRc8H8lMl5k_axBoAZgym8YpJKAwlaPXzJ4x4YQ.jpg"/>
-    </item>
-    <item>
-      <title>– Største som noen gang har skjedd norsk film</title>
-      <description><![CDATA[Historisk seier til «Affeksjonsverdi» under Oscar-utdelinga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/818d2f16-be7e-4a82-8d2f-16be7e8a8275_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/818d2f16-be7e-4a82-8d2f-16be7e8a8275_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:38</itunes:duration>
-      <pubDate>Mon, 16 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xcN68wJ3Ozxy7EhxmNG_dwfuwI64lB8Q5O5N_ncg23sg.jpg"/>
     </item>
   </channel>
 </rss>

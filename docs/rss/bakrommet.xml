@@ -8,10 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 08:16:43 +0000</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:31:20 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 01:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Norge banket Sverige - hva nå?</title>
+      <description><![CDATA[Svenskene ble slått gule og blå på Ullevål, men hvor mye sier det om det norske landslaget?
+Hvor langt kan de nå i VM? Bakrommet er stappfullt av eksperter i dag, som har store forhåpninger:
+John Carew, Eirik Horneland, Andrine Hegerberg, Kristoffer Løkberg og Magnus Wolff Eikrem. 
+Og snart går turen til USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/3731da02-3eab-49e5-b1da-023eabd9e5dd_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/3731da02-3eab-49e5-b1da-023eabd9e5dd_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:41</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 01:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>VM-klare Østigård: - Kjeftet på de voksne stjernene</title>
       <description><![CDATA[Landslagets Leo Skiri Østigård forteller åpenhjertig om:
