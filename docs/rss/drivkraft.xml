@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Jun 2026 08:32:02 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:38:07 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 14:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Cecilia Brækhus</title>
+      <description><![CDATA[- Jeg er innadvendt, men måtte være frekk og utadvendt for å selge meg selv, forteller boksestjernen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4ba15131-d23f-4eda-a151-31d23f1edaa7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4ba15131-d23f-4eda-a151-31d23f1edaa7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:35</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 14:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kXQiKkllnO03T_2Jp1iVPw-A6slLvCXW-um8Pm8NpUqg.jpg"/>
+    </item>
     <item>
       <title>Aron Espeland</title>
       <description><![CDATA[– Jeg må ha norsk smør for å prestere, sier VM-kokken til fotball-landslaget, som selv har smuglet brokkoli til Abu Dhabi.]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Mon, 09 Feb 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vtEi8saueHjYNX4WNZJLMwEOReZ-MN4CGKr-dCK_-GPg.jpg"/>
-    </item>
-    <item>
-      <title>Tor-Evert Grøndal</title>
-      <description><![CDATA[– Herregud, tenkte jeg, jeg får jo ikke til dette livet, forteller gårdbrukeren fra «Der ingen skulle tru at nokon kunne bu».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f147b74a-b41b-47f8-87b7-4ab41b47f89c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f147b74a-b41b-47f8-87b7-4ab41b47f89c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Thu, 05 Feb 2026 14:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aQBiVzaMLo-maTXYJOX15QEBm8ygpxeJFHNWJqKIIUOQ.jpg"/>
     </item>
   </channel>
 </rss>

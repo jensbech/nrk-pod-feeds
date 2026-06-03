@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Jun 2026 08:32:27 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:38:39 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>18-åring døde: Politivideo sjokkerer</title>
+      <description><![CDATA[Og rettssaken mot Steinar Wangen starter i dag. 
+
+// Episoden ble oppdatert 07:33, og saken om dødsfallet til 18 år gamle Henry Nowak ble utvidet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/05c69e84-997e-4c3d-869e-84997efc3d87_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/05c69e84-997e-4c3d-869e-84997efc3d87_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:59</itunes:duration>
+      <pubDate>Wed, 03 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/axIov26Uao0lOV106os9uQaAkqIZ_oa8NvnVTg27jplA.jpg"/>
+    </item>
     <item>
       <title>Er det lov med jente- og guttekollektiv?</title>
       <description><![CDATA[Og det er klimakrangel på Stortinget.]]></description>
@@ -457,15 +468,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:18</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/OkOt8AbqmGPJyvLsN-t2Gg-PWGBdrnpMgxIpWv5WLz4Q.jpg"/>
-    </item>
-    <item>
-      <title>Skal besøke åstedet der Jonas ble drept</title>
-      <description><![CDATA[Og Emil Iversen ber om hjelp fra publikum.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/efb6dfc4-63d1-404f-b6df-c463d1a04f5d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/efb6dfc4-63d1-404f-b6df-c463d1a04f5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:03</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tnoxZIRc8H8lMl5k_axBoAZgym8YpJKAwlaPXzJ4x4YQ.jpg"/>
     </item>
   </channel>
 </rss>

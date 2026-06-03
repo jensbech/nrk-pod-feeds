@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 12 May 2026 07:58:02 +0000</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:38:57 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 06:06:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
+    <item>
+      <title>Kan sladder være nyttig?</title>
+      <description><![CDATA["Hun har lagt på seg". "Tror du han er utro?". Vi har slarva siden tidenes morgen, men hvorfor MÅ vi snakke om folk bak ryggen deres? Og kan sladder ha noe positivt ved seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/fb2912a3-32ff-4fe9-a912-a332ff5fe92e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/fb2912a3-32ff-4fe9-a912-a332ff5fe92e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:20</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 06:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mZ_5_i65JdM5Hs526Wme9g0w0dPthR1vFbbgbGd92CKA.jpg"/>
+    </item>
     <item>
       <title>Fra kampduk til merkevare</title>
       <description><![CDATA[Hvorfor har skolene faner, egentlig? Og hva sier det om synet på hva skolen skal være? Hør historien om de norske skolefanene.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>28:04</itunes:duration>
       <pubDate>Tue, 26 Aug 2025 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W3LC1rHLEUr5GdVEYfVdBQgcoBuAt108RybpqS9s2pNA.jpg"/>
-    </item>
-    <item>
-      <title>Hva forteller klær om samfunnet vårt?</title>
-      <description><![CDATA[Strikkaklær og bestemors blonder, kvinner i slips og rådyre turklær er bare noe av det som preger dagens motebilde. Men hvordan blir noe mote? Og hva sier klærne vi har på oss om Norge i 2025?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/1a875536-85b4-489a-8755-3685b4b89ad9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/1a875536-85b4-489a-8755-3685b4b89ad9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:27</itunes:duration>
-      <pubDate>Mon, 25 Aug 2025 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ldR0N0wQxUOC5rOuzkNlbwQCCTwNkl2nz6HBWFEr5DrQ.jpg"/>
     </item>
   </channel>
 </rss>
