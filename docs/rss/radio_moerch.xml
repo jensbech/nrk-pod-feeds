@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:51:13 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:29:03 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Landslagsspiller Morten Thorsby</title>
+      <description><![CDATA[Thorsby slet både med skade i leggen og for lite spilletid. Med hardt arbeid og kreativ taktikk kom han likevel til VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:13</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/faqNyPPauU-YXH69ebq87QlJ8WL6X3C8s6egrNMXTWsA.jpg"/>
+    </item>
     <item>
       <title>Utenrikskommentator Ayesha Wolasmal og USA-entusiast Ketil Solvik Olsen</title>
       <description><![CDATA[Hvordan står det til i USA om dagen, sånn egentlig? En utenrikskommentator og en Trump-nyanserer diskuterer krigen i Iran, amerikansk sosialdemokrati og Madman-teorien.]]></description>

@@ -11,10 +11,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:28:23 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:27:37 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Donalds innerste tanker</title>
+      <description><![CDATA[52 rasende meldinger på seks timer. Ekspertene mener nattutbruddene gir et historisk unikt og ufiltrert innblikk i Donald Trumps hode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cfa725e4-7ba0-4c9b-a725-e47ba0fc9b95_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/cfa725e4-7ba0-4c9b-a725-e47ba0fc9b95_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:25</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8CYgHHsBEZTz-mCvv6-8jAmb7yB8no22sUUN-3Kr96-g.jpg"/>
+    </item>
+    <item>
+      <title>Norge 2026: Hvem har mest makt?</title>
+      <description><![CDATA[Tech-giganter, KI og skjult makt: Er det på tide med en ny maktutredning for å finne ut hvem som egentlig trekker i trådene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7bf964f-144e-4e17-bf96-4f144eae172a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7bf964f-144e-4e17-bf96-4f144eae172a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:58</itunes:duration>
+      <pubDate>Wed, 03 Jun 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z2xdMV2epB6suEPKE-Z45g9GnkcE5jv3GJY6yVOM7cbw.jpg"/>
+    </item>
     <item>
       <title>Når er det greitt å bruke KI?</title>
       <description><![CDATA[Vi bruker KI til alt frå lekser og arbeidsoppgåver til kunst og musikk. Men kvar går grensa for kva som er innafor?]]></description>
@@ -446,24 +464,6 @@
       <itunes:duration>38:55</itunes:duration>
       <pubDate>Thu, 12 Mar 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/DfSLKddWRHCp_2YMgHZiPA-UrpMdksNpUid--q_ncXJQ.jpg"/>
-    </item>
-    <item>
-      <title>Ungarn til valgurnene</title>
-      <description><![CDATA[Valget om en måned kan endre både Ungarns demokrati, maktbalansen i EU og sammensetningen av Putins allierte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1cb5b9a4-d9af-47f3-b5b9-a4d9af17f3b1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1cb5b9a4-d9af-47f3-b5b9-a4d9af17f3b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:52</itunes:duration>
-      <pubDate>Wed, 11 Mar 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UpaF3aIXuwDdl4k52PTUIAe6A2-gyXQdMem7t-sz7KyQ.jpg"/>
-    </item>
-    <item>
-      <title>Glimt-magi og lagarbeid</title>
-      <description><![CDATA[Fotballaget Bodø/Glimt kan lære oss korleis vi også på arbeidsplassen kan skape lagånd og ein kultur der det er lov å feile.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b65e3158-eabe-4e55-9e31-58eabeae55af_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b65e3158-eabe-4e55-9e31-58eabeae55af_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:09</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 12:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LOuRyp_sy-8GTRNHZ2WInws37A-QyhmekXmFj0wWDtpQ.jpg"/>
     </item>
   </channel>
 </rss>

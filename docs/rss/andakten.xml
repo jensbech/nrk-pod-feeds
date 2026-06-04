@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 03 Jun 2026 08:37:32 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:27:01 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Reiseprest - Hanne Marie</title>
+      <description><![CDATA[Hanne Marie Pedersen-Eriksen kom hjem for en stund siden. Hun hadde vikariert for en kollega, og vært en slags reiseprest]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/e9c10f93-b374-4eb7-810f-93b3747eb78d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/e9c10f93-b374-4eb7-810f-93b3747eb78d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fDteYP_aCefDZjqmt85QIQ580AuAR61HBUcAypxvuq-w.jpg"/>
+    </item>
     <item>
       <title>Entusiasme - Hanne Marie</title>
       <description><![CDATA[Man kan være veldig entusiastisk overfor noe, sjøl om man ikke hopper opp og ned, og veiver med hendene.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/9616cf61-6ba1-4158-96cf-616ba13158fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:57</itunes:duration>
       <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
-    </item>
-    <item>
-      <title>Dagen - Kristina Myhren</title>
-      <description><![CDATA[I et uttrykk heter det at "ingen kjenner dagen før solen går ned", men forventninger til dagen har vi vel stort sett alle sammen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/a297b328-f84f-4307-97b3-28f84ff307f6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/a297b328-f84f-4307-97b3-28f84ff307f6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:33</itunes:duration>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
     </item>
   </channel>

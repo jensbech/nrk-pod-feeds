@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 03 Jun 2026 08:39:56 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:28:41 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
     <item>
-      <title>Russe-vold gikk viralt: Et politisk spill?</title>
+      <title>Europas atomvåpenskjold: Genialt eller galskap?</title>
+      <description><![CDATA[Franske atomvåpen står i spissen for Europas nye militære opprustning. Nå kaster også Norge seg med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/959eb233-c5a0-4ea3-9eb2-33c5a07ea345_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/959eb233-c5a0-4ea3-9eb2-33c5a07ea345_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:21</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U6rcRx1KeSHGiHwlVRqYug-Oln0bcgJHmt67cKjgvG7A.jpg"/>
+    </item>
+    <item>
+      <title>17. mai-vold gikk viralt: Et politisk spill?</title>
       <description><![CDATA[De siste ukene har det stormet i media etter en voldshendelse i Bergen på 17. mai.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d73526c4-265e-4681-b526-c4265e0681bb_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/d73526c4-265e-4681-b526-c4265e0681bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -58,7 +67,7 @@
       <itunes:image href="https://gfx.nrk.no/8iKf4O3DGOo7OVWcMTj6cwVAVVwlbcBYLvmhEH3PToqw.jpg"/>
     </item>
     <item>
-      <title>Dop, Dubai og drap: Jakten på narkokartellet</title>
+      <title>Kokain og kartellkrig: Slutten for irsk gjengleder?</title>
       <description><![CDATA[I flere år fulgte politiet tett med på den irske mannen de mener leder et av Europas største narkokarteller.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/04b94a19-1e70-4d1d-b94a-191e707d1dc4_2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/04b94a19-1e70-4d1d-b94a-191e707d1dc4_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -452,15 +461,6 @@
       <itunes:duration>20:40</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/j-lZw7wourvlpKqV1POAdQUEg4wgu9vOWJ-2vV0Ub5dA.jpg"/>
-    </item>
-    <item>
-      <title>Kerstin (33) døde i Alpene: Har kjæresten skylden?</title>
-      <description><![CDATA[En kvinne ble forlatt hengende i et tau i fjellveggen. Nå har saken vært oppe i retten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b2039413-2698-422e-8394-132698522e25_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b2039413-2698-422e-8394-132698522e25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:01</itunes:duration>
-      <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uetXm4eJX0rVXG16omQXIwbPKJSb9akGdlr3NT6QKw4A.jpg"/>
     </item>
   </channel>
 </rss>
