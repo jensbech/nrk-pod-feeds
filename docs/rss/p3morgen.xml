@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:28:51 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:06:08 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Dyr biff = rennaræv</title>
+      <description><![CDATA[Henning trenger tips til å være nonchalant på restaurant, Arin er synes Vodka Redbull er harry og Jonas spyr av Fireball]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b39c5265-ff56-463d-9c52-65ff56a63d6b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b39c5265-ff56-463d-9c52-65ff56a63d6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:25</itunes:duration>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Vi tar homo-test!</title>
       <description><![CDATA[Jonas har aldri gått i pride-tog, Henning har blitt bilsyk og Arin er visst ikke «ghetto».]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>01:07:19</itunes:duration>
       <pubDate>Sat, 28 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xQHDzGnzYwwbkjB5KUV1jQoEYrDl1nb9S1Ha30zItnvA.jpg"/>
-    </item>
-    <item>
-      <title>Het diskusjon om hull</title>
-      <description><![CDATA[Stor samling av P3morgens extended cinematic universe, produsent Johannes, reseacher Jon Marius, og vaktsjef Heidi Mo er her.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/37acfbc9-3d8a-48f1-acfb-c93d8a48f146_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/37acfbc9-3d8a-48f1-acfb-c93d8a48f146_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 10:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
     </item>
   </channel>
 </rss>
