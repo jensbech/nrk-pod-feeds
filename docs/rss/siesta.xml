@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:29:18 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:22:39 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Hør: Siestas 24-timers fiesta!</title>
+      <description><![CDATA[Klokka 9 fredag morra begynner vi vår maratonsending! Send inn meldinger i appen NRK Radio og hjelp oss fylle 24 timer<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/160e12a2-86ef-4439-8e12-a286ef8439dc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/160e12a2-86ef-4439-8e12-a286ef8439dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:22</itunes:duration>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Daniel klikker på oss</title>
+      <description><![CDATA[Anna har en back-up idé i spalte-spalten, Finn Glede beærer oss med sitt nærvær og Daniel blir avbrutt én gang for mye.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5c0f8ad0-abb0-4547-8f8a-d0abb0f54785_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5c0f8ad0-abb0-4547-8f8a-d0abb0f54785_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:19</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>– Jeg hadde snørr i barten!</title>
       <description><![CDATA[Hvem er den beste Harald Rønneberg-imitatoren, hvilken VM-låt skal Daniel anmelde og kommer Anna seg til Hitler?]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/3c65031e-5973-4c76-a503-1e5973cc76fd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:04</itunes:duration>
       <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna er en T-rex</title>
-      <description><![CDATA[Anna søler kaffe overalt, Markus har bæsja før han dusjer og vi smalltalker slankesprøyter]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/0673561e-d12f-4e05-b356-1ed12f1e0507_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/0673561e-d12f-4e05-b356-1ed12f1e0507_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:23</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna hudfletter oss</title>
-      <description><![CDATA[Anna blir fette kokforbanna på MYE, Daniel fortsetter sitt duemann-kjør og hvem oversetter «somebody to love» best?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3c9242bd-04a2-4ca7-9242-bd04a23ca7b3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/3c9242bd-04a2-4ca7-9242-bd04a23ca7b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:00</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

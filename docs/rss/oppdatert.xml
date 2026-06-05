@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:28:41 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:22:12 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Friends-stjernens død: Nå er fem personer dømt</title>
+      <description><![CDATA[Hva skjedde da Matthew Perry døde av overdose, og hvem er ansvarlig for det som skjedde?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f55b9b77-8c42-4465-9b9b-778c42b465bd_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f55b9b77-8c42-4465-9b9b-778c42b465bd_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <pubDate>Fri, 05 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wCxX4eZC6BltLji6CYtZLwdCF79kVVle66Q6xRYAizzg.jpg"/>
+    </item>
     <item>
       <title>Europas atomvåpenskjold: Genialt eller galskap?</title>
       <description><![CDATA[Franske atomvåpen står i spissen for Europas nye militære opprustning. Nå kaster også Norge seg med.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>19:48</itunes:duration>
       <pubDate>Fri, 27 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/4BYp0xgKR1CrHX9Owuai1QGMe4zEaXWZgW0mDegoVaew.jpg"/>
-    </item>
-    <item>
-      <title>Hizbollah: Dette er Israels berykta fiende</title>
-      <description><![CDATA[Verdens mektigste milits har meldt seg på krigen i Midtøsten. Det har fått konsekvenser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/32e89a31-475c-4ef8-a89a-31475ceef8ef_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/32e89a31-475c-4ef8-a89a-31475ceef8ef_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:40</itunes:duration>
-      <pubDate>Thu, 26 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/j-lZw7wourvlpKqV1POAdQUEg4wgu9vOWJ-2vV0Ub5dA.jpg"/>
     </item>
   </channel>
 </rss>
