@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:05:55 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jun 2026 11:28:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:34:59 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Fotballens mektigste: Derfor stormer det rundt ham</title>
+      <description><![CDATA[Gianni Infantino skulle rydde opp i internasjonal fotball. Men har han egentlig gjort det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/92a8673e-0a74-4526-a867-3e0a749526ca_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/92a8673e-0a74-4526-a867-3e0a749526ca_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:02</itunes:duration>
+      <pubDate>Mon, 08 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vcsq_ERLOQTml4GMul71kQgmOJuiyLhouWIOq43fPJyQ.jpg"/>
+    </item>
     <item>
       <title>Kronprinsessa si helse: No ventar ho på nye lunger</title>
       <description><![CDATA[Kronprinsesse Mette-Marit er satt på venteliste for lungetransplantasjon. Kva betyr det?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>21:36</itunes:duration>
       <pubDate>Tue, 31 Mar 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/T93TqtIr_Lk-BmKyB1fXywujUODuEDNrxxBWIv0cLyIw.jpg"/>
-    </item>
-    <item>
-      <title>Skulle knivstikke 14-åring: Trodde Foxtrot sto bak</title>
-      <description><![CDATA[Først da politiet åpnet etterforskning forsto guttene hvem som hadde bedt dem angripe tenåringen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/99a9b4a2-8ce2-4e97-a9b4-a28ce29e97c2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/99a9b4a2-8ce2-4e97-a9b4-a28ce29e97c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:18</itunes:duration>
-      <pubDate>Mon, 30 Mar 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8zSG_AfnTwlVN6bhsusJYg4wmP4olJX_hA-Uz3TgdW1A.jpg"/>
     </item>
   </channel>
 </rss>

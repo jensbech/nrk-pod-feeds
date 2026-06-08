@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Jun 2026 08:21:24 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:34:14 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Nå skal månedskortet bli billigere</title>
+      <description><![CDATA[Og flere land har sendt ut tsunamivarsel etter et kraftig jordskjelv på Filippinene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d6ee9c8a-3a3b-4018-ae9c-8a3a3b601811_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d6ee9c8a-3a3b-4018-ae9c-8a3a3b601811_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:40</itunes:duration>
+      <pubDate>Mon, 08 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kzvfh4NHFG8XY4w77-gn-A_-f3-Xr21biFZeMg8ZD5xA.jpg"/>
+    </item>
     <item>
       <title>Suicidale barn blir isolert i fengsel</title>
       <description><![CDATA[Og fotballkvinnene spiller viktig kamp i kveld]]></description>
@@ -459,15 +468,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>06:49</itunes:duration>
       <pubDate>Mon, 23 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BRu-PVB1iY4HsbuycvrLRQwFtC6B8a3HPIk1SxHUQr-w.jpg"/>
-    </item>
-    <item>
-      <title>Mette-Marit snakker ut om Epstein</title>
-      <description><![CDATA[Og når kommer dommen til Høiby?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e1b64419-c192-460d-b644-19c192660d25_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e1b64419-c192-460d-b644-19c192660d25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:54</itunes:duration>
-      <pubDate>Fri, 20 Mar 2026 07:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HnJ2q8u0u5RrxZSPDt3nPA2pUGFLGT7mvtxoI5PZxAgQ.jpg"/>
     </item>
   </channel>
 </rss>
