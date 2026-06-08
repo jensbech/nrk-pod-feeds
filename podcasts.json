@@ -1077,7 +1077,7 @@
         "id": "seriesnakk",
         "title": "Seriesnakk",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "sex_over_60",
