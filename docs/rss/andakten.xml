@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:33:14 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:11:41 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Dåpen - Helga Samset</title>
+      <description><![CDATA[Om du ikke har sett Disney-filmen Løvene konge, har du garantert hørt om den. Helga Samset har et veldig nært forhold til den.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/9620c216-26c9-4a96-a0c2-1626c92a96f3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/9620c216-26c9-4a96-a0c2-1626c92a96f3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:49</itunes:duration>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
+    </item>
     <item>
       <title>Skrive i sand - Helga Samset</title>
       <description><![CDATA[Noen vil ha orden og tellekanter. Andre er mer pragmatiske. Men hva skal man kan skrive i sand og hva skal man hugger i stein?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/6644f73b-e5f6-49f9-84f7-3be5f6f9f923_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:38</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
-    </item>
-    <item>
-      <title>Livssorg - Kristina Myhren</title>
-      <description><![CDATA[Livssorg er et forholdsvis nytt begrep. Men hva betyr det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/8f904efb-7b77-47e0-904e-fb7b7717e0a7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/8f904efb-7b77-47e0-904e-fb7b7717e0a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:34</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
     </item>
   </channel>

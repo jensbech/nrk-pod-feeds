@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 07 Jun 2026 08:12:42 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:14:31 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Jan Christian Vestre: Karriere og kjærlighet</title>
+      <description><![CDATA[Helse- og omsorgsminister Jan Christian Vestre om møtet med forloveden og hvordan han balanserer kjærligheten med en krevende jobb.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/759bcd41-2aa0-4b3e-9bcd-412aa05b3e66_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/759bcd41-2aa0-4b3e-9bcd-412aa05b3e66_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:10</itunes:duration>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e_PKcswlq7IpXNEtZi3e7QgTkuz106qUzed4SETzGqHw.jpg"/>
+    </item>
     <item>
       <title>Panelet: Lovebombing og telefonsporing</title>
       <description><![CDATA[Kai Thomas har vært på date, og Selma lurer på om hun selvsaboterer. Hvor går egentlig grensen mellom en hyggelig gest og lovebombing?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>40:56</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 05:58:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JIg181kBGsso81OqscUrsQ8wnJeM1GuVFfnouvzb4whw.jpg"/>
-    </item>
-    <item>
-      <title>Rasmus Wold: Fra desperat singel til full pakke</title>
-      <description><![CDATA[Da han ble singel i 30-årene, fryktet Rasmus Wold det verste. Takket være en svindler er han i dag både lykkelig pappa og forlovet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f45373b1-edb6-4046-9373-b1edb6c0468d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f45373b1-edb6-4046-9373-b1edb6c0468d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:08</itunes:duration>
-      <pubDate>Fri, 13 Feb 2026 05:57:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Wdide9TKjEtpOxh0hFNwngAjlIh48lso7CSPNY0cTKXg.jpg"/>
     </item>
   </channel>
 </rss>
