@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:11:41 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:20:47 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Mot stranda - Helga Samset</title>
+      <description><![CDATA[Helga Samset tar for seg en av historiene fra Bibelen i dag, en historie som blant annet handler om ekte gjensynsglede.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/e091b8e1-99da-4d9f-91b8-e199da8d9f5b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/e091b8e1-99da-4d9f-91b8-e199da8d9f5b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:20</itunes:duration>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
+    </item>
     <item>
       <title>Dåpen - Helga Samset</title>
       <description><![CDATA[Om du ikke har sett Disney-filmen Løvene konge, har du garantert hørt om den. Helga Samset har et veldig nært forhold til den.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:19</itunes:duration>
       <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/L0qfXD3Z1ezTFSaCUEkTvwsOz6IF33H9tk4Svw8XoV1A.jpg"/>
-    </item>
-    <item>
-      <title>Meditasjon - Kristina Myhren</title>
-      <description><![CDATA[Mange søker stillhet, ensomhet eller andre stille steder når de skal meditere. Men hva med å prøve kunstmeditasjon?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/6644f73b-e5f6-49f9-84f7-3be5f6f9f923_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/6644f73b-e5f6-49f9-84f7-3be5f6f9f923_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:38</itunes:duration>
-      <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
     </item>
   </channel>
 </rss>

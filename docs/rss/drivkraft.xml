@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:12:28 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jun 2026 14:45:00 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:21:21 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Stig Henrik Hoff</title>
+      <description><![CDATA[– Den barske skuespilleren ville likt å leve i vikingtiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/566684f0-a7ff-4550-a684-f0a7ff8550ea_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/566684f0-a7ff-4550-a684-f0a7ff8550ea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Tue, 09 Jun 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fezhyJWmSma1yEylhbHl1QCvaw40vSgEQfyoKvXFLrLw.jpg"/>
+    </item>
     <item>
       <title>Kristine Grændsen</title>
       <description><![CDATA[– Tenk om jeg ødelegger  Nytt på nytt, sier komikeren, som til høsten er ny lagleder i humorprogrammet.]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 13:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/me9psvvEjY8C5FjPOSEoSgQ0yNEFS7i1Ww0b6jnq_dFQ.jpg"/>
-    </item>
-    <item>
-      <title>Arve Tellefsen</title>
-      <description><![CDATA[- Jeg har sluttet å spille i begravelser, det blir for nært, sier den snart 90 år gamle fiolinisten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3b9bf754-21fa-4baa-9bf7-5421fa6baa7d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3b9bf754-21fa-4baa-9bf7-5421fa6baa7d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:38</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_9Uifx_bHKEHTWeqSSwUwju2xrWHjcYbkFlDBPrmzjw.jpg"/>
     </item>
   </channel>
 </rss>
