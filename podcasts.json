@@ -483,7 +483,7 @@
         "id": "juorre",
         "title": "Juorre",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kaffipraati",
