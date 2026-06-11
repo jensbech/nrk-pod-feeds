@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:20:47 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:31:59 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Grå hår - Helga Samset</title>
+      <description><![CDATA[Mange har problemer med det å bli eldre. Skjønnhetspresset starter tidlig, og for noen varer det kanskje hele livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/43a34f12-55ed-4cd0-a34f-1255edacd032_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/43a34f12-55ed-4cd0-a34f-1255edacd032_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:21</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
+    </item>
     <item>
       <title>Mot stranda - Helga Samset</title>
       <description><![CDATA[Helga Samset tar for seg en av historiene fra Bibelen i dag, en historie som blant annet handler om ekte gjensynsglede.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/73a16260-b4b0-4045-a162-60b4b0404510_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:15</itunes:duration>
       <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L0qfXD3Z1ezTFSaCUEkTvwsOz6IF33H9tk4Svw8XoV1A.jpg"/>
-    </item>
-    <item>
-      <title>Som det er - Tor M. Nesvik</title>
-      <description><![CDATA[Det er mange måter man kan motivere en gjeng fotballspillere på - og andre for den del.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5f2d7e86-1d54-4f08-ad7e-861d54bf085a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/5f2d7e86-1d54-4f08-ad7e-861d54bf085a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:19</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/L0qfXD3Z1ezTFSaCUEkTvwsOz6IF33H9tk4Svw8XoV1A.jpg"/>
     </item>
   </channel>

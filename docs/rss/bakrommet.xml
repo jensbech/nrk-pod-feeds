@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:20:57 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 00:01:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:32:10 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 04:08:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Publikumsfest og sinte foreldre</title>
+      <description><![CDATA[Har vi mistet hodet fullstendig etter forrige episode? Vi tar debatten: Hadde de sinte foreldrene på den åpne treningen faktisk et poeng? I tillegg byr vi på en mildt sagt overraskende værmelding, før vi teller ned timene til torsdagens absolutte høydepunkt: VMs aller første kamp!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/cbfcd9cd-02a1-42e4-bcd9-cd02a112e41c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/cbfcd9cd-02a1-42e4-bcd9-cd02a112e41c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:10</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 04:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Vi spår hele VM</title>
       <description><![CDATA[Hvem vinner til slutt og hvor langt kommer Norge? Vi forsøker oss på VM-fasiten dagen før det braker løs.]]></description>
@@ -486,16 +495,6 @@ Antonio Nusa om krigerkampen, klubb-VM er en «kokos-cup» og Åge fortsetter me
       <itunes:duration>01:33:52</itunes:duration>
       <pubDate>Fri, 28 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WWAwIrjVhjvj5lKyrgSovw-dtZst9fqXI3r81Py7Wkdg.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Etter Israel</title>
-      <description><![CDATA[Krangel om Ødegaard-børs, hvem bør starte mot Italia, og hva er VM-sjansene nå?
-Patrick Berg og Martin Ødegaard stikker også innom.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/1b1eeb3f-0a0a-4e86-a76e-203a0d5f5a18_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/1b1eeb3f-0a0a-4e86-a76e-203a0d5f5a18_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:20</itunes:duration>
-      <pubDate>Wed, 26 Mar 2025 01:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/feS7PLKNqOSaJUE49qcT-wVYlANY-GEj0HhjKDK2z67g.jpg"/>
     </item>
   </channel>
 </rss>

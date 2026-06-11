@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:21:55 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:33:16 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Trekker seg fra Spleis etter pride-innsamling</title>
+      <description><![CDATA[Og det ser mørkt ut for Norge i fotball-VM, ifølge forskere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a07c491f-721c-4c89-bc49-1f721c6c8900_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a07c491f-721c-4c89-bc49-1f721c6c8900_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:11</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/axavsOz_KzItd4Jq5Vn3GguvcfjdFDg7gIekcSwAFSww.jpg"/>
+    </item>
     <item>
       <title>Kvinner må vente flere uker på abort</title>
       <description><![CDATA[Og Russland ruster opp ved grensa mot Norge.]]></description>
@@ -459,15 +468,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>05:28</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 05:59:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/1VtMlGnQwKnckJ1Tzjot8AxiMshtnAAYv5dx-QQzNSuQ.jpg"/>
-    </item>
-    <item>
-      <title>Dårligste valgresultat på over 100 år</title>
-      <description><![CDATA[Og juryen i en rettssak mot Meta og Google klarer ikke bestemme seg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/389caded-a63a-4038-9cad-eda63ac03813_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/389caded-a63a-4038-9cad-eda63ac03813_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:36</itunes:duration>
-      <pubDate>Wed, 25 Mar 2026 05:59:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Mi7FXGUMdi_RABa_USWzuwahzKoJGS3Z8bke8COIAI1g.jpg"/>
     </item>
   </channel>
 </rss>

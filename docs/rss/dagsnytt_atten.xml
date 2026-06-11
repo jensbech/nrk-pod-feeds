@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:21:10 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:32:25 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Russland ruster opp langs grensen</title>
+      <description><![CDATA[Ved den russiske basen nærmest Norge bygges det for opp til 17 000 soldater]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/070d44c0-e458-4b7c-8d44-c0e4581b7c92_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/070d44c0-e458-4b7c-8d44-c0e4581b7c92_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 10 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9oon5B0q7BzU0xer9v0paAAw1TDQCR7UKDPdO_JZZq1w.jpg"/>
+    </item>
     <item>
       <title>Oppgjør om havvind</title>
       <description><![CDATA[Frp sikrer stortingsflertall for ny gjennomgang av regjeringens havvindsatsing.]]></description>
@@ -454,16 +463,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 24 Mar 2026 19:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HiGbOhkO2iXSWTKiEp-9Pw2iXdMaFiBAw8JzHqcZ0b4w.jpg"/>
-    </item>
-    <item>
-      <title>Fem dagers våpenhvile</title>
-      <description><![CDATA[Trump stanser angrep mor Iran i fem dager etter det han kaller konstruktive samtaler.
-Iran avviser at det har vært kontakt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bfb227ce-cf49-4982-b227-cecf49098284_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bfb227ce-cf49-4982-b227-cecf49098284_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Mon, 23 Mar 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3oKEmz_qHNih8_AabMP-MQYW73XTRweHvMQLbmHOACwQ.jpg"/>
     </item>
   </channel>
 </rss>

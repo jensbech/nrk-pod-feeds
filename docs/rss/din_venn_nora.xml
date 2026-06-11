@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:27:27 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:32:37 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Taste my rømmegrøt</title>
+      <description><![CDATA[En klein heistur, en oppdatering på UGs Italia og en uunngåelig prat om pride.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4b460aa4-a181-448f-860a-a4a181b48f60_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4b460aa4-a181-448f-860a-a4a181b48f60_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:09</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Attenzione, pickpocket!</title>
       <description><![CDATA[Årets reiseår er endelig i gang, og en støvel på kartet står for tur. Men først må man gjennom et personlig helvete: flyplassen.]]></description>
@@ -456,15 +465,6 @@ Blokkfløytetraumer fra barndommen, dårlige samtalestartere og noe vi måtte kl
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/66aa0ba2-49a6-4e85-a299-8ce6ded7e8f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:14</itunes:duration>
       <pubDate>Sun, 17 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
-    </item>
-    <item>
-      <title>Skitten tiss og stygg truse</title>
-      <description><![CDATA[Nora deler sine beste liggetriks, tar deg gjennom sine personlige helveter, og tar et oppgjør med en drøy TikTok-trend.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/33b3b4cb-4bc5-45cd-a537-b4f7186ac573_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/33b3b4cb-4bc5-45cd-a537-b4f7186ac573_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:51</itunes:duration>
-      <pubDate>Wed, 13 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
     </item>
   </channel>
