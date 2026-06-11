@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:21:21 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jun 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 11:30:13 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 12:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
     <item>
+      <title>Rune Bratseth</title>
+      <description><![CDATA[- Treningen med søppelsekker var ikke så idiotisk som man skulle tro, mener landslagskapteinen fra VM i fotball i 1994]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4098aa9f-371c-4a95-98aa-9f371c8a9562_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4098aa9f-371c-4a95-98aa-9f371c8a9562_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:24</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 12:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ftDrUzRI6UdEMnCjZG0YlgSOOcahsPihf-dYypBxs4fQ.jpg"/>
+    </item>
+    <item>
       <title>Stig Henrik Hoff</title>
-      <description><![CDATA[– Den barske skuespilleren ville likt å leve i vikingtiden.]]></description>
+      <description><![CDATA[Den barske skuespilleren ville likt å leve i vikingtiden.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/566684f0-a7ff-4550-a684-f0a7ff8550ea_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/566684f0-a7ff-4550-a684-f0a7ff8550ea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:19</itunes:duration>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:20</itunes:duration>
       <pubDate>Tue, 17 Feb 2026 13:41:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/UWnR189NLs7sXMIbT1ASXALBMRu6-1mTNMDZEv7SGatA.jpg"/>
-    </item>
-    <item>
-      <title>Janne Formoe</title>
-      <description><![CDATA[– Jeg tok ansvar for alle andres følelser, forteller skuespilleren om vanskelige ungdomsår.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e729112a-1047-4112-a911-2a10475112d0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e729112a-1047-4112-a911-2a10475112d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Mon, 16 Feb 2026 13:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/me9psvvEjY8C5FjPOSEoSgQ0yNEFS7i1Ww0b6jnq_dFQ.jpg"/>
     </item>
   </channel>
 </rss>
