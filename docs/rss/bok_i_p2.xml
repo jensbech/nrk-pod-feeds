@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:02:22 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:30:00 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Lars Saabye Christensen: Fruktsalat og frigjøring</title>
+      <description><![CDATA[En sønn flytter ut, en ektemann klamrer seg til rutinene, og en husmor kjøper lodd i pengelotteriet i all hemmelighet.
+Saabye Christensen skriver om et stille opprør fra en 70-talls husmors lavmælte frigjøringsprosjekt.
+Nyeste bok: «Kjøkken»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/15ff1418-3c28-4c0a-bf14-183c28fc0a28_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/15ff1418-3c28-4c0a-bf14-183c28fc0a28_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ydeHwopAixPdz_xVw7mQ3wpYuXK95oRTtjS0rWOuCuHg.jpg"/>
+    </item>
     <item>
       <title>Litteraturfestivalen 2026</title>
       <description><![CDATA[Hva gjør sagn med litteraturen? Spesialepisode fra Litteraturfestivalen med Therese Tungen, Lars Mytting og Hallgrimur Helgason.]]></description>
@@ -481,15 +492,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/nVh0nSTBapZ2O7J92HrWmAEi5bGVzDuBFYC-Jf1Tyo_A.jpg"/>
-    </item>
-    <item>
-      <title>- Viktig å ta tilbake sin egen historie!  Don Martin og Sigbjørn Skåden</title>
-      <description><![CDATA[Don Martin har vært med å skrive boka "Kan du høre byen puste ut" om Romsås og Groruddalen. Sigbjørn Skåden gir ut romanen "Planterhaug" om samiske røtter i hjembygda. Hvorfor viktig at det skrives flere historier om et sted? Og ikke bare av de som ser det utenfra?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a720f186-625b-435f-a850-82189a3c568e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a720f186-625b-435f-a850-82189a3c568e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:31</itunes:duration>
-      <pubDate>Fri, 31 Jan 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y5ykam6HzOrZZ0p0xLg-zAwcLiuLp5BqbTF9kxVyZxqw.jpg"/>
     </item>
   </channel>
 </rss>

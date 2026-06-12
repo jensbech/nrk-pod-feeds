@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Jun 2026 08:22:49 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jun 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:33:23 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    <item>
+      <title>Stisykling og sommertrening</title>
+      <description><![CDATA[Sindre vil sykle sti som foreberedelse til Birken. Hva sier Anders? Og lytter vil ha Silje tips om digg sommerliv og trening.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/a6c466cf-ed3c-4d65-8466-cfed3cfd651e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/a6c466cf-ed3c-4d65-8466-cfed3cfd651e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:34</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JIhGNGpD44wIyzfzq1tz2wbTferiHZIU-rGNCkXlv0nA.jpg"/>
+    </item>
     <item>
       <title>Terrengløping med Sindre Buraas</title>
       <description><![CDATA[Lytterne ønsket seg en episode om å løpe  i skog og fjell og derfor inviterte vi en av de beste på området. Vi får også høre Anders i Hyrox-vm og Sindres første sykkeltur med lyttere.]]></description>
@@ -473,15 +482,6 @@ Jann Post oppdaterer fra Japan, mens Anders, Silje og Emil oppdaterer om oppladn
       <itunes:duration>21:12</itunes:duration>
       <pubDate>Mon, 15 Sep 2025 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
-    </item>
-    <item>
-      <title>Pulsklokketips og testløp</title>
-      <description><![CDATA[Hva slags innstillinger bør du ha på pulsklokka? Andreas Grøgaard gir gode tips og oppgave før gjengen løper Nydalsløpet. Ellers deler Anders fra tv-innspilling, og Emil fra halvmaraton og alliansloppet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/e2e59523-8017-4f68-a595-2380170f68fd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/e2e59523-8017-4f68-a595-2380170f68fd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:52</itunes:duration>
-      <pubDate>Fri, 12 Sep 2025 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
     </item>
   </channel>
 </rss>

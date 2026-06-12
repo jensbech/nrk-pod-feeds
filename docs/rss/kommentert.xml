@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 05 Jun 2026 08:21:36 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 14:16:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:31:45 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 15:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Marius Borg Høiby: Hva slags straff risikerer han?</title>
+      <description><![CDATA[Snart kommer dommen i rettssaken mot Marius Borg Høiby. Hva slags straff er det snakk om?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b02a09d6-9438-4253-aa09-d69438b25381_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b02a09d6-9438-4253-aa09-d69438b25381_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:20</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 15:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-a3dSgh7zuogkk-U8LHbowoQsJ1iHOwwZ7U27OuSvkdA.jpg"/>
+    </item>
     <item>
       <title>Kongefamiliens vanskelige tid: – Svært alvorlig</title>
       <description><![CDATA[Mette-Marits sykdom har blitt mye verre og familien samles på hjemme på Skaugum. Samtidig ventes det snart dom i rettssaken mot hennes sønn. Har kongefamilien vært i vanskeligere tider enn dette?
@@ -496,15 +505,6 @@ Og Jens Stoltenberg med ny bok. Er det bare hyllest og ingen kritikk å få når
       <itunes:duration>50:32</itunes:duration>
       <pubDate>Thu, 02 Oct 2025 14:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/b4lHmDM5wtRne502Z_Ca0QTMrPmXVZixqArFKxFGUSXw.jpg"/>
-    </item>
-    <item>
-      <title>Har Listhaug rett i svenske tilstander?</title>
-      <description><![CDATA[Oslo sentrum: To 13-åringer kaster granater. Sylvi Listhaug sier vi nå har svenske tilstander i Norge, men har hun rett? I tillegg til det: Har likestillingspolitikken gått for langt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/4c035248-e46d-441f-8352-48e46da41f07_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/4c035248-e46d-441f-8352-48e46da41f07_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:13</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 14:42:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iY9KkB8waX9hpFLXEhg-wguPLT71svgWxh43s-kM33tA.jpg"/>
     </item>
   </channel>
 </rss>

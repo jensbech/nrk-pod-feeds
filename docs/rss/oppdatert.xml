@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Jun 2026 08:34:20 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:32:33 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>18-åringen drepte Tamima: Inspirert av Hitler</title>
+      <description><![CDATA[I ni dager har han sittet på tiltalebenken for et drap som rystet hele Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1b228551-7530-4704-a285-517530e70427_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1b228551-7530-4704-a285-517530e70427_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:47</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5h_pT3aBCL4E61WCL9PRvAwSa1ErKxM3kRM8yu47CMLw.jpg"/>
+    </item>
     <item>
       <title>«Internett-politiet» Jørgen: Skurk eller helt?</title>
       <description><![CDATA[De siste ukene har influenser og jurist Jørgen Riis-Gjertsen vært i hardt vær.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>14:37</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DhspYzRmVxkINk2N3rm_lQ_EtQ1y0BWqLF8t80-tDpXA.jpg"/>
-    </item>
-    <item>
-      <title>Zara Larsson: Derfor har det storma rundt ikonet</title>
-      <description><![CDATA[Den svenske superstjerna har tatt karrieren tilbake.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fab5a16a-071b-475d-b5a1-6a071b575d84_3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fab5a16a-071b-475d-b5a1-6a071b575d84_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:17</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8D7W15uHWYt2BuT0qlp6fwqT-kVVX-cwKrBHnyCvF6kA.jpg"/>
     </item>
   </channel>
 </rss>
