@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:29:43 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jun 2026 02:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 08:06:35 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 00:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     <item>
-      <title>VM-start: Tre røde og hjemmefest</title>
+      <title>Lytterspørsmål-spesial</title>
+      <description><![CDATA[Bør Ødegaard benkes? Er Norge overvurdert? Og hvor gjør en vanlig fyr minst skade på landslaget? Få svar på dette og mye mer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/083c7461-0a39-4b8f-bc74-610a39eb8f69_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/083c7461-0a39-4b8f-bc74-610a39eb8f69_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:08</itunes:duration>
+      <pubDate>Sat, 13 Jun 2026 00:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
+    <item>
+      <title>Åpningskamp og norsk myggstikk</title>
       <description><![CDATA[Tre røde kort, to meksikanske mål og nesten 80 000 på tribunen. 
 Nå er VM endelig i gang! Og Norge har fått myggstikk..]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/af75221f-5552-4e99-b522-1f55521e9909_1_ID192MP3.mp3</guid>
@@ -24,7 +33,7 @@ Nå er VM endelig i gang! Og Norge har fått myggstikk..]]></description>
     </item>
     <item>
       <title>Publikumsfest og sinte foreldre</title>
-      <description><![CDATA[Har vi mistet hodet fullstendig etter forrige episode? Vi tar debatten: Hadde de sinte foreldrene på den åpne treningen faktisk et poeng? I tillegg byr vi på en mildt sagt overraskende værmelding, før vi teller ned timene til torsdagens absolutte høydepunkt: VMs aller første kamp!]]></description>
+      <description><![CDATA[Har vi mistet hodet fullstendig etter forrige episode? Og hadde de sinte foreldrene på den åpne treningen faktisk et poeng?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/cbfcd9cd-02a1-42e4-bcd9-cd02a112e41c_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/cbfcd9cd-02a1-42e4-bcd9-cd02a112e41c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:10</itunes:duration>
@@ -51,8 +60,8 @@ Nå er VM endelig i gang! Og Norge har fått myggstikk..]]></description>
     </item>
     <item>
       <title>Marokkokampen - grunn til bekymring?</title>
-      <description><![CDATA[Førsteomgang mot Marokko var et mentalt isbad for alle nordmenn som så kampen. Har vi noen grunn til å tvile på laget eller ble vi beroliget av Ødegaards utlikning? Klarer Ståle Solbakken å rette opp kursen igjen før Irak-kampen?
-Og hvorfor tar ekspertene med seg fotballsko på neste trening?]]></description>
+      <description><![CDATA[Førsteomgang mot Marokko var et mentalt isbad. Men ble vi beroliget av Ødegaards utlikning? 
+Og hvorfor tar ekspertene med seg fotballsko på trening?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/f9aec615-5327-46ee-aec6-155327f6ee23_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/f9aec615-5327-46ee-aec6-155327f6ee23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:31</itunes:duration>
@@ -487,15 +496,6 @@ Antonio Nusa om krigerkampen, klubb-VM er en «kokos-cup» og Åge fortsetter me
       <itunes:duration>27:26</itunes:duration>
       <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ISsGuZHK3TrCmAidqMhVtQZ-aJ9zEP14RJ6X8ekqHf-w.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Etter Italia</title>
-      <description><![CDATA[Tidenes beste norske landskamp? Åge Hareide er sikker i sin sak: Norge skal til VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6b59c690-1a10-4ed1-baa6-f9a79345cd30_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6b59c690-1a10-4ed1-baa6-f9a79345cd30_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Sat, 07 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/feS7PLKNqOSaJUE49qcT-wVYlANY-GEj0HhjKDK2z67g.jpg"/>
     </item>
   </channel>
 </rss>
