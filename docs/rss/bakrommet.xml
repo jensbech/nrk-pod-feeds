@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 13 Jun 2026 08:06:35 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 00:01:00 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2026 08:23:01 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 23:28:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Tysk "Norge-sang" vekker oppsikt</title>
+      <description><![CDATA[En tysk låt med går viralt fordi den høres ut som norsk fotballsang. Og ikke alle landslaget var med på hockeykamp. Var det lurt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/5432edc4-1881-4029-b2ed-c418811029e9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5432edc4-1881-4029-b2ed-c418811029e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:57</itunes:duration>
+      <pubDate>Sat, 13 Jun 2026 23:28:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Lytterspørsmål-spesial</title>
       <description><![CDATA[Bør Ødegaard benkes? Er Norge overvurdert? Og hvor gjør en vanlig fyr minst skade på landslaget? Få svar på dette og mye mer.]]></description>
@@ -486,16 +495,6 @@ Gjengen oppsummerer den elleville 11-1 kampen.]]></description>
       <itunes:duration>29:47</itunes:duration>
       <pubDate>Wed, 10 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/IE6CGPKQ8UETdLqWSsK4IwY7d4pQNY1dGzlh-5vWd2Ug.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Etter Estland</title>
-      <description><![CDATA[Etter festfotball mot Italia ble det tyngre mot Estland – «den viktigste seieren på 10-15 år» sies det likevel. 
-Antonio Nusa om krigerkampen, klubb-VM er en «kokos-cup» og Åge fortsetter med båt-planene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/177282b3-a591-4e37-b0a5-30ab7d9a6590_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/177282b3-a591-4e37-b0a5-30ab7d9a6590_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:26</itunes:duration>
-      <pubDate>Tue, 10 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ISsGuZHK3TrCmAidqMhVtQZ-aJ9zEP14RJ6X8ekqHf-w.jpg"/>
     </item>
   </channel>
 </rss>

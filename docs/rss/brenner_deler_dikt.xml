@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 07 Jun 2026 08:10:32 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2026 08:23:16 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Kari Bremnes: Til hjertet</title>
+      <description><![CDATA[Diktet minner den folkekjære artisten på å være takknemlig for hjertet som slår.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/5b477f99-0470-4e88-877f-990470ee8864_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/5b477f99-0470-4e88-877f-990470ee8864_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:24</itunes:duration>
+      <pubDate>Sun, 14 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/evnmmJSuyp6XRpEtTPf03gQ3220JKXC0Nnh8F6K5ujNw.jpg"/>
+    </item>
     <item>
       <title>Stig Inge Bjørnebye: Dette er seier!</title>
       <description><![CDATA[Slik brukte den tidligere fotballspilleren dikt som motivasjon.]]></description>
@@ -523,17 +532,6 @@ Diktet denne veka er «Naudbluss» av Frode Grytten]]></description>
       <itunes:duration>13:50</itunes:duration>
       <pubDate>Sat, 30 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/8Gh6YKkhP4rTrLTYpyBzqwCBLTcxj6odSHE_CM-09cnQ.jpg"/>
-    </item>
-    <item>
-      <title>Herborg Kråkevik: Den gode julestemninga frå Jondal</title>
-      <description><![CDATA[Lille Herborg ville ikkje ha gøyale påfunn til jul. Artisten og julehefteredaktøren ønska seg berre den gode gammeldagse julestemninga der alt minna om jula slik den var året før. 
-Diktet denne veka er «Kyrkjegard, julekveld, igjen og igjen» av Ruth Lillegraven 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/7122a889-441b-4cde-bb6f-3f5799a63d76_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/7122a889-441b-4cde-bb6f-3f5799a63d76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:43</itunes:duration>
-      <pubDate>Sat, 23 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NhekR_dkYwI-AlhDhRSG1AG75s2d6umDX7C9bYR_8jYQ.jpg"/>
     </item>
   </channel>
 </rss>
