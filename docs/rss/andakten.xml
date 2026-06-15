@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Jun 2026 08:31:59 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 09:03:21 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Dåpen – Kari Alvsvåg</title>
+      <description><![CDATA[Biskop Kari Alvsvåg i Borg bispedømme har en morgenrutine. Noe hun gjør hver dag når hun våkner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/07324ded-0874-423d-b24d-ed0874223d43_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/07324ded-0874-423d-b24d-ed0874223d43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:31</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
+    </item>
     <item>
       <title>Grå hår - Helga Samset</title>
       <description><![CDATA[Mange har problemer med det å bli eldre. Skjønnhetspresset starter tidlig, og for noen varer det kanskje hele livet.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/bc32a108-0939-4a2f-b2a1-0809395a2fa0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:08</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L0qfXD3Z1ezTFSaCUEkTvwsOz6IF33H9tk4Svw8XoV1A.jpg"/>
-    </item>
-    <item>
-      <title>Du så meg - Tor M. Nesvik</title>
-      <description><![CDATA[Å bytte trener kan være sunt, for med en ny leder følger også nye ideer og ikke minst verdier.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/73a16260-b4b0-4045-a162-60b4b0404510_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/73a16260-b4b0-4045-a162-60b4b0404510_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:15</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/L0qfXD3Z1ezTFSaCUEkTvwsOz6IF33H9tk4Svw8XoV1A.jpg"/>
     </item>
   </channel>
