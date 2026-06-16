@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 09:05:05 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:46:48 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Henning driver med fibermaxxing</title>
+      <description><![CDATA[Henning har oppdaget neseteip og sovemaske, og vi har vært på kino sammen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2076643e-0229-48d6-b664-3e0229c8d6d0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2076643e-0229-48d6-b664-3e0229c8d6d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
+    </item>
     <item>
       <title>Sædfuck og triks på bussen.</title>
       <description><![CDATA[Vi deler gode og dårlige banneord, og vi introduserer en ny karakter i P3morgens extended cinematic universe<3]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/439eb9f2-478b-4222-9eb9-f2478b1222e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Thu, 16 Apr 2026 10:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
-    </item>
-    <item>
-      <title>Italia eller Kina?</title>
-      <description><![CDATA[Vi snakker om barn, «Biler 2» og andre verdenskrig. Det blir også snakk om flytting til utlandet!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f3f88317-5cc3-46bb-b883-175cc3b6bb75_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f3f88317-5cc3-46bb-b883-175cc3b6bb75_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 10:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
     </item>
   </channel>
