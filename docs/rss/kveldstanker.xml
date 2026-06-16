@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:22:15 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:57:12 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Sko - med Ann Helen Kolås Ingebrigtsen</title>
+      <description><![CDATA[Forfattar Ann Helen Kolås Ingebrigtsen har slutta heilt å følgje reglar for skotøy.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/5fded10b-59d4-4d63-9ed1-0b59d40d632d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/5fded10b-59d4-4d63-9ed1-0b59d40d632d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:06</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
+    </item>
     <item>
       <title>Prinsen - med Gunn Marit Nisja</title>
       <description><![CDATA[Prinser og hvite hester bruker vel å komme i tospann, håper forfatteren Gunn Marit Nisja.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:54</itunes:duration>
       <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
-    </item>
-    <item>
-      <title>Pust - med Miriam Våga</title>
-      <description><![CDATA[Pust, og ta ett kvarter om gangen i julestria, råder musiker og sanger Miriam Våga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/4014e1f2-1e28-4ec0-94e1-f21e281ec0d5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4014e1f2-1e28-4ec0-94e1-f21e281ec0d5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:51</itunes:duration>
-      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pk9mVt2gAL1dzkQJ5QkHrwS2Q4nbpDUQvJzLO9NXBFlw.jpg"/>
     </item>
   </channel>
 </rss>

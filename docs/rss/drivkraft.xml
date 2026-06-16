@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:30:13 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 12:05:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:56:09 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Anna Kirkengen</title>
+      <description><![CDATA[– Skammen var endeløs, forteller legen om oppveksten i Tyskland etter verdenskrig]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e0633070-4509-436e-a330-704509836e53_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e0633070-4509-436e-a330-704509836e53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:04</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LsYOjooFx0F1NbHClnmu_Ad1b76ewfv4j8KgwVZQZ4og.jpg"/>
+    </item>
     <item>
       <title>Rune Bratseth</title>
       <description><![CDATA[- Treningen med søppelsekker var ikke så idiotisk som man skulle tro, mener landslagskapteinen fra VM i fotball i 1994]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:41</itunes:duration>
       <pubDate>Wed, 18 Feb 2026 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/F6_-IgeUsfhWcDJDvIbvvAgfAC63__4vQM--Xuo5KWXg.jpg"/>
-    </item>
-    <item>
-      <title>Knut Olav Åmås</title>
-      <description><![CDATA[Direktør i Stiftelsen Fritt Ord elsker morgen-rave: – Det hjelper på humøret!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/51dbdf21-3948-4a5b-9bdf-2139482a5bd7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/51dbdf21-3948-4a5b-9bdf-2139482a5bd7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:20</itunes:duration>
-      <pubDate>Tue, 17 Feb 2026 13:41:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UWnR189NLs7sXMIbT1ASXALBMRu6-1mTNMDZEv7SGatA.jpg"/>
     </item>
   </channel>
 </rss>

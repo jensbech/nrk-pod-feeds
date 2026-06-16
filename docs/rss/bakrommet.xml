@@ -3,15 +3,24 @@
   <channel>
     <title>Bakrommet</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Norge skal til VM og våre eksperter prepper deg med alt du bør vite om spillerne, formen og motstanderne - både før og under mesterskapet.</description>
+    <description>Norge  er endelig i VM igjen og våre eksperter prepper deg med alt du bør vite om spillerne,  motstanderne og de store snakkisene.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 09:03:41 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 02:35:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:55:19 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 02:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Ventetiden er over!</title>
+      <description><![CDATA[Smånasjonene sjokkerer og det er sykdom i den norske troppen. Hvor seierssikre tør vi være før nattens møte med Irak?   Og Erlend Mørch har et spørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/c1f5bc9a-6d9d-4de1-b5bc-9a6d9d4de147_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/c1f5bc9a-6d9d-4de1-b5bc-9a6d9d4de147_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:12</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 02:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Får landslaget for lite ros?</title>
       <description><![CDATA[Bakrommet beveger seg mot Boston! På veien diskuteres Ødegaards rolle på midtbanen, offsideregelen og om man er for kritisk til landslaget?]]></description>
@@ -484,15 +493,6 @@ Og hvis Nikita Haikin får norsk pass - er det han som bør stå i det norske m�
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/2c20f0d4-cee5-4664-a0f0-d4cee5c66479_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:08</itunes:duration>
       <pubDate>Tue, 11 Nov 2025 16:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Etter Israel</title>
-      <description><![CDATA[Hva skal til for at ikke Norge spiller VM? Hvilken by ønsker man helst at Norge spiller i? Og hvordan feire kvalifisering?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/ab3b70af-68d5-4368-bb70-af68d5036828_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ab3b70af-68d5-4368-bb70-af68d5036828_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:07</itunes:duration>
-      <pubDate>Sun, 12 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
   </channel>

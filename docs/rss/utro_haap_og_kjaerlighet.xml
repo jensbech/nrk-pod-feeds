@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 14 Jun 2026 08:25:19 +0000</lastBuildDate>
-    <pubDate>Sun, 14 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:58:56 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Nora Angeltveit: Å forplikte seg</title>
+      <description><![CDATA[Podkaster Nora Angeltveit reflekterer rundt redselen for å binde seg og hvordan det påvirker kjærlighetslivet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/d0a3d90c-2de8-4477-a3d9-0c2de86477fb_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/d0a3d90c-2de8-4477-a3d9-0c2de86477fb_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:06</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c5NtxmhXbObqYKQVwZ9ceQWFRhfBK9vDI9rr235Cfa4g.jpg"/>
+    </item>
     <item>
       <title>Panelet: Opp og ned</title>
       <description><![CDATA[Panelet om sin seksuelle debut, det å flytte for kjærligheten og hvor lenge man bør vente før man deler såre ting med en date?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>32:30</itunes:duration>
       <pubDate>Sun, 22 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
-    </item>
-    <item>
-      <title>Sval Rosenløw Eeg: Å bære på en hemmelighet</title>
-      <description><![CDATA[Sval Rosenløw Eeg forteller om hemmeligheten hun bar på i flere år og frykten for å bli avslørt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/629b5366-df09-4fc0-9b53-66df09dfc051_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/629b5366-df09-4fc0-9b53-66df09dfc051_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:04</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2M_WnPS7DUld8QbyAMGKzgrmVzk5XIOS0lu-L3BXEJOg.jpg"/>
     </item>
   </channel>
 </rss>

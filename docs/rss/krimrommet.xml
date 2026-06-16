@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 11 Jun 2026 08:33:29 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 16:45:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:56:58 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Høiby (22): Dette er dommen</title>
+      <description><![CDATA[Kronprinsessens sønn har fått en historisk dom. Hva skjer videre nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:10</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R9JQmd9laK48TE8IBO2tiA23iOp49SdYunmUL1aeT6EQ.jpg"/>
+    </item>
     <item>
       <title>Høiby (21): Er retten for streng?</title>
       <description><![CDATA[Lagmannsretten har talt: Marius Borg Høiby må fortsatt sitte i varetekt. Men er beslutningen rettferdig?]]></description>
