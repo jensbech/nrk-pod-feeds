@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:58:15 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 08:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:47:12 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Norge slo Irak 4-1</title>
+      <description><![CDATA[Hvordan er stemningen i Boston? Erlend ringer Mimir direkte fra Gillette Stadium]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:43</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
+    </item>
     <item>
       <title>Erlend på Norge-trening</title>
       <description><![CDATA[Er vi semifinaleklare? Erlend er på plass i Boston med landslagsdrakt og fotballsko med knotter.]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:25</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 08:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2_vPa7hVcjJgv2RKdufw8Q56oPEb3IbKwUxbNkOcGw6g.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/8rh1r5CwppA2mft9UGYCEw2xLbKZq9k1TRuTtkdPiY3A.jpg"/>
     </item>
     <item>
       <title>VM ER I GANG!</title>

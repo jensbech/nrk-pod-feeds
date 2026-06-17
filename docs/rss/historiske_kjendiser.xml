@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:21:41 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:44:47 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Synnøve Finden - religiøs ostedronning</title>
+      <description><![CDATA[Hun trosset kjønnsnormer og skapte et forretningsimperium bygget på sin kjærlighet til Gud og ost.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LhhFzK3JoAtyNlQHyZ4h2ws029bCcU_7G923EBEuvFLA.jpg"/>
+    </item>
     <item>
       <title>Simón Bolívar - Sør-Amerikas frigjører</title>
       <description><![CDATA[Den brutale revolusjonslederen ble frigjøringshelt for et helt kontinent, men endte sine dager som en forhatt diktator.]]></description>
@@ -453,15 +462,6 @@
       <itunes:duration>57:30</itunes:duration>
       <pubDate>Wed, 06 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/D_Km6wvF5wfuTCel-3nykQYszI8TPU0vUU_ijh9oA_fg.jpg"/>
-    </item>
-    <item>
-      <title>Haakon VII – valgt av folket</title>
-      <description><![CDATA[Folkets konge skulle aldri regjere, men tok sjansen da den bød seg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:00</itunes:duration>
-      <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RcXhWxufScJfTl9KJWI1TQF2eLkEaUwAnyTVXhVV4z5g.jpg"/>
     </item>
   </channel>
 </rss>

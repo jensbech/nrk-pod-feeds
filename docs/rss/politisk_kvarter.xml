@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:58:11 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:47:08 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Skolesatsingen som slo feil</title>
+      <description><![CDATA[Har norske politikere tenkt helt feil om skolen? En av tre elever går ut av grunnskolen uten å skrive, regne eller lese skikkelig. SV advarer mot "politisk panikk"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/271c2d0c-7a88-4a69-9c2d-0c7a889a6910_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/271c2d0c-7a88-4a69-9c2d-0c7a889a6910_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oOYymvc_hIZR1ZmYJk95yQl8H4bj_I4yWa1Mg6HhwvFw.jpg"/>
+    </item>
     <item>
       <title>Hvorfor vokser ikke Senterpartiet?</title>
       <description><![CDATA[Senterpartiet kjemper om mange av de samme velgerne, og stemmer ofte det samme som Frp i Stortinget.
@@ -472,15 +481,6 @@ Raudt har allereie gått vidare. Er det rett å tilgje?]]></description>
       <itunes:duration>15:08</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Jwrhau04HZqXG4sehYswMAtn29GHyxB7LWDxJLo0oZ4A.jpg"/>
-    </item>
-    <item>
-      <title>Borgerlig kuttlyst i kommunene</title>
-      <description><![CDATA[Mange Høyre-styrte kommuner har gjort store kutt for å få kommunebudsjettene i pluss. Ap mener velferden raseres. Høyres leder sier kommunene og ikke minst Oslo gjør omstillingen regjeringen ikke klarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ba501861-df47-4de5-9018-61df47ade5af_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ba501861-df47-4de5-9018-61df47ade5af_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Tue, 31 Mar 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jRakKIPqWRO9JYilF9Xc_waUT03bWpCto4HoIlo0EcwQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:57:12 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:45:42 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Fellesskap - med Ingvild Hegge Eriksen</title>
+      <description><![CDATA[Å være fysisk sammen i en krise kan ikke erstattes av noe, forteller forfatteren Ingvild Hegge Eriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/e620f3df-894b-468c-a0f3-df894b968cd1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/e620f3df-894b-468c-a0f3-df894b968cd1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:08</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eHGuJV_i7N6QpzBZpvGZnAJqanMHT-LGWHGbjst83fdg.jpg"/>
+    </item>
     <item>
       <title>Sko - med Ann Helen Kolås Ingebrigtsen</title>
       <description><![CDATA[Forfattar Ann Helen Kolås Ingebrigtsen har slutta heilt å følgje reglar for skotøy.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:54</itunes:duration>
       <pubDate>Mon, 29 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
-    </item>
-    <item>
-      <title>Lys og larm - med Ola Bremnes</title>
-      <description><![CDATA[Jula vår er full av lys, og vel mye larm, sier musiker Ola Bremnes]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9329504c-e0bb-4dc9-a950-4ce0bbedc964_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9329504c-e0bb-4dc9-a950-4ce0bbedc964_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:54</itunes:duration>
-      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2Y7Z9pqv5naoLjPQPHAGGwUa1D_FNIUKTewHdQl7Vh-A.jpg"/>
     </item>
   </channel>
 </rss>

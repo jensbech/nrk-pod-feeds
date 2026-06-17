@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:56:44 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:45:04 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Norge (nesten) videre i VM</title>
+      <description><![CDATA[Og politikerne mener at utdanningsdirektoratet skyter på lærerne som jobber seg i hjel]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/bb0cf5ea-4103-4a72-8cf5-ea41037a72c6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/bb0cf5ea-4103-4a72-8cf5-ea41037a72c6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:41</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6abBnMLC0oFkzHNGVe5ACQXOXRmg26aiAVBxo781WLnA.jpg"/>
+    </item>
     <item>
       <title>Midtausten-avtale signert – men kven vann krigen?</title>
       <description><![CDATA[Og Marius Borg Høiby kan bli sittande varetektsfengsla lenge.]]></description>
@@ -459,15 +468,6 @@ Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den førs
       <itunes:duration>04:53</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fReBhXC2EqS7-f3KRzJzSwlX3q8C-Kr3AavasJfvySEA.jpg"/>
-    </item>
-    <item>
-      <title>Israel innfører dødsstraff for palestinere</title>
-      <description><![CDATA[Og unge er blitt mer opptatt av pensjonen sin]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b1b58468-a31c-497c-b584-68a31cb97cbf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b1b58468-a31c-497c-b584-68a31cb97cbf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:19</itunes:duration>
-      <pubDate>Tue, 31 Mar 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x06aJ1JHQq8Adtcp3kv2igJZg8WoevCzJuxnANQwXufQ.jpg"/>
     </item>
   </channel>
 </rss>

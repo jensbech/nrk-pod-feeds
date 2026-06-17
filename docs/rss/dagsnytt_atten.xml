@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:55:54 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:44:06 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norges første VM-kamp på 28 år</title>
+      <description><![CDATA[Herrelandslaget møter Irak i Boston i natt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fef0019d-5066-4f17-b001-9d50665f172f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fef0019d-5066-4f17-b001-9d50665f172f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:50</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PAdYjlDTvi1PtG8kuPx5CQYIVpmqQKrq8UBoJyxrfgpg.jpg"/>
+    </item>
     <item>
       <title>Høiby anker dommen</title>
       <description><![CDATA[Høiby dømt til fire års fengsel i Oslo tingrett i dag.]]></description>
@@ -454,15 +463,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Mon, 30 Mar 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PbfoG2QCrBsrM9GHW5sbqw0IHly5nRZni7BylOCMNWLg.jpg"/>
-    </item>
-    <item>
-      <title>Varsler utsettelse av forsvarsatsinger.</title>
-      <description><![CDATA[Regjeringen øker langtidsplanen for forsvaret med 115 milliarder kroner, men varsler utsettelse av flere store forsvarssatsinger]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/eefbdb89-df95-4464-bbdb-89df95a4647b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/eefbdb89-df95-4464-bbdb-89df95a4647b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:01</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 19:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sQuHndM6vGjLacfr_t14YQa1fXaWYZTe70081yStMBLw.jpg"/>
     </item>
   </channel>
 </rss>

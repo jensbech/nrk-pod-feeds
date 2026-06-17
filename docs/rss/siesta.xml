@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:02:58 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:47:30 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Kalle bestemor for bibbi?!</title>
+      <description><![CDATA[Daniel har sendt oppdatering fra USA, Anna er kokforbanna over butikkmedlemskap og vi oversetter Kesha sin kjente låt «Tik Tok» til norsk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/78df2979-6c19-4510-9f29-796c193510c0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/78df2979-6c19-4510-9f29-796c193510c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:05</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna med ljåen er tilbake</title>
       <description><![CDATA[Anna er tilbake fra nord, Markus og Henning skal lukte på sokkene hennes og Finn Glede er svært skuffa over valg av vikar.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/dc87454c-40dd-498a-8745-4c40dd698aa4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:38</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Gamle Morten Ramm referanser</title>
-      <description><![CDATA[Gjengen har litt laber livsgnist, Anna briljerer i veien til Hitler og Markus har Morten Ramm-spesial i papegøye.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6a720e9f-333c-4cd6-b20e-9f333c0cd616_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6a720e9f-333c-4cd6-b20e-9f333c0cd616_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:28</itunes:duration>
-      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
