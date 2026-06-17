@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:44:20 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 08:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:32:59 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Lasse Kristoffersen</title>
+      <description><![CDATA[– Frykten kommer til å henge i lenge, sier shippingtoppen om situasjonen i Hormusz-stredet]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/fac731b1-70f4-447a-8731-b170f4147a37_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/fac731b1-70f4-447a-8731-b170f4147a37_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rkKQ7OeiGO2yH5kZ6VrCDA-cQz7kUTvLe0sBK9Pq8_Fg.jpg"/>
+    </item>
     <item>
       <title>Bente Børsum</title>
       <description><![CDATA[– Jeg lurer fortsatt på om jeg er verdt noe, forteller skuespilleren på 92, som ble sendt bort under krigen.]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:15</itunes:duration>
       <pubDate>Mon, 23 Feb 2026 13:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/RE_FFS-f9PO7iOYwsXHa9gVxcncqO_zJmLNzaPeRfjbw.jpg"/>
-    </item>
-    <item>
-      <title>Victor Lind</title>
-      <description><![CDATA[- Vi hadde ikke mat, vi var sultne i flere dager, det er en følelse jeg aldri glemmer, forteller kunstneren om oppveksten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/29380f7c-68d1-490d-b80f-7c68d1490d5e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/29380f7c-68d1-490d-b80f-7c68d1490d5e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:16</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gWlhgHrA9wCViMqX2ALSDwL68BhLz65D703jmNax5TBQ.jpg"/>
     </item>
   </channel>
 </rss>
