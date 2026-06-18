@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:47:08 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:34:38 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Hvem vil Sylvi Listhaug være venn med?</title>
+      <description><![CDATA[Sylvi Listhaug er invitert til både KrFs "Sunn fornuft allianse" og regjeringens skattekommisjon. Vil hun egentlig ha venner?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/f4487457-b2f1-4dd6-8874-57b2f1ddd6e2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/f4487457-b2f1-4dd6-8874-57b2f1ddd6e2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:08</itunes:duration>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WT9k9Zdw7F_3q-3r1Kc-cQg80wtOKZCQ0YjKddEaD-Ag.jpg"/>
+    </item>
     <item>
       <title>Skolesatsingen som slo feil</title>
       <description><![CDATA[Har norske politikere tenkt helt feil om skolen? En av tre elever går ut av grunnskolen uten å skrive, regne eller lese skikkelig. SV advarer mot "politisk panikk"]]></description>
@@ -472,15 +481,6 @@ Raudt har allereie gått vidare. Er det rett å tilgje?]]></description>
       <itunes:duration>15:13</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ny5bzmhFNWKcN3_R5atDCwfw2uiVm8JIRiNnBTz9IlUA.jpg"/>
-    </item>
-    <item>
-      <title>Meir kraft!</title>
-      <description><![CDATA[Men er vindkraft for upopulært og kjernekraft for dyrt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9bf408bd-59c3-422b-b408-bd59c3022be8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9bf408bd-59c3-422b-b408-bd59c3022be8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:08</itunes:duration>
-      <pubDate>Wed, 01 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Jwrhau04HZqXG4sehYswMAtn29GHyxB7LWDxJLo0oZ4A.jpg"/>
     </item>
   </channel>
 </rss>

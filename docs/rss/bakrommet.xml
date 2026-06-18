@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:43:49 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 06:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:32:26 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 02:22:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Trening på tørt gress og engelsk jubel</title>
+      <description><![CDATA[Skal Norge trene på tørt gress, hvorfor stater alltid Ødegaard og når så England bedre ut?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/3ab95fc0-9236-4a84-b95f-c09236ba849b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/3ab95fc0-9236-4a84-b95f-c09236ba849b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:55</itunes:duration>
+      <pubDate>Thu, 18 Jun 2026 02:22:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Norge-Irak: Haaland herjet heldigvis</title>
       <description><![CDATA[Norge vant hele 4-1. Men holder det med en spiss i verdensklasse mot  Senegal og Frankrike når forsvaret sliter?]]></description>
@@ -22,7 +31,7 @@
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
     <item>
-      <title>Ventetiden er over!</title>
+      <title>Ventetiden er over! Og Erlend Mørch i bilen.</title>
       <description><![CDATA[Smånasjonene sjokkerer og det er sykdom i den norske troppen. Hvor seierssikre tør vi være før nattens møte med Irak?   Og Erlend Mørch har et spørsmål.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/c1f5bc9a-6d9d-4de1-b5bc-9a6d9d4de147_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/c1f5bc9a-6d9d-4de1-b5bc-9a6d9d4de147_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -484,15 +493,6 @@ Og hvis Nikita Haikin får norsk pass - er det han som bør stå i det norske m�
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/ec7fb139-5141-4ef3-bfb1-395141cef3d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:42</itunes:duration>
       <pubDate>Sat, 15 Nov 2025 18:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Etter Estland</title>
-      <description><![CDATA[Var tre minutter unna å ta Skavlan av lufta! Men Italia utsatte festen. Løkberg har hisset på seg supporter-Norge, Andrine misset begge Sørloth-scoringene, og gjengen gir sin ønskegruppe for Norge i VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/da5c6033-27c0-4e46-9c60-3327c02e4664_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/da5c6033-27c0-4e46-9c60-3327c02e4664_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:28</itunes:duration>
-      <pubDate>Fri, 14 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
   </channel>

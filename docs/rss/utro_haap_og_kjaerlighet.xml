@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:58:56 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:35:18 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Snorre Rein: Parforhold og psykisk sykdom</title>
+      <description><![CDATA[Snorre Rein forteller om alvorlige psykiske utfordringer og hvordan det påvirket forholdet hans.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/638bce72-6e51-4979-8bce-726e51297999_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/638bce72-6e51-4979-8bce-726e51297999_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:53</itunes:duration>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_t9Hy8HNXbTWzTD4vNVDuwG04RXAzN3fikCKRhuMd3wA.jpg"/>
+    </item>
     <item>
       <title>Nora Angeltveit: Å forplikte seg</title>
       <description><![CDATA[Podkaster Nora Angeltveit reflekterer rundt redselen for å binde seg og hvordan det påvirker kjærlighetslivet.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>42:21</itunes:duration>
       <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PmSAQcs6bwlRCcUCubrGuwMJVODWVStFf_Nb3PyHCW2A.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Utroskap og menn på date</title>
-      <description><![CDATA[Panelet diskuterer innsendte problemer og forskning om utroskap. Lars setter Selma opp på en blind date.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/fee1db8c-a6b2-4bf3-a1db-8ca6b24bf3fc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/fee1db8c-a6b2-4bf3-a1db-8ca6b24bf3fc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:30</itunes:duration>
-      <pubDate>Sun, 22 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
     </item>
   </channel>
 </rss>

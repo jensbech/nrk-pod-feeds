@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:43:37 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:32:13 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Sangglede - Kari Alvsvåg</title>
+      <description><![CDATA[For den som er glad i sang og musikk, er det å kunne sitte sammen med andre og synge ut, et godt sted å være.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/134008f4-bc8d-4af7-8008-f4bc8deaf784_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/134008f4-bc8d-4af7-8008-f4bc8deaf784_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:24</itunes:duration>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
+    </item>
     <item>
       <title>Tilhørighet - Kari Alvsvåg</title>
       <description><![CDATA[Jeg tror alle mennesker lengter etter og trenger å få høre til et sted, sier Kari Alvsvåg i dagens andakt.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/3c98d230-09a0-4b13-98d2-3009a04b13b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:52</itunes:duration>
       <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
-    </item>
-    <item>
-      <title>Liv og død - Jan Erik Larssen</title>
-      <description><![CDATA[Det er vel nesten umulig å forberede seg på sin egen død. Til det er usikkerhetsfaktorene for mange. Men hva med livet da?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/1a43d431-60e0-456c-83d4-3160e0056c03_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/1a43d431-60e0-456c-83d4-3160e0056c03_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:25</itunes:duration>
-      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
     </item>
   </channel>
