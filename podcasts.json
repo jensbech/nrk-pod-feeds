@@ -87,7 +87,7 @@
         "id": "binnabnna_ujujju",
         "title": "Binnabánnaš & Ujujju",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "bjoernen_lyver",
@@ -255,19 +255,19 @@
         "id": "fantorangenfortellinger",
         "title": "Fantorangenfortellinger",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "fantorangens_lydmysterier",
         "title": "Fantorangens lydmysterier",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "fantorangens_vitseshow",
         "title": "Fantorangens vitseshow",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "fantus_og_lydene",
@@ -375,7 +375,7 @@
         "id": "hallo_bablo",
         "title": "Hallo Bablo",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "hei_nabo",
@@ -1227,7 +1227,7 @@
         "id": "supertroett",
         "title": "Supertrøtt",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "tazte_priv",

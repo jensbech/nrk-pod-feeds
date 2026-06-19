@@ -1,4 +1,11 @@
 # Podcast Discovery Changelog  
+### 2026-06-19  
+- Updated podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
+- Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
+- Updated podcast 'Fantorangens lydmysterier' (`fantorangens_lydmysterier`)  
+- Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Supertrøtt' (`supertroett`)  
 ### 2026-06-18  
 - Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-06-15  
