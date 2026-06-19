@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:33:29 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:47:24 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Har alle en plikt til å forsvare Norge?</title>
+      <description><![CDATA[Store forskjeller i hvor motiverte folk er på sesjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/795d1aff-e872-4bba-9d1a-ffe8720bba5d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/795d1aff-e872-4bba-9d1a-ffe8720bba5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:07</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FUY0XAPb8wUc10PkACqF-wHyV5WEaIhUO6BrAJwVaFAw.jpg"/>
+    </item>
     <item>
       <title>Får vi mer å rutte med i sommer?</title>
       <description><![CDATA[I dag bestemmer Norges bank om renta skal opp eller ikke.]]></description>
@@ -457,17 +466,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>05:51</itunes:duration>
       <pubDate>Wed, 08 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XxxYSG2u9ldDNvfldBocfwCIG8VNKQdNlPS9MDYXB41w.jpg"/>
-    </item>
-    <item>
-      <title>Astronautar mista kontakten med NASA i 40 minutt</title>
-      <description><![CDATA[Og Tinder vil teste eit nytt konsept.
-
-Denne episoden blei lasta opp på nytt tysdag 7. april klokka 08.00. I den første utgåva sa vi at fristen til Donald Trump gjekk ut natt til tysdag. Det riktige er at fristen går ut natt til onsdag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/927cd6ba-f49a-47ef-bcd6-baf49aa7efd7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/927cd6ba-f49a-47ef-bcd6-baf49aa7efd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:03</itunes:duration>
-      <pubDate>Tue, 07 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_QPrDevIlfhRh_SO6QrDjQaiv2QNoKI-mQ1cQWKqItMw.jpg"/>
     </item>
   </channel>
 </rss>

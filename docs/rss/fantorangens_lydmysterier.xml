@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Fantorangens lydmysterier</title>
+    <link>https://jensbech.github.io/nrk-pod-feeds</link>
+    <description>Fantorangen og Pivi jakter på mystiske lyder! Det blir spenning og forviklinger underveis. Hva er det de egentlig hører?
+</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
+    <language>no</language>
+    <lastBuildDate>Fri, 19 Jun 2026 08:46:47 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 06:01:00 +0200</pubDate>
+    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    <item>
+      <title>Pipelyden</title>
+      <description><![CDATA[Hva er det som piper akkurat når Pivi skal si noe viktig? Klarer Pivi og Fantorangen å stoppe den plagsomme lyden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/70c74dec-f9b7-43a6-874d-ecf9b723a623_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/70c74dec-f9b7-43a6-874d-ecf9b723a623_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:31</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title>Flyvesykkelen</title>
+      <description><![CDATA[Hvordan skal Fantorangen og Pivi klare å hjelpe et lite lam tilbake til flokken på fjellet? Med en flyvesykkel, såklart!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/33263c44-ccce-4f03-a63c-44ccce6f0399_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/33263c44-ccce-4f03-a63c-44ccce6f0399_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:19</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen savner mamma (30:30)</title>
+      <description><![CDATA[Fantorangen og Pivi reiser til jungelen for å finne den rare trompetlyden.  Er det mammaen til Fantorangen som trenger hjelp?
+
+Pivi/kongen: Haakon Strøm
+Dragen: Lisbeth David –Andersen 
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge/Anna Aardalen
+Redaktør NRK Super: Siril Heyerdahl
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/1a2f8744-42f3-4dd1-ab0c-3859e6bf7c58_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/1a2f8744-42f3-4dd1-ab0c-3859e6bf7c58_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:30</itunes:duration>
+      <pubDate>Thu, 22 Dec 2022 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title> Hvalen (29:30)</title>
+      <description><![CDATA[Er det flammer  Fantorangen og Pivi  hører? Eller er det vannsprut fra en vannpark? Denne gangen trenger de to vennene en ubåt for å løse mysteriet.
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm 
+Manus/regi/bobleelven: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+Redaktør NRK Super: Siril Heyerdahl ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/50e31735-de29-40cb-ac2a-49b9aa6b3d39_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/50e31735-de29-40cb-ac2a-49b9aa6b3d39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:35</itunes:duration>
+      <pubDate>Thu, 22 Dec 2022 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title> Kjempegresshoppen (28:30)</title>
+      <description><![CDATA[Fantorangen og Pivi leter etter en sakselyd. Er det en skummel kjempegresshoppe? Eller er det kongen som har blitt til et saksedyr? 
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi/kongen: Haakon Strøm 
+Sangflåten: Stine Buer 
+Manus/regi: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+Redaktør NRK Super: Siril Heyerdahl 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/8b3e13ce-e0bd-4f29-9d19-561ee28b8268_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/8b3e13ce-e0bd-4f29-9d19-561ee28b8268_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:43</itunes:duration>
+      <pubDate>Thu, 15 Dec 2022 06:08:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title>Blåseuhyret (27:30)</title>
+      <description><![CDATA[Fantorangen må skikkelig tisse, men tør ikke gå på do fordi det er en skummel blåselyd der inne.  
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi/Kongen: Haakon Strøm 
+Manus/regi: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+Redaktør NRK Super: Siril Heyerdahl 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/40a163d4-fafa-40cd-96be-5f421e6430b8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/40a163d4-fafa-40cd-96be-5f421e6430b8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:54</itunes:duration>
+      <pubDate>Thu, 15 Dec 2022 06:07:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title>Nisselatter (26:30)</title>
+      <description><![CDATA[Pivi ler ikke av vitsene til Fantorangen, men det er det noen andre som gjør. Kan det være trollet, eller er det selveste Julenissen? 
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi/Julenissen: Haakon Strøm 
+Troll: Jan Martin Johnsen 
+Manus/regi/Høne: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+
+Redaktør: Siril Heyerdahl 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/e95534d3-4786-45d9-a30a-b3511120c54a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/e95534d3-4786-45d9-a30a-b3511120c54a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:58</itunes:duration>
+      <pubDate>Thu, 08 Dec 2022 06:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title> Halloween (25:30)</title>
+      <description><![CDATA[Fantorangen og Pivi har kledd seg ut som spøkelser. De hører skumle lyder, og møter Trollet som har kledd seg ut som en rumpe.  
+
+Fantorangen/Ugle: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm 
+Troll: Jan Martin Johnsen 
+Manus/regi: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+Redaktør: Siril Heyerdahl 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/da9f6bcd-e037-4d00-a71f-c5b61b18c3f1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/da9f6bcd-e037-4d00-a71f-c5b61b18c3f1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:59</itunes:duration>
+      <pubDate>Thu, 08 Dec 2022 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title>Gjett lyden i Maurtua (24:30)</title>
+      <description><![CDATA[Fantorangen og Pivi blir vekket midt på natten. De får ikke lov til å sove igjen før de har gjettet lydene i maurtua.  
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm 
+Kvissmaur: Jan Martin Johnsen 
+Manus/regi: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+ Redaktør: Siril Heyerdahl 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/04d150be-d68a-4bf2-9e6b-662b62accd25_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/04d150be-d68a-4bf2-9e6b-662b62accd25_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:43</itunes:duration>
+      <pubDate>Thu, 01 Dec 2022 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title>Tyggegummiboble på månen (23:30)</title>
+      <description><![CDATA[Fantorangen og Pivi blir dratt opp i himmelen av en kjempestor tyggegummiboble. De krasjer på månen og møter månevesenene. 
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm 
+Manus/regi/bobleelv: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+Redaktør: Siril Heyerdahl 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/986a3fa0-fe9c-4b2c-a38e-3d651d42ecad_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/986a3fa0-fe9c-4b2c-a38e-3d651d42ecad_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:35</itunes:duration>
+      <pubDate>Thu, 01 Dec 2022 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title> Skogen må reddes (22:30)</title>
+      <description><![CDATA[Hva er det som bråker sånn? Er det noen som bygger en by i skogen?  Fantorangen tar med seg alle dyrene for å stoppe dem. 
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi/Hakkespett: Haakon Strøm 
+Sangflåten: Stine Buer 
+Manus/regi/Høne: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+Redaktør NRK Super: Siril Heyerdahl 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/7ba6daf1-83cd-4fa2-9e94-61d667516356_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/7ba6daf1-83cd-4fa2-9e94-61d667516356_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:30</itunes:duration>
+      <pubDate>Thu, 01 Dec 2022 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title> Sinnaprompen (21:30)</title>
+      <description><![CDATA[Hvem eier den sinte prompelyden? Er det en sint mus, Kongen eller bjørnen? Eller er det verdens kuleste motorsykkel? 
+
+Fantorangen/motorsykkel: Inger Lindheim Gundersen 
+Pivi/Kongen: Haakon Strøm 
+Bjørn: Jan Martin Johnsen 
+Manus/regi: Margrethe Røed 
+Lyddesign: Hilde Rolfsnes 
+Komponist: John Vinge/Anna Aardalen 
+Redaktør NRK Super: Siril Heyerdahl 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/56d3c377-a58d-4187-8e28-0662cafaf40c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/56d3c377-a58d-4187-8e28-0662cafaf40c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:48</itunes:duration>
+      <pubDate>Thu, 01 Dec 2022 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg.jpg"/>
+    </item>
+    <item>
+      <title>Dragemusikk (20:20)</title>
+      <description><![CDATA[Dragen, Fantorangen, Pivi og alle dyrene i skogen lager et orkester.
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/cc1c364c-bdd6-438e-943a-c32a1ed4b35b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/cc1c364c-bdd6-438e-943a-c32a1ed4b35b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:14</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:09:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Huleknusemonsteret  (19:20)</title>
+      <description><![CDATA[Er det et Huleknusemonster som er på ferde i dag? Det må Fantorangen og Pivi stoppe.
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/f4e4fd41-0906-402f-91dd-d2a2365d8ed6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/f4e4fd41-0906-402f-91dd-d2a2365d8ed6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:16</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Ekko (18:20)</title>
+      <description><![CDATA[
+Fantus blir borte. Kan Ekkohuledyret ha tatt Fantus?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/8c557992-bb5f-44a5-aac4-77ca9beb0c2e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/8c557992-bb5f-44a5-aac4-77ca9beb0c2e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:33</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:07:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Telttur (17:20)</title>
+      <description><![CDATA[Noe lager lyd utenfor teltet til Fantorangen og Pivi. Er det en mus, eller kanskje en stor bjørn?
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/8bbd1f6c-42cc-404a-b268-11f3dcfaba5d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/8bbd1f6c-42cc-404a-b268-11f3dcfaba5d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:00</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Dunk, splæsj, doff (16:20)</title>
+      <description><![CDATA[Det sier dunk, det sier splæsj, det sier doff i skogen i dag. Hva i all verden kan det være?
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/070af7ef-0867-4b50-b424-2f35a1210d3f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/070af7ef-0867-4b50-b424-2f35a1210d3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:05</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Modig (15:20)</title>
+      <description><![CDATA[Fantorangen mener Pivi bør bli modigere. Kan det hjelpe å holde i et gresstrå?
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/8c99be7d-66a5-4ac7-a546-4c3caaf6e2a4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/8c99be7d-66a5-4ac7-a546-4c3caaf6e2a4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:38</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Da lydene blåste bort (14:20)</title>
+      <description><![CDATA[Et vindkast tar med seg alle skogslydene. Fantorangen og Pivi finner dem igjen på månen. 
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/14f007fa-2f44-4fee-a840-6fe1d6a0eef8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/14f007fa-2f44-4fee-a840-6fe1d6a0eef8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:52</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Pipelydene (13:20)</title>
+      <description><![CDATA[Alle fuglelydene er borte. Er det Pipedyret som har skylda?
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/6ff4dd08-d9ab-4ca2-8a77-8d8a4dfadaff_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/6ff4dd08-d9ab-4ca2-8a77-8d8a4dfadaff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:49</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Jakten på Kiwi (12:20)</title>
+      <description><![CDATA[Pappaen til Pivi er en Kiwi, men hvordan høres og ser egentlig en Kiwi ut?
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/2c66eaed-fe85-464e-bee8-dfcb626ee45e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/2c66eaed-fe85-464e-bee8-dfcb626ee45e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:43</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Kjempebielyden (11:20)</title>
+      <description><![CDATA[Fantorangen og Pivi tror de hører summingen fra en kjempebie, men hva er det egentlig?
+
+Fantorangen: Inger Lindheim Gundersen 
+Pivi: Haakon Strøm
+Manus/regi: Margrethe Røed
+Lyddesign: Hilde Rolfsnes
+Komponist: John Vinge 
+Prosjektleder: Hanne Vennemo
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/810fe558-5515-4759-aaf0-31ad191ad0dc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/810fe558-5515-4759-aaf0-31ad191ad0dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:59</itunes:duration>
+      <pubDate>Fri, 10 Jun 2022 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4Zs5VpbfwdzJ2JWjH12dBQ4fcIuSeOUfBYaVwqGaeHtQ.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og gigatutelyden (10:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører lyden av et marsvin som sitter fast i Ekkohulen! Eller var det en løve? Eller en gigatute? Lydskopet viser veien til Skjellstranda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/f9e16a47-9184-4a00-ac14-1fc3bbcfe443_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/f9e16a47-9184-4a00-ac14-1fc3bbcfe443_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:29</itunes:duration>
+      <pubDate>Fri, 13 Aug 2021 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title> Fantorangen og krypeslangelyden (9:20)</title>
+      <description><![CDATA[Fantorangen og Pivi leker med walkie talkie og hører plutselig lyden av en krypende slange.  Pivi går til Tittetoppen for å lete, men lydoskopet viser en annen vei.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/dcd01433-110a-4059-b017-17f58c0c4b21_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/dcd01433-110a-4059-b017-17f58c0c4b21_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:00</itunes:duration>
+      <pubDate>Fri, 13 Aug 2021 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og operahunden (8:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører en rar ulelyd. Er det en operahund? Lydoskopet viser veien til Tittetoppen. 
+
+Medvirkende:
+
+Fantorangen: Inger Lindheim Gundersen
+
+Pivi: Haakon Strøm
+
+Manus/regi: Christine Hauge
+
+Lyddesign: Lillian Grønning
+
+Komponist: John Vinge
+
+Prosjektleder: Maria Grande]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/78e9e7de-219e-4e6a-bbc5-b86a72a935fa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/78e9e7de-219e-4e6a-bbc5-b86a72a935fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:57</itunes:duration>
+      <pubDate>Tue, 06 Jul 2021 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og robotmonsterlyden (7:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører lyden av en kjempestor sommerfugl, men er det egentlig et robotmonster? Lydoskopet viser veien hjem igjen!
+
+Medvirkende:
+
+Fantorangen: Inger Lindheim Gundersen
+
+Pivi: Haakon Strøm
+
+Manus/regi: Christine Hauge
+
+Lyddesign: Lillian Grønning
+
+Komponist: John Vinge
+
+Prosjektleder: Maria Grande]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/0e98940f-520c-47cc-bc0c-5183fabc4f93_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/0e98940f-520c-47cc-bc0c-5183fabc4f93_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:34</itunes:duration>
+      <pubDate>Tue, 06 Jul 2021 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og tutebjørnlyden (6:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører en mystisk uhu-lyd. Kan det være en tutebjørn? Lydoskopet viser veien til Ekkohulen.
+
+Medvirkende: 
+
+Fantorangen: Inger Lindheim Gundersen 
+
+Pivi: Haakon Strøm 
+
+Manus/regi: Christine Hauge 
+
+Lyddesign: Lillian Grønning 
+
+Komponist: John Vinge 
+
+Prosjektleder: Maria Grande ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/2fd186a8-4e6d-4a86-ab13-f7194954222d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/2fd186a8-4e6d-4a86-ab13-f7194954222d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:18</itunes:duration>
+      <pubDate>Fri, 02 Jul 2021 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og badegrislyden (5:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører en merkelig gryntelyd. Er det en badegris? Lydoskopet viser veien til Veslevannet.
+
+Medvirkende: 
+
+Fantorangen: Inger Lindheim Gundersen 
+
+Pivi: Haakon Strøm 
+
+Manus/regi: Christine Hauge 
+
+Lyddesign: Lillian Grønning 
+
+Komponist: John Vinge 
+
+Prosjektleder: Maria Grande ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/deef9efc-cee4-481a-a884-bd1c34e510d9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/deef9efc-cee4-481a-a884-bd1c34e510d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:49</itunes:duration>
+      <pubDate>Fri, 02 Jul 2021 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og ørnelyden (4:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører en lyd fra lufta. Er det en ørn? Lydoskopet viser veien til Tittetoppen
+
+Medvirkende: 
+
+Fantorangen: Inger Lindheim Gundersen 
+
+Pivi: Haakon Strøm 
+
+Manus/regi: Christine Hauge 
+
+Lyddesign: Lillian Grønning 
+
+Komponist: John Vinge 
+
+Prosjektleder: Maria Grande ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/b11137ae-c9f9-440b-abd5-19eb4c9170ef_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/b11137ae-c9f9-440b-abd5-19eb4c9170ef_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:55</itunes:duration>
+      <pubDate>Fri, 02 Jul 2021 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og motorlyden (3:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører en merkelig motorlyd. Er det isbilen?  Lydoskopet viser veien til Ekkohulen.
+
+Fantorangen: Inger Lindheim Gundersen  
+Pivi: Haakon Strøm  
+Manus/regi: Christine Hauge  
+Lyddesign: Lillian Grønning  
+Komponist: John Vinge  
+Prosjektleder: Maria Grande  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/caacc52f-90f6-4054-97ec-7d22015b668f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/caacc52f-90f6-4054-97ec-7d22015b668f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:24</itunes:duration>
+      <pubDate>Fri, 18 Jun 2021 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og trampelyden (2:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører en rar lyd i skogen. Kan det være trampehøner? Lydoskopet viser veien til Dyresletta.  
+
+Fantorangen: Inger Lindheim Gundersen  
+Pivi: Haakon Strøm  
+Manus/regi: Christine Hauge  
+Lyddesign: Lillian Grønning  
+Komponist: John Vinge  
+Prosjektleder: Maria Grande  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/ab255cbe-2765-45fc-aeba-7cb7466ddfc8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/ab255cbe-2765-45fc-aeba-7cb7466ddfc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:59</itunes:duration>
+      <pubDate>Fri, 18 Jun 2021 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+    <item>
+      <title>Fantorangen og skrattelyden (1:20)</title>
+      <description><![CDATA[Fantorangen og Pivi hører en merkelig skrattelyd. Kan det være havfruer som ler? Lydoskopet viser veien til Skjellstranda.
+
+Fantorangen: Inger Lindheim Gundersen  
+Pivi: Haakon Strøm  
+Manus/regi: Christine Hauge  
+Lyddesign: Lillian Grønning  
+Komponist: John Vinge  
+Prosjektleder: Maria Grande  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_lydmysterier/fd71a482-dc15-4656-8df2-951408588187_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_lydmysterier/fd71a482-dc15-4656-8df2-951408588187_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:11</itunes:duration>
+      <pubDate>Fri, 18 Jun 2021 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p97ZPxAvnDCwBg42O82urAmcvoeKk9Qqq6z11eKDGVsg.jpg"/>
+    </item>
+  </channel>
+</rss>

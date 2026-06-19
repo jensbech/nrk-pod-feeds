@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:32:26 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 02:22:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:45:44 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 02:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     <item>
+      <title>Haaland i New York og spørsmålsbonanza</title>
+      <description><![CDATA[Spillerne har fri, men vi er på jobb. Kan Elfenbenskysten bli Norges motstander i VM, og er laget viktigere enn stjernene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/827e6eee-5359-400a-be6e-ee5359700a99_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/827e6eee-5359-400a-be6e-ee5359700a99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:41</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 02:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
+    <item>
       <title>Trening på tørt gress og engelsk jubel</title>
-      <description><![CDATA[Skal Norge trene på tørt gress, hvorfor stater alltid Ødegaard og når så England bedre ut?]]></description>
+      <description><![CDATA[Skal Norge trene på tørt gress, hvorfor starter alltid Ødegaard og når så England bedre ut?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/3ab95fc0-9236-4a84-b95f-c09236ba849b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/3ab95fc0-9236-4a84-b95f-c09236ba849b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:55</itunes:duration>
@@ -484,15 +493,6 @@ Og hvis Nikita Haikin får norsk pass - er det han som bør stå i det norske m�
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/6ebe9997-1814-46bf-be99-971814b6bf53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:45</itunes:duration>
       <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
-    </item>
-    <item>
-      <title>Veien til VM: Før Italia</title>
-      <description><![CDATA[Søndag skjer det! Norge møter Italia, og med mindre tidenes fotballfiasko skjer i Milano skal Norge endelig få juble. Andrine og Carl Erik bygger opp til kampen. Kristoffer har med seg David Mokel og rapporterer direkte fra gatene i Milano.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/ec7fb139-5141-4ef3-bfb1-395141cef3d1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ec7fb139-5141-4ef3-bfb1-395141cef3d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:42</itunes:duration>
-      <pubDate>Sat, 15 Nov 2025 18:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gb55nFIZLbXEDCosjtvGTA9Bh62MB8c5xgBSF8BVBg0w.jpg"/>
     </item>
   </channel>

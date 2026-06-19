@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:34:24 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:48:10 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Fra kontrovers til suksess: Er dette sommerens stjerne?</title>
+      <description><![CDATA[Nylig stormet det, men nå knuser Olivia Rodrigo rekorder med sitt tredje album.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:46</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H7QfmXm3wE5Fbk1MvuAPRAn0wU7oJ3b2d3QI1EklQ7UA.jpg"/>
+    </item>
     <item>
       <title>Dop, damer og hatkrim-anklager: Et bevisst spill?</title>
       <description><![CDATA[Slik tok den kontroversielle gruppa Roc Boyz over musikknorge.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Thu, 16 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/y6QfLG6-NgwMrtV-l6yVrgXiLUe1LyDELXIFq2OGY8FA.jpg"/>
-    </item>
-    <item>
-      <title>«Ga fingeren» til Putin: Dette er Europas nye håp</title>
-      <description><![CDATA[I 16 år har Viktor Orban styrt Ungarn med jernhånd. Peter Magyar klarte å vippe han av tronen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/373627ff-20ea-4e3a-b627-ff20eaee3a71_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/373627ff-20ea-4e3a-b627-ff20eaee3a71_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:24</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rYbSWzmL19R03Ktxf4_zfQzmxawmILEd1FUNA-UAk13w.jpg"/>
     </item>
   </channel>
 </rss>

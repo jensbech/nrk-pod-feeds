@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:30:00 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:46:01 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Tyra Teodora Tronstad: Etter katastrofen</title>
+      <description><![CDATA[Er det mulig å skrive varmt og humoristisk om hvordan sporene etter de døde former livene til dem som er igjen? Forfatteren reiste til hjembygda og fant en dramatisk fortelling.  
+Nyeste bok: «Folk som hater lokalhistorie»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/b3281469-e7d7-4b7f-a814-69e7d7fb7fa1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/b3281469-e7d7-4b7f-a814-69e7d7fb7fa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:32</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8oGY09zCySpiPbnC-OVMXABaXH98y_bl2Yl8QUYxDmSw.jpg"/>
+    </item>
     <item>
       <title>Lars Saabye Christensen: Fruktsalat og frigjøring</title>
       <description><![CDATA[En sønn flytter ut, en ektemann klamrer seg til rutinene, og en husmor kjøper lodd i pengelotteriet i all hemmelighet.
@@ -55,8 +65,9 @@ Nyeste bok: «Bukke, nikke, neie»]]></description>
       <itunes:image href="https://gfx.nrk.no/3i44a9ViAea6P7rCgwyVrQupnkYW-FyL7lLWgvA0LQrw.jpg"/>
     </item>
     <item>
-      <title>Maria Sand</title>
-      <description><![CDATA[- Hvorfor skal bare menn over 60 skrive tjukke bøker?  Maria Sand med historisk roman. -Ville heller tryne enn å aldri ha prøvd.]]></description>
+      <title>Maria Sand: Sanselig toscansk gryte</title>
+      <description><![CDATA[Maria Sand om sin italiensk-norske krønike som strekker seg over 100 år, med tragedier og kjærlighet i en deilig miks av hvitløk og timian.
+Nyeste bok: «Alt mitt er ditt»]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9a4eea93-a431-4345-8eea-93a431034554_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9a4eea93-a431-4345-8eea-93a431034554_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:30</itunes:duration>
@@ -483,15 +494,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>56:35</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/pzQ6T0FOrpZiP_Fz0oCBAgYc-sM03ujfbM4K7IgbOIlA.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Karl Ove Knausgård</title>
-      <description><![CDATA[«Arendal» er nominert til Lytternes romanpris. Karl Ove Knausgård forteller i samtale med Drivkraft-programleder Vegard Larsen om barndomsminner fra byen i minus tjue.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/21a3c6d6-e4e1-41c6-bd8f-345695886488_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/21a3c6d6-e4e1-41c6-bd8f-345695886488_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nVh0nSTBapZ2O7J92HrWmAEi5bGVzDuBFYC-Jf1Tyo_A.jpg"/>
     </item>
   </channel>
 </rss>

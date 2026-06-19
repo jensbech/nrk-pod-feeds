@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 11:22:47 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:48:19 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hvem vasker vanndispenseren?</title>
+      <description><![CDATA[Henning har sett skrekkfilm igjen, Johannes elsker blåmuggost på burger og Arin ønsker seg amerikansk søppelmat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/be8bb746-660e-4136-8bb7-46660e313646_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/be8bb746-660e-4136-8bb7-46660e313646_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1eJULp2ECr4ymizsKKaaVgApsf-m3gBi7PmhSPwX1QVw.jpg"/>
+    </item>
     <item>
       <title>Ballefyllesyk tilstand er best</title>
       <description><![CDATA[Henning mener det er bedre å være «Ballefyllesyk» enn vanlig fyllesyk på jobb, og Arin har hatt mange jobber!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Mon, 20 Apr 2026 10:25:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA.jpg"/>
-    </item>
-    <item>
-      <title>Fis på dansegulvet?</title>
-      <description><![CDATA[Kan man fise på dansegulvet? Kan man bruke Thousan Island på alt? Og atter en gang – er Julius DØD?! God helg <3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c08403fd-a822-4cae-8403-fda8221cae8e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c08403fd-a822-4cae-8403-fda8221cae8e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:47</itunes:duration>
-      <pubDate>Sat, 18 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XS3ARKo1LQyaeIAhHDxEgA3lhtra8JAs8SmDg957gEnQ.jpg"/>
     </item>
   </channel>
 </rss>
