@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 13 Jun 2026 08:07:56 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:09:39 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Demokratiets elitistiske dansegulv</title>
+      <description><![CDATA[Hva er verst? Svensk overklasse, norske oljebaroner eller dansk medieelite som spiser hummer på folkemøtet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b0fa2528-a1a3-48fd-ba25-28a1a3c8fdbd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b0fa2528-a1a3-48fd-ba25-28a1a3c8fdbd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Patetiske vikinger</title>
       <description><![CDATA[Svenskene hater norsk VM-feber, nordmenn diskuterer kongelig organdonasjon og danske vant mesterskap i hockeysveis.]]></description>
@@ -455,15 +464,6 @@ Og hvorfor blir Greta Thunberg utpekt som antikrist? ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/b716badf-5ba9-4225-8adf-3df96c444b2a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 17 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
-    </item>
-    <item>
-      <title>Rasisme i kø</title>
-      <description><![CDATA[Stockholms uteliv sier nei til gjester med mørk hud, danske vant EM i måkeskrik, og politikere ble buet ut 1. mai.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/0a934e7e-db8f-42ef-a5b0-885b65a10482_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/0a934e7e-db8f-42ef-a5b0-885b65a10482_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 10 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XUFm7odp2PQuPkKVJjp2oQdbtz2JIBBdHVgegQKxHNhg.jpg"/>
     </item>
   </channel>

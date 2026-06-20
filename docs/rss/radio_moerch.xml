@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:47:12 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 06:25:00 +0200</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:09:49 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
     <item>
-      <title>Norge slo Irak 4-1</title>
+      <title>Ødegaard kommer til å smelle!</title>
+      <description><![CDATA[Fotball, politikk og litt reisebrev fra en fotballbane i New York City]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/7cba255a-024a-4e35-ba25-5a024aae352b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/7cba255a-024a-4e35-ba25-5a024aae352b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:29</itunes:duration>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA.jpg"/>
+    </item>
+    <item>
+      <title>For en kamp!</title>
       <description><![CDATA[Hvordan er stemningen i Boston? Erlend ringer Mimir direkte fra Gillette Stadium]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
