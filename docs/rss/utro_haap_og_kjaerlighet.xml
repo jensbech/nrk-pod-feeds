@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:35:18 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:31:57 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Tiggekopp og gruppeterapi</title>
+      <description><![CDATA[Panelet får besøk av Lisa Tønne og diskuterer: Skal Selma ta en pause fra dating, og når bør man egentlig ta praten om barn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/625ca279-af10-4b98-9ca2-79af10fb9857_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/625ca279-af10-4b98-9ca2-79af10fb9857_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:39</itunes:duration>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
+    </item>
     <item>
       <title>Snorre Rein: Parforhold og psykisk sykdom</title>
       <description><![CDATA[Snorre Rein forteller om alvorlige psykiske utfordringer og hvordan det påvirket forholdet hans.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>48:11</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wSGYr-c_JKClehliRT9gegDvCbofegb5AusLFgwRvZpw.jpg"/>
-    </item>
-    <item>
-      <title>Kasper Kvello: Å finne den rette som 20-åring</title>
-      <description><![CDATA[Kasper Kvello forteller om frieri, et tårevått bryllup og hvordan hans egne utfordringer påvirket parforholdet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/a8b3dfb5-13d3-4a6c-b3df-b513d34a6c18_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/a8b3dfb5-13d3-4a6c-b3df-b513d34a6c18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:21</itunes:duration>
-      <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PmSAQcs6bwlRCcUCubrGuwMJVODWVStFf_Nb3PyHCW2A.jpg"/>
     </item>
   </channel>
 </rss>

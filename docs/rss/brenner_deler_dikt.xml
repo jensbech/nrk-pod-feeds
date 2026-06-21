@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 14 Jun 2026 08:23:16 +0000</lastBuildDate>
-    <pubDate>Sun, 14 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:30:22 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Thea Sofie Loch Næss: Hva er kjærlighet?</title>
+      <description><![CDATA[I en bruktbutikk i Sverige fant skuespilleren noe helt spesielt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/07e9e4c9-0a51-432d-a9e4-c90a51e32d6a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/07e9e4c9-0a51-432d-a9e4-c90a51e32d6a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:33</itunes:duration>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/URxK4oh8O1_fNw9eeOg7tQqQSrJUMENppXI-Geo9AGGQ.jpg"/>
+    </item>
     <item>
       <title>Kari Bremnes: Til hjertet</title>
       <description><![CDATA[Diktet minner den folkekjære artisten på å være takknemlig for hjertet som slår.]]></description>
@@ -521,17 +530,6 @@ Ukas dikt  er  "Det vanskeligste" av  Hans Børli]]></description>
       <itunes:duration>17:21</itunes:duration>
       <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wI-B426sKxjWvIpKAiKxMAK2XtePKGnzVk2eXg8W3MaQ.jpg"/>
-    </item>
-    <item>
-      <title>Frode Grytten: Eg likar ikkje nyttårsaftan</title>
-      <description><![CDATA[Forfattar Frode Grytten synes nyttårsaftan er vanskeleg. Det er for stort press på å vere glad. Men ein gong var det morosamt. Den gangen alt gjekk gale.
-
-Diktet denne veka er «Naudbluss» av Frode Grytten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/662ef380-ec87-4248-bb91-1695bca536a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/662ef380-ec87-4248-bb91-1695bca536a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:50</itunes:duration>
-      <pubDate>Sat, 30 Dec 2023 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8Gh6YKkhP4rTrLTYpyBzqwCBLTcxj6odSHE_CM-09cnQ.jpg"/>
     </item>
   </channel>
 </rss>
