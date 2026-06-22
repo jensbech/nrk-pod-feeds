@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Jun 2026 08:09:49 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:02:53 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    <item>
+      <title>Mimir har landet</title>
+      <description><![CDATA[Vi har vært på ekspedisjon og opplevd "no autentisk shit" i lille Ecuador]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:30</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GYMV9aMYiw_E5Fiw41ktuwsEkrm3m6PrubFYvuAz0L5w.jpg"/>
+    </item>
     <item>
       <title>Ødegaard kommer til å smelle!</title>
       <description><![CDATA[Fotball, politikk og litt reisebrev fra en fotballbane i New York City]]></description>

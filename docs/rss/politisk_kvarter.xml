@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:48:29 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:02:49 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Slutt for skatteparadiset</title>
+      <description><![CDATA[Bø i Vesterålen ville vere skatteparadiset som tiltrakk seg folk, formuer og investeringar. No gir dei opp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/3901b9eb-beed-4f48-81b9-ebbeedef482b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3901b9eb-beed-4f48-81b9-ebbeedef482b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:04</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_JVj14GJEP6bxY6My-EHlAiYFMk3wIysgCHI3eu28Jqg.jpg"/>
+    </item>
     <item>
       <title>Støres halvår</title>
       <description><![CDATA[Regjeringen har blitt overkjørt av Stortinget i flere viktige saker i vår, og Støre anklages for å lede en svak regjering.
@@ -471,16 +480,6 @@ Ap får skylda, men Tromsø er ikke helvete på jord, svarer statsråden.]]></de
       <itunes:duration>15:05</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/14ndzdQl0hNDMc0W4jizbAWYvJCtKtlqmMuju8oqNzFQ.jpg"/>
-    </item>
-    <item>
-      <title>Kan vi stole på Trump?</title>
-      <description><![CDATA[Trump truet med å utslette en sivilisasjon.
-Hvordan skal Norge forholde seg til vår viktigste allierte nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/347206ee-97d9-4600-b206-ee97d936003f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/347206ee-97d9-4600-b206-ee97d936003f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/p7fMfh0ULjNkDVRxxDDfswJQba0G1VNKlb2dxyMEIV1Q.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:48:10 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:02:36 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Dobbeltdrap i Sverige: Er nordmannen torpedo?</title>
+      <description><![CDATA[En mann fra Sørlandet knyttes til en blodig gjengkonflikt i Sverige.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8a7b8710-2770-41d0-bb87-10277091d022_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8a7b8710-2770-41d0-bb87-10277091d022_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:13</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nwF5UtyIgwRhIpmqzrrEngjFMRw9W9Z2kpLu2acry3xg.jpg"/>
+    </item>
     <item>
       <title>Fra kontrovers til suksess: Er dette sommerens stjerne?</title>
       <description><![CDATA[Nylig stormet det, men nå knuser Olivia Rodrigo rekorder med sitt tredje album.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>17:53</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0GN6QDHyBHZvy_P0h5KLdAI-MDf9UASNgnaIcPbQ0I3Q.jpg"/>
-    </item>
-    <item>
-      <title>Månekappløpet: Derfor kniver USA og Kina</title>
-      <description><![CDATA[USAs nylige romferd er både historisk og en del av en større maktkamp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/7259a63e-9dbd-489b-99a6-3e9dbd889b3e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/7259a63e-9dbd-489b-99a6-3e9dbd889b3e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:59</itunes:duration>
-      <pubDate>Thu, 16 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y6QfLG6-NgwMrtV-l6yVrgXiLUe1LyDELXIFq2OGY8FA.jpg"/>
     </item>
   </channel>
 </rss>

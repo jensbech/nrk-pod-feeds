@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:32:13 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:00:44 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Skogfinnene - Ole K. Bonden</title>
+      <description><![CDATA[I går ble skogfinnenes dag markert her i landet. Finnskogen har biskop Ole Kristian Bonden et forhold til, og tar oss med dit.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/816f8521-afbc-473a-af85-21afbc673a04_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/816f8521-afbc-473a-af85-21afbc673a04_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:34</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zWZ_kv4o8H7Ax_QSwSAjyQYNzrgIvktIrVyiQ0t6a2Vg.jpg"/>
+    </item>
     <item>
       <title>Sangglede - Kari Alvsvåg</title>
       <description><![CDATA[For den som er glad i sang og musikk, er det å kunne sitte sammen med andre og synge ut, et godt sted å være.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/e65bd595-3c0c-4dd4-9bd5-953c0c5dd467_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:41</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
-    </item>
-    <item>
-      <title>KI-musikk - Jan Erik Larssen</title>
-      <description><![CDATA[Lar du deg fasinere av mulighetene som KI gir oss? Jan Erik Larssen er det, og kunstig inteligens har gitt ham en musikalsk drøm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/3c98d230-09a0-4b13-98d2-3009a04b13b7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/3c98d230-09a0-4b13-98d2-3009a04b13b7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:52</itunes:duration>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
     </item>
   </channel>

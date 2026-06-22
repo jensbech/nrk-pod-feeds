@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 09:04:43 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:02:21 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
+    <item>
+      <title>Abbo &amp; Amara på besøk</title>
+      <description><![CDATA[Abbo og Amara forteller om alt fra festivalopplevelser til kondom-angst på butikken. Og hva er guttas dummeste kjøp?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/6745e96d-a064-41b7-85e9-6da064b1b71e_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/6745e96d-a064-41b7-85e9-6da064b1b71e_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:14</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GDyVKgB8zF6cnd0_FDL_kAFV2ME5tNYIOIu1o4ekKv-A.jpg"/>
+    </item>
     <item>
       <title>Buzz Studio på besøk</title>
       <description><![CDATA[Mo er ikke imponert over Martin Ødegaard, men hva tenker gutta fra Buzz Studio? Og en av dem har en annerledes VM-spådom.]]></description>
@@ -455,15 +464,6 @@ Franky og Mo sjekker ut om hun egentlig har rizz.]]></description>
       <itunes:duration>42:50</itunes:duration>
       <pubDate>Mon, 22 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0puQtxYjgP-Ztrg1-FCOzQU-OtBO4UFEtKcQTGGi3yMA.jpg"/>
-    </item>
-    <item>
-      <title>Jonas Gahr Støre er min «daddy»</title>
-      <description><![CDATA[Franky mener Jonas Gahr Støre kunne vært Norges største influenser og roast-battle konge. Mo mener han blir hypa altfor mye.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/nittiatten/f515c7f1-36aa-4d9a-95c7-f136aa5d9a18_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f515c7f1-36aa-4d9a-95c7-f136aa5d9a18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:47</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"/>
     </item>
   </channel>
 </rss>

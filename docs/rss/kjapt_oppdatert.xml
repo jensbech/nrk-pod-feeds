@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:47:24 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:01:49 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Hvor mye kontanter bør man ha hjemme?</title>
+      <description><![CDATA[Og landslagssjefen mener NRK driver med tullprat]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/826ded8d-b216-4060-aded-8db2162060b4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/826ded8d-b216-4060-aded-8db2162060b4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:49</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GNHo9_hLTEpgMwGQZSkakQcIhNAQMh3RSfb8EBsYiRjA.jpg"/>
+    </item>
     <item>
       <title>Har alle en plikt til å forsvare Norge?</title>
       <description><![CDATA[Store forskjeller i hvor motiverte folk er på sesjon.]]></description>
@@ -457,15 +466,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>06:32</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RkYAAmLYm6bnm4ORf39yfAy7AhQsYdCg1TJsoNzTj4eA.jpg"/>
-    </item>
-    <item>
-      <title>USA, Israel og Iran er einige om våpenkvile</title>
-      <description><![CDATA[Og «Jo Nesbøs Harry Hole» toppar Netflix i 14 land.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/3bf5d8de-f22f-4002-b5d8-def22f8002f7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/3bf5d8de-f22f-4002-b5d8-def22f8002f7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:51</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XxxYSG2u9ldDNvfldBocfwCIG8VNKQdNlPS9MDYXB41w.jpg"/>
     </item>
   </channel>
 </rss>
