@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 20 Jun 2026 08:08:40 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:11:32 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Starmer går av</title>
+      <description><![CDATA[Keir Starmer varslet i dag at han trekker seg som partileder. Han fortsetter som statsminister fram til partiet har valgt en ny leder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ff7cd0c-ff57-4f46-b7cd-0cff57bf46b9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ff7cd0c-ff57-4f46-b7cd-0cff57bf46b9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yma0rg6rrmGADUhIPgTfggVYgTGPfJ0-eBgxThf4Qraw.jpg"/>
+    </item>
     <item>
       <title>Arbeiderpartiet vil ha KI ut av skolen</title>
       <description><![CDATA[Det er som å prøve å snu klokken tilbake i tid, mener teknolog.]]></description>
@@ -454,15 +463,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pZ-6Eb3cJIVq1u9bgmLjkQc_2_CFVXH684j1Oh4Snx5Q.jpg"/>
-    </item>
-    <item>
-      <title>Iran truer med å trekke seg</title>
-      <description><![CDATA[Israel fortsetter med massiv bombing av Libanon etter våpenhvilen ble innført i natt. Iran truer med å trekke seg fra avtalen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f2ac3261-9790-47c4-ac32-61979087c4c4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f2ac3261-9790-47c4-ac32-61979087c4c4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mdCRsb18LZX1O6wgVPKJZwBfRC8lleVzPlQuzLFlIEtA.jpg"/>
     </item>
   </channel>
 </rss>

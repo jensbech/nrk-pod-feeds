@@ -11,10 +11,21 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 11:31:01 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:11:15 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Mensen, introverter og nattlige aktiviteter</title>
+      <description><![CDATA[Vi gir deg råd til din første menstruasjon! Og deler litt traumatiske hendelser ...
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/95b12f45-0844-4d96-b12f-4508444d9674_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/95b12f45-0844-4d96-b12f-4508444d9674_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:00</itunes:duration>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Ligge på festivaldo, sommerleir og «kom du?»</title>
       <description><![CDATA[Zara outer hele sexlivet sitt.
@@ -546,17 +557,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/074aa46f-e466-47a8-8aa4-6fe46687a8d5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:25</itunes:duration>
       <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Spøtta-spesial #8: Backer-tegn, skilte foreldre og drømmer</title>
-      <description><![CDATA[En lytter ble sendt i skammekroken av eksen, og en annen har hatt en drøm om Baksnakk. Og hvilket tegn kan man vise Sofie, Zara og Milie i offentligheten for å vise at man er en backer?
-
-GOD JUL <3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/281d6174-3868-4ac6-9d61-7438685ac67e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/281d6174-3868-4ac6-9d61-7438685ac67e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:05</itunes:duration>
-      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

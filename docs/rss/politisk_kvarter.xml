@@ -9,10 +9,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:02:49 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jun 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:12:57 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Skatt og ansvarlig oppførsel</title>
+      <description><![CDATA[Dagen før skattekommisjonens rapport, er beskjeden fra Rødt klar: 
+Kast den i en skuff. Enighet om skatt blir det aldri, uansett. 
+Helt uansvarlig oppførsel, ifølge Høyre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/2d37e810-a2cb-4fcf-b7e8-10a2cb3fcfc6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2d37e810-a2cb-4fcf-b7e8-10a2cb3fcfc6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hVHD0clavJM6W9tpIOZfJQbLAlNJoeDiF3VZo2SKIa3A.jpg"/>
+    </item>
     <item>
       <title>Slutt for skatteparadiset</title>
       <description><![CDATA[Bø i Vesterålen ville vere skatteparadiset som tiltrakk seg folk, formuer og investeringar. No gir dei opp.]]></description>
@@ -470,16 +481,6 @@ Et bevis på at Arbeiderpartiet er en ulykke for kommune-Norge, mener Høyre.]]>
       <itunes:duration>15:05</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/e4x6xYNff1BoHw-4Ug7U4A6Y2dweaFE3spygh9B5tWQg.jpg"/>
-    </item>
-    <item>
-      <title>Tromsø - Nordens Paris eller helvete?</title>
-      <description><![CDATA[Høyre-profil mener turismen har tatt overhånd og at flyplassen er "et rent helvete". 
-Ap får skylda, men Tromsø er ikke helvete på jord, svarer statsråden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/919a49fb-3982-4865-9a49-fb39826865a5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/919a49fb-3982-4865-9a49-fb39826865a5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Thu, 09 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/14ndzdQl0hNDMc0W4jizbAWYvJCtKtlqmMuju8oqNzFQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:02:36 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:12:36 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Katastrofebrannen i LA: Sto en 29-åring bak?</title>
+      <description><![CDATA[Én mann er tiltalt for å ha startet branninfernoet i 2025 som i tok livet av flere mennesker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:08</itunes:duration>
+      <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0Is0UetxW_zYbjtIXyU1Ogs2mfQiLl5MObmSoXjPG0JQ.jpg"/>
+    </item>
     <item>
       <title>Dobbeltdrap i Sverige: Er nordmannen torpedo?</title>
       <description><![CDATA[En mann fra Sørlandet knyttes til en blodig gjengkonflikt i Sverige.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>18:44</itunes:duration>
       <pubDate>Mon, 20 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/66DY53QvxMXUY7vAKnls7A7KZSbaVzJZ42AI3Su-M6Rg.jpg"/>
-    </item>
-    <item>
-      <title>NRK-profilen og den ulovlige bjørnejakten</title>
-      <description><![CDATA[To videoer og et bjørneskinn gjorde at Isak Dreyer havnet på tiltalebenken i Sverige.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/400c76d3-acbd-45f8-8c76-d3acbdb5f8e1_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/400c76d3-acbd-45f8-8c76-d3acbdb5f8e1_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:53</itunes:duration>
-      <pubDate>Fri, 17 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0GN6QDHyBHZvy_P0h5KLdAI-MDf9UASNgnaIcPbQ0I3Q.jpg"/>
     </item>
   </channel>
 </rss>

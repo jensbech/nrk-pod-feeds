@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:48:46 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:13:16 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Vi viser orgasmelyd i ubehag</title>
+      <description><![CDATA[Maria Stavang er vikar og har med et solid ubehag, Anna har fornærmet Markus og hva gjør man 8 kg sjokolade?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/0fc0bf88-cb88-44e3-80bf-88cb8874e372_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/0fc0bf88-cb88-44e3-80bf-88cb8874e372_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:22</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>– Noen kom på døra i natt</title>
+      <description><![CDATA[Selveste Hedda GG er vår vikar i dag, og hun har med fredagshilsen! Det blir også quizvang fra Markus og Anna har endelig fått seg solseng.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/bfb06e84-9a9a-4f3f-b06e-849a9a0f3f68_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/bfb06e84-9a9a-4f3f-b06e-849a9a0f3f68_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:13</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel kasta Sofie under leiebilen!</title>
       <description><![CDATA[Sofie forteller da hun og Daniel krasja med leiebil, Markus har stand-up om en hare og Anna er lei seg over kaffekø!]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/69725665-9a2c-4e27-b256-659a2c9e277f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:42</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Farger Lars Monsen håret?</title>
-      <description><![CDATA[Anna har fått hat, Daniel blir avhørt av "Harry Høle" fra Hurrahølet og Markus lanserer konspirasjonsteori om Lars Monsen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6ed2688f-ea01-4d5b-9268-8fea01bd5bb7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6ed2688f-ea01-4d5b-9268-8fea01bd5bb7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:59</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Hva sender egentlig brevduer?</title>
-      <description><![CDATA[Uforberedte folk på flyplassen suger, Daniel har ny oppdatering om brevduemannen og er det vits å ha elektrisk håndkletørker hjemme?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/685ba478-0806-4930-9ba4-780806e930c9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/685ba478-0806-4930-9ba4-780806e930c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:41</itunes:duration>
-      <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
