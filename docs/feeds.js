@@ -14,14 +14,14 @@ const feeds = [
   {
     "id": "abels_taarn",
     "title": "Abels tårn",
-    "season": null,
-    "enabled": true
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "andakten",
     "title": "Andakten",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "andregenerasjonen",
@@ -69,7 +69,7 @@ const feeds = [
     "id": "bibelen",
     "title": "Bibelen",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "billis_og_bollos",
@@ -87,7 +87,7 @@ const feeds = [
     "id": "binnabnna_ujujju",
     "title": "Binnabánnaš & Ujujju",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "bjoernen_lyver",
@@ -117,7 +117,7 @@ const feeds = [
     "id": "brenner_deler_dikt",
     "title": "Brenner deler dikt",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "brillebjoerns_kvissvas",
@@ -255,19 +255,19 @@ const feeds = [
     "id": "fantorangenfortellinger",
     "title": "Fantorangenfortellinger",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "fantorangens_lydmysterier",
     "title": "Fantorangens lydmysterier",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "fantorangens_vitseshow",
     "title": "Fantorangens vitseshow",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "fantus_og_lydene",
@@ -283,9 +283,9 @@ const feeds = [
   },
   {
     "id": "filmpolitiet",
-    "title": "Filmpolitiets podkast",
-    "season": null,
-    "enabled": true
+    "title": "Filmpolitiets podkast ",
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "forstaa_norge",
@@ -375,7 +375,7 @@ const feeds = [
     "id": "hallo_bablo",
     "title": "Hallo Bablo",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hei_nabo",
@@ -396,10 +396,16 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "herreavdelingen",
+    "title": "Herreavdelingen",
+    "season": null,
+    "enabled": false
+  },
+  {
     "id": "historiske_kjendiser",
     "title": "Historiske kjendiser",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "hoera",
@@ -411,6 +417,12 @@ const feeds = [
     "id": "hos_peder",
     "title": "Hos Peder",
     "season": "LATEST_SEASON",
+    "enabled": false
+  },
+  {
+    "id": "hvem_skjoet_balder",
+    "title": "Hvem skjøt Balder?",
+    "season": null,
     "enabled": false
   },
   {
@@ -471,7 +483,7 @@ const feeds = [
     "id": "juorre",
     "title": "Juorre",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kaffipraati",
@@ -591,7 +603,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kroppen",
@@ -663,7 +675,7 @@ const feeds = [
     "id": "luois_luohti",
     "title": "Luođis luohtái",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "lyden_av_17_mai",
@@ -699,7 +711,7 @@ const feeds = [
     "id": "markus_og_wolfgang_snakker_klassisk",
     "title": "Markus og Wolfgang snakker klassisk",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "maskoramapodkasten",
@@ -795,7 +807,7 @@ const feeds = [
     "id": "musikkhistorier",
     "title": "Musikkhistorier",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "musikkrommet",
@@ -968,8 +980,8 @@ const feeds = [
   {
     "id": "radio_moerch",
     "title": "Radio Mørch",
-    "season": null,
-    "enabled": false
+    "season": "LATEST_SEASON",
+    "enabled": true
   },
   {
     "id": "radio_utslagsnes",
@@ -981,7 +993,7 @@ const feeds = [
     "id": "radiodokumentaren",
     "title": "Historier fra virkeligheten",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "radiolegen",
@@ -1052,7 +1064,7 @@ const feeds = [
   {
     "id": "salongen",
     "title": "Salongens lesesirkel ",
-    "season": null,
+    "season": "LATEST_SEASON",
     "enabled": false
   },
   {
@@ -1125,7 +1137,7 @@ const feeds = [
     "id": "sommer_i_p2",
     "title": "Sommer i P2",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "sophie_og_fetisha",
@@ -1185,7 +1197,7 @@ const feeds = [
     "id": "strid",
     "title": "Strid – de norske borgerkrigene",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "stroemwasenius",
@@ -1215,7 +1227,7 @@ const feeds = [
     "id": "supertroett",
     "title": "Supertrøtt",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "tazte_priv",
@@ -1376,8 +1388,8 @@ const feeds = [
   {
     "id": "verdiboersen",
     "title": "Verdibørsen",
-    "season": null,
-    "enabled": true
+    "season": "LATEST_SEASON",
+    "enabled": false
   },
   {
     "id": "vg3",
