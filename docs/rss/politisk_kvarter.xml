@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:12:57 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:09:15 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Håpar på brei skatteavtale</title>
+      <description><![CDATA[Jens Stoltenbergs skattekommisjon legg fram forslaget sitt i dag. Leiaren ber politikarane vere modige.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/88c65bdf-2bbd-401f-865b-df2bbd001fe4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/88c65bdf-2bbd-401f-865b-df2bbd001fe4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:04</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gILOsVYKnmz_e3wysSvoOQnAxr1DxsgIRHh95L_KvZLg.jpg"/>
+    </item>
     <item>
       <title>Skatt og ansvarlig oppførsel</title>
       <description><![CDATA[Dagen før skattekommisjonens rapport, er beskjeden fra Rødt klar: 
@@ -472,15 +481,6 @@ Et bevis på at Arbeiderpartiet er en ulykke for kommune-Norge, mener Høyre.]]>
       <itunes:duration>14:58</itunes:duration>
       <pubDate>Mon, 13 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oI1udyOlhEpNLABbviZJmQEK8shLkh6buSnouHyF1iEg.jpg"/>
-    </item>
-    <item>
-      <title>Pengar frå staten rett i handa</title>
-      <description><![CDATA[Er det ein betre idé at staten gir oss pengar på konto enn at den fjernar avgifter på drivstoff?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e9912b54-f4c3-48b1-912b-54f4c3e8b152_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e9912b54-f4c3-48b1-912b-54f4c3e8b152_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/e4x6xYNff1BoHw-4Ug7U4A6Y2dweaFE3spygh9B5tWQg.jpg"/>
     </item>
   </channel>
 </rss>

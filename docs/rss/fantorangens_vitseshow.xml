@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:46:51 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:07:59 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    <item>
+      <title>Brrr-ingebær, koko-løk og vitse-rap</title>
+      <description><![CDATA[Fantorangen og Pivi lager tullete versjoner av kjente barnesanger. Da blir det ekstra god stemning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/f1fc9e30-fc84-4db1-bc9e-30fc84adb1b1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/f1fc9e30-fc84-4db1-bc9e-30fc84adb1b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    </item>
     <item>
       <title>Skolepromp og superhelten Pantorangen</title>
       <description><![CDATA[Fantorangen drømmer om skolen og blir til en super-panter.]]></description>

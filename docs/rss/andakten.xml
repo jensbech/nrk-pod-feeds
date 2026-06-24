@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:10:55 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:07:35 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Jonsok - Ole K. Bonden</title>
+      <description><![CDATA[Du feiret kanskje St.Hans-aften i går? I dag er det St.Hans-dagen, og den har også sin betydning]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/71cb7ffb-9f52-4066-8b7f-fb9f52506646_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/71cb7ffb-9f52-4066-8b7f-fb9f52506646_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:12</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
+    </item>
     <item>
       <title>St.Hans - Ole K. Bonden</title>
       <description><![CDATA[Mange har tradisjoner knyttet til feiring av St.Hans, eller Jonsok. Jonsokbukett kan være en av dem.]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/6d436d15-4208-4ac0-836d-154208cac077_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:16</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zWZ_kv4o8H7Ax_QSwSAjyQYNzrgIvktIrVyiQ0t6a2Vg.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
     </item>
     <item>
       <title>Skogfinnene - Ole K. Bonden</title>
@@ -28,7 +37,7 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/816f8521-afbc-473a-af85-21afbc673a04_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:34</itunes:duration>
       <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zWZ_kv4o8H7Ax_QSwSAjyQYNzrgIvktIrVyiQ0t6a2Vg.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
     </item>
     <item>
       <title>Sangglede - Kari Alvsvåg</title>
@@ -452,15 +461,6 @@
       <itunes:duration>03:27</itunes:duration>
       <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QmQZ1zV-heNIeID1TvUDhg4onSucFrQ32IeBPA8ut7bw.jpg"/>
-    </item>
-    <item>
-      <title>Oppdraget - Jan Erik Larssen</title>
-      <description><![CDATA[Har du et mål med livet? Noe som er ditt oppdrag? Det kan gi seg ulike utslag og forandre valgene du gjør.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/808a0b4c-6e34-4b1a-8a0b-4c6e34bb1aab_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/808a0b4c-6e34-4b1a-8a0b-4c6e34bb1aab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:33</itunes:duration>
-      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
     </item>
   </channel>
 </rss>

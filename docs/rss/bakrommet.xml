@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:11:06 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 08:48:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:07:44 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 04:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Hvem bør ut til Frankrike-kampen?</title>
+      <description><![CDATA[Vi ser fremover mot Frankrike-kampen. Solbakken varsler endringer, men hvem skal ut? Og er Haaland på toppscorer-jakt én av dem?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/681a31df-bf4e-432f-9a31-dfbf4e432f1f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/681a31df-bf4e-432f-9a31-dfbf4e432f1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:53</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 04:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U4qBCVBfWcF6-np9KtycqQRHTrk_VI-UG0TcR2qNKbOA.jpg"/>
+    </item>
     <item>
       <title>Norge-Senegal: For en thriller!</title>
       <description><![CDATA[Norge er videre i VM og kan vinne gruppa med seier mot Frankrike. Men hvor langt kan dette laget gå?]]></description>
@@ -481,18 +490,6 @@ Hva skjer nå med Bodø/Glimt?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/812309e3-fc81-4b9d-a309-e3fc812b9d4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:34</itunes:duration>
       <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Lytterne uenige med Bakrommet. Krever Glimt-stjerne i VM.</title>
-      <description><![CDATA[Kan vi seriøst sette Dønnum før Bodø/Glimts store stjerne? Lytterne er uenig med Bakrommets ekspert.
-Herrelandslaget får med seg stjernekokker og en person til passe på kjærester og familie i VM. 
-Aron Dønnum ble utestengt av egen klubb, men slo godt tilbake. 
-Og hvis Nikita Haikin får norsk pass - er det han som bør stå i det norske målet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d63ddd06-f497-4c01-bddd-06f4971c0178_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d63ddd06-f497-4c01-bddd-06f4971c0178_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:45</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 14:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>

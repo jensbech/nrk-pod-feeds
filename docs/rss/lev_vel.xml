@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:45:58 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:08:44 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    <item>
+      <title>«Far og datter»-forholdet</title>
+      <description><![CDATA[For noen er pappa den ultimate superhelten og klippen i livet, for andre er han en kilde til konstant frustrasjon og utrygghet. Psykolog Geir Løkling gir oss innsikt i relasjonen mellom far og datter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/0cbf7cf8-e2ba-4ebf-bf7c-f8e2ba1ebf45_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0cbf7cf8-e2ba-4ebf-bf7c-f8e2ba1ebf45_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:24</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
+    </item>
     <item>
       <title>Hvordan påvirker tarmen psyken?</title>
       <description><![CDATA[Hva skjer med magen når du blir stressa? Og hvordan kan vi sørge for at den har det best mulig? Professor Siv Kjølsrud Bøhn forteller oss hvordan tarmfloraen påvirker helsen vår.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/b94e5cc7-1489-4565-8e5c-c71489456569_2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/b94e5cc7-1489-4565-8e5c-c71489456569_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:52</itunes:duration>
+      <itunes:duration>42:46</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
@@ -453,15 +462,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <itunes:duration>20:37</itunes:duration>
       <pubDate>Mon, 29 Sep 2025 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Scrollechallenge: Hvem vinner?</title>
-      <description><![CDATA[Det er bare fire dager igjen av konkurransen og det er én deltaker som har tatt opp konkurransen mot Linnéa og Kristoffer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/ab19853c-145f-472e-9985-3c145f372eac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/ab19853c-145f-472e-9985-3c145f372eac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:50</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
     </item>
   </channel>
 </rss>
