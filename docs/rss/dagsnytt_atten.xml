@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Jun 2026 20:22:12 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:07:37 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Reaksjoner på Skattekommisjonens rapport</title>
+      <description><![CDATA[Stoltenbergs skattekommisjon vil senke skattenivået i Norge med inntil 23 milliarder kroner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bf6b1150-1ae8-4c8f-ab11-501ae84c8fa3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bf6b1150-1ae8-4c8f-ab11-501ae84c8fa3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tpvJmJBW6cOY41KbsL7GIw0qsMA6O7YGPH9xQnyai1_A.jpg"/>
+    </item>
     <item>
       <title>Tror på norsk ro-suksess</title>
       <description><![CDATA[Den norske roingen i VM går verden rundt. Sosiolog mener det kan gi suksess også for norsk reiseliv og eksportbransjen.]]></description>
@@ -454,15 +463,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Mon, 13 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Hqjb0EtK_B-UoCggtwiJnwJ-p2ioB4Wm80rRAGpw8bmg.jpg"/>
-    </item>
-    <item>
-      <title>Skjebnevalg i Ungarn</title>
-      <description><![CDATA[Søndag går ungarerne til valgurnene. I EU er spenningen stor om hvorvidt det blir et maktskifte i landet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/38875994-05cd-40e8-8759-9405cd80e810_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/38875994-05cd-40e8-8759-9405cd80e810_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 10 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gC9FnN8vKVlIL0jXE2A7Fg4I924-eWvOdWfWtk-dNwGQ.jpg"/>
     </item>
   </channel>
 </rss>

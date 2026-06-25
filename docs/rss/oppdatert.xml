@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:09:06 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:09:13 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Dødsgåte i Mango-dynastiet: Ble gründeren drept?</title>
+      <description><![CDATA[Motemogulen Isak Andtich døde under en fjelltur. Men hva skjedde egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fb1152db-dca0-45f9-9152-dbdca0d5f960_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fb1152db-dca0-45f9-9152-dbdca0d5f960_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:08</itunes:duration>
+      <pubDate>Thu, 25 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Um1FEujV6wsdry3M28YVPQeml7MaQ20wqmRa0582f_pg.jpg"/>
+    </item>
     <item>
       <title>Iran i VM: Storpolitisk drama</title>
       <description><![CDATA[Landslagstreneren til Iran kaller laget for det mest undertrykte i VM-historien.]]></description>
@@ -26,7 +35,7 @@
       <description><![CDATA[Én mann er tiltalt for å ha startet branninfernoet i 2025 som i tok livet av flere mennesker.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:08</itunes:duration>
+      <itunes:duration>16:05</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0Is0UetxW_zYbjtIXyU1Ogs2mfQiLl5MObmSoXjPG0JQ.jpg"/>
     </item>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>19:56</itunes:duration>
       <pubDate>Wed, 22 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ry-CN_g2ZpSyS0uXhrf7RAhmE-vIKfpnwbDk_1vZhYiw.jpg"/>
-    </item>
-    <item>
-      <title>Mormon wives-skandalen: Disney i hardt vær</title>
-      <description><![CDATA[Slik gikk reality-dronningen Taylor Frankie Paul fra å være Disneys gullgruve, til å bli en PR-skandale.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/9e2e14c7-b01d-4aa1-ae14-c7b01d7aa159_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/9e2e14c7-b01d-4aa1-ae14-c7b01d7aa159_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:02</itunes:duration>
-      <pubDate>Tue, 21 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7mR4LmHFWiCCkfBK4DI9GQJyLtC0AdI-59PJb5ITZAMQ.jpg"/>
     </item>
   </channel>
 </rss>
