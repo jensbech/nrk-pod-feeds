@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 10:57:01 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:01:07 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Fremmede katter på overnatting</title>
+      <description><![CDATA[Arin har med seg Heidi, Johannes og Nora fra P3morgens extended cinematic universe!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b083e71c-1c9b-4886-83e7-1c1c9b188604_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b083e71c-1c9b-4886-83e7-1c1c9b188604_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:20</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
+    </item>
     <item>
       <title>Henning har blitt jekket ned.</title>
       <description><![CDATA[Arin hater fortsatt at folk raper i offentligheten og Henning har blitt jekket ned av kjæresten.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>01:05:55</itunes:duration>
       <pubDate>Sat, 25 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dNA3ULHkxG2_R1h8PdFdowSe21bdQMYbAbuSk2OJPfqw.jpg"/>
-    </item>
-    <item>
-      <title>Overdose på sterk mais-snacks.</title>
-      <description><![CDATA[Arin er tilbake! Vi snakker om potetgull og døde Soundcloud-rappere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/40777154-9b5b-4a93-b771-549b5b7a93c9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/40777154-9b5b-4a93-b771-549b5b7a93c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>

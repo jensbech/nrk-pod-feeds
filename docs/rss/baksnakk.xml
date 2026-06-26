@@ -11,10 +11,21 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:11:15 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:59:45 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Neglebiting, større hofter og brevmåker</title>
+      <description><![CDATA[Er det vanlig å ha akrylnegler i 9. klasse?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/61679217-3ab8-40f1-a792-173ab800f1d0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/61679217-3ab8-40f1-a792-173ab800f1d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:54</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Mensen, introverter og nattlige aktiviteter</title>
       <description><![CDATA[Vi gir deg råd til din første menstruasjon! Og deler litt traumatiske hendelser ...
@@ -546,17 +557,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/595f1d81-7835-484b-9f1d-817835384b67_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:51</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Nyttår, spådommer og å gå videre</title>
-      <description><![CDATA[Godt nyttår!
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/074aa46f-e466-47a8-8aa4-6fe46687a8d5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/074aa46f-e466-47a8-8aa4-6fe46687a8d5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:25</itunes:duration>
-      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>
