@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:07:37 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 08:12:10 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Jordskjelv i Venezuela</title>
+      <description><![CDATA[Myndighetene har erklært unntakstilstand etter to kraftige jordskjelv. Dødstallet fryktes å bli svært høyt, og redningsarbeidere jobber på spreng for å redde mennesker ut av ruinene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NJm-JEYB8F6ONumyP_Ua0A2on-1-4n3wQdCtOZlzI67g.jpg"/>
+    </item>
     <item>
       <title>Reaksjoner på Skattekommisjonens rapport</title>
       <description><![CDATA[Stoltenbergs skattekommisjon vil senke skattenivået i Norge med inntil 23 milliarder kroner.]]></description>
@@ -454,15 +463,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nCMSQQfTN6XnYG6XJL44NQ-djglhoFL1TkEaLfqhej1A.jpg"/>
-    </item>
-    <item>
-      <title>Trump hevder å blokkere iranske havner</title>
-      <description><![CDATA[Klokken 16 begynte USAs varslede blokade. Eksperter frykter konsekvenser for verdensøkonomien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0e31a8c1-1317-4797-b1a8-c113177797f0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0e31a8c1-1317-4797-b1a8-c113177797f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Mon, 13 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Hqjb0EtK_B-UoCggtwiJnwJ-p2ioB4Wm80rRAGpw8bmg.jpg"/>
     </item>
   </channel>
 </rss>

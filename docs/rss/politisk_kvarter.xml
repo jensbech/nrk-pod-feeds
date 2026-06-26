@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:09:27 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 08:13:52 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Et taksameter i bilen din?</title>
+      <description><![CDATA[Staten håver inn penger. Nå skal de overvåke oss også. Frp advarer mot en kilometeravgift for alle bilister. Mens MDG mener en slik avgift er både fornuftig og rettferdig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/5256ed8c-b841-4dc3-96ed-8cb841edc3b8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5256ed8c-b841-4dc3-96ed-8cb841edc3b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f2BPqBVFtBKz2KVTYysU_AznslNy07mHcUClHgIJwQdg.jpg"/>
+    </item>
     <item>
       <title>Stoltenberg og skatten</title>
       <description><![CDATA[Jens Stoltenberg har veldig lyst på et skatteforlik.
@@ -472,16 +481,6 @@ Men sentralbanksjef Ida Wolden Bache forsvarer plan om å sette opp renta]]></de
       <itunes:duration>15:12</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/l8L6Q6UdGMg3HbAV-w8UDgRUEtDPuyG3X7ghg2nQCyNw.jpg"/>
-    </item>
-    <item>
-      <title>Tromsøs underskudd</title>
-      <description><![CDATA[Tromsø kan miste makten over egen økonomi etter stort underskudd.
-Et bevis på at Arbeiderpartiet er en ulykke for kommune-Norge, mener Høyre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/f3652ed9-0966-4f62-a52e-d909669f62ee_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/f3652ed9-0966-4f62-a52e-d909669f62ee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:51</itunes:duration>
-      <pubDate>Tue, 14 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N5JhTd30Lsk82R7QG_4x8wNdfGgR8MVTMXwGxRJu5wBA.jpg"/>
     </item>
   </channel>
 </rss>

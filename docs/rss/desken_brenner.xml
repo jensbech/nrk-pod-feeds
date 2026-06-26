@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:46:21 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 08:12:18 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Den nye franske hetebølgen</title>
+      <description><![CDATA["Alle" dør i Paris på grunn av hetebølgen. En kunde har prøvd å svindle Foodora med KI. Cringe ødelegger alt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/0b505b8f-99fe-49fe-905b-8f99fe79fe78_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0b505b8f-99fe-49fe-905b-8f99fe79fe78_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:06</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>TONO – Vanskelig å like, lett å forlate</title>
       <description><![CDATA[Tono møter korrupsjonsanklager. Et MAGA-cruise møter sinte demonstranter. Iran møter motstand fra USA – på fotballbanen.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>38:08</itunes:duration>
       <pubDate>Fri, 04 Jul 2025 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ekdN7MVjqqUhv9YHZCYwjQOz0htdYPyxFTA__rP5wwDA.jpg"/>
-    </item>
-    <item>
-      <title>ESTA la vista</title>
-      <description><![CDATA[Det er ikke bare-bare å dra på ferie til USA om dagen. En bonde gjør livet surt (og illeluktende) for naboene. Akademia er preget av grådighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/c6efdf8e-5807-4daf-a43e-daac0c4ed200_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/c6efdf8e-5807-4daf-a43e-daac0c4ed200_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:25</itunes:duration>
-      <pubDate>Fri, 27 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>
 </rss>

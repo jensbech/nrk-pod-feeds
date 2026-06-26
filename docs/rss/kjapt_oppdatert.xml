@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:08:24 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 08:12:52 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Norge kan møte Sverige i VM</title>
+      <description><![CDATA[Og artister tjener lite på merch]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/8e886970-4318-4233-8869-7043184233ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/8e886970-4318-4233-8869-7043184233ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:43</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HooofQvdTfq699e37cXJXAdtkvsNVLxG7zyoa3hqFYcg.jpg"/>
+    </item>
     <item>
       <title>Frykter enorme dødstall i Venezuela</title>
       <description><![CDATA[Og headliner avlyser Tons of Rock]]></description>
@@ -457,15 +466,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>04:57</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZgzcrNTg94WRbdtNfaMMRQz3W8S_vAh_AsNAwBZMDAVQ.jpg"/>
-    </item>
-    <item>
-      <title>FN ber stormakter starte fredssamtaler</title>
-      <description><![CDATA[Og hvorfor får flere tinnitus nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/0b23f372-e78a-423e-a3f3-72e78a723eb9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/0b23f372-e78a-423e-a3f3-72e78a723eb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:51</itunes:duration>
-      <pubDate>Tue, 14 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XTXCIRwINYazK18Sy_65HQu603qEzWXOoWWA6IzcAqWA.jpg"/>
     </item>
   </channel>
 </rss>

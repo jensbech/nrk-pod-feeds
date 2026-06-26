@@ -801,7 +801,7 @@ const feeds = [
     "id": "musikk_fra_nrk_super",
     "title": "Musikk fra NRK Super",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "musikkhistorier",

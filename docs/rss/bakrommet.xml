@@ -3,15 +3,24 @@
   <channel>
     <title>Bakrommet</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Norge  er endelig i VM igjen og våre eksperter prepper deg med alt du bør vite om spillerne,  motstanderne og de store snakkisene.</description>
+    <description>Norge er endelig i VM igjen og våre eksperter prepper deg med alt du bør vite om spillerne,  motstanderne og de store snakkisene.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:07:20 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 02:51:00 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 08:11:56 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 04:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Norge mot Frankrike -- vi teller ned</title>
+      <description><![CDATA[Kan Ståle Solbakken rett og slett bytte ut hele laget og går vi dermed glipp av superduellen mellom Haaland og Mbappe?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/f341236c-363f-4889-8123-6c363fe88988_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/f341236c-363f-4889-8123-6c363fe88988_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:45</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 04:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Gule kort og utespiller i mål</title>
       <description><![CDATA[Hvor lenge drar man med seg gule kort i VM. Og hvem ville vi satt i mål om keeper skades og byttene er brukt opp?]]></description>
@@ -28,7 +37,7 @@
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/681a31df-bf4e-432f-9a31-dfbf4e432f1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:53</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 04:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/U4qBCVBfWcF6-np9KtycqQRHTrk_VI-UG0TcR2qNKbOA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
     <item>
       <title>Norge-Senegal: For en thriller!</title>
@@ -109,7 +118,7 @@
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/667c5c96-36e1-4abf-bc5c-9636e1eabf9e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:14</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 02:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/U4qBCVBfWcF6-np9KtycqQRHTrk_VI-UG0TcR2qNKbOA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
     <item>
       <title>Tysk "Norge-sang" vekker oppsikt</title>
@@ -479,17 +488,6 @@ Han forteller om overgangen som gikk i vasken, dramatisk sykdom og hvordan lands
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/d30d12c8-d5de-48b9-8d12-c8d5de08b97c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:01:58</itunes:duration>
       <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Spesial: Bodø/Glimt ute av Mesterligaen</title>
-      <description><![CDATA[De ledet med komfortable 3-0 før borteoppgjøret, men var totalt sjanseløse i  Portugal. 
-Bakrommet analyserer det som likevel har vært et gult fotballmirakel i Europa.
-Hva skjer nå med Bodø/Glimt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/5e0a0a0c-bb31-4084-8a0a-0cbb316084e6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5e0a0a0c-bb31-4084-8a0a-0cbb316084e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:13</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 00:21:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
