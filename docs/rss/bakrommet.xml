@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:11:56 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Jun 2026 04:15:00 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:57:06 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 03:38:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     <item>
-      <title>Norge mot Frankrike -- vi teller ned</title>
+      <title>Var "reservelaget" en god idé?</title>
+      <description><![CDATA[Solbakken gjorde som vi spådde og byttet hele laget. Da blir det vrient mot ett av verdens beste lag. Var det likevel verdt det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/99c4a638-8762-44d4-84a6-388762a4d4b0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/99c4a638-8762-44d4-84a6-388762a4d4b0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:00</itunes:duration>
+      <pubDate>Sat, 27 Jun 2026 03:38:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
+    <item>
+      <title>Før Norge mot Frankrike</title>
       <description><![CDATA[Kan Ståle Solbakken rett og slett bytte ut hele laget og går vi dermed glipp av superduellen mellom Haaland og Mbappe?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/f341236c-363f-4889-8123-6c363fe88988_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/f341236c-363f-4889-8123-6c363fe88988_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -478,16 +487,6 @@ Hvorfor taper vi? Hva var det som var bra og hva sier kampen om VM-formen?]]></d
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/1b2bda4d-9036-42f9-abda-4d9036f2f9e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:23</itunes:duration>
       <pubDate>Mon, 23 Mar 2026 19:52:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Wolfe om å benkes, skandale-nachspiel og VM-drøm</title>
-      <description><![CDATA[Landslagets David Møller Wolfe tar imot oss hjemme i Wolverhampton.
-Han forteller om overgangen som gikk i vasken, dramatisk sykdom og hvordan landslagets stjerner oppfører seg i garderoben og på banen. Og allerede nå sliter han med å sove når han tenker på VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d30d12c8-d5de-48b9-8d12-c8d5de08b97c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d30d12c8-d5de-48b9-8d12-c8d5de08b97c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:01:58</itunes:duration>
-      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>

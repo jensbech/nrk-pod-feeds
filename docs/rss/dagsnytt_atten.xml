@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:12:10 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:57:19 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norge møter Frankrike i VM</title>
+      <description><![CDATA[Den siste kampen i gruppespillet i årets VM i fotball spilles i Boston.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oU2kh4gs4Sr-bopdQ28FVQWJgoNIlUX8IdleH9uL-wbA.jpg"/>
+    </item>
     <item>
       <title>Jordskjelv i Venezuela</title>
       <description><![CDATA[Myndighetene har erklært unntakstilstand etter to kraftige jordskjelv. Dødstallet fryktes å bli svært høyt, og redningsarbeidere jobber på spreng for å redde mennesker ut av ruinene.]]></description>
@@ -454,15 +463,6 @@ Her hjemme vil Frp senke den til 14 år]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x9wcOEydAIMm1QSKCfQf8QXQA6EFxPk6DxATmZJxvFrQ.jpg"/>
-    </item>
-    <item>
-      <title>Ukrainas president besøker Norge i dag</title>
-      <description><![CDATA[Volodymyr Zelenskyj møter Jonas Gahr Støre i kveld]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3c00943-f34e-4e04-8009-43f34eae0431_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 14 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nCMSQQfTN6XnYG6XJL44NQ-djglhoFL1TkEaLfqhej1A.jpg"/>
     </item>
   </channel>
 </rss>
