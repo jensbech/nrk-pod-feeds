@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-06-27  
+- Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
+### 2026-06-27  
 - Updated podcast 'Musikkhistorier' (`musikkhistorier`)  
 ### 2026-06-26  
 - Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
