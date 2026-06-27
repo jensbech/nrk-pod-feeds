@@ -807,7 +807,7 @@
         "id": "musikkhistorier",
         "title": "Musikkhistorier",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "musikkrommet",
