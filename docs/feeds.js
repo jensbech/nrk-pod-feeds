@@ -153,7 +153,7 @@ const feeds = [
     "id": "debatten",
     "title": "Debatten",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "delfi_og_dolfy",
