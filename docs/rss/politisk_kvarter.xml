@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:13:52 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Jun 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:38:53 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>NATO under press</title>
+      <description><![CDATA[NATO trues av Russland. Og Trump truer NATO. Det går mot et nytt skjebnemøte i alliansen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/70b9a816-71fa-4707-b9a8-1671fad70786_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/70b9a816-71fa-4707-b9a8-1671fad70786_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_ve2YojzI5XlXpEQdAm0WA2dYJ41QzSdAo-uc8Ps5JiQ.jpg"/>
+    </item>
     <item>
       <title>Et taksameter i bilen din?</title>
       <description><![CDATA[Staten håver inn penger. Nå skal de overvåke oss også. Frp advarer mot en kilometeravgift for alle bilister. Mens MDG mener en slik avgift er både fornuftig og rettferdig.]]></description>
@@ -471,16 +480,6 @@ Bård Vegar Solhjell i Fornybar Norge utfordrer rødgrønne partier, men Rødt o
       <itunes:duration>15:02</itunes:duration>
       <pubDate>Thu, 16 Apr 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5pkejIdlRXv8roCeJshESQdx_-YAhi8OsB3bhrJD4iQQ.jpg"/>
-    </item>
-    <item>
-      <title>Sentralbanksjefen svarer kritikerne</title>
-      <description><![CDATA[LO-sjef advarer Norges Bank mot å motarbeide lønnsoppgjøret 
-Men sentralbanksjef Ida Wolden Bache forsvarer plan om å sette opp renta]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/992ae1f6-eb25-4a96-aae1-f6eb25fa9633_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/992ae1f6-eb25-4a96-aae1-f6eb25fa9633_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:12</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/l8L6Q6UdGMg3HbAV-w8UDgRUEtDPuyG3X7ghg2nQCyNw.jpg"/>
     </item>
   </channel>
 </rss>

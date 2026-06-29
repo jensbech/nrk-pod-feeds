@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 28 Jun 2026 08:08:16 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:39:11 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 1: 24 timer med mens?</title>
+      <description><![CDATA[Anna har fått mensen, Daniel har på fin skjorta og Markus er idiot. Vi diskuterer dagens ord og forventningene til 24 timer med radio.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7930c92f-dc62-47c7-b0c9-2fdc6237c739_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7930c92f-dc62-47c7-b0c9-2fdc6237c739_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:14</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Siesta i HELE sommer!</title>
       <description><![CDATA[Du får Siestas 24 timers fiesta som podkast i sommer! Mandag til torsdag helt frem til vi er tilbake i august. God sommer <3]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/1fa0d239-68b1-4564-a0d2-3968b175641c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:00</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Vi løp etter en kake</title>
-      <description><![CDATA[Det blir sylskarp stand up, er det forksjell på lyden av tennis og hvor desperat kan man bli etter mat?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:48</itunes:duration>
-      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

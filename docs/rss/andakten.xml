@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:07:07 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:37:04 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Stolt løgn - Lene Gåsvatn</title>
+      <description><![CDATA[Folk sier at de både er stolte og ydmyke foran en ny oppgave. Men er det egentlig mulig å være begge deler samtidig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/98c6d2d8-2d2e-407e-86d2-d82d2e907e49_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/98c6d2d8-2d2e-407e-86d2-d82d2e907e49_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:17</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EypWyGffGvIjnnP0XW8S5AVrDSgGijRTooUSLiBMan6w.jpg"/>
+    </item>
     <item>
       <title>Det går veien - Ole K. Bonden</title>
       <description><![CDATA[I disse dager går mange pilegrim til Nidaros domkirke. Men å være en pilegrim favner mye, mye mer.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/30b15cee-2649-4455-b15c-ee264994558e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:16</itunes:duration>
       <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QmQZ1zV-heNIeID1TvUDhg4onSucFrQ32IeBPA8ut7bw.jpg"/>
-    </item>
-    <item>
-      <title>Trist-glad - Helene Langeland</title>
-      <description><![CDATA[Livet kan være et paradoks av og til - som når du er trist og glad på samme tid]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/40f00222-b6b1-4b0e-b002-22b6b1bb0e00_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/40f00222-b6b1-4b0e-b002-22b6b1bb0e00_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:46</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QmQZ1zV-heNIeID1TvUDhg4onSucFrQ32IeBPA8ut7bw.jpg"/>
     </item>
   </channel>

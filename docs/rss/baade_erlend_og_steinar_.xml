@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:00:56 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:37:14 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Sommeren før alt raknet</title>
+      <description><![CDATA[Hvor glup var egentlig Aristoteles? Hvorfor samlet Erlend på hår som barn? Og er dette sommeren rett før alt rakner?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d32c8352-4b89-4c30-ac83-524b89ac3060_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d32c8352-4b89-4c30-ac83-524b89ac3060_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:13</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Idealmannen og idealkvinnen</title>
       <description><![CDATA[Hva er idealmannen og idealkvinnen? Bør hjertekirurger spesialiseres allerede som 13-åringer? Og ville Ståle Solbakken vært en god militærstrateg?]]></description>
@@ -127,6 +136,15 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/177129d2-fb1e-4283-b129-d2fb1e5283bb_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:33</itunes:duration>
       <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
+    <item>
+      <title>Tommelringen og andre identitetsmarkører</title>
+      <description><![CDATA[Steinar har blitt krenket av en idrettshall, og Erlend har blitt en OL-ikonoklast. Og hva slags identitetsmarkører finnes på høyre- og venstresiden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/10f35cdc-3b5b-4309-b35c-dc3b5bc309bc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/10f35cdc-3b5b-4309-b35c-dc3b5bc309bc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:01</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
     <item>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/65eb8793-3209-4c03-8b60-db070f6b220c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:00:30</itunes:duration>
       <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Ego Maradona</title>
-      <description><![CDATA[Hva er den beste håndskriften? Kan man lære ALT fra internett? Og tenketanken må brenne en ikke-religiøs bok.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/bd626334-8a00-4dc3-a45a-7089ebc85706_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/bd626334-8a00-4dc3-a45a-7089ebc85706_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:51</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Far, ikke gi opp</title>
-      <description><![CDATA[Hva er det motsatte av en hund? Og hvor langt skal man egentlig strekke seg for å passe på andres ting?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f905800f-45aa-4395-b28a-f9a534cd22cd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/f905800f-45aa-4395-b28a-f9a534cd22cd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:51</itunes:duration>
-      <pubDate>Mon, 16 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:03:23 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:39:31 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Blodbryllupet</title>
+      <description><![CDATA[Birkebeinerne får seg en overraskelse, og en liten kongssønn fraktes over fjellet på ski i historiens første Birkebeinerrenn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Steinveggen</title>
       <description><![CDATA[En mystisk mann flykter fra fengsel ved hjelp av sjarme og sengetøy. Han vil bli baglerkonge, men ikke alle tror han er kongssønn.]]></description>
