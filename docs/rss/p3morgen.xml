@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 27 Jun 2026 07:58:13 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:39:07 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Chihuahua på rømmen!</title>
+      <description><![CDATA[Arin har bestemt seg for å ha en sykt bra uke, Henning har blitt nyforelsket i Nord-Norge og Nora har sett en hund flykte!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c5fbaac6-5a29-4631-bbaa-c65a29463169_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c5fbaac6-5a29-4631-bbaa-c65a29463169_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
     <item>
       <title>Det beste fra P3morgen!</title>
       <description><![CDATA[Snorrepus skal detoxe etter å ha bare spist ultraprosessert mat. Ole Runar synes fortsatt fotball er supert 20 år etter at han vant MGPjr. Arin har renset sluket, og Henning har spist kokte grillpølser]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Hvem er best til å kysse?</title>
-      <description><![CDATA[Henning har skadet fingeren, Jonas har glemt en bibel i bagen sin og Arin er visst sykt god til å kysse.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4935775e-f016-48bf-b577-5ef016a8bfa2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4935775e-f016-48bf-b577-5ef016a8bfa2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
