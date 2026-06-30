@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 29 Jun 2026 08:37:59 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:12:42 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Får fortsette dumping i Førdefjorden</title>
+      <description><![CDATA[Men Høyesterett har sagt nei]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/233138d4-adda-4ca8-b138-d4adda3ca880_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/233138d4-adda-4ca8-b138-d4adda3ca880_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:15</itunes:duration>
+      <pubDate>Tue, 30 Jun 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8zBSF3UVwZgAXYSP08Nn5A77M8fZuExLqxNnDwGBxiFQ.jpg"/>
+    </item>
     <item>
       <title>USA og Israel hevdar dei ikkje angrip sivile</title>
       <description><![CDATA[Men kartlegginga til NRK viser noko anna]]></description>
@@ -457,15 +466,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>04:55</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3X1fvYBHVI4hEkacfz45zAFbIQ7a58TljO40OvXdVS8Q.jpg"/>
-    </item>
-    <item>
-      <title>Telia-kunder kunne spores</title>
-      <description><![CDATA[Nå skal Datatilsynet sjekke hvem som kan ha blitt rammet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/beb7970e-6104-43f4-b797-0e610443f435_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/beb7970e-6104-43f4-b797-0e610443f435_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:17</itunes:duration>
-      <pubDate>Thu, 16 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bW-5osJj7ElH9Ci3buzA5w88muHZdtx_0qacyBrHr84g.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 29 Jun 2026 08:37:04 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:11:03 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Sæla - Lene Gåsvatn</title>
+      <description><![CDATA[Er du sel handler det som kjærlighet, men er du sel er du også salig. Kjærlighet og salighet blir to sider av samme sak.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c6ed6b74-0001-4e4a-ad6b-7400015e4af5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/c6ed6b74-0001-4e4a-ad6b-7400015e4af5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:10</itunes:duration>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EypWyGffGvIjnnP0XW8S5AVrDSgGijRTooUSLiBMan6w.jpg"/>
+    </item>
     <item>
       <title>Stolt løgn - Lene Gåsvatn</title>
       <description><![CDATA[Folk sier at de både er stolte og ydmyke foran en ny oppgave. Men er det egentlig mulig å være begge deler samtidig?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/9b695334-cfae-4b50-a953-34cfaeeb505a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:04</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QmQZ1zV-heNIeID1TvUDhg4onSucFrQ32IeBPA8ut7bw.jpg"/>
-    </item>
-    <item>
-      <title>Gripehjerte - Helene Langeland</title>
-      <description><![CDATA[Et gripehjerte i en urolig hånd, kan være forløsende, god medisin, og en spire til en god samtale.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/30b15cee-2649-4455-b15c-ee264994558e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/30b15cee-2649-4455-b15c-ee264994558e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QmQZ1zV-heNIeID1TvUDhg4onSucFrQ32IeBPA8ut7bw.jpg"/>
     </item>
   </channel>

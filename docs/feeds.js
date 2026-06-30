@@ -321,7 +321,7 @@ const feeds = [
     "id": "gamle_greier",
     "title": "Gamle greier",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "gfestallan_lisain",

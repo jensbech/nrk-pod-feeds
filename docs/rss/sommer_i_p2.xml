@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 29 Jun 2026 08:39:23 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:14:03 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Unni Askeland</title>
+      <description><![CDATA[Kunstneren om livets oppturer og nedturer, skandaler, gleder og intense kjærlighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/245900ff-352e-4b58-9900-ff352e2b5811_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/245900ff-352e-4b58-9900-ff352e2b5811_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:49</itunes:duration>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iabgNbB6XCD2Xfzc-UxEQQel60-UU0uh_vERoDQPP9XA.jpg"/>
+    </item>
     <item>
       <title>Bendik Hareide</title>
       <description><![CDATA[Han ble familiens talerør da pappa, Åge, fikk kreft og døde.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>40:31</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-rodKfbZaIm6RdyA6FaJRgbwSFaqT9v_LX-uEBrLFCgQ.jpg"/>
-    </item>
-    <item>
-      <title>Gina Gylver</title>
-      <description><![CDATA[Hvis ikkje du, kven? Viss ikkje no, når? Ho tar saka i eigne hender når verda brenn. Sjølv når det verste som kunne skje, skjer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/aee4482f-a7be-437e-8a90-bd9f1969d1a7_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/aee4482f-a7be-437e-8a90-bd9f1969d1a7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:38</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9haqpqtDhwasaIZJ7mVCoA3zbZau7itloKc7iNiDuSYQ.jpg"/>
     </item>
   </channel>
 </rss>
