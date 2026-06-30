@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 29 Jun 2026 11:39:07 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 11:02:24 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Rabies og lave presidenter</title>
+      <description><![CDATA[Arin har laget TikTok-mat og Henning har tatt årets første bad. Vi prater også litt om rabies, pride i Iran og lave folk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/af9bfe93-981b-4180-9bfe-93981b518008_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/af9bfe93-981b-4180-9bfe-93981b518008_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Chihuahua på rømmen!</title>
       <description><![CDATA[Arin har bestemt seg for å ha en sykt bra uke, Henning har blitt nyforelsket i Nord-Norge og Nora har sett en hund flykte!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Axe-kurder og diss track.</title>
-      <description><![CDATA[Jonas deler hva som har stresset han de to siste ukene og Arin føler seg disset av Henning.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/26c117e7-a0ba-4083-8117-e7a0ba208318_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/26c117e7-a0ba-4083-8117-e7a0ba208318_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
