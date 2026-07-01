@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 29 Jun 2026 08:38:41 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:25:44 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Tvang kvinner til sex: En telefon endret alt</title>
+      <description><![CDATA[Politiet fikk en telefon som åpnet dørene til en mørk sfære de ikke ante fantes i det norske samfunnet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1ca05453-77c2-470a-a054-5377c2870a90_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1ca05453-77c2-470a-a054-5377c2870a90_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:33</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BvGQFDgz8RH17wtXHNgnOwHGb201cWhcEq3Z_hup0twQ.jpg"/>
+    </item>
     <item>
       <title>Ivanka Trumps luksusdrøm fyrer opp Albania</title>
       <description><![CDATA[Trumps datter og svigersønn har falt pladask for en av Albanias kystperler. Det møter store problemer.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>17:29</itunes:duration>
       <pubDate>Mon, 27 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/necixk9FE6OwTeZwexd-uAe8XQV2v2cQ9MzS4_5o3y_Q.jpg"/>
-    </item>
-    <item>
-      <title>Epstein-saken ingen fikk lese: – Begynte å true meg</title>
-      <description><![CDATA[Vi har møtt journalisten Vicky Ward, som var på sporet av den overgrepsdømte finansmannen lenge før noen andre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e44999dd-ae32-4532-8999-ddae3225325b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:46</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/76cSAEgX_37fNEHk-K_9XAqe55-z6JM1v4rV-wrFuSIw.jpg"/>
     </item>
   </channel>
 </rss>

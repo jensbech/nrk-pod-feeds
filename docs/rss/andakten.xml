@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:11:03 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:23:08 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Utpågang - Lene Gåsvatn</title>
+      <description><![CDATA[Det gjelder å ha mange rom, og plass til alt og alle som trenger at det blir gjort i stand til dem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/08a412b8-2946-42c2-a412-b82946e2c22e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/08a412b8-2946-42c2-a412-b82946e2c22e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:51</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EypWyGffGvIjnnP0XW8S5AVrDSgGijRTooUSLiBMan6w.jpg"/>
+    </item>
     <item>
       <title>Sæla - Lene Gåsvatn</title>
       <description><![CDATA[Er du sel handler det som kjærlighet, men er du sel er du også salig. Kjærlighet og salighet blir to sider av samme sak.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>04:09</itunes:duration>
       <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
-    </item>
-    <item>
-      <title>Signalfarge - Helene Langeland</title>
-      <description><![CDATA[Det våres - mer og mer, dag for dag - og ute begynner sesongens signalfarger å dukke opp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/9b695334-cfae-4b50-a953-34cfaeeb505a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/9b695334-cfae-4b50-a953-34cfaeeb505a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:04</itunes:duration>
-      <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QmQZ1zV-heNIeID1TvUDhg4onSucFrQ32IeBPA8ut7bw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:12:42 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:24:40 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Disse nye lovene gjelder fra i dag</title>
+      <description><![CDATA[Og Norge er videre i VM ❤️]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/bb5a3878-1238-4d4d-9a38-781238fd4d24_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/bb5a3878-1238-4d4d-9a38-781238fd4d24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:17</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3_6tykK92P0fGm4t_Sim-AC5z_iHYgkHJdMgpgdVuqXw.jpg"/>
+    </item>
     <item>
       <title>Får fortsette dumping i Førdefjorden</title>
       <description><![CDATA[Men Høyesterett har sagt nei]]></description>
@@ -457,15 +466,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>04:57</itunes:duration>
       <pubDate>Mon, 20 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1MWxqVwIvqdC8U30huiGWw-21GtO92xtlb1tR59Sb02g.jpg"/>
-    </item>
-    <item>
-      <title>Advarer om enda verre krise på grunn av Iran-krigen</title>
-      <description><![CDATA[Og Israel anklages for brudd på våpenhvilen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d1cd46f8-437a-46c9-8d46-f8437a56c9e0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d1cd46f8-437a-46c9-8d46-f8437a56c9e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:55</itunes:duration>
-      <pubDate>Fri, 17 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3X1fvYBHVI4hEkacfz45zAFbIQ7a58TljO40OvXdVS8Q.jpg"/>
     </item>
   </channel>
 </rss>

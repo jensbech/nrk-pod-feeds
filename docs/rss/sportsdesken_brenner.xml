@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:09:29 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:26:44 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>- Vi skal f**n meg vinne VM!</title>
+      <description><![CDATA[Sportsdesken har overtenning etter seieren mot Elfenbenskysten og Mia er tilbake fra USA med ferske rykter om den norske VM-roingen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/e02e978f-d0ae-4674-ae97-8fd0ae1674a2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/e02e978f-d0ae-4674-ae97-8fd0ae1674a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:00</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>Haaland er en skrekkfilm, mener NY Times</title>
       <description><![CDATA[New York Times kaller Haaland en levende «skrekkfilm», mens langrennshelt Sjur Røthe forklarer sitt brutale fall til femtedivisjon. Og hva kan motstanderen frykte når Jesus er din personlige hovedsponsor?]]></description>

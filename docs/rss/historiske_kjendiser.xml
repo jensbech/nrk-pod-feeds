@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:08:16 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:24:23 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Mor Teresa – selvoppofrende helgen</title>
+      <description><![CDATA[Den albanske nonnen ofret alt da hun gikk ut i den indiske slummen for å hjelpe de fattige og syke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/c79368bf-3baa-4833-9368-bf3baa68332a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c79368bf-3baa-4833-9368-bf3baa68332a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:25</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AtPrqUyVUJe9wGT5nwbP-Ap7JMfdxz_SPf-fTJ9P0yxg.jpg"/>
+    </item>
     <item>
       <title>Winston Churchill – nazistenes verste fiende</title>
       <description><![CDATA[Med sigaren i én hånd og whiskyglasset i den andre kjempet den karismatiske statsministeren en krig på vegne av hele verden.]]></description>
@@ -453,15 +462,6 @@
       <itunes:duration>56:37</itunes:duration>
       <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/P7pLR0sE2Wyi3fg2tOLBlQBDTEb-QUyyHo5MlUfsfMsA.jpg"/>
-    </item>
-    <item>
-      <title>Eva Perón – fryktløs førstedame</title>
-      <description><![CDATA[Gikk fra skuespiller til førstedame, og ble hele Argentinas Evita.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:41</itunes:duration>
-      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DlVLObXmdAvgDxYxCutJugrJD5H4FXw2gsf0Zjub4rmg.jpg"/>
     </item>
   </channel>
 </rss>

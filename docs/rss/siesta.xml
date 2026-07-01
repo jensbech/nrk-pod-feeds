@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:13:48 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:26:22 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 3: Blir vi kansellert?</title>
+      <description><![CDATA[Daniel har med hemmelig lydopptak av oss, Anna er forbanna over før og etter-bilder av folk og er det innafor å ta vannsklia?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/cdee9770-5c3a-4f27-ae97-705c3a8f2719_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/cdee9770-5c3a-4f27-ae97-705c3a8f2719_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:55</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 2: Bang kondomer på 7/11</title>
       <description><![CDATA[Markus har sett folk kjøpe kondom, hva er det motsatte av en utedo og det blir Quizvang.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/f04895c2-cb98-422b-8895-c2cb98322bec_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:38</itunes:duration>
       <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Smakte brystmelk fra venn</title>
-      <description><![CDATA[Markus lager ASMR av mat, Daniel kårer ukas dumfette og Anna deler om sitt forhold til brystmelk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:34</itunes:duration>
-      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
