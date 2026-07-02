@@ -561,7 +561,7 @@ const feeds = [
     "id": "kompass",
     "title": "Kompass",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kongerekka",

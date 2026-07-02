@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:23:08 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:02:09 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Preposisjoner - Lene Gåsvatn</title>
+      <description><![CDATA[Øystein Sunde lager humor med preposisjoner, men Lene Gåsvatn har erfart at de også kan romme trøst]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/0ace5d1b-6105-4473-8e5d-1b61055473e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/0ace5d1b-6105-4473-8e5d-1b61055473e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:44</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EypWyGffGvIjnnP0XW8S5AVrDSgGijRTooUSLiBMan6w.jpg"/>
+    </item>
     <item>
       <title>Utpågang - Lene Gåsvatn</title>
       <description><![CDATA[Det gjelder å ha mange rom, og plass til alt og alle som trenger at det blir gjort i stand til dem.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/13d0ec77-3320-4652-90ec-773320865231_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:24</itunes:duration>
       <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
-    </item>
-    <item>
-      <title>Palmesøndag - Thor Haavik</title>
-      <description><![CDATA[Vi går inn i den stille uken, mot bibelens store påskedrama. Hva ligger forut for dette - hvordan ser bakteppet ut?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c488c5ef-de6d-4bfb-88c5-efde6debfba9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/c488c5ef-de6d-4bfb-88c5-efde6debfba9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:09</itunes:duration>
-      <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
     </item>
   </channel>

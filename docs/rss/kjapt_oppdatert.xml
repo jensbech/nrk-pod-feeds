@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:24:40 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:03:37 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>I dag starter Karpe World</title>
+      <description><![CDATA[Og drukningstallene skyter i været.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1ef169c8-d027-4ba9-b169-c8d0273ba9a0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1ef169c8-d027-4ba9-b169-c8d0273ba9a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:13</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Hjs4FMbhIwStKddJEC1vSgp1HFO5BXN1coU1DUwXgGbw.jpg"/>
+    </item>
     <item>
       <title>Disse nye lovene gjelder fra i dag</title>
       <description><![CDATA[Og Norge er videre i VM ❤️]]></description>
@@ -457,15 +466,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>04:10</itunes:duration>
       <pubDate>Tue, 21 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bxWVIOZjGFrAsAZsUD-Xrwu4AiuCVZkUIxIPIPeEpgJA.jpg"/>
-    </item>
-    <item>
-      <title>Iran anklager USA for brudd på våpenhvilen</title>
-      <description><![CDATA[Og partene frykter at streiken i hotell- og restaurantbransjen kan bli langvarig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/9532d027-da90-4927-b2d0-27da90b927c6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/9532d027-da90-4927-b2d0-27da90b927c6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:57</itunes:duration>
-      <pubDate>Mon, 20 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1MWxqVwIvqdC8U30huiGWw-21GtO92xtlb1tR59Sb02g.jpg"/>
     </item>
   </channel>
 </rss>

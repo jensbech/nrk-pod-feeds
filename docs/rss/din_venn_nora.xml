@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:07:50 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:02:56 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Jan Thomas er min gud</title>
+      <description><![CDATA[Jeg trosser pjuskhet for å fortelle deg om fising på barnefamilie, pride-motstand i Ålesund og sex med handikap.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/1f7b8041-444e-4763-bb80-41444e076306_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/1f7b8041-444e-4763-bb80-41444e076306_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:50</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Fotballflørting for nybegynnere</title>
       <description><![CDATA[En guide til hvordan du flørter under VM, en supporterdrakt på avveie og den virkelige kampen etter kampen: å komme seg hjem.]]></description>
@@ -456,15 +465,6 @@ Blokkfløytetraumer fra barndommen, dårlige samtalestartere og noe vi måtte kl
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/6ace586f-7a4b-4f87-8e58-6f7a4bcf8719_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:26</itunes:duration>
       <pubDate>Wed, 27 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
-    </item>
-    <item>
-      <title>Innboksen: Våknet i en ukjent campingvogn</title>
-      <description><![CDATA[Misforståelser om kjærlighetsstatus, en trampstamp som gikk helt galt, og en festivalmorgen i en ukjent campingvogn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/f8c1f829-1d04-4548-81f8-291d0445487f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/f8c1f829-1d04-4548-81f8-291d0445487f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:19</itunes:duration>
-      <pubDate>Sun, 24 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
     </item>
   </channel>
