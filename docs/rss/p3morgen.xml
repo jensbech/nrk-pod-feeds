@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:04:26 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:51:54 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Barn + mozzarella = trylletriks</title>
+      <description><![CDATA[Henning deler en rystende historie om et barn og mozzarella, og Arin har vært en tilskuer i en skummel situasjon]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ebce8eea-0783-49db-8e8e-ea078399db2c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ebce8eea-0783-49db-8e8e-ea078399db2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
     <item>
       <title>Ruses av billettsalg.</title>
       <description><![CDATA[Nora får rus av billettsalg, Johannes har en høne å plukke med Fisherman's Friend og Henning sympatiserer med servitører.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>01:04:07</itunes:duration>
       <pubDate>Fri, 01 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RqE6x-NUGLIMuE0DiJMWmAYFAeXChhgODefu3GAGWB2A.jpg"/>
-    </item>
-    <item>
-      <title>Leverpostei = dårlig vannmelon</title>
-      <description><![CDATA[Ketchup, smelta ost, sprøstekt løk og girl dinner. Mat er tema!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/52eca09d-3d02-4bc6-aca0-9d3d02ebc6d9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/52eca09d-3d02-4bc6-aca0-9d3d02ebc6d9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:34</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
     </item>
   </channel>
 </rss>

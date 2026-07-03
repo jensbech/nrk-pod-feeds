@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:05:00 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:52:46 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Sigrid Moldestad</title>
+      <description><![CDATA[Ho spelar «djevelens instrument», og vil heidre dei kvinnene som blei tvinga til å slutte. Men har folkemusikken ei framtid?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ffa18f88-a41c-479f-a18f-88a41c379f2c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ffa18f88-a41c-479f-a18f-88a41c379f2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:48</itunes:duration>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LtR-fZeTd3FTHKbKoo9n7gTKBrWQNZ6jPe9nFTKw3BzQ.jpg"/>
+    </item>
     <item>
       <title>Sigbjørn Skåden</title>
       <description><![CDATA[Som barn sluttet forfatteren nesten å snakke. Da ordene satte seg fast, begynte han å skrive.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>28:56</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xPguU80vAhYhYD5g096y5AFYNuhYaTHU6Pejz5WBqeow.jpg"/>
-    </item>
-    <item>
-      <title>Carl I. Hagen</title>
-      <description><![CDATA[Han drøymer om at døden skal kome brått og uventa ved talarstolen. No er han ferdig på Stortinget og ser tilbake på karrieren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ad9a85c7-53ef-478e-b320-ae428875d354_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ad9a85c7-53ef-478e-b320-ae428875d354_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:41</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vqmP1Q5LR4r6mFEQ9ws_sgiQXnDL1gf5ZVUh2XsLNkfg.jpg"/>
     </item>
   </channel>
 </rss>

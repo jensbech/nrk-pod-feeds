@@ -8,27 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:13:28 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Jun 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:51:24 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q.jpg"/>
     <item>
-      <title>Bursdagsdansen</title>
-      <description><![CDATA[Fantorangen, Pivi og Fantus lager bursdagsfest.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/948a40ae-8e7c-430a-8a40-ae8e7c230ac7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/948a40ae-8e7c-430a-8a40-ae8e7c230ac7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:01</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ.jpg"/>
-    </item>
-    <item>
-      <title>Ferie er snabelbra</title>
-      <description><![CDATA[Fantorangen, Pivi og Fantus koser seg på campingferie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/02982596-cec6-4644-9825-96cec606443a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/02982596-cec6-4644-9825-96cec606443a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:05</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ.jpg"/>
+      <title>Vi er kule og vi er rare</title>
+      <description><![CDATA[Fantorangen og Pivi har laget en rap-sang du garantert vil få på hjernen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/bbab83f6-5f1f-4b0c-ab83-f65f1f0b0cf5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bbab83f6-5f1f-4b0c-ab83-f65f1f0b0cf5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:04</itunes:duration>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Td0ZtVWLKURrGS56Yl_kQg99EwxyFsWLELt9FxPcrxxA.jpg"/>
     </item>
     <item>
       <title>Disko under vann</title>
@@ -36,8 +27,26 @@
       <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/e92c08a3-ae1b-4e25-ac08-a3ae1bae2548_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e92c08a3-ae1b-4e25-ac08-a3ae1bae2548_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:44</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ.jpg"/>
+      <pubDate>Fri, 26 Jun 2026 06:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zS7ro9dnZ60UaOQT9j_LRg0ibv825KoLXj2jyi3EHXVA.jpg"/>
+    </item>
+    <item>
+      <title>Ferie er snabelbra</title>
+      <description><![CDATA[Fantorangen, Pivi og Fantus koser seg på campingferie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/02982596-cec6-4644-9825-96cec606443a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/02982596-cec6-4644-9825-96cec606443a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:05</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 06:07:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I_R_TEkO1wzGX5cvPf8-8w-4D_qd5iSErz0djO9BgOqg.jpg"/>
+    </item>
+    <item>
+      <title>Bursdagsdansen</title>
+      <description><![CDATA[Fantorangen, Pivi og Fantus lager bursdagsfest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikk_fra_nrk_super/948a40ae-8e7c-430a-8a40-ae8e7c230ac7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/948a40ae-8e7c-430a-8a40-ae8e7c230ac7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:01</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DeGXtSkZenMyO5WskZqQkw7xwToOWRtETur_pd1e7U2Q.jpg"/>
     </item>
     <item>
       <title>Bæsjesangen</title>
@@ -46,7 +55,7 @@
       <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/7733df85-6d87-4e44-b3df-856d876e44cb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:25</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/1YuoTQRbsddZ_U-hlZR5tA_pDVim2W5uUT_TcsNbbudQ.jpg"/>
     </item>
     <item>
       <title>Fantorangens bokstavsang</title>
@@ -55,7 +64,7 @@
       <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/5ce6d003-5fa6-4a4d-a6d0-035fa63a4dde_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:56</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/Gp6OzT6Glim8mx1gl3mkSwD58z9Di-aJq6QFDQEitVGg.jpg"/>
     </item>
     <item>
       <title>Tallsangen</title>
@@ -64,7 +73,7 @@
       <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/5e1b5f7f-abe9-4c8a-9b5f-7fabe9bc8a9f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:14</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/EkIO-cmF-FbPsdvMWAmQMA76HkzMLc2XFC8XDHbg9o-Q.jpg"/>
     </item>
     <item>
       <title>Snibel Snabel</title>

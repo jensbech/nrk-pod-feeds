@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:07:59 +0000</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:49:55 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"/>
+    <item>
+      <title>Vi er kule og vi er rare</title>
+      <description><![CDATA[Fantorangen og Pivi har laget en rap-sang du garantert vil få på hjernen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangens_vitseshow/6c816775-1724-4835-8167-7517241835ba_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/6c816775-1724-4835-8167-7517241835ba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:04</itunes:duration>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Td0ZtVWLKURrGS56Yl_kQg99EwxyFsWLELt9FxPcrxxA.jpg"/>
+    </item>
     <item>
       <title>Brrr-ingebær, koko-løk og vitse-rap</title>
       <description><![CDATA[Fantorangen og Pivi lager tullete versjoner av kjente barnesanger. Da blir det ekstra god stemning.]]></description>
