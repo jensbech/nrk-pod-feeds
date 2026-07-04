@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:51:06 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 09:14:50 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 7</title>
+      <description><![CDATA[Rådgivere er: Odd Nordstoga / Caroline Johansen / Nora Svenningsen / Espen Abrahamsen / Marte Stokstad / Ahmed Mamow / Mikkel Niva / Catrin Sagen / Olli Wermskog]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/6b54096b-7d36-478c-9409-6b7d36d78c97_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6b54096b-7d36-478c-9409-6b7d36d78c97_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:45:09</itunes:duration>
+      <pubDate>Sat, 04 Jul 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    </item>
     <item>
       <title>Abu Hussain / Adelina Ibishi / Chris Holsten / Jonas K. Bergland / Maria Stavang / Odd Nordstoga</title>
       <description><![CDATA[Vi tømmer innboksen! Del 3!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>01:40:03</itunes:duration>
       <pubDate>Sat, 03 Jan 2026 09:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
-    </item>
-    <item>
-      <title>Fyllemail-spesial: The return of fyllemails</title>
-      <description><![CDATA[Tredje spesial med fyllemails. Fra perioden mars 2022 til mars 2023]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2b0edeea-9ac7-445f-8ede-ea9ac7545f8a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2b0edeea-9ac7-445f-8ede-ea9ac7545f8a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:54</itunes:duration>
-      <pubDate>Fri, 02 Jan 2026 16:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>

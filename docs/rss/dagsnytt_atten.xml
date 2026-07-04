@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:49:40 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 09:13:50 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Stor spenning før Nato-toppmøte i Ankara</title>
+      <description><![CDATA[Donald Trump legger press på de andre medlemslandene før ministere i Nato-alliansen møtes i Tyrkia neste uke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/09c8843a-8248-4116-8884-3a8248e1160c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/09c8843a-8248-4116-8884-3a8248e1160c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Fri, 03 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xzo1hxd60YDHhkvoA4dpfwYC04vNYyc0J9CBSl2CjOwA.jpg"/>
+    </item>
     <item>
       <title>Omfattende angrep på Kyiv i natt</title>
       <description><![CDATA[Minst 17 personer drept i russiske rakett- og droneangrep.]]></description>
@@ -453,15 +462,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 22 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ROZFy67buag_rNJr9ApAYAZ5Gr7WC3cbwrp1_mP3mKpQ.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen dropper endringer i hytteskatten</title>
-      <description><![CDATA[SV sterkt kritisk til beslutningen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8722cd78-6537-4812-a2cd-78653708127e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8722cd78-6537-4812-a2cd-78653708127e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 21 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x3hPL_5zVHh47qcBfYoYcAFtDjwn6lIiFm7Xk6hnd4CQ.jpg"/>
     </item>
   </channel>
 </rss>
