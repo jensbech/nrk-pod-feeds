@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 28 Jun 2026 08:08:57 +0000</lastBuildDate>
-    <pubDate>Sat, 27 Jun 2026 14:30:00 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 09:35:54 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>USA feirer 250 år</title>
+      <description><![CDATA[Hva skjedde egentlig i 1776?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/93fc86d9-0ff3-47c7-bc86-d90ff317c776_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/93fc86d9-0ff3-47c7-bc86-d90ff317c776_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
+      <pubDate>Sat, 04 Jul 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1oqcnfQOIpZxFG1oDs3-AgQw7PTItmDwqu2ik-f7G73A.jpg"/>
+    </item>
     <item>
       <title>Å ro, eller ikke ro?</title>
       <description><![CDATA[Hele Norge ror, og bryter du fra fellesskapet får du høre det!]]></description>
@@ -463,15 +472,6 @@ I Ukeslutt reiser vi i tillegg på sjøen, til Mars og, ikke minst, Tour de Fran
       <itunes:duration>59:48</itunes:duration>
       <pubDate>Sat, 19 Jul 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0DNVdBYjH4VBgZ14sqr7hQR1_jHzKHtimQYfZ2zzlivg.jpg"/>
-    </item>
-    <item>
-      <title>Graviditet er ingen sykdom - eller?</title>
-      <description><![CDATA[Gravide sykemeldes for mye, sa NAVs sjeflege. Så startet bråket. Og: Kan det "å glemme" navn være en hersketeknikk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/283f2017-1f3c-4a57-a8fa-f4d04d4495cf_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/283f2017-1f3c-4a57-a8fa-f4d04d4495cf_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:20</itunes:duration>
-      <pubDate>Sat, 12 Jul 2025 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YlXKUiKkdiAuCtKvxAv_bwuv1MKtyqV1nvr2uOCfJsOQ.jpg"/>
     </item>
   </channel>
 </rss>

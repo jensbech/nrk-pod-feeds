@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 09:15:45 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 09:35:36 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Lena Lindgren</title>
+      <description><![CDATA[Vald går ofte i arv, men ei gøymt familiehistorie fekk henne til å rette blikket mot dei som klarar å bryte mønsteret]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/22887e53-6a59-47e7-887e-536a5987e7ae_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/22887e53-6a59-47e7-887e-536a5987e7ae_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:18</itunes:duration>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fsPpQ7PuSroWp20tgA_lZQsgntnPL3CUj94XSBdAsRVw.jpg"/>
+    </item>
     <item>
       <title>Magne Paalgard Flemmen</title>
       <description><![CDATA[Sosiologen begynte å legge merke til skjulte strukturer og klasseskiller i samfunnet allerede som ungdom.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>29:57</itunes:duration>
       <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/O5s9tpDfwanXpckpD-8LAAC9OW0vCw5HzXs1ffbC5HBA.jpg"/>
-    </item>
-    <item>
-      <title>Henriette Steenstrup</title>
-      <description><![CDATA[Hun stupte ut i en klase med brennmaneter og lærte noe viktig om livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5339bd85-5a7e-477d-a9f6-89254223ce43_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5339bd85-5a7e-477d-a9f6-89254223ce43_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:55</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pczxidpGEaZGyRyuPb9XhQKKmc2YiuqE4SMIs6w-0XFQ.jpg"/>
     </item>
   </channel>
 </rss>

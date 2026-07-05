@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 09:13:30 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 04:07:00 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 09:34:32 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 04:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     <item>
-      <title>Grøss og gru!</title>
-      <description><![CDATA[Nestensensasjon, mer om Haalands slitenhet og meldinger fra Brasil-treningen ga oss grøsninger nedover ryggen.]]></description>
+      <title>Vi lader opp til Norge-Brasil</title>
+      <description><![CDATA[Vi kan få tidenes fotball-fest om vi slår Brasil og går til kvartfinalen i VM. Her får du vite alt du trenger før kampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/ff294fb4-dccc-434d-a94f-b4dccc034dc1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ff294fb4-dccc-434d-a94f-b4dccc034dc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:23</itunes:duration>
+      <pubDate>Sun, 05 Jul 2026 04:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
+    <item>
+      <title>-Alle hånet Argentina og Messi</title>
+      <description><![CDATA[Mats så Argentina - Kapp Verde på en pub full av brasilianere  og meldinger fra Brasil-treningen ga oss grøsninger nedover ryggen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/4768adf0-c797-442c-a8ad-f0c797342cae_3_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/4768adf0-c797-442c-a8ad-f0c797342cae_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:59</itunes:duration>
@@ -472,16 +481,6 @@ Og nå skal alle debutanter "merkes" i VM - bokstavelig talt.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/1b9fbe1a-a2bc-4188-9fbe-1aa2bc4188d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:40</itunes:duration>
       <pubDate>Mon, 04 May 2026 14:29:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Ståles voksenkjeft og har Nusa  verdensklasse?</title>
-      <description><![CDATA[De norske landslagsspillerne begynner å finne storformen,  hvorfor bruker Haaland oksygenmaske og ekspertene i heftig debatt om 
-ukas brannfakkel]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/7143775d-fe5b-43b7-8377-5dfe5b53b700_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/7143775d-fe5b-43b7-8377-5dfe5b53b700_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:53</itunes:duration>
-      <pubDate>Mon, 27 Apr 2026 14:44:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
