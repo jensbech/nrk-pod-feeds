@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:02:09 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:22:11 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Lys - Claes K. Ericsson</title>
+      <description><![CDATA[Mange tenner gjerne lys i en kirke. Men for hvem - sånn egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/0f494c11-af41-4da3-894c-11af419da3c3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/0f494c11-af41-4da3-894c-11af419da3c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:47</itunes:duration>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
+    </item>
     <item>
       <title>Preposisjoner - Lene Gåsvatn</title>
       <description><![CDATA[Øystein Sunde lager humor med preposisjoner, men Lene Gåsvatn har erfart at de også kan romme trøst]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/dfefbf02-dc1d-4d4b-afbf-02dc1d2d4b24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:06</itunes:duration>
       <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
-    </item>
-    <item>
-      <title>Påskeuken - Thor Haavik</title>
-      <description><![CDATA[Det skjer mye dramatisk i påskefortellingen, også disse første dagene i uken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/13d0ec77-3320-4652-90ec-773320865231_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/13d0ec77-3320-4652-90ec-773320865231_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:24</itunes:duration>
-      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
     </item>
   </channel>
