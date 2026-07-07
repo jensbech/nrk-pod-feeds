@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:22:11 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:18:24 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Skinnegang - Claes K. Ericsson</title>
+      <description><![CDATA[På en reise som går uvanlig sakte, rekker man å få tenkt litt. Blant annet på hvilket tempo men lever i, og ville levd i.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/880232e2-e7b1-479b-8232-e2e7b1279bce_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/880232e2-e7b1-479b-8232-e2e7b1279bce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:08</itunes:duration>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
+    </item>
     <item>
       <title>Lys - Claes K. Ericsson</title>
       <description><![CDATA[Mange tenner gjerne lys i en kirke. Men for hvem - sånn egentlig?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:59</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
-    </item>
-    <item>
-      <title>Skjærtorsdag - Thor Haavik</title>
-      <description><![CDATA[Vi skal videre i bibelens påskefortelling. I dag handler det bl.a. om historiens kanskje mest kjente måltid.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/dfefbf02-dc1d-4d4b-afbf-02dc1d2d4b24_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/dfefbf02-dc1d-4d4b-afbf-02dc1d2d4b24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:06</itunes:duration>
-      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
     </item>
   </channel>
 </rss>

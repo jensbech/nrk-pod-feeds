@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:23:59 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:21:05 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Frøya Skjold Sjursæther</title>
+      <description><![CDATA[Fra klimaaktivist til historiens første tenåring på Stortinget - hvordan manøvrerer hun livet ?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/e98ab580-143a-474f-8ab5-80143af74f5d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/e98ab580-143a-474f-8ab5-80143af74f5d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:34</itunes:duration>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oFOLnsa4-mKeFFeZbCV7oQtBjIAYntPamLdlMTz_uqnw.jpg"/>
+    </item>
     <item>
       <title>Stian "på stien" Opsahl</title>
       <description><![CDATA[Etter første vinternatt ute som 14-åring, ville han aldri sove ute igjen. Tre år senere gikk han Norge på langs alene.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>36:11</itunes:duration>
       <pubDate>Wed, 02 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yWiLu-o6VFZ1nKW9wBa49gVQqkbsP-vLDc61VKpNNrAA.jpg"/>
-    </item>
-    <item>
-      <title>Maria Lavik</title>
-      <description><![CDATA[Odelsjenta tok sitt livs vanskelegaste val då ho ikkje tok over den 300-år gamle slektsgarden. Då fekk ho odelsskam.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b7d0faaa-8f75-4392-b3b8-50bfc3689e4f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b7d0faaa-8f75-4392-b3b8-50bfc3689e4f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:42</itunes:duration>
-      <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/f-swhu2ULD7qoBUauIXXOgvN6nQwp5Ll7Dd6PmrFjxpw.jpg"/>
     </item>
   </channel>
 </rss>

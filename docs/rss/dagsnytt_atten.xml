@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 09:13:50 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:19:09 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>VM-skandale</title>
+      <description><![CDATA[Donald Trump ringte FIFA-presidenten og fikk opphevet suspensjonen av USAs toppscorer Folarin Balogun.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9gvDKTey7Smhq9FB747kgAd6MXDg_r8jaiK1XVl03bRA.jpg"/>
+    </item>
     <item>
       <title>Stor spenning før Nato-toppmøte i Ankara</title>
       <description><![CDATA[Donald Trump legger press på de andre medlemslandene før ministere i Nato-alliansen møtes i Tyrkia neste uke.]]></description>
@@ -453,15 +462,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Thu, 23 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XicHwYaun42z3YMmIbvTbw-wvvnm8kQhPjs5PMixx-Ag.jpg"/>
-    </item>
-    <item>
-      <title>ADHD diagnostiseres uten fysisk oppmøte</title>
-      <description><![CDATA[Nå vil helseministeren endre retningslinjene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/26f0e51a-7bb4-46ec-b0e5-1a7bb466ecd2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/26f0e51a-7bb4-46ec-b0e5-1a7bb466ecd2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 22 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ROZFy67buag_rNJr9ApAYAZ5Gr7WC3cbwrp1_mP3mKpQ.jpg"/>
     </item>
   </channel>
 </rss>

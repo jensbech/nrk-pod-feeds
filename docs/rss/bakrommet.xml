@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:22:20 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 05:21:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:18:36 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 04:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>England, we are coming for you!</title>
+      <description><![CDATA[England venter i kvartfinalen! Kan Norge virkelig vinne VM? Mats avslører taktisk spill i kulissene og Kristoffer spår lag-endring]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/2a537fa7-66c0-4674-937f-a766c0a674c3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/2a537fa7-66c0-4674-937f-a766c0a674c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:27</itunes:duration>
+      <pubDate>Tue, 07 Jul 2026 04:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U4qBCVBfWcF6-np9KtycqQRHTrk_VI-UG0TcR2qNKbOA.jpg"/>
+    </item>
     <item>
       <title>Historisk: Vi er i kvartfinalen!</title>
       <description><![CDATA[Norge slo Brasil  igjen  og er klare for en historisk kvartfinale i VM.  Både i mål og foran mål hadde laget matchvinnere.]]></description>
@@ -470,17 +479,6 @@ Hvor enige er Bakrommets eksperter Eirik Horneland, Andrine Hegerberg og Kristof
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/abf3e85f-fca5-41f2-b3e8-5ffca5a1f262_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:22</itunes:duration>
       <pubDate>Mon, 18 May 2026 14:34:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>VM-ferskinger merkes på drakta og landslagsgutter på tråden</title>
-      <description><![CDATA[Sondre Langås venter spent på VM-uttaket,  Kristoffer Ajer tenker på VM hver dag - vi har tatt en prat med begge.
-Bør Nikita Haikin tas ut til VM kun for å redde straffer? 
-Og nå skal alle debutanter "merkes" i VM - bokstavelig talt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/08ac2aa9-5076-4335-ac2a-a9507633356c_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/08ac2aa9-5076-4335-ac2a-a9507633356c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:31</itunes:duration>
-      <pubDate>Mon, 11 May 2026 14:25:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
