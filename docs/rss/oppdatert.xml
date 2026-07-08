@@ -3,15 +3,24 @@
   <channel>
     <title>Oppdatert</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Nye episoder på hverdager.</description>
+    <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Nye episoder mandag, onsdag og fredag i sommer.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:23:26 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:22:14 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Spionen under vann?</title>
+      <description><![CDATA[Nå vet vi mer om gåten Hvaldimir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:07</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAnJHyi4YIwt5-hmRav2ygnBOsJRMtXlvavIXpjFhrsw.jpg"/>
+    </item>
     <item>
       <title>Jordskjelv-katastrofen: Dette møtte NRK i ruinene</title>
       <description><![CDATA[Er det fortsatt mulig å finne overlevende i Venezuela?]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>20:26</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/USE4lQtZdmDNuDXUEpfi4AYfODwiDXhWuCxjM1iw4CYg.jpg"/>
-    </item>
-    <item>
-      <title>Drept og gjemt i Hollywood: Dette er D4vd-saken</title>
-      <description><![CDATA[En ung jente dør, og den milliard-strømma artisten D4vd havner midt i stormen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/352e2090-80f0-4b67-ae20-9080f01b676f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/352e2090-80f0-4b67-ae20-9080f01b676f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:03</itunes:duration>
-      <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vPQDDHS48eO5OMIKbKDxrQzAcvdqTUdKtleHANeSznaQ.jpg"/>
     </item>
   </channel>
 </rss>

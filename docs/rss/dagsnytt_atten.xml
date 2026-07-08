@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Jul 2026 10:19:09 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:20:50 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>- Døgnåpen skjenking bør gjøres permanent</title>
+      <description><![CDATA[Suksessen med VM-reglene setter fart i debatten om skjenking av alkohol på utesteder]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NCldpuTZR6iEt-5cdACzJg76vMU2SM2dJdJmfVu-ZfmA.jpg"/>
+    </item>
     <item>
       <title>VM-skandale</title>
       <description><![CDATA[Donald Trump ringte FIFA-presidenten og fikk opphevet suspensjonen av USAs toppscorer Folarin Balogun.]]></description>
@@ -453,15 +462,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 24 Apr 2026 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/c9kq7xvJhOxBeIJZl5TsqwM_nBTH_C_RcirhPNIHuHdg.jpg"/>
-    </item>
-    <item>
-      <title>Vil ha røykeforbud</title>
-      <description><![CDATA[Britene vil forby nye generasjoner å kjøpe tobakk. - Vi bør gjøre det samme, sier LHL.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a14595c4-1486-4f59-8595-c414869f59dd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a14595c4-1486-4f59-8595-c414869f59dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Thu, 23 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XicHwYaun42z3YMmIbvTbw-wvvnm8kQhPjs5PMixx-Ag.jpg"/>
     </item>
   </channel>
 </rss>

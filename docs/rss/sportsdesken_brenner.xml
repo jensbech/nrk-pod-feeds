@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:26:44 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:22:48 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Miami neste og ny VM-babyboom</title>
+      <description><![CDATA[Mens brasilianske barn gråter, spår vi fulle fødestuer om ni måneder. Marius gjenskaper TV-øyeblikket da Norge slo England i 1981.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/4d574a4c-563b-49fc-974a-4c563ba9fc6b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/4d574a4c-563b-49fc-974a-4c563ba9fc6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:41</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>- Vi skal f**n meg vinne VM!</title>
       <description><![CDATA[Sportsdesken har overtenning etter seieren mot Elfenbenskysten og Mia er tilbake fra USA med ferske rykter om den norske VM-roingen!]]></description>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Jul 2026 10:18:24 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:20:26 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Stemmen - Claes K. Ericsson</title>
+      <description><![CDATA[Mange falske profeter vil fortelle deg hvordan du skal leve. Så hvor finner du stemmen du bør lytte til å få råd hos?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5ea68646-6097-40e7-a686-466097c0e793_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/5ea68646-6097-40e7-a686-466097c0e793_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:15</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
+    </item>
     <item>
       <title>Skinnegang - Claes K. Ericsson</title>
       <description><![CDATA[På en reise som går uvanlig sakte, rekker man å få tenkt litt. Blant annet på hvilket tempo men lever i, og ville levd i.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/2625829c-6d43-4ff0-a582-9c6d43bff019_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:41</itunes:duration>
       <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
-    </item>
-    <item>
-      <title>Vandrerne - Ragnhild Opsahl</title>
-      <description><![CDATA[Det er godt å ha en god venn å snakke med. Et godt sted å ta opp de viktige tingene kan være i bilen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/0a7c3ba6-a892-459b-bc3b-a6a892c59bcb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/0a7c3ba6-a892-459b-bc3b-a6a892c59bcb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:59</itunes:duration>
-      <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
     </item>
   </channel>

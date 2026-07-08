@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 07 Jul 2026 10:20:51 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:22:33 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 7: Magnus Devold er her!</title>
+      <description><![CDATA[Magnus Devold titter innom denne timen. Vi har det motsatte av lego, konkurrerer i papegøye og får besøk av Hermansen fra Olsenbanden-universet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8ec185cd-b1e6-4d12-8185-cdb1e6ed1257_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8ec185cd-b1e6-4d12-8185-cdb1e6ed1257_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:26</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 6: Korte tennisskjørt</title>
       <description><![CDATA[Finn Glede syns det er for mye menn i VM-dekninga og vi forsøker å finne ut hva «kort i skjetafadlet» betyr.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/d06dd990-3ffa-49e4-add9-903ffa69e4e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:09</itunes:duration>
       <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Rævpult av SAS (igjen)</title>
-      <description><![CDATA[SAS har endret på Daniels ferie, Anna er best likt av sjefen og Markus kjører bolle-spesial i quizvang!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1a68106f-431b-4115-a810-6f431bf115ea_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/1a68106f-431b-4115-a810-6f431bf115ea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:53</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
