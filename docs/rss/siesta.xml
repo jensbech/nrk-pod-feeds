@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:22:33 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:19:28 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 8: Vi stjeler fra andre</title>
+      <description><![CDATA[I denne timen stjeler vi innhold fra andre radioprogram og podkaster. Det blir velkjent innhold du elsker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f139d629-41f1-41a4-b9d6-2941f1a1a467_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f139d629-41f1-41a4-b9d6-2941f1a1a467_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:07</itunes:duration>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 7: Magnus Devold er her!</title>
       <description><![CDATA[Magnus Devold titter innom denne timen. Vi har det motsatte av lego, konkurrerer i papegøye og får besøk av Hermansen fra Olsenbanden-universet.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/1ce07b56-251b-4638-a07b-56251b8638e1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:00</itunes:duration>
       <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel klipper tånegler live</title>
-      <description><![CDATA[Ørjan Borre kommer innom for ha quiz for oss, vi diskuterer hva det motsatte av sjokolade er og Daniel klipper tåneglene sine.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d06dd990-3ffa-49e4-add9-903ffa69e4e9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/d06dd990-3ffa-49e4-add9-903ffa69e4e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:09</itunes:duration>
-      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

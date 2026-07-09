@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:22:43 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:19:38 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Martin Schanche</title>
+      <description><![CDATA[I barndommen ble han mobbet fordi han var «tyskerunge». Likevel føler Mr. Rallycross at han har vunnet i livets lotteri.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/733f80f9-58d6-4cf5-bf80-f958d64cf5bf_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/733f80f9-58d6-4cf5-bf80-f958d64cf5bf_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:14</itunes:duration>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3xBZjQNgc0Wqt0IL0C8sMAAOFwgXg2orghhdpOy8QUIw.jpg"/>
+    </item>
     <item>
       <title>Sebastian Klein</title>
       <description><![CDATA[Han gjorde en rystende oppdagelse i arkivet fra Falstad fangeleir, som knytter hans egen jødiske familie til krigens brutalitet.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>30:58</itunes:duration>
       <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Q4_emM9akLPkovlND7NDHw39EFMnhW_haUIiebA_dqsQ.jpg"/>
-    </item>
-    <item>
-      <title>Kjetil Gilberg</title>
-      <description><![CDATA[Pastoren liker ikke å krangle, men når han ser hvordan skeive blir behandlet i menigheten, tar han kampen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/28dabb3f-338a-457c-a00b-b237df56a818_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/28dabb3f-338a-457c-a00b-b237df56a818_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:08</itunes:duration>
-      <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BDllF96oAPEuAMs7Hy5aRQTDUN2BxorpgW1JQ-P1-EXA.jpg"/>
     </item>
   </channel>
 </rss>

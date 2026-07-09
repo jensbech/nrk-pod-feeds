@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:20:50 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:18:13 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>NATO-toppmøtet er over</title>
+      <description><![CDATA[Donald Trump skapte uro før møtet. Nå har medlemslandene blitt enige om milliardstøtte til Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/26cb1dd8-f47f-4835-8b1d-d8f47f6835a7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/26cb1dd8-f47f-4835-8b1d-d8f47f6835a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rpP0Ob1lqZBlT5-hXIR46QWBvfyGEghkSDbGb_q67haw.jpg"/>
+    </item>
     <item>
       <title>- Døgnåpen skjenking bør gjøres permanent</title>
       <description><![CDATA[Suksessen med VM-reglene setter fart i debatten om skjenking av alkohol på utesteder]]></description>
@@ -453,15 +462,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jMHxPchmpN73wlG8MU9p3w5U6OCCaXZGPv2QYF_n5T3Q.jpg"/>
-    </item>
-    <item>
-      <title>- Flere kutt i drivstoffavgiftene kan være ulovlige.</title>
-      <description><![CDATA[Det sier finansministeren. Bedriftene som får fordeler av avgiftskutt kan måtte tilbakebetale beløpet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b426a9a6-3379-4d32-a6a9-a63379dd3233_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b426a9a6-3379-4d32-a6a9-a63379dd3233_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c9kq7xvJhOxBeIJZl5TsqwM_nBTH_C_RcirhPNIHuHdg.jpg"/>
     </item>
   </channel>
 </rss>
