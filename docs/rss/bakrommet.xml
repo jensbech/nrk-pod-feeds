@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:18:00 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 00:01:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:13:46 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 02:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Er Norge klare for en slik superstjerne?</title>
+      <description><![CDATA[Mer enn 150 journalister møtte opp for et glimt av Haaland, og kun2 norske spillere hadde fått plass på det engelske laget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d00e4a38-1e87-4160-8e4a-381e8711600a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d00e4a38-1e87-4160-8e4a-381e8711600a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:04</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 02:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Slik bør Norge spille mot England</title>
       <description><![CDATA[Hvordan bør Norge spille lørdag, hvem starter England med og kan det engelske forventningspresset være til vår fordel?]]></description>
@@ -468,16 +477,6 @@ Og snart går turen til USA.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/b48e1a14-48af-4915-8e1a-1448af391525_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:19:56</itunes:duration>
       <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Nylands gigatabbe og Englands stjernevraking</title>
-      <description><![CDATA[Norges førstekeeper fikk endelig stå fra start i klubben, men slapp inn et tabbemål. Hva gjør det med selvtilliten så nærme VM?
-Kan Englands vraking av flere stjerner faktisk styrke VM-sjansene? Og får de høye og tunge norske spillerne et ekstra problem i varmen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/5f8724f0-1c6e-4d3b-8724-f01c6e9d3b00_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5f8724f0-1c6e-4d3b-8724-f01c6e9d3b00_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:44</itunes:duration>
-      <pubDate>Mon, 25 May 2026 13:27:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>

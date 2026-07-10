@@ -3,15 +3,24 @@
   <channel>
     <title>Sommer i P2</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Kjente folk deler historiene som formet dem. For å høre med musikk , trykk "Gå til radioversjon" i appen NRK radio</description>
+    <description>Kjente folk deler historiene som formet dem. For å høre med musikk , trykk "Gå til radioversjon" - og så "tidspunkter"</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:19:38 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:15:39 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Sa_G</title>
+      <description><![CDATA[Gunhild Roel Jønnum sa «fuck it» og fulgte drømmen  – hoppet av medisinstudiet og ble hiphopartisten Sa_G!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/8664a827-23d3-4698-a4a8-2723d3169845_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/8664a827-23d3-4698-a4a8-2723d3169845_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:00</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DxLoBm_4-GFwPjScVs7_BQRuo-kax2hzaQE6CzbGTIQA.jpg"/>
+    </item>
     <item>
       <title>Martin Schanche</title>
       <description><![CDATA[I barndommen ble han mobbet fordi han var «tyskerunge». Likevel føler Mr. Rallycross at han har vunnet i livets lotteri.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>37:41</itunes:duration>
       <pubDate>Sat, 05 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/86dEg0SFBYwvDx9vS_fw0QAXdFgAz-Ob5y0lehAM9ESw.jpg"/>
-    </item>
-    <item>
-      <title>Ronny Brede Aase</title>
-      <description><![CDATA[Treng vi fortelje kva avgrensingar folk har? Nei, seier Ronny. Som barn fekk han sykle til han tryna. Det er han glad for.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/3404f5cc-99dc-4c54-a371-a8c69ddfb53f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/3404f5cc-99dc-4c54-a371-a8c69ddfb53f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:58</itunes:duration>
-      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Q4_emM9akLPkovlND7NDHw39EFMnhW_haUIiebA_dqsQ.jpg"/>
     </item>
   </channel>
 </rss>

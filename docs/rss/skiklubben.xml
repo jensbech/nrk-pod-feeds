@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:52:33 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:15:30 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    <item>
+      <title>Ragne Wiklund - skøytedronningen</title>
+      <description><![CDATA[Hun ble første norske kvinnelige allround-verdensmester siden  1938. I OL ble det tre medaljer. Elsker å sykle, hater rulleskøyter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/2e8b9035-90e8-451a-8b90-3590e8551a9b_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/2e8b9035-90e8-451a-8b90-3590e8551a9b_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:27</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    </item>
     <item>
       <title>Kristian Blummenfelt - verdens best trente?</title>
       <description><![CDATA[Triatlonkongen Kristian Blummenfelt er vår første og  kanskje beste trente sommergjest i år. Født med superlunger, men også en treningsvilje som kan inspirere vanlige mosjonister.]]></description>
@@ -471,15 +480,6 @@ Vi oppsummerer også Oslo halvmaraton.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/skiklubben/682bc744-0a4f-4a70-abc7-440a4fea7051_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:21</itunes:duration>
       <pubDate>Fri, 19 Sep 2025 17:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
-    </item>
-    <item>
-      <title>Hva er greia med sikkerhetsnål?</title>
-      <description><![CDATA[Henriette Jæger imponerte, Anders er i Bergen og Christina og Emil lar seg irritere av sikkerhetsnålene på startnummer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/c45b0a21-38ec-48f4-9b0a-2138ec28f419_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/c45b0a21-38ec-48f4-9b0a-2138ec28f419_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:17</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 17:55:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/wa2uhCmkTotOs7r_C9p0ogP4OYqxGvha9TYdsaB9q6uA.jpg"/>
     </item>
   </channel>

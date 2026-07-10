@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:18:48 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:14:45 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Israel skal trekke seg ut av Libanon</title>
+      <description><![CDATA[Og snart kan vi få en ordning for å hindrer dårlige leieboliger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1038be1b-563a-477b-b8be-1b563a577b3c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1038be1b-563a-477b-b8be-1b563a577b3c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:45</itunes:duration>
+      <pubDate>Fri, 10 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e_6kTTBulMIzXQo2qX7zOg_dRSg3HsLFN81Rc8yhFqog.jpg"/>
+    </item>
     <item>
       <title>Grønland svarer Trump: Nei betyr nei!</title>
       <description><![CDATA[Og vi har tipsene hvis du ønsker å lese mer.]]></description>
@@ -457,15 +466,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>05:23</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/T82uWN6v-TidU6h9wyEVKQsoL5B0Vlt0ZSW_abdHmGAQ.jpg"/>
-    </item>
-    <item>
-      <title>Shopping sammenlignes med å røyke</title>
-      <description><![CDATA[Og en MC-gjeng etterforskes etter skytinga på Økern i helga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/71659c15-1211-480b-a59c-151211f80bb9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/71659c15-1211-480b-a59c-151211f80bb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:40</itunes:duration>
-      <pubDate>Tue, 28 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/48b65UKMZeO4qppNP9ULWAV0I5z6GLAt26yR3Cci4zAw.jpg"/>
     </item>
   </channel>
 </rss>
