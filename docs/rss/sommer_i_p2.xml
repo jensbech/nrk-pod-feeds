@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Jul 2026 10:15:39 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:43:50 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Leander Djønne</title>
+      <description><![CDATA[Livet han kjende forsvann då han braut med Jehovas vitne. Kunst og litteratur blei redninga for forfattaren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/5be4e73e-ebc9-49b0-a4e7-3eebc919b0a8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/5be4e73e-ebc9-49b0-a4e7-3eebc919b0a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:28</itunes:duration>
+      <pubDate>Sat, 11 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nPJ5y5kmNHkp8uiEEUvgbAbVUhJQ_LZ6ec8v7nFU9xmw.jpg"/>
+    </item>
     <item>
       <title>Sa_G</title>
       <description><![CDATA[Gunhild Roel Jønnum sa «fuck it» og fulgte drømmen  – hoppet av medisinstudiet og ble hiphopartisten Sa_G!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>41:27</itunes:duration>
       <pubDate>Sun, 06 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mv4Q_BJ6ApwUfxfjKnYSmQc5WoTpHAAR5d08AB4ttvRg.jpg"/>
-    </item>
-    <item>
-      <title>Hilde Sandvik</title>
-      <description><![CDATA[Ho ba fire kveldsbøner kvar kveld, og veit korleis det frelste blikket ser ut. No er ho livredd politisk-religiøs makt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/2ef7d4e4-24f9-47ed-9fef-62dc0e4bf760_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/2ef7d4e4-24f9-47ed-9fef-62dc0e4bf760_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:41</itunes:duration>
-      <pubDate>Sat, 05 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/86dEg0SFBYwvDx9vS_fw0QAXdFgAz-Ob5y0lehAM9ESw.jpg"/>
     </item>
   </channel>
 </rss>
