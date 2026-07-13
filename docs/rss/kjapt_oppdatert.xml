@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Jul 2026 10:14:45 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:16:40 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Norge er ute av VM</title>
+      <description><![CDATA[Vi gir deg det du trenger å vite om kampen, og de store snakkisene.
+
+Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler ved fotograf Terje Skeie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/dcae6937-9f20-4941-ae69-379f2009419d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/dcae6937-9f20-4941-ae69-379f2009419d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:44</itunes:duration>
+      <pubDate>Mon, 13 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/U_Yk3CLmsEvgal86EjL0aQJN1GigdKOFtFdya2QvBoLw.jpg"/>
+    </item>
     <item>
       <title>Israel skal trekke seg ut av Libanon</title>
       <description><![CDATA[Og snart kan vi få en ordning for å hindrer dårlige leieboliger.]]></description>
@@ -457,15 +468,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>06:13</itunes:duration>
       <pubDate>Thu, 30 Apr 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HdnJ2eDEIh9HMGpzbAeOdg09-NYLcXeX7fVoNZM5Wq2w.jpg"/>
-    </item>
-    <item>
-      <title>Karpe gir seg: Nå hylles de</title>
-      <description><![CDATA[Og det kan få konsekvenser hvis vi ikke får mer politi i gatene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/70b439c3-7747-4c16-b439-c37747ec16b1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/70b439c3-7747-4c16-b439-c37747ec16b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:23</itunes:duration>
-      <pubDate>Wed, 29 Apr 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/T82uWN6v-TidU6h9wyEVKQsoL5B0Vlt0ZSW_abdHmGAQ.jpg"/>
     </item>
   </channel>
 </rss>

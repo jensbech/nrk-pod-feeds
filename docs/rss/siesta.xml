@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:19:28 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:17:59 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 09: Spise fra Annas mage</title>
+      <description><![CDATA[Vi  smalltalker dritten ut av ting, Markus har laget en voldelig smurfehit og Anna tvinger oss til å spise sjokolade fra magen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/a89e3738-d922-4f32-9e37-38d922cf32a2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/a89e3738-d922-4f32-9e37-38d922cf32a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:46</itunes:duration>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 8: Vi stjeler fra andre</title>
       <description><![CDATA[I denne timen stjeler vi innhold fra andre radioprogram og podkaster. Det blir velkjent innhold du elsker.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/4302fda5-6f88-4f4c-82fd-a56f885f4c98_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:12</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Kan man si «Oslo du er fin?»</title>
-      <description><![CDATA[Anna er sur på folk som ikke kommer på tida, Daniel har dårlig selvtillit på eget arbeid og er det lov å si «Oslo i dag er du fin»?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1ce07b56-251b-4638-a07b-56251b8638e1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/1ce07b56-251b-4638-a07b-56251b8638e1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:00</itunes:duration>
-      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

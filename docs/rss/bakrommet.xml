@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 12 Jul 2026 08:58:03 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:15:50 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 00:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Vi slikker sårene og ser fremover</title>
+      <description><![CDATA[Vi rister av oss litt av skuffelsen og gleder oss til fortsettelsen med landslaget. Men helt ferdig med Englandkampen er vi ikke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/32ef729a-432a-4ec3-af72-9a432a1ec31f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/32ef729a-432a-4ec3-af72-9a432a1ec31f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:24</itunes:duration>
+      <pubDate>Mon, 13 Jul 2026 00:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Ute av  VM: Skuffelse og stolthet</title>
       <description><![CDATA[Norge kjempet tappert, men det holdt ikke.  VAR, tverrliggeren og en tabbe  stod i veien. Men spillerne kan gå med løftet hode.]]></description>
@@ -458,15 +467,6 @@ Her er første rapport.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/9e26442d-40ee-495e-a644-2d40ee895ec9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:43</itunes:duration>
       <pubDate>Wed, 03 Jun 2026 05:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Gruppe L: England, Kroatia, Ghana og Panama</title>
-      <description><![CDATA[Thomas Tuchel har lagt hodet på blokka, Kroatia mangler X-faktor og kan Panama sjokkere? Her får du alt fra gruppe L.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/e6bcf010-2367-4300-bcf0-102367630050_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/e6bcf010-2367-4300-bcf0-102367630050_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:46</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 05:49:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>

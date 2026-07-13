@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:17:51 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:15:36 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Hykleri - Kristine Gripsgård</title>
+      <description><![CDATA[Hykleri har vi mennesker drevet med til alle tider. Vi sier en ting og gjør en annen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/b3ea863b-1bd1-4877-aa86-3b1bd1387747_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/b3ea863b-1bd1-4877-aa86-3b1bd1387747_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:50</itunes:duration>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uPjzHQyoX87sP2MAd2QjjAk0oaI1jrXBZDE4egoKUqUQ.jpg"/>
+    </item>
     <item>
       <title>Ventesorg - Claes K. Ericsson</title>
       <description><![CDATA[Mange føler en sorg for noe trist de vet skal skje. Men tenk på det, at denne sorgen har sitt utspring i noe veldig vakkert.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/18b77fc3-364c-4e98-b77f-c3364c1e9872_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:26</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
-    </item>
-    <item>
-      <title>Oppstandelse - Ragnhild Opsahl</title>
-      <description><![CDATA[Tror du at det faktisk er mulig å stå opp fra de døde. Selv en prest kan slite med den tanken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/8e9942fc-bf54-440a-9942-fcbf54140a8a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/8e9942fc-bf54-440a-9942-fcbf54140a8a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:48</itunes:duration>
-      <pubDate>Thu, 09 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
     </item>
   </channel>
