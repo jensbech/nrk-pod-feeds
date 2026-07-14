@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:15:50 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 00:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:58:48 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 06:33:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>For en folkefest!</title>
+      <description><![CDATA[Rørende bilder fra Oslo mandag kveld. Samtidig ble det noen store snakkiser. Bakrommet har ankommet Atlanta og tar diskusjonene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/d93c97c1-d5bc-48aa-bc97-c1d5bc48aad0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d93c97c1-d5bc-48aa-bc97-c1d5bc48aad0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:26</itunes:duration>
+      <pubDate>Tue, 14 Jul 2026 06:33:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Vi slikker sårene og ser fremover</title>
       <description><![CDATA[Vi rister av oss litt av skuffelsen og gleder oss til fortsettelsen med landslaget. Men helt ferdig med Englandkampen er vi ikke.]]></description>
@@ -458,15 +467,6 @@ Her er første rapport.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/882bdfab-a2da-490a-abdf-aba2dad90a07_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:33</itunes:duration>
       <pubDate>Wed, 03 Jun 2026 05:51:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Gruppe K: Portugal, Colombia, Usbekistan og DR Kongo</title>
-      <description><![CDATA[Blir Portugal bedre eller dårligere med en aldrende Cristiano Ronaldo? DR Kongo har en av VMs eldste tropper, mens Usbekistan kan overraske positivt.  Og James Rodríguez er fremdeles med for Colombia – alt er åpent i gruppe K!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/9e26442d-40ee-495e-a644-2d40ee895ec9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/9e26442d-40ee-495e-a644-2d40ee895ec9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:43</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 05:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>

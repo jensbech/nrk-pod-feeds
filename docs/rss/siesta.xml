@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:17:59 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:00:29 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 10: Mari Monsson er med!</title>
+      <description><![CDATA[Mari Monsson  fra nitimen er gjest! Rafael Eriksen titter innom, det blir papegøye og vi snakker om handlevogner på butikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f678bd2e-8da9-4cc7-b8bd-2e8da9fcc76f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f678bd2e-8da9-4cc7-b8bd-2e8da9fcc76f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:59</itunes:duration>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 09: Spise fra Annas mage</title>
       <description><![CDATA[Vi  smalltalker dritten ut av ting, Markus har laget en voldelig smurfehit og Anna tvinger oss til å spise sjokolade fra magen.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/81a3e694-ecc9-4318-a3e6-94ecc96318ba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:05</itunes:duration>
       <pubDate>Thu, 30 Apr 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Finn Glede legger opp</title>
-      <description><![CDATA[Daniel ble shama av google, det blir Mario og Luuigi i papegøye og samme dag som Karpe gir seg har Finn Glede en trist nyhet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/4302fda5-6f88-4f4c-82fd-a56f885f4c98_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/4302fda5-6f88-4f4c-82fd-a56f885f4c98_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:12</itunes:duration>
-      <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

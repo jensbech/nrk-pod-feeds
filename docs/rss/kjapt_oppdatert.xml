@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:16:40 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:59:42 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Over 150.000 møtte opp for å hylle herrelandslaget</title>
+      <description><![CDATA[Og din neste mobil kan bli dyrere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f30e4929-5b2e-40b5-8e49-295b2ef0b50c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f30e4929-5b2e-40b5-8e49-295b2ef0b50c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:28</itunes:duration>
+      <pubDate>Tue, 14 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/llzLTDyqgcWwmcT7AIHJkw1uGU8hhPlvo3en8LYpoKUA.jpg"/>
+    </item>
     <item>
       <title>Norge er ute av VM</title>
       <description><![CDATA[Vi gir deg det du trenger å vite om kampen, og de store snakkisene.
@@ -459,15 +468,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>05:50</itunes:duration>
       <pubDate>Mon, 04 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Pr7m6pitYdEWXNGbn2wmsQ2uoRw1g71JJYMz3cO-alrg.jpg"/>
-    </item>
-    <item>
-      <title>Innvandrere opplever mer mobbing på jobb</title>
-      <description><![CDATA[Og dette må du huske før du leverer skattemeldinga]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/bae93108-d43e-4a12-a931-08d43e2a128f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/bae93108-d43e-4a12-a931-08d43e2a128f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:13</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HdnJ2eDEIh9HMGpzbAeOdg09-NYLcXeX7fVoNZM5Wq2w.jpg"/>
     </item>
   </channel>
 </rss>

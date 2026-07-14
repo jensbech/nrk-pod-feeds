@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:15:36 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:58:39 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Identitet - Kristine Gripsgård</title>
+      <description><![CDATA[Hun har hatt mange identiteter, og en av dem endret livet hennes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c891d82e-b0b3-4ed6-91d8-2eb0b30ed621_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/c891d82e-b0b3-4ed6-91d8-2eb0b30ed621_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:44</itunes:duration>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uPjzHQyoX87sP2MAd2QjjAk0oaI1jrXBZDE4egoKUqUQ.jpg"/>
+    </item>
     <item>
       <title>Hykleri - Kristine Gripsgård</title>
       <description><![CDATA[Hykleri har vi mennesker drevet med til alle tider. Vi sier en ting og gjør en annen.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>04:40</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
-    </item>
-    <item>
-      <title>Stepkasse - Ragnhild Opsahl</title>
-      <description><![CDATA[Det sjelden man føler seg så dum som når man gjør noe sammen med mange andre, og bare roter det til, mens resten fikser det greit.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/18b77fc3-364c-4e98-b77f-c3364c1e9872_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/18b77fc3-364c-4e98-b77f-c3364c1e9872_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:26</itunes:duration>
-      <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oxHdYvP9d6OlxB9Wor0bKgGd7JuXuHuwPzJRn4cHCGGQ.jpg"/>
     </item>
   </channel>
 </rss>
