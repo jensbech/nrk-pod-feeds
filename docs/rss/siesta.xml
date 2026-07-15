@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:00:29 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:07:26 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 11: Smultringens besteforeldre</title>
+      <description><![CDATA[Mann i Eidsvoll prøve å spise 1 kg softis på 10 minutter, Daniel har med ny hatt og Markus forteller om sin historie med smultringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d0e67458-993b-4d9a-a674-58993b6d9ac3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/d0e67458-993b-4d9a-a674-58993b6d9ac3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:27</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 10: Mari Monsson er med!</title>
       <description><![CDATA[Mari Monsson  fra nitimen er gjest! Rafael Eriksen titter innom, det blir papegøye og vi snakker om handlevogner på butikken.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/aedb55e6-fe0a-4a3b-9b55-e6fe0afa3bcc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:49</itunes:duration>
       <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Hvem får Markus til å gråte?</title>
-      <description><![CDATA[Vi avslører vår kunnskap om fysikk, en mann kjørte for fort fordi passasjeren hadde diaré og vi gjør et forsøk på å røre Markus.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/81a3e694-ecc9-4318-a3e6-94ecc96318ba_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/81a3e694-ecc9-4318-a3e6-94ecc96318ba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:05</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

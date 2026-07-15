@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:59:13 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:04:59 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Situasjonen tilspisser seg i områdene rundt Hormuz-stredet</title>
+      <description><![CDATA[I en periode der Iran og USA har trappet opp angrepene, hadde et norsk-eid skip en eksplosjon om bord, utenfor Oman.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1b07e6f1-b426-4a13-87e6-f1b426aa1313_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1b07e6f1-b426-4a13-87e6-f1b426aa1313_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:54</itunes:duration>
+      <pubDate>Tue, 14 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6n3QaZ8jU-7wkjBz4BkBHQuuXaTtTIm15KBgNMCot5QA.jpg"/>
+    </item>
     <item>
       <title>Duket for folkefest</title>
       <description><![CDATA[I kveld skal landslagsheltene hylles i Oslos gater.]]></description>
@@ -453,15 +462,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 04 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iY8d45vJG0sPH53pSwg-1QbxLDkGDPrCpFW7PIixz-jA.jpg"/>
-    </item>
-    <item>
-      <title>Drivstoffdramaet i Stortinget</title>
-      <description><![CDATA[Etter dager med politisk drama blir det opprinnelige forslaget om drivstoffkutt gjennomført.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/101cd44d-89be-48d4-9cd4-4d89bef8d40c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/101cd44d-89be-48d4-9cd4-4d89bef8d40c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gtVRUxolnRvo0fmcO8bwGw2wuH2tmR0r0gHX0ONQ1Huw.jpg"/>
     </item>
   </channel>
 </rss>

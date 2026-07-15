@@ -1305,7 +1305,7 @@ const feeds = [
     "id": "trygdekontoret",
     "title": "Trygdekontoret",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "turister",

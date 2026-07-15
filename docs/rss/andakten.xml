@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:58:39 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:04:26 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Elsket - Kristine Gripsgård</title>
+      <description><![CDATA[Å tro at man er elsket, er ikke alltid det samme som teoretisk sett å vite det, eller få det fortalt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/f406c620-2341-4bc1-86c6-2023414bc179_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/f406c620-2341-4bc1-86c6-2023414bc179_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uPjzHQyoX87sP2MAd2QjjAk0oaI1jrXBZDE4egoKUqUQ.jpg"/>
+    </item>
     <item>
       <title>Identitet - Kristine Gripsgård</title>
       <description><![CDATA[Hun har hatt mange identiteter, og en av dem endret livet hennes.]]></description>
@@ -450,15 +459,6 @@
       <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c1fd2b6a-2403-491a-bd2b-6a2403a91aee_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/andakten/c1fd2b6a-2403-491a-bd2b-6a2403a91aee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:28</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
-    </item>
-    <item>
-      <title>Sinte bønner - Stig Lægdene</title>
-      <description><![CDATA[Mange tyr til bønn når de har det vanskelig og vondt. Men muligheten for bønn er også der når du er skikkelig sint.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/d6e982c2-864c-43de-a982-c2864c43dedf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/d6e982c2-864c-43de-a982-c2864c43dedf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:40</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
     </item>
