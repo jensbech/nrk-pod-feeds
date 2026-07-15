@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-07-15  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2026-07-02  
 - Updated podcast 'Kompass' (`kompass`)  
 ### 2026-06-30  
