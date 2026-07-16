@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:04:26 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 09:08:04 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Basketball -Kristine Gripsgård</title>
+      <description><![CDATA[Han nektet å bli bitter, og laget seg heller et motto å leve etter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/76ecf57d-cf8c-4587-acf5-7dcf8c3587e1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/76ecf57d-cf8c-4587-acf5-7dcf8c3587e1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:45</itunes:duration>
+      <pubDate>Thu, 16 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uPjzHQyoX87sP2MAd2QjjAk0oaI1jrXBZDE4egoKUqUQ.jpg"/>
+    </item>
     <item>
       <title>Elsket - Kristine Gripsgård</title>
       <description><![CDATA[Å tro at man er elsket, er ikke alltid det samme som teoretisk sett å vite det, eller få det fortalt.]]></description>
@@ -450,15 +459,6 @@
       <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/138af578-6064-4d2b-8af5-7860644d2b88_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/andakten/138af578-6064-4d2b-8af5-7860644d2b88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:24</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
-    </item>
-    <item>
-      <title>Kort bønn - Stig Lægdene</title>
-      <description><![CDATA[Den  korteste bønnen av dem alle, er en bønn du kanskje ikke har tenkt så nøye over, men som rommer mye.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c1fd2b6a-2403-491a-bd2b-6a2403a91aee_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/c1fd2b6a-2403-491a-bd2b-6a2403a91aee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:28</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 12:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/H2hiuUq1QE08-dPZUSCKjgdZgm6WoV5RC8S9VGvpLwOQ.jpg"/>
     </item>
