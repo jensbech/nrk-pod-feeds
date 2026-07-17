@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:08:20 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 03:48:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:02:53 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 00:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Trump kommer til VM-finalen</title>
+      <description><![CDATA[Vil Trump bli pepet ut og hvor mye vil han holde pokalen? Og er de franske og engelske spillerne motiverte for en bronsefinale?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/805ac080-8916-4d61-9ac0-808916bd61d4_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/805ac080-8916-4d61-9ac0-808916bd61d4_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:20</itunes:duration>
+      <pubDate>Fri, 17 Jul 2026 00:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Semifinalen som slo gnister</title>
       <description><![CDATA[Hatoppgjøret mellom England og Argentina ble akkurat så intenst som vi trodde. Og Messi viste igjen hvem som er sjefen.]]></description>
@@ -458,15 +467,6 @@ Her er første rapport.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/5e4ec3a7-0355-45c9-8ec3-a7035525c9c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:32</itunes:duration>
       <pubDate>Wed, 03 Jun 2026 05:54:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Gruppe H: Spania, Uruguay, Kapp Verde og Saudi-Arabia</title>
-      <description><![CDATA[Hvem skal score for Spania? Saudi-Arabia må kjempe for livet, mens Uruguay skal teste ut "Bielsa-ball" i VM. Og greier de "blå haiene" å unngå å bli gruppens kasteball? Velkommen til gruppe H i VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/5b80c68a-dad1-459b-80c6-8adad1259b83_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5b80c68a-dad1-459b-80c6-8adad1259b83_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:42</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 05:53:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>

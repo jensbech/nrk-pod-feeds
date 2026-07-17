@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:07:00 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 16:05:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:04:15 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Tvunget til å legge opp: Hva skjedde med BTS?</title>
+      <description><![CDATA[Kan de koreanske verdensstjernene klare å nå tilbake til toppen etter flere år fra hverandre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/2cf52d75-7bec-4c87-b52d-757bec3c87ec_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/2cf52d75-7bec-4c87-b52d-757bec3c87ec_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:49</itunes:duration>
+      <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bkSQFTBZKTKRO6q9mAKctwGhUq8fU01fF34G2fAT5ufQ.jpg"/>
+    </item>
     <item>
       <title>Norges VM-exit: Har VAR blitt et maktmiddel?</title>
       <description><![CDATA[Dømming ved hjelp av video skaper raseri blant fotball-supportere verden over. ]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>18:03</itunes:duration>
       <pubDate>Tue, 05 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hHjJazHbP9nlz-a87NHyoQrA17kWwiUqKXVUdqJ32PaA.jpg"/>
-    </item>
-    <item>
-      <title>Noregs skjulte metall: Europas nye redning?</title>
-      <description><![CDATA[Under norske jorde ligg det som kan bli ei viktig brikke for sikkerheita i Europa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5f1d14cc-9c35-4eca-9d14-cc9c355ecab3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5f1d14cc-9c35-4eca-9d14-cc9c355ecab3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:53</itunes:duration>
-      <pubDate>Mon, 04 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DSM4kPAo4qfjL11OaQ7ikQWzNMC_c5PS7_dHN_tVcjhg.jpg"/>
     </item>
   </channel>
 </rss>

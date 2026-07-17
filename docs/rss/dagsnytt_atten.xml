@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:08:41 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:03:07 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Dieseluro i Finnmark</title>
+      <description><![CDATA[Politiet er bekymret for økt drivstoff-etterspørsel fra russiske skip.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2dc5cf91-fe35-4cbf-85cf-91fe35ccbfb1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2dc5cf91-fe35-4cbf-85cf-91fe35ccbfb1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Thu, 16 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cH1ff-2PGyqTffPHEcguiw6whvlQLK7CS392uDKlyKeg.jpg"/>
+    </item>
     <item>
       <title>Står gamle varmerekorder for fall?</title>
       <description><![CDATA[Flere steder i Sør-Norge opplever uvanlig høye temperaturer]]></description>
@@ -453,15 +462,6 @@ Arbeiderpartiet vil ikke gi slipp på kontrollen over utbetalingene.]]></descrip
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 06 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0f1kqArUxBQgRUzd_EfNlQNvRsPAGUHk5Cb2sZKHp1Fg.jpg"/>
-    </item>
-    <item>
-      <title>Oljeleting nærmere land</title>
-      <description><![CDATA[Regjeringen lyser ut olje- og gassområder nærmere kysten enn noen gang før - Nok en gang overser regjeringen miljøfaglige råd, sier SV.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b81028c5-2fbb-4338-9028-c52fbbe33874_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b81028c5-2fbb-4338-9028-c52fbbe33874_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LzBVaQYiLBiXATr9OT5HdAozaTCfg5yc7fzmCp-ZdUsA.jpg"/>
     </item>
   </channel>
 </rss>

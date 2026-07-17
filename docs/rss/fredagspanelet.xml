@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Jul 2026 10:14:24 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 08:15:00 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:03:23 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Fotball, botox og KI</title>
+      <description><![CDATA[Dagens panel består av kommunikasjonsrådgiver og samfunnsdebattant Ida Evita de Leon; forfatter, foredragsholder og mentor Kathrine Aspaas; og journalist i Forskning.no, Nina Kristiansen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/df83c62d-3f48-4571-83c6-2d3f48357171_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/df83c62d-3f48-4571-83c6-2d3f48357171_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:09</itunes:duration>
+      <pubDate>Fri, 17 Jul 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Norsk folkesjel spesial</title>
       <description><![CDATA[Har vi blitt en nasjon av nostalgikere? Som nasjon - kommer vi til å tåle all suksessen fotball-VM bringer med seg? Er forestillingen om at nordmenn ikke kan drikke med måte død nå?]]></description>
@@ -496,15 +505,6 @@ Bot i buffeten]]></description>
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/638a957c-3ff1-4671-9864-281dbe00ff8d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:58</itunes:duration>
       <pubDate>Fri, 27 Jun 2025 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>Valgomat, skjermbruk - og looksmaxxing</title>
-      <description><![CDATA[Panelet er Kornelia Minsaas - Spareøkonom for Lendo Norge, Thorgeir Kolshus - leder på Sosialantropologisk institutt, UiO og  Maja Sojtaric - politisk redaktør for Nordlys.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/845e7add-90f6-47a7-b874-b9fa7b6d4f68_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/845e7add-90f6-47a7-b874-b9fa7b6d4f68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:53</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
