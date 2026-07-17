@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-07-17  
+- Updated podcast 'Kveldstanker' (`kveldstanker`)  
+- Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2026-07-15  
 - Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2026-07-02  

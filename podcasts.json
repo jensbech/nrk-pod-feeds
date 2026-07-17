@@ -627,7 +627,7 @@
         "id": "kveldstanker",
         "title": "Kveldstanker",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "labyrint_om_natten",
@@ -675,7 +675,7 @@
         "id": "luois_luohti",
         "title": "Luođis luohtái",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "lyden_av_17_mai",
