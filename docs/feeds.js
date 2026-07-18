@@ -603,7 +603,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "kroppen",

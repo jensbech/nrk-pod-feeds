@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 11 Jul 2026 08:43:14 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:43:55 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 9</title>
+      <description><![CDATA[Rådgivere er: Christian Mikkelsen / Maria Stavang / David Mokel / Sissel Gran / Galvan Mehidi / Mathea Josefsen / Ingrid Gjessing / Emilie Skolmen / Mikkel Niva]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/5e792f57-23e0-446c-b92f-5723e0e46c35_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5e792f57-23e0-446c-b92f-5723e0e46c35_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:52:16</itunes:duration>
+      <pubDate>Sat, 18 Jul 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    </item>
+    <item>
+      <title>Vi deler ut kopper!</title>
+      <description><![CDATA[I rekken av rare isjer... her er en til!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/613b63ef-3cef-4372-bb63-ef3cefa37203_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/613b63ef-3cef-4372-bb63-ef3cefa37203_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:28</itunes:duration>
+      <pubDate>Fri, 17 Jul 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra 2025 - nr. 8</title>
       <description><![CDATA[Rådgivere er: Ronny Brede Aase / Amalie Stuve / Jonis Josef / Erik Solbakken / Jenny Skavlan / Hilde Skaar / Tuva Fellman / Karsten Blomvik / Carina Dahl]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/52b29b87-f17a-4ebf-b29b-87f17abebfdc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:32</itunes:duration>
       <pubDate>Wed, 21 Jan 2026 15:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Pernille Sørensen / Tore Sagen / Adelina Ibishi</title>
-      <description><![CDATA[Hvordan ble bonusjulaften? / PROBLEMER: Klåfingret kompis / Et sosialt vakuum i betong / Mangler den tydelige forloveren / GUBBEFAEN på jobb / Kunstig dating / To bryllup, en dag! / Hvordan date når man er kronisk syk? / Boløftebruddet / Den ufrivillige klemsonen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/97befcb8-e5f1-413d-befc-b8e5f1313dd3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/97befcb8-e5f1-413d-befc-b8e5f1313dd3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:11:38</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 13:41:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fzT_AWBDgQnJLHoxLnupAQrksEGSG2_KcsgJbOlD3pTg.jpg"/>
-    </item>
-    <item>
-      <title>To oppløftende tilbakemeldinger</title>
-      <description><![CDATA[Det gikk bra med både Bjarte og masterstudentene!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/d0876bb7-1ccd-4c4b-876b-b71ccd7c4bcf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/d0876bb7-1ccd-4c4b-876b-b71ccd7c4bcf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:17</itunes:duration>
-      <pubDate>Wed, 14 Jan 2026 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
