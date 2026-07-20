@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Jul 2026 09:03:44 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:50:01 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Over 100 boliger har brent ned i Drammen</title>
+      <description><![CDATA[Og Spania er igjen verdensmestere i fotball.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/842037b8-ca1e-4bea-a037-b8ca1eabea7a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/842037b8-ca1e-4bea-a037-b8ca1eabea7a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:34</itunes:duration>
+      <pubDate>Mon, 20 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7V9ED6NudevdDbc1G8xypgj1Xh84hpIKmbqOZ89Q_v8g.jpg"/>
+    </item>
     <item>
       <title>Trump anklager Kina for valgfusk</title>
       <description><![CDATA[Og dødstallene i Venezuela fortsetter å stige etter jordskjelvet i juni.]]></description>
@@ -459,15 +468,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>06:36</itunes:duration>
       <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/X_KwXYiOOd0g4tJZOWZnyQzGnAE4tED6lyel3QqJT17w.jpg"/>
-    </item>
-    <item>
-      <title>Komiker er rasende på tastaturkrigere</title>
-      <description><![CDATA[Og passasjerene på det virusrammede cruiseskipet vil trolig evakueres på mandag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b541c1d1-bced-4b00-81c1-d1bced2b00a8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b541c1d1-bced-4b00-81c1-d1bced2b00a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:43</itunes:duration>
-      <pubDate>Thu, 07 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PCXW2O4TzS15MPHjl71BFwo_FutCwQA1tsNc_QFoYEdQ.jpg"/>
     </item>
   </channel>
 </rss>

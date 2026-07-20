@@ -861,7 +861,7 @@ const feeds = [
     "id": "norsken_svensken_og_dansken",
     "title": "Norsken, svensken og dansken",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "nrkbeta",

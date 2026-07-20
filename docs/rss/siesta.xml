@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:10:47 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:50:50 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 13: Arin Soltanpanah er her</title>
+      <description><![CDATA[Er middag etter klokka 19 bra eller ræv? Hvem vinner papegøye med barne-tv helter og Arin har med verdens verste ubehag vi skal veie oss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/abb0a05a-c565-436b-b0a0-5ac565936b84_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/abb0a05a-c565-436b-b0a0-5ac565936b84_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:09</itunes:duration>
+      <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 12: Quizmaster Borre</title>
       <description><![CDATA[Quizmaster Ørjan Borre kommer innom, hvilke kommuner er undervurdert og vi har spist indisk.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/0e305a53-ae44-4c14-b05a-53ae44bc1410_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:46</itunes:duration>
       <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Vi lukter (angivelig) drit</title>
-      <description><![CDATA[Daniel var på Norge rundt, Anna hører ikke etter og Markus har tatt med en gammel slager i Emma Steinbakken-spalten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/128aeae7-a364-40c8-8aea-e7a364c0c8c1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/128aeae7-a364-40c8-8aea-e7a364c0c8c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:18</itunes:duration>
-      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
