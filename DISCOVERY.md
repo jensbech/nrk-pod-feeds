@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-07-21  
+- Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 ### 2026-07-20  
 - Updated podcast 'Norsken, svensken og dansken' (`norsken_svensken_og_dansken`)  
 ### 2026-07-19  
