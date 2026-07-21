@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:19:00 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:42:17 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Ufarlig med peanøtter?</title>
+      <description><![CDATA[Det er ikke farlig for allergikere å ha peanøtter i samme rom, viser ny studie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8805fedd-30ec-4652-85fe-dd30ec86527a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8805fedd-30ec-4652-85fe-dd30ec86527a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:06</itunes:duration>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9gkLU-_9_xYk1y2R06Sy1QGACH5SBigaYiSQ4-3q0L-A.jpg"/>
+    </item>
     <item>
       <title>Hvis russerne kommer</title>
       <description><![CDATA[Finnmark får flere soldater, mer luftvern, og det finnes allerede en plan for evakuering av sivilbefolkninga.]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>23:39</itunes:duration>
       <pubDate>Thu, 02 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2KCJid7ARs-53le8wi9f_guZLmel94uhwsUnXBZkhkrg.jpg"/>
-    </item>
-    <item>
-      <title>Snakk med barn om krig?</title>
-      <description><![CDATA[Nyhetene er fulle av krig og uroligheter. Hvordan snakker vi med barna uten å skremme dem og samtidig bevare roen selv?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ffe50268-8526-4eed-a502-6885264eed6e_4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ffe50268-8526-4eed-a502-6885264eed6e_4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:48</itunes:duration>
-      <pubDate>Wed, 01 Apr 2026 10:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F-x9GHSpOO60tOYcuJq9SgdcY33IxHFb295PeQ42krMw.jpg"/>
     </item>
   </channel>
 </rss>
