@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 19 Jul 2026 09:03:16 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:24:20 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Sondre Lerche: Evig romantiker</title>
+      <description><![CDATA[Sondre Lerche forteller om balansen mellom å prioritere musikken og være en evig romantiker – og om å få tilbake troen på den rette.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/577b939d-f1a5-44eb-bb93-9df1a5d4eb95_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/577b939d-f1a5-44eb-bb93-9df1a5d4eb95_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:54</itunes:duration>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4uFyiGuz81E_1rhG6O8aygIQtsTM1hhnrBEmUraFRLWQ.jpg"/>
+    </item>
     <item>
       <title>Panelet: Forelskelse</title>
       <description><![CDATA[Hvorfor blir vi forelsket, og hva er tilknytningsstil? Panelet har besøk av psykolog Jan-Ole Hesselberg i spesialepisoden om forelskelse.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>44:43</itunes:duration>
       <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wBDiq3kcJKs505Fz1MrbbAHt5P0XasQo-Brg5CkCYL1g.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Guttekultur og daddy issues</title>
-      <description><![CDATA[Panelet diskuterer maskulinitet, daddy issues, hekt og hva som skal til for å ha et godt, langvarig forhold.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5d4e6bd9-6f45-4223-8e6b-d96f452223e6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5d4e6bd9-6f45-4223-8e6b-d96f452223e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:06</itunes:duration>
-      <pubDate>Sun, 22 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
     </item>
   </channel>
 </rss>

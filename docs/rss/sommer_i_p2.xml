@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:51:02 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:24:03 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Helene Bøksle</title>
+      <description><![CDATA[Hun flyktet fra Norge da terroristen misbrukte musikken hennes 22. juli 2011. Nå tar hun stemmen sin tilbake.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/22003572-9296-45c0-8035-729296c5c0e1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/22003572-9296-45c0-8035-729296c5c0e1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:53</itunes:duration>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N1AV52II3kewmGLrQFqj2g80HK7jlSh6BephBmx5k7oA.jpg"/>
+    </item>
     <item>
       <title>Jan Arild Snoen</title>
       <description><![CDATA[Han orker ikke mer av den amerikanske presidenten og har satt kjærlighetsforholdet til USA på pause. I sommer velger han Canada.]]></description>
@@ -248,7 +257,7 @@
     </item>
     <item>
       <title>Erik Thorstvedt</title>
-      <description><![CDATA[Sønnen spiller på landslaget, men selv tror keeperlegenden VM vil ende i forferdelse for Norge.]]></description>
+      <description><![CDATA[Sønnen spiller på landslaget, og selv trodde keeperlegenden VM ville ende i forferdelse for Norge.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/c266a9b6-48f7-4841-a6a9-b648f70841ec_2_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/c266a9b6-48f7-4841-a6a9-b648f70841ec_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:16</itunes:duration>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/1d5f372c-5c71-40b9-a847-3faff7f261a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:06</itunes:duration>
       <pubDate>Tue, 15 Jul 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XM2y8TfES_0yjEsZmkbO-AUkrNpcQhdywDLGy9Hf_Zaw.jpg"/>
-    </item>
-    <item>
-      <title>Niillas Somby - samisk versjon</title>
-      <description><![CDATA[Maŋŋá nealgudemiid ja akšuvnnaid Álttá-áššis, báhtara sámeaktivista Kanádai, ja šattai Norgga eanemus ohccojuvvon terroristan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/8a0372ae-4eeb-421b-ab9b-8ee0aaab8dc8_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/8a0372ae-4eeb-421b-ab9b-8ee0aaab8dc8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:29</itunes:duration>
-      <pubDate>Tue, 15 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XM2y8TfES_0yjEsZmkbO-AUkrNpcQhdywDLGy9Hf_Zaw.jpg"/>
     </item>
   </channel>

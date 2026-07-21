@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:50:01 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:23:06 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Breivik dyrkes av høyreekstreme</title>
+      <description><![CDATA[Og flere har mistet alt etter brannen i Krokstadelva.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a3aa20c6-3650-4ee6-aa20-c636506ee620_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a3aa20c6-3650-4ee6-aa20-c636506ee620_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:18</itunes:duration>
+      <pubDate>Tue, 21 Jul 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tsVBlk_40wdgi7mP8lnj5ALzU9RbNSmgnNaN_0He-vfg.jpg"/>
+    </item>
     <item>
       <title>Over 100 boliger har brent ned i Drammen</title>
       <description><![CDATA[Og Spania er igjen verdensmestere i fotball.]]></description>
@@ -459,15 +468,6 @@ Det ble gjort en endring i episoden etter publisering fordi vi sa feil tidspunkt
       <itunes:duration>05:38</itunes:duration>
       <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xyi-kD6irRndnB7xhSrmRwcMlqNI90plUsYkuw5D7_fw.jpg"/>
-    </item>
-    <item>
-      <title>Det blir kaos i hovedstaden i helga</title>
-      <description><![CDATA[Og hva bør du gjøre for å spare penger etter at renta ble satt opp?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/5af4bd3e-b9f8-4663-b4bd-3eb9f8c6634e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5af4bd3e-b9f8-4663-b4bd-3eb9f8c6634e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:36</itunes:duration>
-      <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X_KwXYiOOd0g4tJZOWZnyQzGnAE4tED6lyel3QqJT17w.jpg"/>
     </item>
   </channel>
 </rss>
