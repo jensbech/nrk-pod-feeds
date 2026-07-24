@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:18:40 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:14:52 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Rekordmange har fått studieplass</title>
+      <description><![CDATA[Årets søkertall er klare: rekordmange har fått tilbud om høyere utdanning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/351cf75a-e0a9-4eb6-9cf7-5ae0a9beb66d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/351cf75a-e0a9-4eb6-9cf7-5ae0a9beb66d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Snpj2Xcyn3cMpPKwTTlp2Qps2lqv28aSmTbO5qIo0ZYQ.jpg"/>
+    </item>
     <item>
       <title>15 år siden terroren 22. juli</title>
       <description><![CDATA[Det har vært minnemarkering på Utøya dagen 15 år etter at 77 mennesker ble drept i et høyreekstremt terrorangrep i Norge.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Wed, 13 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/66eksJSpHZQ19dDT9hDZAgusSI_JullAFAqMIht0PqhA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen har lagt frem revidert nasjonalbudsjett</title>
-      <description><![CDATA[De rødgrønne partiene varsler tøffe forhandlinger om revidert nasjonalbudsjett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/79ed6207-53a7-418f-ad62-0753a7e18fac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/79ed6207-53a7-418f-ad62-0753a7e18fac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 12 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zM4Zl-RpVT_DcKTHGXdyWw1_Zo9vJHuzJwu0tojIqzmg.jpg"/>
     </item>
   </channel>
 </rss>
