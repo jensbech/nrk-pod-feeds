@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:14:52 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:54:30 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 18:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>USA innfører ny toll på norske varer</title>
+      <description><![CDATA[Norge får en tollsats på 12,5 prosent - 10 prosent for EU. Regjeringen kaller tollen urimelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b807fbf9-8803-4278-87fb-f988030278f2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b807fbf9-8803-4278-87fb-f988030278f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:16</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 18:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bQp_bV4gwmHIzs-rS-Ppogwc_lfdh6c7YLx8BTK1zFAw.jpg"/>
+    </item>
     <item>
       <title>Rekordmange har fått studieplass</title>
       <description><![CDATA[Årets søkertall er klare: rekordmange har fått tilbud om høyere utdanning.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Fri, 15 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/OAgcjPEs4nUpINkd4kYo2A_yQNChRybyDF45C00jmTvQ.jpg"/>
-    </item>
-    <item>
-      <title>Trump i Kina</title>
-      <description><![CDATA[USAs president har landet i Kina - tema for møtene skal være handel og konflikten i Hormuzstredet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/40d19d87-3d6b-4be6-919d-873d6b3be67e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/40d19d87-3d6b-4be6-919d-873d6b3be67e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 13 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/66eksJSpHZQ19dDT9hDZAgusSI_JullAFAqMIht0PqhA.jpg"/>
     </item>
   </channel>
 </rss>
