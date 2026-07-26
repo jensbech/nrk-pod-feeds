@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-07-26  
+- Updated podcast 'Desken brenner' (`desken_brenner`)  
+- Updated podcast 'Kommentert' (`kommentert`)  
 ### 2026-07-21  
 - Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
 ### 2026-07-20  

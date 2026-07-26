@@ -165,7 +165,7 @@
         "id": "desken_brenner",
         "title": "Desken brenner",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "dilemmaklemma",
@@ -555,7 +555,7 @@
         "id": "kommentert",
         "title": "Kommentert",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "kompass",
