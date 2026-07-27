@@ -24,6 +24,49 @@ def test_write_feeds_file():
 
     assert str
 
+def test_write_feeds_file_with_images():
+    feeds_file = "tests/feeds_images.js"
+    feeds_dir = "tests/rss_unit"
+    image_url = "https://gfx.nrk.no/example.jpg"
+    os.makedirs(feeds_dir, exist_ok=True)
+
+    xml = (
+        "<?xml version='1.0' encoding='UTF-8'?>"
+        "<rss xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\" version=\"2.0\">"
+        "<channel><title>Kongerekka</title>"
+        f"<itunes:image href=\"{image_url}\"/>"
+        "</channel></rss>"
+    )
+    with open(f"{feeds_dir}/kongerekka.xml", "w") as f:
+        f.write(xml)
+
+    podcasts = [
+        {
+            "id": "kongerekka",
+            "title": "Kongerekka",
+            "season": "LATEST_SEASON",
+            "enabled": True
+        },
+        {
+            "id": "finnes_ikke",
+            "title": "Finnes ikke",
+            "season": None,
+            "enabled": False
+        }
+    ]
+
+    write_feeds_file(feeds_file, podcasts, feeds_dir)
+
+    with open(feeds_file, "r") as f:
+        content = f.read()
+
+    entries = json.loads(content.removeprefix("const feeds = "))
+    assert entries[0]["image"] == image_url
+    assert "image" not in entries[1]
+
+def test_get_feed_image_missing():
+    assert get_feed_image("tests/rss_unit", "finnes_ikke") == None
+
 def test_write_podcasts_changelog():
     file = "tests/DISCOVERY_UNIT.md"
     os.makedirs("tests/", exist_ok=True)

@@ -7,6 +7,8 @@ def init():
     log_level = os.environ.get("LOG_LEVEL", "INFO").upper()
     logging.basicConfig(level=log_level)
 
+ITUNES_NS = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
+
 def get_last_feed(feeds_dir, podcast_id):
     try:
         path = f"{feeds_dir}/{podcast_id}.xml"
@@ -30,12 +32,32 @@ def write_podcasts_config(config_file, podcasts):
     
     logging.info(f"Podcasts config written to file: {config_file}")
 
-def write_feeds_file(feeds_file, podcasts):
+def get_feed_image(feeds_dir, podcast_id):
+    feed = get_last_feed(feeds_dir, podcast_id)
+    if feed is None:
+        return None
+
+    image = feed.find(f"channel/{ITUNES_NS}image")
+    if image is None:
+        return None
+
+    return image.get("href")
+
+def write_feeds_file(feeds_file, podcasts, feeds_dir=None):
+    entries = []
+    for podcast in podcasts:
+        entry = dict(podcast)
+        if feeds_dir:
+            image = get_feed_image(feeds_dir, podcast["id"])
+            if image:
+                entry["image"] = image
+        entries.append(entry)
+
     f = open(feeds_file, "w")
-    str = json.dumps(podcasts, ensure_ascii=False, indent=2)
+    str = json.dumps(entries, ensure_ascii=False, indent=2)
     f.write(f"const feeds = {str}")
     f.close()
-    
+
     logging.info(f"Podcast feeds written to file: {feeds_file}")
 
 def write_podcasts_changelog(file, date, changes):

@@ -174,5 +174,5 @@ if __name__ == '__main__':
 
         write_podcast_xml(feeds_dir, podcast_id, podcast)
 
-    write_feeds_file(feeds_file, podcasts)
+    write_feeds_file(feeds_file, podcasts, feeds_dir)
     logging.info("Done")
