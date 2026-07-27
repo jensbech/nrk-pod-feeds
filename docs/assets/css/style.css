@@ -93,29 +93,62 @@ h1 {
   font-weight: 500;
 }
 
-.legend {
+/* ── Filter bar ───────────────────────────────────── */
+.filter-bar {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-left: auto;
+  gap: 6px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
 }
 
-.leg {
-  font-size: 12px;
-  color: var(--text-3);
-  display: flex;
+.filter-btn {
+  display: inline-flex;
   align-items: center;
-  gap: 5px;
+  gap: 7px;
+  background: var(--surface);
+  border: 1px solid var(--border-2);
+  border-radius: 999px;
+  color: var(--text-2);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 7px 14px;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
 }
-.leg-dot {
-  width: 6px;
-  height: 6px;
+.filter-btn:hover {
+  border-color: var(--text-3);
+  color: var(--text);
+}
+.filter-btn.is-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.filter-swatch {
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
   flex-shrink: 0;
 }
-.leg-active   .leg-dot { background: var(--active); }
-.leg-inactive .leg-dot { background: var(--inactive); }
-.leg-obsolete .leg-dot { background: var(--obsolete); }
+.swatch-active   { background: var(--active); }
+.swatch-inactive { background: var(--inactive); }
+.filter-btn.is-active .filter-swatch {
+  box-shadow: 0 0 0 1.5px rgba(255, 255, 255, 0.5);
+}
+
+.filter-num {
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--text-3);
+  font-variant-numeric: tabular-nums;
+}
+.filter-btn:hover .filter-num { color: var(--text-2); }
+.filter-btn.is-active .filter-num { color: rgba(255, 255, 255, 0.65); }
 
 /* ── Main ─────────────────────────────────────────── */
 main {
@@ -326,8 +359,8 @@ main {
 
 /* ── Responsive ───────────────────────────────────── */
 @media (max-width: 520px) {
-  .legend  { display: none; }
   .ep-badge { display: none; }
+  .filter-btn { flex: 1; justify-content: center; }
   .header-top { flex-direction: column; gap: 8px; }
   .feed-list { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 12px; }
   .copy-btn { width: 100%; }

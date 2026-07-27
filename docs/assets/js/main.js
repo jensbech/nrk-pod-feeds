@@ -30,6 +30,8 @@ function buildCard(feed) {
     </div>`;
 }
 
+let currentFilter = "all";
+
 function listFeeds() {
   const visible = feeds;
   const active  = visible.filter(f => f.enabled);
@@ -37,8 +39,22 @@ function listFeeds() {
   document.getElementById("count-active").textContent = active.length;
   document.getElementById("count-total").textContent  = visible.length;
 
+  document.getElementById("filter-count-all").textContent      = visible.length;
+  document.getElementById("filter-count-active").textContent   = active.length;
+  document.getElementById("filter-count-inactive").textContent = visible.length - active.length;
+
   document.getElementById("feeds_list").innerHTML = visible.map(buildCard).join("");
-  updateSearchCount();
+  applyFilters();
+}
+
+function setFilter(filter, btn) {
+  currentFilter = filter;
+  document.querySelectorAll(".filter-btn").forEach(b => {
+    const on = b === btn;
+    b.classList.toggle("is-active", on);
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+  });
+  applyFilters();
 }
 
 function copyToClipboard(id, btn) {
@@ -68,12 +84,22 @@ function updateSearchCount() {
   if (empty) empty.hidden = visible > 0;
 }
 
-function searchFeeds() {
+function applyFilters() {
   const query = document.getElementById("searchInput").value.toLowerCase().trim();
   document.querySelectorAll(".feed-card").forEach(card => {
-    card.style.display = card.dataset.search.includes(query) ? "" : "none";
+    const matchesSearch = card.dataset.search.includes(query);
+    const isActive      = card.classList.contains("card-active");
+    const matchesFilter =
+      currentFilter === "all" ||
+      (currentFilter === "active"   && isActive) ||
+      (currentFilter === "inactive" && !isActive);
+    card.style.display = matchesSearch && matchesFilter ? "" : "none";
   });
   updateSearchCount();
+}
+
+function searchFeeds() {
+  applyFilters();
 }
 
 listFeeds();

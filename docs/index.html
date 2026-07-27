@@ -24,10 +24,6 @@
         </div>
         <div class="header-meta">
           <span class="stats"><strong id="count-active">—</strong> aktive &middot; <strong id="count-total">—</strong> totalt</span>
-          <div class="legend">
-            <span class="leg leg-active"><span class="leg-dot"></span> Aktiv</span>
-            <span class="leg leg-inactive"><span class="leg-dot"></span> Inaktiv</span>
-          </div>
         </div>
       </div>
     </header>
@@ -37,6 +33,18 @@
         <svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
         <input type="text" id="searchInput" onkeyup="searchFeeds()" placeholder="Søk etter podkast…" autocomplete="off" spellcheck="false">
         <span class="search-count" id="searchCount"></span>
+      </div>
+
+      <div class="filter-bar" role="group" aria-label="Filtrer podkaster">
+        <button type="button" class="filter-btn is-active" data-filter="all" onclick="setFilter('all', this)" aria-pressed="true">
+          Alle <span class="filter-num" id="filter-count-all">—</span>
+        </button>
+        <button type="button" class="filter-btn" data-filter="active" onclick="setFilter('active', this)" aria-pressed="false">
+          <span class="filter-swatch swatch-active"></span> Aktive <span class="filter-num" id="filter-count-active">—</span>
+        </button>
+        <button type="button" class="filter-btn" data-filter="inactive" onclick="setFilter('inactive', this)" aria-pressed="false">
+          <span class="filter-swatch swatch-inactive"></span> Inaktive <span class="filter-num" id="filter-count-inactive">—</span>
+        </button>
       </div>
 
       <div class="feed-list" id="feeds_list"></div>
