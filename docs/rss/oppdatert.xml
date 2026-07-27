@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:16:27 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:33:13 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 07:46:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Slukt av flammehavet: Infernoet time for time</title>
+      <description><![CDATA[Katastrofebrannen i Krokstadelva er den største i Norge på 100 år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fcdb0e90-301d-46b8-9b0e-90301db6b887_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fcdb0e90-301d-46b8-9b0e-90301db6b887_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:31</itunes:duration>
+      <pubDate>Mon, 27 Jul 2026 07:46:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ys5gRSqVT9rkUp4aPmszyAS-RICuoW53mXdFfr7Pqwcg.jpg"/>
+    </item>
     <item>
       <title>Olje og UV-indeks: Derfor jaktar gen Z solbrun hud</title>
       <description><![CDATA[Gjennom trenden «tanmaxxing» har ein ny generasjon tatt soling tilbake.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>23:04</itunes:duration>
       <pubDate>Fri, 08 May 2026 16:08:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/asKVPKeX206fZXDPMysImQt6_rziiy2qCo0TU8j3W2eA.jpg"/>
-    </item>
-    <item>
-      <title>Rimi-milliardæren: Slik ble han så mektig</title>
-      <description><![CDATA[Stein Erik Hagen var kunstsamlar, spaentusiast og mangemilliardær. Kva rolle har han spelt i norsk samfunnsliv?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a97c2a72-36a3-4ac4-bc2a-7236a3eac403_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a97c2a72-36a3-4ac4-bc2a-7236a3eac403_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:51</itunes:duration>
-      <pubDate>Fri, 08 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/vVhuKOEDXG74GDyreAdUKAdPMlTrbOfzarSRMT8LATKA.jpg"/>
     </item>
   </channel>
 </rss>

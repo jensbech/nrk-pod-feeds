@@ -1317,7 +1317,7 @@ const feeds = [
     "id": "tyrann",
     "title": "Tyrann",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "ubaatsaken",

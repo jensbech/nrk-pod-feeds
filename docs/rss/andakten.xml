@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:18:25 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:32:03 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Salme 23 - Kristina Myhren</title>
+      <description><![CDATA[Salme 23 har du helt sikkert hørt. En salme fra Bibelen som utgjør en bærebjelke for mange.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/bb89dbac-ff3b-4fe7-89db-acff3bffe77f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/bb89dbac-ff3b-4fe7-89db-acff3bffe77f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:16</itunes:duration>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
+    </item>
     <item>
       <title>Trygg - Trygve Skaug</title>
       <description><![CDATA[Når vi blir sett og møtt på riktig måte, tør vi å legge vekk de dårlige følelsene, og vi klarer å rette ryggen]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/bdcd8cfc-e834-4641-8d8c-fce83496413f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:05</itunes:duration>
       <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TRxU0KbAFPcvbuq3KD5eTgvQdOK2hx6nWCepmmDLBQKg.jpg"/>
-    </item>
-    <item>
-      <title>Bordet - Ingjerd Egeberg</title>
-      <description><![CDATA[Skal vi holde fasaden så godt vi kan, eller skal vi pusse overflata vår, slik at ripene og sårene vi har kommer fram?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/7931495d-d8fe-49d2-b149-5dd8fe99d2ce_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/7931495d-d8fe-49d2-b149-5dd8fe99d2ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:21</itunes:duration>
-      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TRxU0KbAFPcvbuq3KD5eTgvQdOK2hx6nWCepmmDLBQKg.jpg"/>
     </item>
   </channel>

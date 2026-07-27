@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:15:46 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:32:39 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Mistenkt skutt etter pride-terror i Berlin</title>
+      <description><![CDATA[Og skogbrannene fortsetter å herje i Sør-Europa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/5945aca2-5b27-447f-85ac-a25b27647fa9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5945aca2-5b27-447f-85ac-a25b27647fa9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:50</itunes:duration>
+      <pubDate>Mon, 27 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lWPzAMuQhEOF6etpDNjhlg4FZv_Ng8KgdbaU355LXJcw.jpg"/>
+    </item>
     <item>
       <title>Ny straffetoll fra USA</title>
       <description><![CDATA[Og nordmenn er rekordgode på sparing, og vi gir deg svaret på hvorfor.]]></description>
@@ -456,15 +465,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>06:16</itunes:duration>
       <pubDate>Mon, 18 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BMhmJLJQMteBtmLJbOCcbAtp284j6oe_hhNJg-RkUwnA.jpg"/>
-    </item>
-    <item>
-      <title>Norge videre til ESC-finale: – Det er jævlig deilig</title>
-      <description><![CDATA[Og Israel og Libanon møtes til nye fredsforhandlinger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/31f9feb0-71fd-4bfc-b9fe-b071fdebfcdd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/31f9feb0-71fd-4bfc-b9fe-b071fdebfcdd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:45</itunes:duration>
-      <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnADNRwpcM2IuvU0AUopogatVkfd8moQxlEGzZy1H1IA.jpg"/>
     </item>
   </channel>
 </rss>
