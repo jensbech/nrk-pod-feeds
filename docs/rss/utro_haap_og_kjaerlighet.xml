@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 26 Jul 2026 09:09:18 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:39:31 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Sandra Lyng: Å bryte mønsteret</title>
+      <description><![CDATA[Sandra Lyng forteller om hvordan hun har lært å bryte mønster knyttet til selvsabotasje og det å velge feil relasjoner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/04b877ab-22ea-4943-b877-ab22ea3943a2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/04b877ab-22ea-4943-b877-ab22ea3943a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:09</itunes:duration>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZBv6z7-b42sT4GfBVMbduQOhMbU23bW_sHpfTRouNnlA.jpg"/>
+    </item>
     <item>
       <title>Panelet: Kjærlighetssorg</title>
       <description><![CDATA[Panelet får besøk av komiker og lege Jonas Kinge Bergland, som er med på et dypdykk i hva som skjer når vi opplever kjærlighetssorg.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>34:31</itunes:duration>
       <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
-    </item>
-    <item>
-      <title>Silje "Bendik" Halstensen: Å bearbeide fortiden</title>
-      <description><![CDATA[Silje Halstensen, kjent som artisten “Bendik”, forteller om en vanskelig hendelse som har påvirket livet hennes.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/414eaf7d-c323-4c00-8eaf-7dc3238c0087_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/414eaf7d-c323-4c00-8eaf-7dc3238c0087_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:45</itunes:duration>
-      <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rlWXiboa-Yglo6TX2hdleAw0nGk8QPa_GrTPmerTLIXw.jpg"/>
     </item>
   </channel>
 </rss>

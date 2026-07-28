@@ -11,10 +11,19 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 11:36:53 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:37:46 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Kjønnslepper, miste jomfrudommen og VAR</title>
+      <description><![CDATA[Milie klarer ikke å si ordet «pung» og har derfor funnet på et helt nytt ord]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/e16e7e81-57c8-46fd-ae7e-8157c826fd8a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e16e7e81-57c8-46fd-ae7e-8157c826fd8a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:08</itunes:duration>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Bæsj i pissoaret, sugemerke og en elendig date</title>
       <description><![CDATA[Milie har fått svar fra utestedet der hun bæsjet i pissoaret...]]></description>
@@ -31,7 +40,7 @@ Ris eller ros? Send det til oss i NRK Radio!</description>
 Send oss spørsmål i appen NRK Radio! :)]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/8068a3bf-d36b-4f0e-a8a3-bfd36b5f0e1e_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/8068a3bf-d36b-4f0e-a8a3-bfd36b5f0e1e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:22</itunes:duration>
+      <itunes:duration>54:27</itunes:duration>
       <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
@@ -544,17 +553,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/b8c7c08f-6227-470e-87c0-8f6227c70e3c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:13</itunes:duration>
       <pubDate>Fri, 06 Feb 2026 12:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Franky og Mo, «shy boy» og Trumps sluttpakke</title>
-      <description><![CDATA[Franky og Mo er gjester!
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/a17a2fdf-4602-4b1d-ba2f-df4602ab1ddc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/a17a2fdf-4602-4b1d-ba2f-df4602ab1ddc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:56</itunes:duration>
-      <pubDate>Tue, 03 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>
