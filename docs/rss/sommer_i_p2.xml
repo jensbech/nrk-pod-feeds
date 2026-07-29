@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:39:12 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:45:02 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Ramón</title>
+      <description><![CDATA[Han forelska seg i nabogutten da han var ti år. Da skjønte Ramón Torres Andresen at han ikke var helt som alle andre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/38f826e8-671c-4a1f-b826-e8671c8a1f43_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/38f826e8-671c-4a1f-b826-e8671c8a1f43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:29</itunes:duration>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/477I2DUOYTX-B-b3PptKJgnEC61lsQTIwL_VmrnVKsEw.jpg"/>
+    </item>
     <item>
       <title>Ulf André «Uffe» Andersen</title>
       <description><![CDATA[Då nyrene svikta, forstod den tidlegare Se og Hør-sjefen at styrke ikkje alltid handlar om å presse seg vidare]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>36:43</itunes:duration>
       <pubDate>Sat, 26 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y5pkpwReL5HAhb-7-Vm--QIo0L9OgA9fkNVIBWva1Y6w.jpg"/>
-    </item>
-    <item>
-      <title>Tinashe Williamson</title>
-      <description><![CDATA[Hun gjemte ansiktet i hetta for at ingen skulle se hudfargen hennes. Rasisme har gitt henne arr og sår som ikke vil gro.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b484a419-c398-4d2c-91e0-6471fcb516e1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b484a419-c398-4d2c-91e0-6471fcb516e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:48</itunes:duration>
-      <pubDate>Fri, 25 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WpGVEHjJj1WGy-aQRL_nngfoUvOWN0v-oKDE0bc5nLYg.jpg"/>
     </item>
   </channel>
 </rss>

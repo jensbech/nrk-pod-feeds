@@ -48,7 +48,7 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "Både Erlend og Steinar ",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"
   },
   {
@@ -916,7 +916,7 @@ const feeds = [
     "id": "nittiatten",
     "title": "Nittiatten",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw.jpg"
   },
   {

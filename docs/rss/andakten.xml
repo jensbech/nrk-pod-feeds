@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:37:35 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:42:24 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Mio min Mio - Kristina Myhren</title>
+      <description><![CDATA[Ikke alle vokser opp med erfaringen av å bli sett og elsket slik de burde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/da809d18-77c0-4cd9-809d-1877c01cd961_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/da809d18-77c0-4cd9-809d-1877c01cd961_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:56</itunes:duration>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
+    </item>
     <item>
       <title>Ensom sommer - Kristina Myhren</title>
       <description><![CDATA[Man kan studere folk som beveger seg ute. Men går det an å se hvem av dem som er ensomme, og hvem som ikke er det?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/95200ad3-9973-450e-a00a-d39973350ee1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:25</itunes:duration>
       <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A.jpg"/>
-    </item>
-    <item>
-      <title>Bamsemums - Silje Meisal</title>
-      <description><![CDATA[Et liv uten tillit blir ett fattigere liv, sier Silje Kristin Meisal]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/70faedae-ecfa-45ea-baed-aeecfac5ea22_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/70faedae-ecfa-45ea-baed-aeecfac5ea22_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:10</itunes:duration>
-      <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A.jpg"/>
     </item>
   </channel>
