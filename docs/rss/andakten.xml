@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:42:24 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:38:30 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Betingelser - Kristina Myhren</title>
+      <description><![CDATA[Det er ikke bare hunder som lærer via klassisk betinging. Vi mennesker lærer også av om vi får belønning eller ikke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/365cc997-d376-493e-9cc9-97d376993e97_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/365cc997-d376-493e-9cc9-97d376993e97_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:32</itunes:duration>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
+    </item>
     <item>
       <title>Mio min Mio - Kristina Myhren</title>
       <description><![CDATA[Ikke alle vokser opp med erfaringen av å bli sett og elsket slik de burde.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/41372694-e323-47cd-b726-94e32307cdd9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:09</itunes:duration>
       <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A.jpg"/>
-    </item>
-    <item>
-      <title>Pekefinger - Silje Meisal</title>
-      <description><![CDATA[Det er mange måter å si ifra på, og det er mange måter å svare på. Er du bevisst på når hvilken måte du velger?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/95200ad3-9973-450e-a00a-d39973350ee1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/95200ad3-9973-450e-a00a-d39973350ee1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:25</itunes:duration>
-      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A.jpg"/>
     </item>
   </channel>
