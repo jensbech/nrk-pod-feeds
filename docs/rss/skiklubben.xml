@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:16:56 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 04:36:09 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    <item>
+      <title>Sommergjest: Emilie Nereng</title>
+      <description><![CDATA[Hun løper maraton, imponerer i krevende realityserier og har et skyhøyt oksygenopptak.  Influenser Emilie Nereng elsker å løpe og hater sytepaver.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/f6152dd1-70d2-4983-952d-d170d2898366_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/f6152dd1-70d2-4983-952d-d170d2898366_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:24</itunes:duration>
+      <pubDate>Fri, 31 Jul 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"/>
+    </item>
     <item>
       <title>Sommergjest: Ingrid Landmark Tandrevold</title>
       <description><![CDATA[Hun har skapet fullt av VM-medaljer, er hjerteoperert og hadde mistet gleden med å konkurrere. Men hun gir seg ikke så lett.]]></description>
@@ -470,16 +479,6 @@ Anders røper hva hans vanvittige opptak i august var, og Silje forteller hvorfo
       <itunes:duration>44:02</itunes:duration>
       <pubDate>Fri, 03 Oct 2025 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qdh7qdh3j-Br2W9TFEoTfAhAX_GRFbpiX3xgH7cNNSJw.jpg"/>
-    </item>
-    <item>
-      <title>Emils siste skitur</title>
-      <description><![CDATA[Emils aller siste sending! Skiklubben består, men når medlemmer slutter må det markeres.
-Vi oppsummerer også Oslo halvmaraton.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/skiklubben/d0214375-6f27-4005-a143-756f27b0056f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/skiklubben/d0214375-6f27-4005-a143-756f27b0056f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:21</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CTI5UoN-7H8_yxdO7uxlKQd30y9g5fz1uRcFXLM6_jvA.jpg"/>
     </item>
   </channel>
 </rss>

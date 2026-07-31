@@ -612,7 +612,7 @@ const feeds = [
     "id": "kompass",
     "title": "Kompass",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"
   },
   {
@@ -709,7 +709,7 @@ const feeds = [
     "id": "lev_vel",
     "title": "Lev vel",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"
   },
   {
