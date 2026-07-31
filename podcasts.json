@@ -561,7 +561,7 @@
         "id": "kompass",
         "title": "Kompass",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kongerekka",
@@ -651,7 +651,7 @@
         "id": "lev_vel",
         "title": "Lev vel",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "lindmo_og_co",
