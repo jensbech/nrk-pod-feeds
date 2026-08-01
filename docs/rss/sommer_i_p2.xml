@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 31 Jul 2026 04:36:25 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:39:58 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Selma Ibrahim</title>
+      <description><![CDATA[Verda rasa saman då ho måtte avlyse draumebryllaupet. Hadde ho tatt feil om kjærleiken heilt sidan ho fekk sitt første kyss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b8c1b58b-7238-41ad-81b5-8b7238c1ad88_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b8c1b58b-7238-41ad-81b5-8b7238c1ad88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:58</itunes:duration>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QjtzSpvHIbkL6q9RmhksSQw9BID28VS4nbYEw2izq_Mg.jpg"/>
+    </item>
     <item>
       <title>Per Kjerstad</title>
       <description><![CDATA[Som usikker gutunge med cowboyboots og rumpetaske, måtte han handtere mannsrolla på ei verhard øy i nord.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>30:17</itunes:duration>
       <pubDate>Wed, 30 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SxdWA3ore-QyOCnRKSg3cw2Jv3A6KmbtrQ2vur2hmPSw.jpg"/>
-    </item>
-    <item>
-      <title>Janne Møller-Hansen</title>
-      <description><![CDATA[Lenge var ho den einaste kvinnelege pressefotografen i Akersgata. For den prisvinnande fotografen blei det ein fordel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/16a25382-6ae2-4109-90c0-e527c9bdca57_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/16a25382-6ae2-4109-90c0-e527c9bdca57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:35</itunes:duration>
-      <pubDate>Tue, 29 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5v0cjJ7zH3E07DTI-unWiQ8w03SRmAdv5ye8tzAeW68w.jpg"/>
     </item>
   </channel>
 </rss>
