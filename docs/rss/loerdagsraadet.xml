@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:55:14 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:17:30 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 11</title>
+      <description><![CDATA[Rådgivere er: Pernille Sørensen / Niklas Baarli / Jon Ranes / Lisa Tønne / Are Sende Osen / Kristine Grændsen / Vegard Ylvisåker / Nora Svenningsen / Jon Martin Henriksen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/aa36838a-3925-4c01-b683-8a39256c010c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/aa36838a-3925-4c01-b683-8a39256c010c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:30:48</itunes:duration>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra 2025 - nr. 10</title>
       <description><![CDATA[Rådgivere er: Snorre Monsson / Martin Lepperød / Solveig Kloppen / Mia Hundvin / Abu Hussain / Linnéa Myhre / Anne Lindmo / Espen Abrahamsen / Adelina Ibishi]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>15:19</itunes:duration>
       <pubDate>Wed, 28 Jan 2026 16:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Nora Svenningsen / Karsten Blomvik / Janne Rønningen</title>
-      <description><![CDATA[TILBAKEMELDING: Hvordan gikk det med sexgud-logistikken? / PROBLEMER: En lang situasjon med kjærlighet? / Oversetter og diplomat søker hjelp / Akademiker eller baker? / Fotball-VM vs. Trump – hvem vinner ekteskapet? / Sj-lyden! / Er jeg en gjerrig bursdagsknark? / Lommen før A4 / Sex på familieferie (denne uken!) / Interessert i en annen enn kjæresten]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/569e908a-2ccd-449b-9e90-8a2ccd549bef_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/569e908a-2ccd-449b-9e90-8a2ccd549bef_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:28:24</itunes:duration>
-      <pubDate>Sat, 24 Jan 2026 13:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ee9MJF4MQ-fSbExXQrkwqAee1z5SW82HKrV-8imVeyow.jpg"/>
     </item>
   </channel>
 </rss>
