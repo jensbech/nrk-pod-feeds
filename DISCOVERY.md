@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-08-02  
+- Updated podcast 'Politisk kvarter' (`politisk_kvarter`)  
+### 2026-08-02  
 - Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  
 - Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2026-07-31  
