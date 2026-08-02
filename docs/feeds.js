@@ -294,7 +294,7 @@ const feeds = [
     "id": "fantorangens_vitseshow",
     "title": "Fantorangens vitseshow",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"
   },
   {
@@ -870,7 +870,7 @@ const feeds = [
     "id": "musikk_fra_nrk_super",
     "title": "Musikk fra NRK Super",
     "season": "LATEST_SEASON",
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q.jpg"
   },
   {
