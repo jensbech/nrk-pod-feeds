@@ -951,7 +951,7 @@
         "id": "politisk_kvarter",
         "title": "Politisk kvarter",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "popaganda",
