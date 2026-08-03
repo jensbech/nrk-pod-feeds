@@ -1033,7 +1033,7 @@ const feeds = [
     "id": "politisk_kvarter",
     "title": "Politisk kvarter",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"
   },
   {
