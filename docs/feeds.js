@@ -1004,9 +1004,9 @@ const feeds = [
   },
   {
     "id": "p3morgen",
-    "title": "P3morgen",
+    "title": "P3morgen for B-mennesker",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"
   },
   {
