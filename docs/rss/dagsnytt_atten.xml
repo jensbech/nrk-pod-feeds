@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 31 Jul 2026 17:49:41 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:02:13 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>EU vil støtte Spania i Ceuta</title>
+      <description><![CDATA[EU-kommisjonens president, Ursula von der Leyen, ønsker å styrke grensekontrollen mellom Ceuta og Marokko.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/12fb666c-22d7-477f-bb66-6c22d7c77fff_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/12fb666c-22d7-477f-bb66-6c22d7c77fff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 03 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eGqdlTEA3-zid-VewRW1ggJfOldZfvAPAdYyOZP4BHKA.jpg"/>
+    </item>
     <item>
       <title>Full splid i verdensfotballen</title>
       <description><![CDATA[Både de asiatiske, amerikanske og europeiske fotballforbundene reiser bust mot FIFA og planene om å selge deler av fotball-VM.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 26 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HZj8AsCDDzuDYpWBh5i6fg6Xvg-WzNQxCpbbLutar9bg.jpg"/>
-    </item>
-    <item>
-      <title>Uenighet om minerallisenser</title>
-      <description><![CDATA[Gruveselskaper med bånd til Kina hamstrer minerallisenser. Venstre kritiserer regjeringen og kaller det et sikkerhetshull.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/55fe4408-9d11-490d-be44-089d11990d3c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/55fe4408-9d11-490d-be44-089d11990d3c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 22 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lLA4Upvj7qc3pLnkhKDFtQiYlFN3Z69OaItQ7E0Jfc7A.jpg"/>
     </item>
   </channel>
 </rss>
