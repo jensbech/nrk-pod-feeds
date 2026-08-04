@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 03 Aug 2026 18:02:13 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:01:43 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kjøper seg ut av ensomhet</title>
+      <description><![CDATA[Eldre betaler opptil 20.000 kroner i måneden for sosial omsorg. Forsker advarer mot et voksende klasseskille.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/50576388-65a4-41da-9763-8865a4b1da06_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/50576388-65a4-41da-9763-8865a4b1da06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 04 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWf_pUepMUue0czxq2I7sQ6ggUz-Pn3ZgVcZTB7v2ucQ.jpg"/>
+    </item>
     <item>
       <title>EU vil støtte Spania i Ceuta</title>
       <description><![CDATA[EU-kommisjonens president, Ursula von der Leyen, ønsker å styrke grensekontrollen mellom Ceuta og Marokko.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>58:52</itunes:duration>
       <pubDate>Wed, 27 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0gQC0jqoro9iyhHEB30NRg5yOTP-dRPZkSZjltHV8Zyw.jpg"/>
-    </item>
-    <item>
-      <title>Den omstridte Helseplattformen opprettholdes</title>
-      <description><![CDATA[- Dette er en IT-svulst som vil fortsette å vokse, mener MDG.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/01ea39f2-66d7-443a-aa39-f266d7243aa4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/01ea39f2-66d7-443a-aa39-f266d7243aa4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 26 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HZj8AsCDDzuDYpWBh5i6fg6Xvg-WzNQxCpbbLutar9bg.jpg"/>
     </item>
   </channel>
 </rss>
