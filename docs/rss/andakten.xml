@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:38:30 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:38:06 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Møtes i godhet - Henrik Syse</title>
+      <description><![CDATA[Det er all grunn til å være skeptisk overfor falskhet og løgn, men først og fremst må vi møte andre med godhet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/12dee53a-0f2d-4101-9ee5-3a0f2df10107_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/12dee53a-0f2d-4101-9ee5-3a0f2df10107_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:09</itunes:duration>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EzU5Iaafpu9fFSkJzFBpmwkCLm4E1KlW-tehf6eDj4vA.jpg"/>
+    </item>
     <item>
       <title>Betingelser - Kristina Myhren</title>
       <description><![CDATA[Det er ikke bare hunder som lærer via klassisk betinging. Vi mennesker lærer også av om vi får belønning eller ikke.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/9b81c9fa-ac7b-413d-81c9-faac7be13d97_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:11</itunes:duration>
       <pubDate>Thu, 07 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A.jpg"/>
-    </item>
-    <item>
-      <title>Hellig kaos - Silje Meisal</title>
-      <description><![CDATA[En hverdagsmesse i Vår Frues kirke i Trondheim, kan være en opplevelse helt utenom det vanlige.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/41372694-e323-47cd-b726-94e32307cdd9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/41372694-e323-47cd-b726-94e32307cdd9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:09</itunes:duration>
-      <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A.jpg"/>
     </item>
   </channel>

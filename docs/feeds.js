@@ -63,7 +63,7 @@ const feeds = [
     "title": "Baksnakk",
     "season": null,
     "enabled": true,
-    "image": "https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"
+    "image": "https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"
   },
   {
     "id": "berrum_beyer_snakker_om_greier",
