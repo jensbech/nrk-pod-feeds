@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:28:28 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 06:13:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:06:56 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
+    <item>
+      <title>Søkte kjærlighet på benk</title>
+      <description><![CDATA[Birgitte Lange er ganske modig. Etter en livskrise satte hun seg på benker rundt i Oslo for å finne kjærligheten, men ikke nødvendigvis av det romantiske slaget. Hvordan har det gått?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/df4d5bcb-cde9-4fae-8d5b-cbcde92faecc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/df4d5bcb-cde9-4fae-8d5b-cbcde92faecc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:46</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_BrssLv1iEtpHLB3BU7WnQh_ZA53qTKPG_5_wXIP7kdg.jpg"/>
+    </item>
     <item>
       <title>Hun er åpen om Alzheimer</title>
       <description><![CDATA[Marie Aakre har fått beskjeden ingen vil ha: Du har Alzheimer. Som sykepleier har hun kjempet for å være modig og ærlig. Hvor lett er det når det handler om en selv?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>15:22</itunes:duration>
       <pubDate>Mon, 01 Sep 2025 10:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vJ56LJA5SAzdmjiW3m49vQ4xiFDjPJGdW7eB50G1nyuw.jpg"/>
-    </item>
-    <item>
-      <title>Hvorfor blir stadig flere unge høyreekstreme?</title>
-      <description><![CDATA[Etter det politisk motiverte drapet på Kampen i Oslo,  har flere eksperter snakket om en økning i antallet unge som blir radikalisert. Hva er årsakene? Og hva kan vi gjøre med det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/423ead53-6d1b-48f7-bead-536d1b08f7e4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/423ead53-6d1b-48f7-bead-536d1b08f7e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:38</itunes:duration>
-      <pubDate>Thu, 28 Aug 2025 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9nSlR4IKO4W_czUb-VAWngW9CEgPWRukPNAP2fjqvAZg.jpg"/>
     </item>
   </channel>
 </rss>
