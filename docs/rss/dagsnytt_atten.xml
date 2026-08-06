@@ -3,15 +3,24 @@
   <channel>
     <title>Dagsnytt 18</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Anne Katrine Førli.</description>
+    <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Aug 2026 17:44:44 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:25:05 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Fortsatt uenighet etter drivstoffmøte</title>
+      <description><![CDATA[De rødgrønne varsler nytt møte om drivstoffavgifter fredag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0877ddd8-cb2f-4cae-b7dd-d8cb2f7cae77_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0877ddd8-cb2f-4cae-b7dd-d8cb2f7cae77_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/T1VdM1kuWia0DEdIGLvgLwr-d-ovRHTyqb4otY1tKQiw.jpg"/>
+    </item>
     <item>
       <title>Senterpartiet vil forlenge drivstoffkutt</title>
       <description><![CDATA[Rødgrønn side er splittet om kuttet i drivstoffavgiftene skal forlenges.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1trV8ZC_A3UzKm-bAWPXPACsrRcroAW71eRks6WEMaEg.jpg"/>
-    </item>
-    <item>
-      <title>Lite fornøyd med atomvåpenavtale</title>
-      <description><![CDATA[Rødt, MDG og SV mener avtalen legitimerer en atomopprustning i Europa.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e3483bbc-0a0a-4614-883b-bc0a0af61460_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3483bbc-0a0a-4614-883b-bc0a0af61460_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 28 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYc9dgtLCiXPD-2fS4D-6wsF5l0hnU7CLo0oiOWT7qPg.jpg"/>
     </item>
   </channel>
 </rss>
