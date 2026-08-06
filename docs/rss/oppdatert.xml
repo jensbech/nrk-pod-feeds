@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Aug 2026 05:17:14 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:16:41 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Infantino-bråket: Kan Klaveness redde Fifa?</title>
+      <description><![CDATA[Fleire peikar på norske Lise Klaveness som ein kandidat til å ta over jobben som internasjonal fotballpresident.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/44b6cbba-1008-4d05-b6cb-ba10087d05d7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/44b6cbba-1008-4d05-b6cb-ba10087d05d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:59</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nCSGfOXqH6EGnV_7a5a_gQlPWUXBBpLm58MBBUaC1Jjg.jpg"/>
+    </item>
     <item>
       <title>Skaper debatt i Norge: Terrorangrepet i Berlin</title>
       <description><![CDATA[Etter Pride-terroren startet en 20 timers lang politijakt. Hva skjedde egentlig?]]></description>
@@ -220,7 +229,7 @@
       <itunes:image href="https://gfx.nrk.no/nwF5UtyIgwRhIpmqzrrEngjFMRw9W9Z2kpLu2acry3xg.jpg"/>
     </item>
     <item>
-      <title>Fra kontrovers til suksess: Er dette sommerens stjerne?</title>
+      <title>Olivia Rodrigo: Fra kontrovers til suksess</title>
       <description><![CDATA[Nylig stormet det, men nå knuser Olivia Rodrigo rekorder med sitt tredje album.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/66aa0d8a-5213-4c73-aa0d-8a52135c73a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>14:50</itunes:duration>
       <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/t3Jk9qFu6UsRRaEjaYDfiAueZaLCRDDiwVHD7RCpGZhg.jpg"/>
-    </item>
-    <item>
-      <title>Geniet bak Pokémon: Kampen i kulissene</title>
-      <description><![CDATA[Spilleventyret startet med en fascinasjon for insekter. Nå er det en millionbusiness.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/64e497ce-29a4-4b5b-a497-ce29a40b5b21_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/64e497ce-29a4-4b5b-a497-ce29a40b5b21_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:08</itunes:duration>
-      <pubDate>Fri, 15 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sseKq30mFQPoKhuWbykbKgO29nWFi0oGnvWEw7Ykpz0Q.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Aug 2026 05:16:20 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:16:11 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Barn dør av sult i Afghanistan</title>
+      <description><![CDATA[Og mange er berørt av et stort datainnbrudd hos Ryde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/5c7ff11c-4274-4cce-bff1-1c42749ccefb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5c7ff11c-4274-4cce-bff1-1c42749ccefb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:02</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3Ri9XElu7IDR3kxS_5RrHQsMxo3suD1xsLiui_fBlpIg.jpg"/>
+    </item>
     <item>
       <title>Frykter dødsfall i norske fengsel</title>
       <description><![CDATA[Og D.D.E. spør kommuner langs E6 om penger.]]></description>
@@ -456,15 +465,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:47</itunes:duration>
       <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Xq72FSBqxnDlwqeNH9W1RwCRzXNZMxXNvUMpUfdwxI3g.jpg"/>
-    </item>
-    <item>
-      <title>Streiken er over (for de fleste)</title>
-      <description><![CDATA[Og hvordan går det med dronninga vår, etter at hun ble lagt inn på sykehus?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a16ca550-ca86-454b-aca5-50ca86d54b8d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a16ca550-ca86-454b-aca5-50ca86d54b8d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:07</itunes:duration>
-      <pubDate>Thu, 28 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4kYnrJ1QChuPYbX3R3_UUQ8a9GCeM5veYqECbKu0zMEA.jpg"/>
     </item>
   </channel>
 </rss>
