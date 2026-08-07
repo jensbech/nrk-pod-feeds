@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-07  
+- Updated podcast 'Desken brenner' (`desken_brenner`)  
 ### 2026-08-03  
 - Updated podcast 'Politisk kvarter' (`politisk_kvarter`)  
 ### 2026-08-03  

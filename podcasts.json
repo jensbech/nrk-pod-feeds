@@ -165,7 +165,7 @@
         "id": "desken_brenner",
         "title": "Desken brenner",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "dilemmaklemma",
