@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:16:11 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:47:31 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Slik beskytter du deg etter et dataangrep</title>
+      <description><![CDATA[Og vi gir deg de beste tipsene for kollektivlivet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f1a195f0-ad22-4e95-a195-f0ad221e9589_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f1a195f0-ad22-4e95-a195-f0ad221e9589_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:54</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6Sw29Pe1nJlV0eELzNEycQl2o5ZrrT-db6lXf0Pb9-iA.jpg"/>
+    </item>
     <item>
       <title>Barn dør av sult i Afghanistan</title>
       <description><![CDATA[Og mange er berørt av et stort datainnbrudd hos Ryde.]]></description>
@@ -456,15 +465,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:54</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LIuneNZZzIA47u-v2-K0Kg5HoZkY5MrWbnxbcG5g-dvw.jpg"/>
-    </item>
-    <item>
-      <title>Historisk VM-bragd for Norge</title>
-      <description><![CDATA[Og kan Norge bli røykfritt nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/43bcefb9-5889-47f1-bcef-b9588917f1dd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/43bcefb9-5889-47f1-bcef-b9588917f1dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:47</itunes:duration>
-      <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xq72FSBqxnDlwqeNH9W1RwCRzXNZMxXNvUMpUfdwxI3g.jpg"/>
     </item>
   </channel>
 </rss>

@@ -3,15 +3,24 @@
   <channel>
     <title>Oppdatert</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Nye episoder mandag, onsdag og fredag i sommer.</description>
+    <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:16:41 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:48:08 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>«Heroin chic» er tilbake: Ein stille epidemi?</title>
+      <description><![CDATA[Hollywood får skulda for at 90-talets skjønnheitsideal trendar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/58a6d569-4252-4f47-a6d5-6942529f4703_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/58a6d569-4252-4f47-a6d5-6942529f4703_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:53</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MRnzaNzPd8Mn5YfVWZpBcg6e02qh0t3rXxfFszIL6yyQ.jpg"/>
+    </item>
     <item>
       <title>Infantino-bråket: Kan Klaveness redde Fifa?</title>
       <description><![CDATA[Fleire peikar på norske Lise Klaveness som ein kandidat til å ta over jobben som internasjonal fotballpresident.]]></description>
@@ -58,7 +67,7 @@
       <itunes:image href="https://gfx.nrk.no/gNxWs0x80Lh8HaIZGUgKRQ6PHI6axjClYYpdFnE_zg9Q.jpg"/>
     </item>
     <item>
-      <title>Fenomenet Haaland: Slik jobber de i kulissene</title>
+      <title>Haaland: Slik ble han en pengemaskin utenfor banen</title>
       <description><![CDATA[Erling Braut Haaland har gjort kommersiell suksess utenfor banen. Kan VM-eventyret ta han til nye høyder?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b78c2a66-49b2-4bb5-8c2a-6649b24bb514_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/b78c2a66-49b2-4bb5-8c2a-6649b24bb514_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>21:56</itunes:duration>
       <pubDate>Tue, 19 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-uIgL2YJHkFktNqsLpKjCwQwkHnLKE25EzQVGsm3eP0A.jpg"/>
-    </item>
-    <item>
-      <title>Spionsaken på Andøya: Sporene som peker mot Kina</title>
-      <description><![CDATA[PST mener Kina står bak en spionoperasjon. Kinesisk UD aviser anklagene blankt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/befac803-2402-40e7-bac8-03240260e780_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/befac803-2402-40e7-bac8-03240260e780_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:50</itunes:duration>
-      <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/t3Jk9qFu6UsRRaEjaYDfiAueZaLCRDDiwVHD7RCpGZhg.jpg"/>
     </item>
   </channel>
 </rss>
