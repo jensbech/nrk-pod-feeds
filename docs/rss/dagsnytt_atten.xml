@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 06 Aug 2026 23:25:05 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:27:58 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen lover raskere kraftutbygging</title>
+      <description><![CDATA[Rødt mener at det ikke vil gi lavere strømpriser, mens Frp reagerer på det de kaller ensidig satsing på vindkraft.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/acffafce-c226-45a0-bfaf-cec226e5a0b6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/acffafce-c226-45a0-bfaf-cec226e5a0b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:52</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z-VhNsedJIuD4bDSiL55_Q2v1URlw-OHmjWIS0rzpKCw.jpg"/>
+    </item>
     <item>
       <title>Fortsatt uenighet etter drivstoffmøte</title>
       <description><![CDATA[De rødgrønne varsler nytt møte om drivstoffavgifter fredag.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dw1wsWJlA2dmB3dB8pSgkgC-2sS0ZUQr__MSA-gHE7ig.jpg"/>
-    </item>
-    <item>
-      <title>Storstreik i staten unngått</title>
-      <description><![CDATA[Men LO Stat sier de er «enormt skuffet» med resultatet i forhandlingene som ble signert i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8101c517-176e-425b-81c5-17176e125bcc_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8101c517-176e-425b-81c5-17176e125bcc_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 29 May 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1trV8ZC_A3UzKm-bAWPXPACsrRcroAW71eRks6WEMaEg.jpg"/>
     </item>
   </channel>
 </rss>
