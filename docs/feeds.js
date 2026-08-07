@@ -181,7 +181,7 @@ const feeds = [
     "id": "desken_brenner",
     "title": "Desken brenner",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"
   },
   {
