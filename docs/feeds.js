@@ -936,7 +936,7 @@ const feeds = [
     "id": "norsken_svensken_og_dansken",
     "title": "Norsken, svensken og dansken",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"
   },
   {
