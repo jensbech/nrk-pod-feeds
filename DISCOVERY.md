@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-08  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-08-07  
 - Updated podcast 'Desken brenner' (`desken_brenner`)  
 ### 2026-08-03  
