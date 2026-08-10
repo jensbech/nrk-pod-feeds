@@ -48,7 +48,7 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "Både Erlend og Steinar ",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"
   },
   {
