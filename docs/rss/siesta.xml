@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:17:03 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:28:20 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Vi er tilbake!</title>
+      <description><![CDATA[Sommeren er over, Siesta er i gang! Vi får besøk av Chavad El Bacardi fra Gjøvik og Anna skal på sinnemestring med psykolog.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:42</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 24: VI GREIDE DET</title>
       <description><![CDATA[Vi har sendt radio i 24 timer! I den siste timen får du vite hvilken hatt Daniel skal erstatte capsen med og en siste Quizvang<3]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/6b0edca8-cc65-4659-8edc-a8cc653659ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:12</itunes:duration>
       <pubDate>Fri, 22 May 2026 14:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Drepe en million kyllinger</title>
-      <description><![CDATA[Det blir beatboxing i spalte-spalten, hvor mange kyllinger kunne vi drept og hva har skjedd i kirken i Skjåk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c8888d29-2ccd-46c6-888d-292ccd16c600_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/c8888d29-2ccd-46c6-888d-292ccd16c600_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:07</itunes:duration>
-      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
