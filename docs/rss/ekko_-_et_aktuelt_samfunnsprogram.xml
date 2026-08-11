@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:30:53 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:26:19 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Den nyttige skogbrannen</title>
+      <description><![CDATA[Vi  tenner på norsk skog med vilje, samtidig som ukontrollerte skogbranner herjer i Europa. Hvilken nytte har skogen av å brenne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6dc1df4-42e1-4060-9c1d-f442e1f0602c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6dc1df4-42e1-4060-9c1d-f442e1f0602c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:56</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vWrxhY2cwDv0WXsT2PEhowxeAYrtuh-Wvhci7FUXNkiA.jpg"/>
+    </item>
     <item>
       <title>Keisersnitt gir ikke sykmelding</title>
       <description><![CDATA[Norge står midt i årets største babyboom, men kvinner som føder med keisersnitt har ikke alltid rett på sykmelding. Hvorfor?]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>52:40</itunes:duration>
       <pubDate>Thu, 09 Apr 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8v_9eyrbaaBKBHjt8CrRKwydgvCM7icIgiydUjgMcZ7Q.jpg"/>
-    </item>
-    <item>
-      <title>Kaller paven for Antikrist</title>
-      <description><![CDATA[Peter Thiel kriger mot paven og demokratiet. Hvem er den mektige tek-milliardæren bak J.D Vance?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d2f46af0-de7d-4f55-b46a-f0de7d1f55f9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d2f46af0-de7d-4f55-b46a-f0de7d1f55f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:27</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5KNi2iaSfTRZfCTiZ9EBSwsZgWbWZQ9fEWsLtGzr-Olg.jpg"/>
     </item>
   </channel>
 </rss>
