@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:43:55 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:38:29 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Bekymringene - Tore Thomassen</title>
+      <description><![CDATA[Det er mange hverdagsbekymringer, slitsom grubling, uro og stress. I Bergprekenen lærer vi hvordan bekymringer skal møtes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/6380f658-35d5-4563-80f6-5835d5d563ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/6380f658-35d5-4563-80f6-5835d5d563ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:30</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yVv8ESA9tRq7MiQSIfUTUg0qxLkeVOj3agVyaehsyXZA.jpg"/>
+    </item>
     <item>
       <title>Overraskelse - Tore Thomassen</title>
       <description><![CDATA[Virkeligheten snakker til oss på så mange måter, det gjelder å være våken for overraskelsen.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>04:10</itunes:duration>
       <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kEp4E_fILylfVmxj-M5SIAHyMJnP8RhYqUC5R3ZibrPw.jpg"/>
-    </item>
-    <item>
-      <title>Himmelfart - Torbjørn Olsen</title>
-      <description><![CDATA[Når man er prest på en flyplass, slik Torbjørn Olsen er, kan det spøkes om mange tema. Himmelfart er bare ett av dem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5dae5e93-534e-4f2b-ae5e-93534eff2b4f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/5dae5e93-534e-4f2b-ae5e-93534eff2b4f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:59</itunes:duration>
-      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kEp4E_fILylfVmxj-M5SIAxg3Hydy_1xOUC5R3ZibrPw.jpg"/>
     </item>
   </channel>
 </rss>
