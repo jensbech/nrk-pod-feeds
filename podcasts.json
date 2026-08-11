@@ -723,7 +723,7 @@
         "id": "med_all_respekt",
         "title": "Med all respekt",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "meininga_med_livet",
