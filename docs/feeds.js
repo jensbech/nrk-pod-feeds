@@ -787,7 +787,7 @@ const feeds = [
     "id": "med_all_respekt",
     "title": "Med all respekt",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"
   },
   {
