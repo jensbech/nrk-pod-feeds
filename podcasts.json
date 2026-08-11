@@ -927,7 +927,7 @@
         "id": "p3morgen",
         "title": "P3morgen for B-mennesker",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "paa_audition",
