@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:39:40 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:48:17 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>KI-skandale i politiet: Slik ble britene overvåket</title>
+      <description><![CDATA[Politiet i Bristol har i årevis profilert barn og voksne i en hemmelig app. Hvordan kunne dette skje?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/deb9d849-988b-42c0-b9d8-49988bd2c0a2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/deb9d849-988b-42c0-b9d8-49988bd2c0a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:00</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RF7sTAZD9WN7vC_cpd8hNAyy3NpJnkBD_cDci4wHWZWg.jpg"/>
+    </item>
     <item>
       <title>Album, press og pause: Kva skjer med Ariana Grande?</title>
       <description><![CDATA[Ryktene florerer etter at superstjerna annonserte pause frå rampelyset.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>14:43</itunes:duration>
       <pubDate>Fri, 22 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yZNrFP75L2Q5ahxvMMNRYg32Z4zGRk9dm3TJQtTQCYkA.jpg"/>
-    </item>
-    <item>
-      <title>Trusler mot politikere: Lever Utøya-hatet videre?</title>
-      <description><![CDATA[AUF-leder Gaute Skjervø overlevde terror. Nå, 15 år senere, må han gå med voldsalarm.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/83c13ba2-ee9a-43b2-813b-a2ee9ad3b2bd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/83c13ba2-ee9a-43b2-813b-a2ee9ad3b2bd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:01</itunes:duration>
-      <pubDate>Thu, 21 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NVVrlquok9wkq3gm9yRa1w_VB1YwTKsOPwrhpm8BAUxQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:39:14 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:47:10 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>I kveld må du se opp</title>
+      <description><![CDATA[Og stadig flere sliter med å ha råd til mat]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c72c7c15-af97-4a1f-ac7c-15af970a1f8b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c72c7c15-af97-4a1f-ac7c-15af970a1f8b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:09</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Yfb00tHcBoxIZhF8aOmnMgm8S20k9XyZPSpx6GQy4VKQ.jpg"/>
+    </item>
     <item>
       <title>Desperat kamp mot klokka i Colombia</title>
       <description><![CDATA[Og tips og triks til nye studenter]]></description>
@@ -454,17 +463,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>06:17</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Yzk8R8hu_g2V7Vq9XciFTQmjzKjJjunLtOh_MtWMTc3A.jpg"/>
-    </item>
-    <item>
-      <title>18-åring døde: Politivideo sjokkerer</title>
-      <description><![CDATA[Og rettssaken mot Steinar Wangen starter i dag. 
-
-// Episoden ble oppdatert 07:33, og saken om dødsfallet til 18 år gamle Henry Nowak ble utvidet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/05c69e84-997e-4c3d-869e-84997efc3d87_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/05c69e84-997e-4c3d-869e-84997efc3d87_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:59</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/axIov26Uao0lOV106os9uQaAkqIZ_oa8NvnVTg27jplA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Aug 2026 05:16:39 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:47:31 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Martine-saken (3): Epsteins råd</title>
+      <description><![CDATA[Farouks far, Shaher Abdulhak, merker at Martine-saken går ut over ryktet hans. Så spør han en venn om hjelp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/1dfa488b-58e6-4f37-ba48-8b58e65f3788_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1dfa488b-58e6-4f37-ba48-8b58e65f3788_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:17</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ljwe4iOmDIs6vkRDmHDu7wvYqKjEMkKCa2KBmMs4HE1g.jpg"/>
+    </item>
     <item>
       <title>Martine-saken (2): Drapsalarm</title>
       <description><![CDATA[Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.]]></description>
