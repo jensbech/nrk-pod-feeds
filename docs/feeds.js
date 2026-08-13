@@ -605,7 +605,7 @@ const feeds = [
     "id": "kommentert",
     "title": "Kommentert",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"
   },
   {
