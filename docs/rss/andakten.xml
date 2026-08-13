@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 04:45:52 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 04:46:32 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Åpen linje - Tore Thomassen</title>
+      <description><![CDATA[Et bønnespråk kan ha så mange uttrykk. Uansett hvor du er i verden, finner du mennesker som ber. Vi har åpen linje hele døgnet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/25803b50-3c22-4aec-803b-503c222aec6f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/25803b50-3c22-4aec-803b-503c222aec6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:26</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yVv8ESA9tRq7MiQSIfUTUgUHjmNRy7h8CgVyaehsyXZA.jpg"/>
+    </item>
     <item>
       <title>Trygg og glad - Tore Thomassen</title>
       <description><![CDATA[Sanger vi har hørt og kan lever i oss. De kan gi oss øyeblikk hvor verden kan stenges ute, og tryggheten og fantasien slippes løs.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/c4859464-d0d0-4f38-8594-64d0d07f387f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:41</itunes:duration>
       <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw8pyoRLM0Vqcp0drawQ702g.jpg"/>
-    </item>
-    <item>
-      <title>Våren - Ingrid Ivo Vatnar</title>
-      <description><![CDATA[I motsetning til dem som blir våryre, kan Ingrid Ivo Vatnar synes at våren kan være vanskelig]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/df5edd8f-bc34-4c35-9edd-8fbc348c35d5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/df5edd8f-bc34-4c35-9edd-8fbc348c35d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw8pyoRLM0Vqcp0drawQ702g.jpg"/>
     </item>
   </channel>
