@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:30:04 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Aug 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:31:37 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 16:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>«Tenk at en så enkel ting for meg, kan bety så mye for noen andre»</title>
+      <description><![CDATA[Oppsummering av sommer. Tilbakemelding fra Indiana Scones og sesongens første fyllemail (i to deler). Nå er vi i gang!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/aa3519e7-547f-4050-b519-e7547fb050ea_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/aa3519e7-547f-4050-b519-e7547fb050ea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:04</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 16:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra 2025 - nr. 12</title>
       <description><![CDATA[Rådgivere er: Ronny Brede Aase / Martha Leivestad / Maren Teien Rørvik / Silje Nordnes / Torbjørn Røe Isaksen / Arian Engebø / Annika Momrak / Odd Nordstoga / Dagny]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:16:19</itunes:duration>
       <pubDate>Sat, 07 Feb 2026 13:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/VtOqCMRB1vsTOFLhX2GeVQ69rsFjbHGJPDZ2z4Cpz76Q.jpg"/>
-    </item>
-    <item>
-      <title>Bjarte Tjøstheim / Annika Momrak / Galvan Mehidi</title>
-      <description><![CDATA[TILBAKEMELDING: Kj! / PROBLEMER: Folket har oppdaget pengesekken / Voksenskjerming / Moralsk kompass og gullbillett / Et mønster som skaper krøll / Hva skal jeg gjøre med kokeboken? / Håp vil ha blanke ark / Må jeg invitere bestemor til konfirmasjon?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/fc05a1ad-ebb7-4c63-85a1-adebb74c636f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fc05a1ad-ebb7-4c63-85a1-adebb74c636f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:29:23</itunes:duration>
-      <pubDate>Sat, 31 Jan 2026 12:50:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zakZgausqyVgWv21ErdffQ_pp0--57ZoPEOm9qe4s0oA.jpg"/>
     </item>
   </channel>
 </rss>
