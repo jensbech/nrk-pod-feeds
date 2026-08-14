@@ -115,7 +115,7 @@ const feeds = [
     "id": "bok_i_p2",
     "title": "Åpen bok",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"
   },
   {
@@ -702,7 +702,7 @@ const feeds = [
     "id": "leseklubben",
     "title": "Leseklubben",
     "season": "LATEST_SEASON",
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"
   },
   {
@@ -870,7 +870,7 @@ const feeds = [
     "id": "musikk_fra_nrk_super",
     "title": "Musikk fra NRK Super",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q.jpg"
   },
   {
