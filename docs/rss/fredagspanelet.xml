@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:39:48 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:44:00 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Studenters fokus, solskjerming og bass</title>
+      <description><![CDATA[Er studenter sitt mangel på fokus et tegn på sivilisatorisk forfall? Kan man sette opp solskjerming i en UNESCO-by? Og bass eller ikke bass? Det er spørsmålene i dagens fredagspanel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/d88d5499-6b5f-4e7f-8d54-996b5f9e7f1f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/d88d5499-6b5f-4e7f-8d54-996b5f9e7f1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:29</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Utseende, fjellrein og E6</title>
       <description><![CDATA[Er det greit å kommentere på kropp? Er villreinen i ferd med å ødelegge den norske folkesjela? Burde skattebetalernes penger gå til D.D.E. og E6-reklame?]]></description>
@@ -489,15 +498,6 @@ og ville Knut Arild vært statsråd om Sylvi blir statsminister?]]></description
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/06a7ed84-099a-4f89-883d-e6188162a58f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:00</itunes:duration>
       <pubDate>Fri, 25 Jul 2025 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>Festivalsnikere og sommermusikk</title>
-      <description><![CDATA[Bør norske festivaler kunne kreve at mindreårige snikere betaler for seg?  Bør også vi i Norge bremse vår iver etter å komme på FNs verdensarvliste? Er det så nøye om det ikke produseres flere sommerslagere?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/9ea22838-2b02-44b2-8e8c-00ced4a0e849_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/9ea22838-2b02-44b2-8e8c-00ced4a0e849_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Fri, 18 Jul 2025 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
