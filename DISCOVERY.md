@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2026-08-14  
+- Updated podcast 'Leseklubben' (`leseklubben`)  
+- Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
+- Updated podcast 'Åpen bok' (`bok_i_p2`)  
 ### 2026-08-13  
 - Updated podcast 'Kommentert' (`kommentert`)  
 ### 2026-08-11  

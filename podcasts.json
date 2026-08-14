@@ -105,7 +105,7 @@
         "id": "bok_i_p2",
         "title": "Åpen bok",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "brannbamsen_bjoernis",
@@ -645,7 +645,7 @@
         "id": "leseklubben",
         "title": "Leseklubben",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "lev_vel",
@@ -801,7 +801,7 @@
         "id": "musikk_fra_nrk_super",
         "title": "Musikk fra NRK Super",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "musikkhistorier",
