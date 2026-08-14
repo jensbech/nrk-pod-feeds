@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:46:01 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:45:50 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Helene Flood: Graver i det usagte</title>
+      <description><![CDATA[Hva tør vi ikke si til hverandre?  Thrillerforfatteren  undersøker det vi  frykter mest - ikke minst i nære relasjoner.
+Nyeste bok: «Nærmeste nabo»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/93fe6e75-2358-4939-be6e-752358d939cf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/93fe6e75-2358-4939-be6e-752358d939cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:32</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BNAJBlTscgWL4rmaNJpZXw2ttxKUq8dnNmHF-FqPWLbA.jpg"/>
+    </item>
     <item>
       <title>Tyra Teodora Tronstad: Etter katastrofen</title>
       <description><![CDATA[Er det mulig å skrive varmt og humoristisk om hvordan sporene etter de døde former livene til dem som er igjen? Forfatteren reiste til hjembygda og fant en dramatisk fortelling.  
@@ -485,15 +495,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Thu, 20 Feb 2025 15:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mCqnCqHtIlrIaIV0aluxhQ6F8_kK4kDWnoegV9bPnzug.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Kyrre Andreassen</title>
-      <description><![CDATA[«Ikke mennesker jeg kan regne med» er nominert til Lytternes romanpris. Forfatter Kyrre Andreassen har toppet utlånslistene på norske biblioteker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/02c72abd-2082-4d3d-ba89-79df135f0c5c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/02c72abd-2082-4d3d-ba89-79df135f0c5c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:35</itunes:duration>
-      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pzQ6T0FOrpZiP_Fz0oCBAgYc-sM03ujfbM4K7IgbOIlA.jpg"/>
     </item>
   </channel>
 </rss>
