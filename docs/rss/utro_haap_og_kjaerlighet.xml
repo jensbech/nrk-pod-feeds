@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Aug 2026 04:48:47 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 04:22:57 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Bitter kjerring og ny kjæreste?</title>
+      <description><![CDATA[Komiker Maria Stavang er gjest og deler fra singellivet. Kai Thomas forteller om mannlig besøk fra London; har han fått seg kjæreste?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c7b48c34-b0a8-4a56-b48c-34b0a8ea56a6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c7b48c34-b0a8-4a56-b48c-34b0a8ea56a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:17</itunes:duration>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
+    </item>
     <item>
       <title>Solveig Kloppen: Når barna flytter</title>
       <description><![CDATA[Solveig Kloppen forteller om møtet med ektemannen, småbarnsfasen og hvordan det er når barna flytter ut.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>55:13</itunes:duration>
       <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0oxWnu0ZYumxjVDyYvTQWQNV9TSKqPpRQ_IrJ549crEQ.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Wingman og fylleangst</title>
-      <description><![CDATA[Panelet har vært på byen; Selma har fylleangst og Kai Thomas er skuffet. Og hva gjør man med dårlig sex med ny partner?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2b993be3-3bbf-453a-993b-e33bbf553abf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2b993be3-3bbf-453a-993b-e33bbf553abf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:49</itunes:duration>
-      <pubDate>Sun, 12 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
     </item>
   </channel>
 </rss>
