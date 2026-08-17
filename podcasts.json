@@ -1305,7 +1305,7 @@
         "id": "trygdekontoret",
         "title": "Trygdekontoret",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "turister",

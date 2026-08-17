@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-17  
+- Updated podcast 'Trygdekontoret' (`trygdekontoret`)  
 ### 2026-08-14  
 - Updated podcast 'Leseklubben' (`leseklubben`)  
 - Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
