@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:27:43 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:26:20 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna graver i Markus fortid</title>
+      <description><![CDATA[Finn Glede har blitt buddhist, Daniel ble slått på festival og Anna har funnet noe fra Markus sin fortid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c95cae6c-d3c9-46d8-9cae-6cd3c9c6d871_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c95cae6c-d3c9-46d8-9cae-6cd3c9c6d871_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:03</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna intervjuer A-kjendis</title>
       <description><![CDATA[Markus gikk tom for papir på jobbdassen, vi forklarer ordet blask og Anna skal intervjue en rikskjendis uten å vite hvem.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/fbfbebe3-0eb9-4287-bbeb-e30eb972878e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:35</itunes:duration>
       <pubDate>Fri, 29 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Vi lukter på stinke-finger</title>
-      <description><![CDATA[Hva lukter fingeren til Daniel, hva slags katter hadde vi vært og hvem får kjørt seg i dagsaktuell stand-up? Alle svara får du her!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/80995179-d50d-4be5-9951-79d50debe545_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/80995179-d50d-4be5-9951-79d50debe545_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:05</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
