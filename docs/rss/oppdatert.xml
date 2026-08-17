@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 04:47:47 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:26:06 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Kjendismor forsvunnet: Krypto, blod og skrekkbrev</title>
+      <description><![CDATA[Kan Nancy Guthrie (84) fortsatt være i live?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/02dc4559-1167-499f-9c45-591167f99fd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/02dc4559-1167-499f-9c45-591167f99fd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:45</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6gSHRGhCgDVCSJOZJ97lhAIHd3ET9pH9s6-w-njAd6kQ.jpg"/>
+    </item>
     <item>
       <title>Tørke, regn og varme: Kva skal vi ete i 2050?</title>
       <description><![CDATA[Kanskje består fredagstacoen av norsk avokado og ein pose tang-chips.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>12:01</itunes:duration>
       <pubDate>Wed, 27 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2o_Vv9m45ZflS4KFHfnBXQ2WuulM2TqBeDgfFhL8wbLg.jpg"/>
-    </item>
-    <item>
-      <title>Travsportens skyggeside: De rystende avsløringene</title>
-      <description><![CDATA[Etter flere tips gikk TV2 på innsiden av travsporten som førte til store avsløringer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d7a9f85b-364d-4a67-a9f8-5b364d9a67bc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d7a9f85b-364d-4a67-a9f8-5b364d9a67bc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:37</itunes:duration>
-      <pubDate>Tue, 26 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2Ypoi-rnC3RoNbUU32HSrwPoL38Dp8DryJpSZfxoPm5w.jpg"/>
     </item>
   </channel>
 </rss>
