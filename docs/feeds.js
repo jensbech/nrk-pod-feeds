@@ -1406,7 +1406,7 @@ const feeds = [
     "id": "trygdekontoret",
     "title": "Trygdekontoret",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"
   },
   {

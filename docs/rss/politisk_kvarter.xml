@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 07:44:59 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:22:22 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>KI kan løse eldrebølgen – og gi oss mer fritid?</title>
+      <description><![CDATA[KI kan gjøre oss langt mer effektive og frigjøre arbeidskraft.
+Kan det løse eldrebølgen – og samtidig gi oss mer fritid?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/5c39bedd-0699-42fc-b9be-dd069992fcc6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5c39bedd-0699-42fc-b9be-dd069992fcc6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CD-ro8evKyQeGPYGJz8uUAIBMJIuGBatL2LVVZZQHKzA.jpg"/>
+    </item>
     <item>
       <title>Etter partileiardebatten</title>
       <description><![CDATA[Kva politisk bilde teikna seg i gårsdagens partileiardebatt i Arendalsuka? Tre kommentatorar oppsummerer.]]></description>
@@ -469,15 +479,6 @@ Det vil bety at bare de med tjukk lommebok har råd, mener Rødt.]]></descriptio
       <itunes:duration>14:55</itunes:duration>
       <pubDate>Fri, 08 May 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kgon2nhBcwsi3fM9a5-FygSV4maoUsYDzWElatcjhjXg.jpg"/>
-    </item>
-    <item>
-      <title>KrF sørger for mindre familieinnvandring</title>
-      <description><![CDATA[Senterpartiet går igjen sammen med de borgerlige partiene og overkjører regjeringen. KrF sørger for at man må tjene godt over en halv million for å få familien sin til Norge.  Hvorfor er det et greit krav? Og hvilken effekt har det egentlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/8a045717-5178-40a3-8457-17517860a3ef_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/8a045717-5178-40a3-8457-17517860a3ef_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KT47J8FXSXCSo-4t0biPDA2N89Xx9o_ys3aUBowjWUvw.jpg"/>
     </item>
   </channel>
 </rss>
