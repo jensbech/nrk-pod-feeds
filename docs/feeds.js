@@ -555,6 +555,13 @@ const feeds = [
     "enabled": false
   },
   {
+    "id": "kilder_til_begeistring",
+    "title": "Kilder til begeistring",
+    "season": null,
+    "enabled": true,
+    "image": "https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA.jpg"
+  },
+  {
     "id": "kjapt_oppdatert",
     "title": "Kjapt oppdatert",
     "season": null,
@@ -1159,6 +1166,13 @@ const feeds = [
     "title": "Satiriks redaksjonsmøte",
     "season": null,
     "enabled": false
+  },
+  {
+    "id": "sentralbordet",
+    "title": "Sentralbordet",
+    "season": null,
+    "enabled": true,
+    "image": "https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSJzM2vjuGP8u-VCB-X45Dg.jpg"
   },
   {
     "id": "seriesnakk",
