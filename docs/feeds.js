@@ -689,7 +689,7 @@ const feeds = [
     "id": "kveldstanker",
     "title": "Kveldstanker",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"
   },
   {
