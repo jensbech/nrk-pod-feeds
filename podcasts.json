@@ -510,6 +510,12 @@
         "enabled": false
     },
     {
+        "id": "kilder_til_begeistring",
+        "title": "Kilder til begeistring",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "kjapt_oppdatert",
         "title": "Kjapt oppdatert",
         "season": null,
@@ -1072,6 +1078,12 @@
         "title": "Satiriks redaksjonsmøte",
         "season": null,
         "enabled": false
+    },
+    {
+        "id": "sentralbordet",
+        "title": "Sentralbordet",
+        "season": null,
+        "enabled": true
     },
     {
         "id": "seriesnakk",
