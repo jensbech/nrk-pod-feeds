@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:24:40 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:20:57 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Hva er familie? -Arve Juritzen</title>
+      <description><![CDATA[Hvordan definerer du familie? Familier kan være veldig forskjellige. Det er også de som følger sine 6-åringer til første skoledag]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/4cc331f8-b96b-4107-8331-f8b96b31073f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4cc331f8-b96b-4107-8331-f8b96b31073f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:19</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F10qkkhvIINNZDUvFFsUvggp7PPS1UmvE9m4lqi7B19Q.jpg"/>
+    </item>
     <item>
       <title>Skolestart - Arve Juritzen</title>
       <description><![CDATA[Akkurat nå er det  mange spente skolebarn som er på tur til sin aller første skoledag. Arve Juritzen husker dagen godt]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/d27a1a6f-6563-4cd2-ba1a-6f65630cd27b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:40</itunes:duration>
       <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw8pyoRLM0Vqcp0drawQ702g.jpg"/>
-    </item>
-    <item>
-      <title>Kirka - Ingrid Ivo Vatnar</title>
-      <description><![CDATA[Hun hadde grublet en del på hva en kirke egentlig er, og fikk langt på vei hjelp med svaret fra en av våre store, norske lyrikere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/09be9790-9c7c-4540-be97-909c7c854023_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/09be9790-9c7c-4540-be97-909c7c854023_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:35</itunes:duration>
-      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw8pyoRLM0Vqcp0drawQ702g.jpg"/>
     </item>
   </channel>
