@@ -51,7 +51,7 @@
         "id": "bakrommet",
         "title": "Bakrommet",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "baksnakk",
@@ -69,7 +69,7 @@
         "id": "bibelen",
         "title": "Bibelen",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "billis_og_bollos",
