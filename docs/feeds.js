@@ -55,7 +55,7 @@ const feeds = [
     "id": "bakrommet",
     "title": "Bakrommet",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"
   },
   {
@@ -76,7 +76,7 @@ const feeds = [
     "id": "bibelen",
     "title": "Bibelen",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"
   },
   {
