@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:20:57 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:22:01 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Voksnes ansvar - Arve Juritzen</title>
+      <description><![CDATA[Hva er det motsatte av hat? Kjærlighet vil kanskje mange si. Andre definerer det annerledes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/bf44508c-899d-4cb8-8450-8c899d2cb859_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/bf44508c-899d-4cb8-8450-8c899d2cb859_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:05</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F10qkkhvIINNZDUvFFsUvggp7PPS1UmvE9m4lqi7B19Q.jpg"/>
+    </item>
     <item>
       <title>Hva er familie? -Arve Juritzen</title>
       <description><![CDATA[Hvordan definerer du familie? Familier kan være veldig forskjellige. Det er også de som følger sine 6-åringer til første skoledag]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>04:01</itunes:duration>
       <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gGyvp6Fc6gzQavBQyCgOnA1jffDOl9tEjk-YS8reYHsQ.jpg"/>
-    </item>
-    <item>
-      <title>Tillit - Ingrid Ivo Vatnar</title>
-      <description><![CDATA[Hverdagseventyrer kaller hun seg, og er det i aller høyeste grad, og med en stor tillit til mennesket!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/d27a1a6f-6563-4cd2-ba1a-6f65630cd27b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/d27a1a6f-6563-4cd2-ba1a-6f65630cd27b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:40</itunes:duration>
-      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw8pyoRLM0Vqcp0drawQ702g.jpg"/>
     </item>
   </channel>
 </rss>

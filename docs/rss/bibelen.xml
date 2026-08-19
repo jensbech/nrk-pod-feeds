@@ -10,13 +10,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:34:34 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Mar 2026 06:01:00 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:22:13 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
     <item>
+      <title>Døperen Johannes (31:40)</title>
+      <description><![CDATA[Han gir folk en ny start, men ender selv med hodet på et fat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/dcf51776-1a30-406f-b517-761a30e06fac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/dcf51776-1a30-406f-b517-761a30e06fac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:27</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hk3r3WohJKMbQk0p2Edm8QUZcuGFJ-IExdYuxqrhPYHg.jpg"/>
+    </item>
+    <item>
       <title>Jona i fisken (30:40)</title>
-      <description><![CDATA[Jona prøver å stikke av fra Gud. Det blir en oppslukende opplevelse. Flere episoder kommer i august 2026.]]></description>
+      <description><![CDATA[Jona prøver å stikke av fra Gud. Det blir en oppslukende opplevelse. Flere episoder kommer 19. august 2026.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/b8619bd8-9a15-4f8a-a19b-d89a159f8afb_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bibelen/b8619bd8-9a15-4f8a-a19b-d89a159f8afb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:35</itunes:duration>

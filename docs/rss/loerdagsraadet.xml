@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Aug 2026 12:17:39 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 14:10:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:24:15 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>«Jeg flytter hjem!»</title>
+      <description><![CDATA[Morsom og fin tilbakemelding fra Rita!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/296cf070-a34e-4492-acf0-70a34ed49286_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/296cf070-a34e-4492-acf0-70a34ed49286_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Else Kåss Furuseth / Espen Abrahamsen / Silje Nordnes</title>
       <description><![CDATA[TILBAKEMELDING: Søstrene Sisters Tatoveringsklubb / PROBLEMER: Livsvarig vennskap eller ny kjærlighet? / Må man ha nye klær til skolestart? / Alle boksene! / Lydoppgave! / Ensom i kollektiv / Må bli far / Vil manipulere kjæresten min til å ta lappen / Hva gjør jeg med gifteringen? / Nyutdannet kollega vet alltid best]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:08:21</itunes:duration>
       <pubDate>Sat, 14 Feb 2026 14:50:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XC9sMC-xasRGcUn1fuLThweqx8VqT56iLHiz3F1mz5IA.jpg"/>
-    </item>
-    <item>
-      <title>Svigermors puter (og Cindy Kråfjord blir født)</title>
-      <description><![CDATA[Endelig får Live sin svigermor-karakter et navn!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/515cdd1e-0a44-4e21-9cdd-1e0a446e21f0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/515cdd1e-0a44-4e21-9cdd-1e0a446e21f0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:32</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 17:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>

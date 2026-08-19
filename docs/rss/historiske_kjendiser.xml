@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 04:46:46 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:23:07 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"/>
+    <item>
+      <title>Anne-Cath. Vestly – Norges mormor</title>
+      <description><![CDATA[Hele Norges mormor ga stemme til de små og oversette.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/9def45d5-1247-4073-af45-d51247c0731e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/9def45d5-1247-4073-af45-d51247c0731e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:44</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qILNM4XGyyY-PtiAelLxvgcJwpKBd3t-Y4FmNJJYjYTg.jpg"/>
+    </item>
     <item>
       <title>Simone de Beauvoir – radikal frihetstenker</title>
       <description><![CDATA[Simone de Beauvoir utfordret patriarkatet med pennen.]]></description>
@@ -453,15 +462,6 @@
       <itunes:duration>52:36</itunes:duration>
       <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/1VXrDWu_73yrYMHpLz7BkQf3N9vHS2fW5Tiz-GFKVkKQ.jpg"/>
-    </item>
-    <item>
-      <title>Galileo Galilei – rebelsk vitenskapsmann</title>
-      <description><![CDATA[Han var en av fedrene til den moderne vitenskapen, men ble forsøkt kneblet av den katolske kirken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sYZW34R1LHzbks7OQclyGQGvNUO_kTXRvXQM9IAzgX2g.jpg"/>
     </item>
   </channel>
 </rss>

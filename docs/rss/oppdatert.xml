@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:23:08 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:24:58 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Oksepenis og grisehoder: Fadderuke-rituale avslørt</title>
+      <description><![CDATA[Etter flere tiår med hemmelighold har en av fjorårets veterinærstudenter valgt å fortelle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/85c5c8d5-e85a-432f-85c8-d5e85a132fc1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/85c5c8d5-e85a-432f-85c8-d5e85a132fc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:21</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GOFnIx3u8czGG6W11PkHGAys_iU2WDj1WnYRbnAeSdJA.jpg"/>
+    </item>
     <item>
       <title>De mystiske brannene i Lofoten: Sto noen bak?</title>
       <description><![CDATA[Da den lille bygda Laukvik ble rammet av flere uforklarlige branner, tok lokalbefolkningen affære.]]></description>
@@ -453,15 +462,6 @@ I en tidligere versjon av denne episoden omtalte vi en post på X. NRK har gjort
       <itunes:duration>18:36</itunes:duration>
       <pubDate>Fri, 29 May 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/90ALKhHDxJcaxHlAlw7qWw5eXjCQTWhjeRKvUGyxR_rA.jpg"/>
-    </item>
-    <item>
-      <title>Trumps plan: Er Cuba hans neste mål?</title>
-      <description><![CDATA[I flere måneder har Donald Trump kommet med nye trusler mot Cuba. Hva er det den amerikanske presidenten vil?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/08560a5e-c41c-4ab3-960a-5ec41ccab35f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/08560a5e-c41c-4ab3-960a-5ec41ccab35f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:11</itunes:duration>
-      <pubDate>Thu, 28 May 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8iKf4O3DGOo7OVWcMTj6cwVAVVwlbcBYLvmhEH3PToqw.jpg"/>
     </item>
   </channel>
 </rss>
