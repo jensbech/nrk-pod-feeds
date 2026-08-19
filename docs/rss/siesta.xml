@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:18:58 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:18:54 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Fra sump til Skåber</title>
+      <description><![CDATA[Rafael Eriksen skal lage musikkprogram,  hva lukter Daniels finger og vi prøver å skjønner hvordan man blander gløgg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:03</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel skal få monokkel</title>
       <description><![CDATA[Daniel finner den beste låta å drite til, Anna er kokforbanna på folk som ikke ringer opp og hvem har den beste bryllupstalen?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/fd948a42-5715-48df-948a-42571518df00_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:58</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Måkereir på biltak</title>
-      <description><![CDATA[Måkene tar over Norge, vi oppdager en ny drink i ubehag og det blir dårlig stemning når ukas dumfette kåres.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/521ccdac-3d5f-473e-9ccd-ac3d5fb73e92_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/521ccdac-3d5f-473e-9ccd-ac3d5fb73e92_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:50</itunes:duration>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
