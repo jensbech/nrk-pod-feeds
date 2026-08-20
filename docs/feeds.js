@@ -1071,7 +1071,7 @@ const feeds = [
     "id": "radio_moerch",
     "title": "Radio Mørch",
     "season": "LATEST_SEASON",
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"
   },
   {
