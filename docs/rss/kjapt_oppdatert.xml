@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Aug 2026 04:23:28 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:22:48 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>FpU-leder trekker seg etter varsel</title>
+      <description><![CDATA[Og flere jordskjelv har truffet Nord-Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/0695c5d1-dd1c-4971-95c5-d1dd1c297108_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/0695c5d1-dd1c-4971-95c5-d1dd1c297108_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:56</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/a3ozAbm_alRz8aH8cLZSLQgDlwjr8L-_uM3sMxaG9WDA.jpg"/>
+    </item>
     <item>
       <title>Kripos vil ha aldersgrense i sosiale medier</title>
       <description><![CDATA[Og et busselskap i Sverige fjerner valgreklame etter protest fra sjåfører.]]></description>
@@ -454,15 +463,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:15</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4kJnZtxVzjzcxC7IMBD7YwLeYYW7A7V35pBnsv95vXLA.jpg"/>
-    </item>
-    <item>
-      <title>Trekker seg fra Spleis etter pride-innsamling</title>
-      <description><![CDATA[Og det ser mørkt ut for Norge i fotball-VM, ifølge forskere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a07c491f-721c-4c89-bc49-1f721c6c8900_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a07c491f-721c-4c89-bc49-1f721c6c8900_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:11</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/axavsOz_KzItd4Jq5Vn3GguvcfjdFDg7gIekcSwAFSww.jpg"/>
     </item>
   </channel>
 </rss>

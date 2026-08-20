@@ -1172,7 +1172,7 @@ const feeds = [
     "title": "Sentralbordet",
     "season": null,
     "enabled": true,
-    "image": "https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSJzM2vjuGP8u-VCB-X45Dg.jpg"
+    "image": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"
   },
   {
     "id": "seriesnakk",

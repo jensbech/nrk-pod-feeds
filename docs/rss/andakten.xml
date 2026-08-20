@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Aug 2026 04:22:01 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:21:56 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Undring - Arve Juritzen</title>
+      <description><![CDATA[Unger har en egen evne til å under seg over alt mulig. Dette er det viktig at skolen gir rom for, mener Arve Juritzen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/d3976822-ceb3-46c7-9768-22ceb3c6c7b8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/d3976822-ceb3-46c7-9768-22ceb3c6c7b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:07</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F10qkkhvIINNZDUvFFsUvggp7PPS1UmvE9m4lqi7B19Q.jpg"/>
+    </item>
     <item>
       <title>Voksnes ansvar - Arve Juritzen</title>
       <description><![CDATA[Hva er det motsatte av hat? Kjærlighet vil kanskje mange si. Andre definerer det annerledes.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/02dd17db-9c74-4580-9d17-db9c74c58015_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:54</itunes:duration>
       <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gGyvp6Fc6gzQavBQyCgOnA1jffDOl9tEjk-YS8reYHsQ.jpg"/>
-    </item>
-    <item>
-      <title>160 slag - Bjørn Bore</title>
-      <description><![CDATA[Det finnes øyeblikk der det går opp for deg at livet er i ferd med å endre seg, for så å aldri bli det samme igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/387f1153-b0ec-4222-bf11-53b0ecd22265_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/387f1153-b0ec-4222-bf11-53b0ecd22265_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:01</itunes:duration>
-      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gGyvp6Fc6gzQavBQyCgOnA1jffDOl9tEjk-YS8reYHsQ.jpg"/>
     </item>
   </channel>
