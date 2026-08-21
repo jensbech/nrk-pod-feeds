@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 04:45:50 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:22:56 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Tore Renberg</title>
+      <description><![CDATA[Adoptert på 80-tallet. Tore Renberg om perfeksjonisme, rasisme og hvorfor kåte Jarle Klepp gjør comeback som bikarakter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/0bce9965-36e1-40c1-8e99-6536e1a0c1f8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/0bce9965-36e1-40c1-8e99-6536e1a0c1f8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:48</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CEge34eeMq2nvABLmGmJHQHnzn2g5-ji9_u5GZ8KulEQ.jpg"/>
+    </item>
     <item>
       <title>Helene Flood: Graver i det usagte</title>
       <description><![CDATA[Hva tør vi ikke si til hverandre?  Thrillerforfatteren  undersøker det vi  frykter mest - ikke minst i nære relasjoner.
@@ -486,15 +495,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Fri, 14 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/JpL75IS1FZuUPktcMIQjvQ3HnzQcMIYrvOv364EtKGJg.jpg"/>
-    </item>
-    <item>
-      <title>Forfatterintervjuet med Ingrid Storholmen</title>
-      <description><![CDATA[«Bloddråpetall» er nominert til Lytternes romanpris. Ingrid Storholmen mener at å kunne lage noen nyord bør stå i stillingsbeskrivelsen til en forfatter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/47300e86-1a9c-4ff8-a824-936c4f0d5810_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/47300e86-1a9c-4ff8-a824-936c4f0d5810_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Thu, 20 Feb 2025 15:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mCqnCqHtIlrIaIV0aluxhQ6F8_kK4kDWnoegV9bPnzug.jpg"/>
     </item>
   </channel>
 </rss>
