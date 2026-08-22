@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Aug 2026 04:24:15 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:21:29 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Tara Lina Shahin / Ole Henry Snildalsli / Kristine Grændsen</title>
+      <description><![CDATA[Hva skjer med gifteringen? / PROBLEMER: Skal jeg dra for å ha kjærlighetssorg alene? / Jeg vet du sliter, men hunden må på tur / Extreme dopapir! / Hvordan ta gode pauser? / Mormors favorittbarnebarn / Hvor mye garderobeplass trenger vi… egentlig? / Klassiker: Er gresset grønnere? / Regler i åpent kontorlandskap / Passiv aggressive venner]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/13cc947c-dca9-4846-8c94-7cdca9a8462a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/13cc947c-dca9-4846-8c94-7cdca9a8462a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:21:38</itunes:duration>
+      <pubDate>Sat, 22 Aug 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/drytWI-U8xbYBxwTqCGcqQC9SwFHDt-Qnc4D1MHoLTkw.jpg"/>
+    </item>
     <item>
       <title>«Jeg flytter hjem!»</title>
       <description><![CDATA[Morsom og fin tilbakemelding fra Rita!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>15:35</itunes:duration>
       <pubDate>Wed, 18 Feb 2026 17:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Olli Wermskog / Kristin Jess Rodin / Anders Giæver</title>
-      <description><![CDATA[TILBAKEMELDING: Hvem vant... Oslo eller Vestlandet? / PROBLEMER: Ringenes Dame uten ring / Hvilken vei skal jeg ta, for å få det som jeg vil / På fest med gammel moro / Mammahjertet mitt er forvirret / Kanskje i fremtiden, men ikke ennå / Studentorkesteret trenger hjelp / Gladfis vs. bekymringsfull / Badstugåten! / Konfliktskye foreldre og 30 år med uønsket rødvin]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/3a8a093d-b618-4948-8a09-3db618a9484d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3a8a093d-b618-4948-8a09-3db618a9484d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:08:21</itunes:duration>
-      <pubDate>Sat, 14 Feb 2026 14:50:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XC9sMC-xasRGcUn1fuLThweqx8VqT56iLHiz3F1mz5IA.jpg"/>
     </item>
   </channel>
 </rss>
