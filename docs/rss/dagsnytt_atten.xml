@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:17:25 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:18:36 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kong Harald på sykehus</title>
+      <description><![CDATA[Det er ingen vesentlige endringer, og situasjonen er fortsatt stabil, ifølge Slottet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/aa46c09d-9019-45ab-86c0-9d901965abca_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aa46c09d-9019-45ab-86c0-9d901965abca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aKKSpAaiO5e9xgkA4VhtzANxfLpu5H1SU4ZJe_Og4k0Q.jpg"/>
+    </item>
     <item>
       <title>Flygelederstreiken rammer hele landet</title>
       <description><![CDATA[Luftrommet må stenges over både Flesland og Gardermoen i perioder.]]></description>
@@ -453,15 +462,6 @@
       <itunes:duration>58:50</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PAdYjlDTvi1PtG8kuPx5CQYIVpmqQKrq8UBoJyxrfgpg.jpg"/>
-    </item>
-    <item>
-      <title>Høiby anker dommen</title>
-      <description><![CDATA[Høiby dømt til fire års fengsel i Oslo tingrett i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:57</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gZ3VgX4wV7vsKOX-5AfBHA_xfS5FsGxlMYtm1bvrbpGw.jpg"/>
     </item>
   </channel>
 </rss>
