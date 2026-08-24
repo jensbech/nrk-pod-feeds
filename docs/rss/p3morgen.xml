@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:19:36 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:26:00 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Kattehuset og  Lommemannen</title>
+      <description><![CDATA[Jonas har fått bart, vi gir deg resultatet på voksengjemselen og vi mimrer tilbake til skumle  og lokale skikkelser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen!</title>
       <description><![CDATA[Katten til Fetisha skaper debatt, anklager om å bære blond gir Jonas Høy puls, og kan man følge digge folk på insta bare fordi de er digge?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Ikke spis svin.</title>
-      <description><![CDATA[Jonas holder parfymen sin hemmelig, Henning mimrer om gamle fly og Arin bruker 90 forsøk på å forklare et poeng.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d4a68243-003d-4b02-a682-43003dfb025a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d4a68243-003d-4b02-a682-43003dfb025a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
     </item>
   </channel>
 </rss>
