@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:26:49 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 04:28:25 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Punk i 50 år</title>
+      <description><![CDATA[1976 kom Sex Pistols, Ramones og The Damned med platene som endret musikkhistorien. Vi feirer 50 år med punk med journalist og veteranpunker Harald Fossberg!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/30562d2d-cc08-4c61-962d-2dcc08ac611c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/30562d2d-cc08-4c61-962d-2dcc08ac611c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:28</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xzNiS4JXDKMylQoKRIko_gdWK84fTfMiEpv1okM6YUCQ.jpg"/>
+    </item>
     <item>
       <title>Skjebnemellomvalget</title>
       <description><![CDATA[Kan det amerikanske demokratiet reddes eller har det allerede kollapset? Trygdekontoret tar pulsen på det amerikanske mellomvalget med Hilde Restad og Evan McLaren - live fra Arendalsuka.]]></description>
@@ -464,15 +473,6 @@ Denne episoden er felt i Pressens Faglige Utvalg (PFU) for brudd på presseetikk
       <itunes:duration>01:03:10</itunes:duration>
       <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
-    </item>
-    <item>
-      <title>Kampen mot fascismen</title>
-      <description><![CDATA[Er vi i ferd med å gjenta historiens mørkeste kapitler? Historiker Jonas Bals om 30-tallets fascisme og dagens politiske landskap.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/04cfef16-cf1b-44d4-8d66-ea1efd65d336_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/04cfef16-cf1b-44d4-8d66-ea1efd65d336_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:14:25</itunes:duration>
-      <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xiS4-jehL9EOs2Jwfqh8RANOCRYpkX9lWz8ocFVzDOEA.jpg"/>
     </item>
   </channel>
 </rss>
