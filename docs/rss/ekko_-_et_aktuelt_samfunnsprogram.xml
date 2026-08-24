@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:17:17 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:18:22 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Sex uten hemninger</title>
+      <description><![CDATA[I en ny studie forteller kvinner om friere og intens sex på MDMA, men også uklare grenser. Hva skjer når frigjøring og risiko møtes?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/04e18454-9d82-4d79-a184-549d82ad796e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/04e18454-9d82-4d79-a184-549d82ad796e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:08</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 13:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Oh3dkFgq2VxAEAR7pXDLIA-ySVgbgfjShf9rWvLjlFAQ.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Kvinnen med printeren</title>
       <description><![CDATA[Hun er 35, fotfølger Trump og mater ham med skryt fra sosiale medier. Hvem er Natalie Harp?]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>28:26</itunes:duration>
       <pubDate>Wed, 22 Apr 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dRh66Wk4vMJyv5gBlxYpdAjdpaRiaCC76yA0YSZz62gw.jpg"/>
-    </item>
-    <item>
-      <title>Kunsten å kjøle ned verden</title>
-      <description><![CDATA[Når verden går av hengslene, mekler det diplomatiske korpset mellom sinte statsledere. Hvem er de stille diplomatene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/779310b0-d68d-451c-9310-b0d68dd51c61_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/779310b0-d68d-451c-9310-b0d68dd51c61_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:13</itunes:duration>
-      <pubDate>Tue, 21 Apr 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6sYuWYToSWZzFzgv3Z2lsQ0qPf7H9OKZwoqQamCjUtpA.jpg"/>
     </item>
   </channel>
 </rss>
