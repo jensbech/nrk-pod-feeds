@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 18 Jun 2026 11:21:57 +0000</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 12:45:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:30:19 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Steinar Suvatne</title>
+      <description><![CDATA[- Jeg er ikke redd for å skape ubehagelig atmosfære, sier den nye programlederen i Debatten på NRK]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/08d1835a-506b-476e-9183-5a506b876e18_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/08d1835a-506b-476e-9183-5a506b876e18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pI-3C7IWirtnOAaOftbgrQg3m8XrHyhN0HNszt4BeW1A.jpg"/>
+    </item>
     <item>
       <title>Cecilie Langum Becker</title>
       <description><![CDATA[– Det blir bedre vin på sommerfestene i Aker, sier avtroppende økonomikommentator i NRK, som begynner i det private næringslivet]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Wed, 25 Feb 2026 12:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2s8cioT0u19tSOJSzxK3LwdrdvFFshDXoj9J6eNGWp4Q.jpg"/>
-    </item>
-    <item>
-      <title>Mímir Kristjánsson</title>
-      <description><![CDATA[– Det hender jeg gråter når jeg leser mine egne bøker, forteller politikeren om sin livshistorie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/582fec28-cf48-4ae1-afec-28cf480ae129_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/582fec28-cf48-4ae1-afec-28cf480ae129_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:05</itunes:duration>
-      <pubDate>Tue, 24 Feb 2026 13:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KnsJxm6K0SnOsGlyJV1CIgKaqvU7uSUg0a9WeMov84TA.jpg"/>
     </item>
   </channel>
 </rss>
