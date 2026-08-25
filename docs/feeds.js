@@ -55,7 +55,7 @@ const feeds = [
     "id": "bakrommet",
     "title": "Bakrommet",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"
   },
   {
@@ -222,7 +222,7 @@ const feeds = [
     "id": "drivkraft",
     "title": "Drivkraft",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"
   },
   {

@@ -3,15 +3,24 @@
   <channel>
     <title>Bakrommet</title>
     <link>https://jensbech.github.io/nrk-pod-feeds</link>
-    <description>Norge er endelig i VM igjen og våre eksperter prepper deg med alt du bør vite om spillerne,  motstanderne og de store snakkisene.</description>
+    <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:49:28 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 04:52:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:43:25 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 14:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Vi er klare for høstens fotballfest!</title>
+      <description><![CDATA[VM er over, men landslagsfesten fortsetter. Men ny storscorersveis og kaptein i storform. Danmark og Portugal venter, men hva skjer med klubbyttene alle ventet på?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6cddad2d-d11d-4e70-9dad-2dd11d9e7069_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6cddad2d-d11d-4e70-9dad-2dd11d9e7069_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:12</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 14:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Spania er verdens beste</title>
       <description><![CDATA[Da er tidenes lengste verdensmesterskap over. Spania er mestere, Argentina er i tårer og Bakrommet reiser hjem.]]></description>
@@ -458,15 +467,6 @@ Her er første rapport.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/80100d0c-3046-496a-900d-0c3046596a73_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:43</itunes:duration>
       <pubDate>Wed, 03 Jun 2026 05:58:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Gruppe D: USA, Paraguay, Tyrkia og Australia</title>
-      <description><![CDATA["Fotballens LeBron James" for vertsnasjonen USA, sør-amerikansk galskap, en pre-camp "fra steinalderen" og en fartsfylt talentfabrikk. Velkommen til en vidåpen gruppe D i VM!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6b5d853f-49c3-49a4-9d85-3f49c359a4b7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6b5d853f-49c3-49a4-9d85-3f49c359a4b7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:25</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 05:57:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
