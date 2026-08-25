@@ -613,7 +613,7 @@ const feeds = [
     "title": "Kommentert",
     "season": null,
     "enabled": true,
-    "image": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"
+    "image": "https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"
   },
   {
     "id": "kompass",

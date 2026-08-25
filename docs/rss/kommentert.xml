@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:19:09 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 14:05:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:26:28 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 16:08:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Kongens sykdom: – Folks infobehov er umettelig</title>
+      <description><![CDATA[Reportere utenfor sykehuset. Nesten daglige oppdateringer fra Kongehuset. Hvorfor er kong Harald så viktig for så mange?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/7946b92b-478e-476f-86b9-2b478e976fe3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/7946b92b-478e-476f-86b9-2b478e976fe3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:44</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 16:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/S9HEzpvfwV0m7OGavfKXfQma2V8jevpZrQHSk02qVc1g.jpg"/>
+    </item>
     <item>
       <title>FpU-leder trekker seg: Har politikken et alkoproblem?</title>
       <description><![CDATA[Leder for FpU trekker seg etter varsel, men avviser påstander om upassende oppførsel. Og netthets og trusler, hvor mye skal politikerne tåle?]]></description>
@@ -492,17 +501,6 @@ Elon Musk vil ha 10.000 milliarder kroner i lønn. Hvor mye makt har de disse f�
       <itunes:duration>35:59</itunes:duration>
       <pubDate>Thu, 06 Nov 2025 15:53:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EjOds6fMpQBuZu906BUUmAIjteSj3y16-bTLdyW9MjvQ.jpg"/>
-    </item>
-    <item>
-      <title>Kan Ola Svenneby ta over Høyre?</title>
-      <description><![CDATA[Høyre leter etter ny leder, men hvorfor tar det så lang tid? Hva sier favoritten Ine Eriksen Søreide? Og kan Ola Svenneby ta over?
-
-Og Krfu-leder i abortkrangel etter uttalelser mange synes er problematiske. Hva er lov å mene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/cf404c17-b02b-4fce-804c-17b02bffcebe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/cf404c17-b02b-4fce-804c-17b02bffcebe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:24</itunes:duration>
-      <pubDate>Thu, 30 Oct 2025 14:38:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FrBdoeMQuMVZ_0WE728WIA2lDQxdRhmgisJ721DAd_9w.jpg"/>
     </item>
   </channel>
 </rss>
