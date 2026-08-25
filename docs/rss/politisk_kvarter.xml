@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:24:52 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:20:18 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Island, EU og oss</title>
+      <description><![CDATA[Norske politikere valfarter til Island denne uka. Mimir Kristjansson bønnfaller islandske sosialister om å si nei til EU. Bare Donald Trump vil tjene på islandsk nei, advarer MDG-politiker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/17483e10-165a-4715-883e-10165a771584_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/17483e10-165a-4715-883e-10165a771584_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:01</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sf6qU_IBtA5GBgeoLVEzBgqAV4BhaPXHe2JQKDxds6TA.jpg"/>
+    </item>
     <item>
       <title>Ein meir klassisk skule</title>
       <description><![CDATA[Høgreleiaren meiner Aps skule bommar og vil ha ein klassisk skule med høgtlesing, penn og papir.]]></description>
@@ -467,16 +476,6 @@ Ikke lær av Oslo Høyre, sier Unge Høyre.]]></description>
       <itunes:duration>15:08</itunes:duration>
       <pubDate>Tue, 19 May 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FWL-kIBppMlVoBlvDE1y4g8nrZdNCwbImWn6nRI2MTnA.jpg"/>
-    </item>
-    <item>
-      <title>Norge som bombemål</title>
-      <description><![CDATA[- Norge kan bli et førsterangs bombemål!
-Raymond Johansen advarer mot å bli med på Macrons nye atomvåpenstrategi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4366aec5-0d1e-48dd-a6ae-c50d1eb8dd9f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4366aec5-0d1e-48dd-a6ae-c50d1eb8dd9f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:04</itunes:duration>
-      <pubDate>Mon, 18 May 2026 08:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PRe6jvHAnQBOQWEIKmDswAtcuKYThPtHwms6PJ5z3APw.jpg"/>
     </item>
   </channel>
 </rss>
