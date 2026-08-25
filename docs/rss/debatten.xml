@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 29 May 2026 08:17:17 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 23:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:17:08 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 23:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>"Ditt rasshøl!"</title>
+      <description><![CDATA[Hvor går grensene for hva vi skal tåle? Og er spillereglene for hva som er lov å si like for begge sidene i politikken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 23:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E585QEdhkBcHwh8LgjntYw_CmqvflzHEI4qtVfepuI4w.jpg"/>
+    </item>
     <item>
       <title>Har vi nok kraft?</title>
       <description><![CDATA[Hvordan sikre nok strøm når datasentrene truer kraftoverskuddet?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>52:26</itunes:duration>
       <pubDate>Tue, 21 Oct 2025 22:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XRSd7zvJGufz4sKeUlOUtg9ltu0C5M9triENRi48L-1Q.jpg"/>
-    </item>
-    <item>
-      <title>Avgifts-sjokk på bil</title>
-      <description><![CDATA[Bilfoket raser over avgiftsøkninger. Regjeringen gjør det dyrere både å eie bil og å kjøre bil.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/480ea8c9-e7ef-4cae-8ea8-c9e7effcae3f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/480ea8c9-e7ef-4cae-8ea8-c9e7effcae3f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:20</itunes:duration>
-      <pubDate>Thu, 16 Oct 2025 22:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wMVst5Y4-uGXg-Co5BfkGA2BOdb1m5AvULVgj3cQAoqw.jpg"/>
     </item>
   </channel>
 </rss>
