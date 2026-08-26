@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-08-26  
+- Updated podcast 'Lev vel' (`lev_vel`)  
+### 2026-08-26  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2026-08-25  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
