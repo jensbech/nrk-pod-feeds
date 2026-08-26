@@ -716,7 +716,7 @@ const feeds = [
     "id": "lev_vel",
     "title": "Lev vel",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"
   },
   {
