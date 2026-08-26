@@ -717,7 +717,7 @@ const feeds = [
     "title": "Lev vel",
     "season": null,
     "enabled": false,
-    "image": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"
+    "image": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"
   },
   {
     "id": "lindmo_og_co",
