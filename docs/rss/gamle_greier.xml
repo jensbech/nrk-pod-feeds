@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:18:44 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:24:13 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Syndebukken for 9. april</title>
+      <description><![CDATA[Utenriksminister Halvdan Kohts viktigste oppgave er å holde Norge utenfor andre verdenskrig. Men planen feiler, og han får skylda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/8b4bcec6-2900-4666-8bce-c62900166638_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/8b4bcec6-2900-4666-8bce-c62900166638_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:39</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Fra slave til slaveeier 3:3</title>
       <description><![CDATA[Med dødsdommen hengende over seg, får Jacob et uventet tilbud: forbli i lenker eller tvinge andre inn i dem.]]></description>
@@ -452,15 +461,6 @@ festning. Men han er en dyktig sjømann, og får derfor en ny, utrolig sjanse.]]
       <enclosure url="https://podkast.nrk.no/fil/gamle_greier/cd571fbb-d0ce-4374-aafe-186cc168656b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:53</itunes:duration>
       <pubDate>Fri, 05 Jul 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
-    </item>
-    <item>
-      <title>Den sorte kattens forbannelse</title>
-      <description><![CDATA[En svart katt som har tilhørt en samisk kvinne havner på et dansk-norsk skip. Mannskapet er delt. Er katten søt, eller står den i ledtog med djevelen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/6483ccb7-1833-42e0-b3fc-f804ab623ef2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/6483ccb7-1833-42e0-b3fc-f804ab623ef2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:20</itunes:duration>
-      <pubDate>Wed, 03 Jul 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
     </item>
   </channel>
