@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-26  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2026-08-25  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 - Updated podcast 'Drivkraft' (`drivkraft`)  
