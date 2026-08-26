@@ -168,7 +168,7 @@ const feeds = [
     "id": "debatten",
     "title": "Debatten",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"
   },
   {
