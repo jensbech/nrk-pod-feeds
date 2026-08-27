@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 04:26:02 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:50:47 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 13:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Island: En ganske fredelig folkeavstemning</title>
+      <description><![CDATA[På Island snakker folk pent til hverandre, selv når de krangler om EU.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/76cd791a-4c64-45ae-8d79-1a4c6485ae89_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/76cd791a-4c64-45ae-8d79-1a4c6485ae89_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:52</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 13:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Nors3veHNzhlL_ix_Nn1WgjoBtF5ssXMYiOcNpO8Xjgw.jpg"/>
+    </item>
     <item>
       <title>Voldelig mangel på soldater</title>
       <description><![CDATA[Slitne ukrainske soldater blir banket opp når de skal rekruttere nye. Vasyl fikk kjenne på frykten mange har for å bli sendt i krigen.]]></description>
@@ -20,7 +29,7 @@
       <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/cd652402-b8a9-436e-a524-02b8a9c36eb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:53</itunes:duration>
       <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eQSIKJ5_eDPRav4-QkuZ-QN6tZlYsaRCdCftWDynDyoA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/RWRfzTG30SCkFvwGGNqAkguq9Od5o9QGw8OlW6L1y5mw.jpg"/>
     </item>
     <item>
       <title>USA, Europa og innvandringen</title>
@@ -454,15 +463,6 @@ NRKs reporter måtte opptre som turist for å se Hormuz-blokaden med egne øyne.
       <itunes:duration>16:07</itunes:duration>
       <pubDate>Thu, 08 Jan 2026 01:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/T53OJwX6K_DEkQT_1oB1Ogt030FO0ga4NBvQG-1W2IAg.jpg"/>
-    </item>
-    <item>
-      <title>Da Trump tok Maduro</title>
-      <description><![CDATA[Hvem skal styre Venezuela nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/6f03d522-2d32-4398-83d5-222d321398a2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/6f03d522-2d32-4398-83d5-222d321398a2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:03</itunes:duration>
-      <pubDate>Sun, 04 Jan 2026 14:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DLIteoeenxm3ZCBQfFzqpA8PvzL0LAZoRTjq4_cXzOmA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:20:44 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:50:11 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel er blitt dement</title>
+      <description><![CDATA[Det blir imitasjon av Elvis i spalte-spalten, Ørjan Elisæther ringer inn og er forbanna og Daniel har bikka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:26</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Markus har en dobbeltgjenger</title>
       <description><![CDATA[Daniel har funnet den danske Markus, Anna er intervjua i avisa og hva tenker vi om reunion?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>52:02</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/S2XhJbqIEki0LhilHdCevgcs-Hml6WbUw5ASmJI6bgUQ.jpg"/>
-    </item>
-    <item>
-      <title>Lukter råttent egg i studio?</title>
-      <description><![CDATA[Regjeringa altså Johansen er dagens vikar. Det blir stand-up, pustekonkuranse og vi svarer på om man alltid kan bruke regnjakke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/bf40df78-9930-4775-80df-789930677570_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/bf40df78-9930-4775-80df-789930677570_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:09</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zx6LfklPKd7wLALWWFYBkAEFAKDx7WmXC3teulXRFKOw.jpg"/>
     </item>
   </channel>
 </rss>
