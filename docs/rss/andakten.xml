@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:23:27 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:18:00 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>En bønn - Ragnhild Jepsen</title>
+      <description><![CDATA[I disse dager er det mange som har startet på et nytt studium eller skoleår. Noe som skal forme dem for resten av livet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/6f881493-a099-4c4b-8814-93a0994c4b50_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/6f881493-a099-4c4b-8814-93a0994c4b50_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:10</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-XfjNhWXKMpAFNB9K_Al2git6kJMUiD6u21Im2usfafw.jpg"/>
+    </item>
     <item>
       <title>Rart ordpar - Ragnhild Jepsen</title>
       <description><![CDATA[Å gripe og å begripe - et rart ordpar som kan romme så mye.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/7cc8062a-d315-42cd-8806-2ad31582cd6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:33</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fDteYP_aCefDZjqmt85QIQ580AuAR61HBUcAypxvuq-w.jpg"/>
-    </item>
-    <item>
-      <title>Gjess - Hanne Marie</title>
-      <description><![CDATA[Løfte i flokk, hjelpe hverandre, bytte på de tyngste takene. Du ser dette i praksis når du ser opp og får øye på en gåseplog.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/3c8d6173-6a73-473b-8d61-736a73d73baa_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/3c8d6173-6a73-473b-8d61-736a73d73baa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:42</itunes:duration>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fDteYP_aCefDZjqmt85QIQ580AuAR61HBUcAypxvuq-w.jpg"/>
     </item>
   </channel>
