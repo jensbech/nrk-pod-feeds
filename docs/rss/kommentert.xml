@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:26:28 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 16:08:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:59:18 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 20:34:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Hva slags konge blir Haakon?</title>
+      <description><![CDATA[Norge har mistet en konge og fått en ny. Hva tar vi med oss fra kong Harald? Og hva slags konge blir Haakon?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/63780732-be7f-4319-b807-32be7fd31947_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/63780732-be7f-4319-b807-32be7fd31947_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 20:34:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c-JfmvbGph-uj3IfgLLbmQYmDlOnJdzwS1qtArl1YeEA.jpg"/>
+    </item>
     <item>
       <title>Kongens sykdom: – Folks infobehov er umettelig</title>
       <description><![CDATA[Reportere utenfor sykehuset. Nesten daglige oppdateringer fra Kongehuset. Hvorfor er kong Harald så viktig for så mange?]]></description>
@@ -491,16 +500,6 @@ Og har vi en KI-boble? Hva skjer hvis den sprekker?]]></description>
       <itunes:duration>38:37</itunes:duration>
       <pubDate>Wed, 12 Nov 2025 15:54:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9U_rzYsXxN8TxwagxAde8AUpXefekQykho2lXlZltXmw.jpg"/>
-    </item>
-    <item>
-      <title>Ine vil bli leder og Musk vil ha 10.000 milliarder</title>
-      <description><![CDATA[Ine Eriksen Søreide vil bli Høyre-leder, men hvem er hun egentlig? 
-Elon Musk vil ha 10.000 milliarder kroner i lønn. Hvor mye makt har de disse få super-superrike mennene i verden?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:59</itunes:duration>
-      <pubDate>Thu, 06 Nov 2025 15:53:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EjOds6fMpQBuZu906BUUmAIjteSj3y16-bTLdyW9MjvQ.jpg"/>
     </item>
   </channel>
 </rss>
