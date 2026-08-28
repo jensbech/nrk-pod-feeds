@@ -413,6 +413,13 @@ const feeds = [
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"
   },
   {
+    "id": "harald_v",
+    "title": "Harald V",
+    "season": null,
+    "enabled": true,
+    "image": "https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"
+  },
+  {
     "id": "hei_nabo",
     "title": "Hei, nabo",
     "season": null,
@@ -1275,7 +1282,7 @@ const feeds = [
     "id": "spraakteigen",
     "title": "Språksnakk",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"
   },
   {
