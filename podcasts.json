@@ -378,6 +378,12 @@
         "enabled": false
     },
     {
+        "id": "harald_v",
+        "title": "Harald V",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "hei_nabo",
         "title": "Hei, nabo",
         "season": null,
@@ -1179,7 +1185,7 @@
         "id": "spraakteigen",
         "title": "Språksnakk",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "staale_utslagsnes_fra_loensj",
