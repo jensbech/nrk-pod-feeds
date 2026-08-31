@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:26:52 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 12:15:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:34:25 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Tonje Gilje</title>
+      <description><![CDATA[– Lykken er å game fra fredag til søndag. Å glemme  dusjing og spising, bare være helt nerd! sier  Flipp Klipp- profilen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/12584dcc-6666-46c9-984d-cc666606c972_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/12584dcc-6666-46c9-984d-cc666606c972_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:26</itunes:duration>
+      <pubDate>Mon, 31 Aug 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/06J2wPDIhNgZbFU0_oPSZgw_no5z8pgEBlJeUXhO_9LA.jpg"/>
+    </item>
     <item>
       <title>Claude Bonde</title>
       <description><![CDATA[Fra kassa på Meny til big in Japan!]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:05</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 13:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/E4liRl-oILC_ixC_5FosRgHu-3aUhYMy9vEYW0OKDDmA.jpg"/>
-    </item>
-    <item>
-      <title>Sara Khorami</title>
-      <description><![CDATA[– Det er en frykt, men også en feiring, sier skuespilleren om krigen i Iran.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/5448327b-53a7-4f14-8832-7b53a75f1441_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5448327b-53a7-4f14-8832-7b53a75f1441_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Tue, 10 Mar 2026 15:25:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/przBJCYYi-jtkxsoeJ4f3gmVOfKb3SBf18FAm2faGVkQ.jpg"/>
     </item>
   </channel>
 </rss>
