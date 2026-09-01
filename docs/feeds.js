@@ -169,7 +169,7 @@ const feeds = [
     "title": "Debatten",
     "season": null,
     "enabled": true,
-    "image": "https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"
+    "image": "https://gfx.nrk.no/TrAKzC9jj5hcnRvdDAmZLg9Ez-ezuJw-MATwNSs6BDlg.jpg"
   },
   {
     "id": "delfi_og_dolfy",
