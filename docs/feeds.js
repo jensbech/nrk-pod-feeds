@@ -1249,7 +1249,7 @@ const feeds = [
     "id": "sommer_i_p2",
     "title": "Sommer i P2",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"
   },
   {

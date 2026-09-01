@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 31 Aug 2026 06:46:15 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Aug 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:39:13 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Avgiftshopp</title>
+      <description><![CDATA[I dag er det slutt på det politisk vedtatte avgiftsfritaket for bensin og diesel. Fornuftig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/caf55a71-b130-4485-b55a-71b130d485c1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/caf55a71-b130-4485-b55a-71b130d485c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/17Wo5kIm8Vztb625XEFsGwEptcJbeoihueFvs3fSz7tw.jpg"/>
+    </item>
     <item>
       <title>Island sa Nei</title>
       <description><![CDATA[Islendingene sa nei til EU. Hva betyr det for Norge?]]></description>
@@ -466,15 +475,6 @@ Tidenes dårligste deal for byene våre, sier samferdselsministeren.]]></descrip
       <itunes:duration>14:54</itunes:duration>
       <pubDate>Tue, 26 May 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5x7o_Guo88xPV-f5h1DBFgGo5iu5NLL2nL0zdSxm1rjQ.jpg"/>
-    </item>
-    <item>
-      <title>Nok cruise-turistar no?</title>
-      <description><![CDATA[Er 13.000 turistar i eit trangt norsk kystsentrum eit argument for å begrense cruiseturismen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/8d2040c0-26e6-4153-a040-c026e67153a2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/8d2040c0-26e6-4153-a040-c026e67153a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Fri, 22 May 2026 08:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XZzMB-a6AtAZM2EQlWQTkQL72avzSCI5gmKCfWE1Zkpw.jpg"/>
     </item>
   </channel>
 </rss>
