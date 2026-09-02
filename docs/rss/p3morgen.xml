@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:27:42 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:31:55 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Vi tester chipskomboer</title>
+      <description><![CDATA[Er potetgull og brun saus en god kombo! Nå mener flere at brun saus er den nye holidaydippen, og i dag skal vi endelig teste det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:50</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Krig om skalken på brødet.</title>
+      <description><![CDATA[Henning har tatt i bruk sin nye kjøkkenmaskin, Arin prøver å bidra med noe i podkasten og Jonas får høre om 6-7 Grill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/397e59fa-22bd-47fe-be59-fa22bd37fec1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/397e59fa-22bd-47fe-be59-fa22bd37fec1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
+    </item>
     <item>
       <title>Potetgull til julemidaggen</title>
       <description><![CDATA[Kjenner du igjen låten ved å kun høre Jason Derulo si sitt eget navn? Vi tester det i dag. Henning lurer på om hans nye hobby er problematisk. Vi hører om folks potetgullvaner]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
-    </item>
-    <item>
-      <title>Hvor skal føttene vaskes?</title>
-      <description><![CDATA[Hvordan er riktig måte å vaske føttene på og har vi noen gang tagget? Det blir også litt rampestreker i dag!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Aldersgrensen på IS-videoer?</title>
-      <description><![CDATA[Hva har Emma Steinbakken og IS til felles? Kan Makosir rappe om Kygo og Renate Reinsve?  Dette er DET beste fra uka som gikk <3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/00e5a309-e4a4-4397-a5a3-09e4a4c39729_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/00e5a309-e4a4-4397-a5a3-09e4a4c39729_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:23</itunes:duration>
-      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>
 </rss>
