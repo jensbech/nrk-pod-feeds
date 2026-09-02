@@ -671,7 +671,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg.jpg"
   },
   {
@@ -716,7 +716,7 @@ const feeds = [
     "id": "leseklubben",
     "title": "Leseklubben",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"
   },
   {
