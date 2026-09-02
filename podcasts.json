@@ -615,7 +615,7 @@
         "id": "kringkastingsorkestret_",
         "title": "Kringkastingsorkestret ",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kroppen",
@@ -657,7 +657,7 @@
         "id": "leseklubben",
         "title": "Leseklubben",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "lev_vel",
