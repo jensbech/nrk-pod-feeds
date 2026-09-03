@@ -1440,7 +1440,7 @@ const feeds = [
     "id": "tyrann",
     "title": "Tyrann",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"
   },
   {
