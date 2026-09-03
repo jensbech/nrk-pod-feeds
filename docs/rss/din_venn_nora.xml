@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:18:17 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 05:22:18 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Ikke lov å le i landesorg</title>
+      <description><![CDATA[Ett minutts stillhet for kongen gikk ordentlig gærent, et sårbart øyeblikk har gått viralt i Kina og en rabies-update.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/c94cebe1-c2d6-494a-8ceb-e1c2d6094a51_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/c94cebe1-c2d6-494a-8ceb-e1c2d6094a51_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:43</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Den store episoden om Kina</title>
       <description><![CDATA[En nøye gjennomgang av tidenes solotur, inkludert den SJOKKERENDE grunnen til hvorfor ferien tok BRÅTT slutt. Heng med<3]]></description>
@@ -454,15 +463,6 @@ Bingokort til hat-bingo finner du på Instagram, @norasvenningsen.]]></descripti
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/502e52c2-dead-4077-ae52-c2deade0774d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:45</itunes:duration>
       <pubDate>Sun, 28 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
-    </item>
-    <item>
-      <title>En beskjed til Frank Løke</title>
-      <description><![CDATA[Actionfrank får høre det i sangform, Tine får smalltalk-tips, og vi alle får en slags oppklaring i hva notorisk utro betyr.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/13a0106d-86b9-406d-a010-6d86b9606d9e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/13a0106d-86b9-406d-a010-6d86b9606d9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:04</itunes:duration>
-      <pubDate>Wed, 24 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
     </item>
   </channel>
