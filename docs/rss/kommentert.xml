@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:23:52 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 15:13:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:24:07 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 15:11:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?</title>
+      <description><![CDATA[Vladimir Putin går hardt ut mot Norge, etter at et russisk skip på Svalbard er satt i norsk arrest. Hvilke konsekvenser kan det få?<]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/757e7a7a-5218-4cdf-be7a-7a5218ecdf08_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/757e7a7a-5218-4cdf-be7a-7a5218ecdf08_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:14</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 15:11:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I0QmE81nkhzsVWnnXjYcswSaBs3FIxeaz912q6A9owCw.jpg"/>
+    </item>
     <item>
       <title>Høiby på slottet: Hvilket signal sender kongehuset?</title>
       <description><![CDATA[Marius Borg Høiby på slottet vekker reaksjoner. Hva slags signal sender kongehuset? 
@@ -490,17 +499,6 @@ Og vi snakker om vårt eget kaos og forsøker å beklage.]]></description>
       <itunes:duration>20:18</itunes:duration>
       <pubDate>Mon, 24 Nov 2025 12:43:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/whJy8rHNJMc-mWsCphI47g2aXnKg-xnvY-8HgxLXwLFA.jpg"/>
-    </item>
-    <item>
-      <title>Har vi en KI-boble?</title>
-      <description><![CDATA[Hvorfor får Norge toll fra EU? 
-Store integreringsproblemer i Norge, samtidig som innvandring blir strengere i store deler av Europa. 
-Og har vi en KI-boble? Hva skjer hvis den sprekker?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/612e5b31-5e02-4f59-ae5b-315e02df5993_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/612e5b31-5e02-4f59-ae5b-315e02df5993_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:52</itunes:duration>
-      <pubDate>Thu, 20 Nov 2025 15:36:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vs9QHkv2EdAsKRjQ3irWXAZ1ZaZptrm3QeQjhSTipOvg.jpg"/>
     </item>
   </channel>
 </rss>
