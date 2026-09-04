@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 08:32:38 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:31:36 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>B-mennesker: Hvem er best best på aura farming?</title>
+      <description><![CDATA[P3morgens extended cinematic universe er med og vi aura farmer!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/46f92819-8778-4c27-b928-1987788c2722_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/46f92819-8778-4c27-b928-1987788c2722_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
+    </item>
     <item>
       <title>Ingen engelske ord tillatt</title>
       <description><![CDATA[Vi slår et slag for det norske språket og prøver å ikke si et eneste ikke-norsk ord. Hvert yes, sorry, eller fuck blir straffet med en bot]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:25</itunes:duration>
       <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Vi tar homo-test!</title>
-      <description><![CDATA[Jonas har aldri gått i pride-tog, Henning har blitt bilsyk og Arin er visst ikke «ghetto».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/657081a1-07c4-4fc2-b081-a107c41fc2df_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/657081a1-07c4-4fc2-b081-a107c41fc2df_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
