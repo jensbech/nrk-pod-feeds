@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 04:54:42 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:26:07 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Alle har en venninne på Rikshospitalet</title>
+      <description><![CDATA[Vi ser nærmere på rykteflommen før (og alle som slapp låter etter) Kong Haralds død. Flatindeksen for august 2026 er klar. Smartbriller kan være siste spiker i kista for personvernet vårt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/2c6045c3-3b09-41ab-a045-c33b09a1ab95_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/2c6045c3-3b09-41ab-a045-c33b09a1ab95_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:57</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>En kort beskjed</title>
       <description><![CDATA[Desken brenner utgår denne uka – vi er tilbake neste fredag.]]></description>
@@ -453,15 +462,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/ef59b718-fbe0-4efc-bdb9-27a1a579f45c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:23</itunes:duration>
       <pubDate>Fri, 08 Aug 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Matteus, Markus, Lothépus</title>
-      <description><![CDATA[Lothepus har bygd stavkyrkje som kyrkje-Noreg ikkje vil anerkjenne. Fleire land vurderer no å anerkjenne Palestina. Skummel edderkopp med "legendarisk" bieffekt. Og Vink-jentene? Dei spring og drikk øl.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/fcd6a275-463a-4924-9f2c-257f22f6a6e9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/fcd6a275-463a-4924-9f2c-257f22f6a6e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:42</itunes:duration>
-      <pubDate>Fri, 01 Aug 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>

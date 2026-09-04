@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:50:47 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 13:50:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:28:27 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>De nye monarkene: Modigere og mer politiske?</title>
+      <description><![CDATA[Norges nye konge er blant de yngste i en ny generasjon monarker. Vil han følge danske Kong Frederik snakke litt tydeligere om politikk i en verden som styres av autoritære, eldre ledere?  Og hva foregår egentlig i den skandinaviske monarkchatten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/34c27774-be44-4d5e-8277-74be44bd5e29_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/34c27774-be44-4d5e-8277-74be44bd5e29_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:22</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SN53O4L9ywVMCCbsrUSe5wpNfv2CeuZ7nbYXmK-n6tmw.jpg"/>
+    </item>
     <item>
       <title>Island: En ganske fredelig folkeavstemning</title>
       <description><![CDATA[På Island snakker folk pent til hverandre, selv når de krangler om EU.]]></description>
@@ -454,15 +463,6 @@ NRKs reporter måtte opptre som turist for å se Hormuz-blokaden med egne øyne.
       <itunes:duration>11:02</itunes:duration>
       <pubDate>Tue, 13 Jan 2026 06:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/_Xb2KTKwEqYr7N_yU9QSNgOMU1Lmq0eg9uxuj7mM7piw.jpg"/>
-    </item>
-    <item>
-      <title>Kollapser Iran nå?</title>
-      <description><![CDATA[Tusenvis av demonstranter roper at mullaene må gå. Hva skjer hvis prestestyret - som har styrt landet i snart 50 år - veltes?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/d686fd7f-7bf4-46ea-86fd-7f7bf416ea80_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/d686fd7f-7bf4-46ea-86fd-7f7bf416ea80_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:07</itunes:duration>
-      <pubDate>Thu, 08 Jan 2026 01:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/T53OJwX6K_DEkQT_1oB1Ogt030FO0ga4NBvQG-1W2IAg.jpg"/>
     </item>
   </channel>
 </rss>

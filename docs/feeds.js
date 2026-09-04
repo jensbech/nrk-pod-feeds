@@ -1283,7 +1283,7 @@ const feeds = [
     "title": "Språksnakk",
     "season": null,
     "enabled": true,
-    "image": "https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"
+    "image": "https://gfx.nrk.no/NQ4-0nzQwU3eDOBQjkKs7AUjzL5cIoZddjdh9czabkeg.jpg"
   },
   {
     "id": "staale_utslagsnes_fra_loensj",
