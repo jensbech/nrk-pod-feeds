@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:23:36 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 15:50:00 +0200</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:19:16 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 14:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Cecilie Kåss Furuseth / Trond-Viggo Torgersen / Hilde Skaar</title>
+      <description><![CDATA[TILBAKEMELDING: Fikk morgenstemningen gull i munn? / PROBLEMER: Jeg har blitt fanget i mitt eget fråtseri / Vi vil gifte oss i hemmelighet / Hva skal jeg plotte inn i kalenderen? / Pappas tupéhemmelighet / Ta initiativ, selv om jeg ikke er så interessert / Quizlag, men ikke venner lenger / Forholdet forsvinner inn i doomscrolling / Antivaxx-svigerinne]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/460eeb78-610c-4dc5-8eeb-78610ccdc5f6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/460eeb78-610c-4dc5-8eeb-78610ccdc5f6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15:35</itunes:duration>
+      <pubDate>Sat, 05 Sep 2026 14:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O0Jkzih1JoYqXEqk5UyZtAhseySjxRuO_1_XioPczhpg.jpg"/>
+    </item>
     <item>
       <title>Den mystiske lyden er... (ikke det du tror)</title>
       <description><![CDATA[Vi får endelig svaret på gåten om hva den mystiske lyden til naboen er...]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>28:46</itunes:duration>
       <pubDate>Fri, 06 Mar 2026 14:35:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Tete Lidbom / Mari Garås Monsson / Are Sende Osen</title>
-      <description><![CDATA[TILBAKEMELDING: Er godhet livets lønn? / PROBLEMER: Hva gjør man når man innser følelsene sine for sent? / Evig levering fra take-away-naboene / Når det endelig skjer - og det er feil person / Slå opp med eks-svigermor? / Hvor mye er det lov å flørte? / Et siste slag av rettferdighet på arbeidsplassen / Venn eller gratis barnevakt? / Spisehastighet i forhold]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/50eb70f7-2d93-4e8b-ab70-f72d93de8b30_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/50eb70f7-2d93-4e8b-ab70-f72d93de8b30_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:26:39</itunes:duration>
-      <pubDate>Sat, 28 Feb 2026 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/6nJMaYwFRBu4u0y0T3f_SwjUrR0w4__6Wu1E4tQmJSSw.jpg"/>
     </item>
   </channel>
 </rss>
