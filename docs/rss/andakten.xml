@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 05:21:59 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:27:27 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Alt er mulig - Ingjerd Egeberg</title>
+      <description><![CDATA[Noen går nye ting i møte med store forventninger. Andre gjør det motsatte, for heller å bli gledelig overrasket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/0345921c-5e8e-44d4-8592-1c5e8ef4d4e9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/0345921c-5e8e-44d4-8592-1c5e8ef4d4e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:13</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA.jpg"/>
+    </item>
     <item>
       <title>C S Lewis - Elin S. Rabbevåg</title>
       <description><![CDATA[Trøst i en vanskelig tid, kan komme fra et veldig uventet hold.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/e091b8e1-99da-4d9f-91b8-e199da8d9f5b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:20</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
-    </item>
-    <item>
-      <title>Dåpen - Helga Samset</title>
-      <description><![CDATA[Om du ikke har sett Disney-filmen Løvene konge, har du garantert hørt om den. Helga Samset har et veldig nært forhold til den.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/9620c216-26c9-4a96-a0c2-1626c92a96f3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/9620c216-26c9-4a96-a0c2-1626c92a96f3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:49</itunes:duration>
-      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
     </item>
   </channel>
