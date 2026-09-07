@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:37:45 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:47:38 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Et barnevern uten kontroll</title>
+      <description><![CDATA[Mer enn 400 aktører innen barnevernet tar imot sårbare barn som ikke kan bo hjemme. 
+Politiet mistenker at kriminelle nettverk har fått tilgang til både sårbare barn og offentlige penger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/aba9cc70-3869-483e-a9cc-703869383e5e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/aba9cc70-3869-483e-a9cc-703869383e5e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:04</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Cf3Umayd01hgGm69nAqmVgWWQuBA0ljpFDdS7xwog5zQ.jpg"/>
+    </item>
     <item>
       <title>Økt spenning før valget i Sverige</title>
       <description><![CDATA[Intern krangel blant borgerlige regjeringskamerater har ikke skremt bort velgerne. Sosialdemokratenes forsprang minker - en drøy uke før valget.]]></description>
@@ -467,16 +477,6 @@ Nei, svarer Høyre.]]></description>
       <itunes:duration>15:00</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lxGsc9uHGylzI0PiSucdPQ10w6wOh0TE9btk6rlHDZTw.jpg"/>
-    </item>
-    <item>
-      <title>Kampen om bil i byen</title>
-      <description><![CDATA[Frp vil skrote målet om null vekst i biltrafikken.
-Tidenes dårligste deal for byene våre, sier samferdselsministeren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/d138bc0a-5b97-4054-b8bc-0a5b97305474_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/d138bc0a-5b97-4054-b8bc-0a5b97305474_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Fri, 29 May 2026 08:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jFFoRzhaWwxfabmYOMxV6AjauYOx0RuCgcfcKjlyBbWQ.jpg"/>
     </item>
   </channel>
 </rss>
