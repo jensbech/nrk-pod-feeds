@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:19:43 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 12:50:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:21:40 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 12:37:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Torgrim Eggen</title>
+      <description><![CDATA[– Jeg visste det lå noe i familiehistorien som var litt ekkelt, sier forfatteren av boken Blodet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:21</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 12:37:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JCzZ5laVdpJ-vL31NGfdXgRUY-oZUCofzXwNMrLVes6A.jpg"/>
+    </item>
     <item>
       <title>Håkon Opdal</title>
       <description><![CDATA[— Du må være spesiell for å stå i mål, sier den tidligere landslagskeeperen, som nå satser alt som forfatter]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:14</itunes:duration>
       <pubDate>Thu, 19 Mar 2026 13:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tx_tS0XzHdAZxjvsiYReSQjkjSGcgJZapJQVycaA_Tlg.jpg"/>
-    </item>
-    <item>
-      <title>Synne Vo</title>
-      <description><![CDATA[Popartisten mener det er menneskelig å alltid være lett misfornøyd]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/f1fca77c-20ec-47e4-bca7-7c20ec37e424_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/f1fca77c-20ec-47e4-bca7-7c20ec37e424_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 14:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xLXS8f2fnG677vy-ZAG91QEqbKPJHrrAX8porvtQgDRg.jpg"/>
     </item>
   </channel>
 </rss>
