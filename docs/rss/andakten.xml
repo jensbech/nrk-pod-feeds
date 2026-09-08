@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:27:27 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:25:39 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Takknemlighet -Ingjerd Egeberg</title>
+      <description><![CDATA[Hun er i ferd med å hente inn et etterslep. Noe hun ikke har vært nok bevisst på en stund. Det har gjort henne takknemlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/8b49058d-3332-479e-8905-8d3332279e13_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/8b49058d-3332-479e-8905-8d3332279e13_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:25</itunes:duration>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA.jpg"/>
+    </item>
     <item>
       <title>Alt er mulig - Ingjerd Egeberg</title>
       <description><![CDATA[Noen går nye ting i møte med store forventninger. Andre gjør det motsatte, for heller å bli gledelig overrasket.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/43a34f12-55ed-4cd0-a34f-1255edacd032_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:21</itunes:duration>
       <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
-    </item>
-    <item>
-      <title>Mot stranda - Helga Samset</title>
-      <description><![CDATA[Helga Samset tar for seg en av historiene fra Bibelen i dag, en historie som blant annet handler om ekte gjensynsglede.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/e091b8e1-99da-4d9f-91b8-e199da8d9f5b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/e091b8e1-99da-4d9f-91b8-e199da8d9f5b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:20</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
     </item>
   </channel>

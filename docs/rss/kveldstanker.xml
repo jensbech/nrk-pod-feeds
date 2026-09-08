@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:30:18 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:26:48 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Forglem meg ei - med Sigrun Loe Sparboe</title>
+      <description><![CDATA[- Tenk at mye i oss som voksen var der allerede da vi var barn, undrer musiker og komponist Sigrun Loe Sparboe.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/641fd9e0-9d14-4b26-9fd9-e09d146b2629_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/641fd9e0-9d14-4b26-9fd9-e09d146b2629_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:14</itunes:duration>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKifrZnLK0bkOj4xrHgkjASL_pSlg5mmx7LyQ1xT8a0w.jpg"/>
+    </item>
     <item>
       <title>Kapteinen med Lena Lindahl</title>
       <description><![CDATA[Forfatteren Lena Lindahl har aldri fått møte en konge helt på ekte, men likevel har hun tre av dem i livet sitt.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>02:33</itunes:duration>
       <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
-    </item>
-    <item>
-      <title>Fjellvett - med  Gunn Marit Nisja</title>
-      <description><![CDATA[Det finnes regler som er grei å følge selv om du er ung og dum, forteller forfatter Gunn Marit Nisja.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/963106f4-deb1-40ac-b106-f4deb190ac4c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/963106f4-deb1-40ac-b106-f4deb190ac4c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:49</itunes:duration>
-      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
     </item>
   </channel>
 </rss>
