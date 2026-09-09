@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:25:39 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:26:18 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Godt nok - Ingjerd Egeberg</title>
+      <description><![CDATA[Hva skal til for at vi blir fornøyd med det vi gjør, og det vi har rundt oss? Når er noe godt nok?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/88dca942-ba5d-4071-9ca9-42ba5d3071a4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/88dca942-ba5d-4071-9ca9-42ba5d3071a4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:26</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA.jpg"/>
+    </item>
     <item>
       <title>Takknemlighet -Ingjerd Egeberg</title>
       <description><![CDATA[Hun er i ferd med å hente inn et etterslep. Noe hun ikke har vært nok bevisst på en stund. Det har gjort henne takknemlig.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:31</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
-    </item>
-    <item>
-      <title>Grå hår - Helga Samset</title>
-      <description><![CDATA[Mange har problemer med det å bli eldre. Skjønnhetspresset starter tidlig, og for noen varer det kanskje hele livet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/43a34f12-55ed-4cd0-a34f-1255edacd032_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/43a34f12-55ed-4cd0-a34f-1255edacd032_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:21</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YYx8YuyEMJcGUGtomrKjRw7nG0wlGWtcJU5-0TdlsSxQ.jpg"/>
     </item>
   </channel>
 </rss>
