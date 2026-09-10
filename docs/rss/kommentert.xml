@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:24:07 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 15:11:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:33:48 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 13:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Pisa-tall sjokkerer: Hvem har skylda?</title>
+      <description><![CDATA[Norske 15-åringer med elendige resultater i Pisa-undersøkelsen 2025. Noe er feil, men hva? Er det politikerne? Skolen? Ungdommene eller foreldrene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/db2b7097-be44-4271-ab70-97be44f271bd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/db2b7097-be44-4271-ab70-97be44f271bd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:40</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 13:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OnkY5gDlrPQSNAl2H4Ga1Q4ZJWrt2DXLZvLST26Hu5xQ.jpg"/>
+    </item>
     <item>
       <title>Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?</title>
       <description><![CDATA[Vladimir Putin går hardt ut mot Norge, etter at et russisk skip på Svalbard er satt i norsk arrest. Hvilke konsekvenser kan det få?<]]></description>
@@ -70,7 +79,7 @@ Og vi debriefer sesongens første partilederdebatt. Episoden er spilt inn under 
       <itunes:image href="https://gfx.nrk.no/RTDNHOf5_FQUU1B20rFY4glTSywcxzVynslvMdPAK4hg.jpg"/>
     </item>
     <item>
-      <title>Søreide vs Listhaug: Harde angrep fra Høyre</title>
+      <title>Hvorfor angriper Høyre Sylvi Listhaug?</title>
       <description><![CDATA[Ine Eriksen Søreide tar et kraftig oppgjør med Frp-leder Sylvi Listhaug. 
 Debatten-programleder Steinar Suvatne tar et ikke så kraftig oppgjør med Kommentert.
 Og vi debriefer VM-roing. Opptaket er tatt under Arendalsuka.]]></description>
@@ -490,15 +499,6 @@ Og vi snakker om vårt eget kaos og forsøker å beklage.]]></description>
       <itunes:duration>33:22</itunes:duration>
       <pubDate>Thu, 27 Nov 2025 14:24:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/qyiBGJm3lAS6q2wAlNlTfgu892X-cCI2u1ase5kwaFkA.jpg"/>
-    </item>
-    <item>
-      <title>Har Russland skrevet fredsforslaget?</title>
-      <description><![CDATA[Har Russland skrevet det amerikanske fredsforslaget? Hva må Ukraina gå med på for at det skal bli fred? Og vil Russland egentlig ha fred?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:18</itunes:duration>
-      <pubDate>Mon, 24 Nov 2025 12:43:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/whJy8rHNJMc-mWsCphI47g2aXnKg-xnvY-8HgxLXwLFA.jpg"/>
     </item>
   </channel>
 </rss>
