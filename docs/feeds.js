@@ -730,7 +730,7 @@ const feeds = [
     "id": "lindmo_og_co",
     "title": "Lindmo og Co",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"
   },
   {
