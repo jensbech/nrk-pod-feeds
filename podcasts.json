@@ -669,7 +669,7 @@
         "id": "lindmo_og_co",
         "title": "Lindmo og Co",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "loensj_med_rune_nilson",
