@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Sep 2026 04:26:18 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:26:06 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Intet annet - Ingjerd Egeberg</title>
+      <description><![CDATA[Man kan få mye ros - og så får man en kritisk kommentar. Hva er det man hører best, og husker lengst?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/ce8638af-417c-43ea-8638-af417c03ea2b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/ce8638af-417c-43ea-8638-af417c03ea2b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:36</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA.jpg"/>
+    </item>
     <item>
       <title>Godt nok - Ingjerd Egeberg</title>
       <description><![CDATA[Hva skal til for at vi blir fornøyd med det vi gjør, og det vi har rundt oss? Når er noe godt nok?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/f8cb3094-6cfe-4a0e-8b30-946cfe9a0ee8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:06</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
-    </item>
-    <item>
-      <title>Dåpen – Kari Alvsvåg</title>
-      <description><![CDATA[Biskop Kari Alvsvåg i Borg bispedømme har en morgenrutine. Noe hun gjør hver dag når hun våkner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/07324ded-0874-423d-b24d-ed0874223d43_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/07324ded-0874-423d-b24d-ed0874223d43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:31</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
     </item>
   </channel>
