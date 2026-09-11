@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:34:48 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:25:22 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>- Heter du faktisk Gladkokken?</title>
+      <description><![CDATA[Daniel intervjuer Gladkokken, Markus leder Quizvang og hva betyr ikåddn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/794e8447-5443-4f00-8e84-4754437f00c0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/794e8447-5443-4f00-8e84-4754437f00c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:17</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W5qWejIG0k-BNAFkLTFrJwlM3WvKpZdAfnToH0JSk-YA.jpg"/>
+    </item>
     <item>
       <title>Fullkornspasta er ikke mat</title>
       <description><![CDATA[Daniel blir kastet ut av studio, Anna er forbanna over julevarer og Markus kjører stand-up om blant annet kongens gravferd.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/6cedd912-379e-4f12-add9-12379ebf12e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:07</itunes:duration>
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Skal gjennomføre «Norseman»</title>
-      <description><![CDATA[Maria har sin siste dag som vikar, og har laga VM-konkurranse til  oss! Det blir også minions i papegøye og smalltalk av «Norseman».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3b50a24d-aa83-416b-90a2-4daa83f16b82_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/3b50a24d-aa83-416b-90a2-4daa83f16b82_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:18</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
