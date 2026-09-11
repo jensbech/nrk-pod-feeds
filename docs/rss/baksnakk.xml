@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:25:51 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:12:05 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    <item>
+      <title>Gyda Waagbø, eldre menn og «pick me» venner</title>
+      <description><![CDATA[Skal man gi opp sin «sugar daddy dream», eller fortsette å drømme? Gyda Ulrikke Waagbø er gjest!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/7fe1a4d9-b5fd-47c9-a1a4-d9b5fd27c970_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/7fe1a4d9-b5fd-47c9-a1a4-d9b5fd27c970_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:55</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    </item>
     <item>
       <title>Mensen-starterpack, flauser og kong Haralds liv</title>
       <description><![CDATA[Sofie og Sade mimrer om livet til hele Norges bestefar.
@@ -540,17 +551,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/736855b8-bf5b-4f90-a855-b8bf5b0f90c9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:40</itunes:duration>
       <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Konfirmasjon, «mindfuck» og nybegynner på treningssenter</title>
-      <description><![CDATA[Skal man ha show i venninna sin konfirmasjon? Eller skal man droppe det ...?
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/0d8ba134-b67d-4055-8ba1-34b67df055a2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/0d8ba134-b67d-4055-8ba1-34b67df055a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:56</itunes:duration>
-      <pubDate>Fri, 20 Mar 2026 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

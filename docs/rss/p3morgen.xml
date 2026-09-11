@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:31:17 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:14:21 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Girl in red har blitt skuespiller</title>
+      <description><![CDATA[Girl in red har blitt skuespiller! Hun kommer på besøk for å snakke om da hun rodde på Karl Johan, og om det er sant at hun avlyste en danseopptreden for Charli XCX.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/62abcc2c-4370-4d92-abcc-2c43705d925e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/62abcc2c-4370-4d92-abcc-2c43705d925e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:18</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Mormonisme, Buddhisme og kamelsalg</title>
+      <description><![CDATA[Arin prøver å forklare mormoner-drama, Henning lurer på hva vi kommer til å bli gjenfødt som, og vi deler hvem vi vil «soake» med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ff751c8d-d114-4ad9-b51c-8dd114bad926_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ff751c8d-d114-4ad9-b51c-8dd114bad926_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w.jpg"/>
+    </item>
     <item>
       <title>Er vi smartere enn en 10ende klassing?</title>
       <description><![CDATA[Vi har fått prøveresultatene våre og skal finne ut hvor smarte vi er. Blir det fotballfest neste år også, under fotball-VM for kvinner? Eller er det en fare for at vi ikke en gang blir med? Vi skal se framover med programleder Gunnhild Toldnes!]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>20:21</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Henning ble forlatt under vann</title>
-      <description><![CDATA[Arin vil være en fantasi-pirat, Henning forteller om sitt møte med en hai og produsent Johannes er en selverklært pyse!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9ef2c560-cb86-457d-b2c5-60cb86f57dc1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9ef2c560-cb86-457d-b2c5-60cb86f57dc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:22</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
-    </item>
-    <item>
-      <title>Henning driver med fibermaxxing</title>
-      <description><![CDATA[Henning har oppdaget neseteip og sovemaske, og vi har vært på kino sammen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2076643e-0229-48d6-b664-3e0229c8d6d0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2076643e-0229-48d6-b664-3e0229c8d6d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>
