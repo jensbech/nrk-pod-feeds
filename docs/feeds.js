@@ -884,7 +884,7 @@ const feeds = [
     "id": "musikk_fra_nrk_super",
     "title": "Musikk fra NRK Super",
     "season": "LATEST_SEASON",
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q.jpg"
   },
   {
