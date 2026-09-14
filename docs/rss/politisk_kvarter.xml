@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:14:34 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:11:34 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Svensk thriller</title>
+      <description><![CDATA[Dette valet er ikkje ferdig]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/160fcce1-53d3-40bd-8fcc-e153d330bd77_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/160fcce1-53d3-40bd-8fcc-e153d330bd77_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:12</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lLHxzPkrqWtoPvRakh-9ywx2iP31mxK0XCPr0RNdm3TA.jpg"/>
+    </item>
     <item>
       <title>Ytre høyre vokser</title>
       <description><![CDATA[Ekstreme høyrepartier vokser i flere land.
@@ -469,15 +478,6 @@ Er dette en kamp mellom landsdeler, øst mot vest?]]></description>
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rlfb3jysv7nXjN4L0pb1jw9d6uxfzPUYaU5YukJ6M3sw.jpg"/>
-    </item>
-    <item>
-      <title>Varsler om parallellsamfunn</title>
-      <description><![CDATA[Sarpsborg og Fredrikstad krever at bosettingskommunen tar sosialregningen for flyktninger som har flyttet til dem. Høyre-nestleder Ola Svenneby mener Sarpsborg og Fredrikstad kan bli eksempler på at tillit og samhold kan ryke i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/587ae6a5-78d1-470a-bae6-a578d1370a5c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/587ae6a5-78d1-470a-bae6-a578d1370a5c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Fri, 05 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-VBTF_uGGc7o4-Xq0G-CNQAzQKmukVpoZxMvVHll7TMw.jpg"/>
     </item>
   </channel>
 </rss>

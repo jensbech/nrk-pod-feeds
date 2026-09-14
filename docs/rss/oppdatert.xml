@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 05:56:07 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:11:23 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
     <item>
-      <title>Guantánamo: «Skrekkfengslet» verden glemte</title>
-      <description><![CDATA[Fengselet på Cuba skulle være en midlertidig løsning etter 11. september 2001. Hvorfor er det fortsatt åpent?]]></description>
+      <title>Dette er «Tysklands farlegaste mann»</title>
+      <description><![CDATA[Partiet hans, AfD, er under overvaking mistenkt for høgreekstremisme. No kan dei for første gong få regjeringsmakt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/beed1a52-ff5c-4216-ad1a-52ff5c82165c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/beed1a52-ff5c-4216-ad1a-52ff5c82165c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/89Bl2j4eOxEU4Q56yWRrHgC_70qniORR-glnZacnn9Ng.jpg"/>
+    </item>
+    <item>
+      <title>Guantánamo: «Skrekkfengselet» verden glemte</title>
+      <description><![CDATA[Det skulle være en midlertidig løsning etter 11. september 2001. Hvorfor er fengselet på Cuba fortsatt åpent?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/436f7b46-08e9-4f1b-af7b-4608e92f1b3f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/436f7b46-08e9-4f1b-af7b-4608e92f1b3f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:01</itunes:duration>
@@ -452,15 +461,6 @@
       <itunes:duration>14:08</itunes:duration>
       <pubDate>Thu, 25 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Um1FEujV6wsdry3M28YVPQeml7MaQ20wqmRa0582f_pg.jpg"/>
-    </item>
-    <item>
-      <title>Iran i VM: Storpolitisk drama</title>
-      <description><![CDATA[Landslagstreneren til Iran kaller laget for det mest undertrykte i VM-historien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/85b5ce4c-55fe-478f-b5ce-4c55fe178f9e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/85b5ce4c-55fe-478f-b5ce-4c55fe178f9e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:53</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GiAunoPy3lJpHW_mc2h4Sw6WHPe1kqjM5YMO2YTaWd1Q.jpg"/>
     </item>
   </channel>
 </rss>
