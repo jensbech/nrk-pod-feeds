@@ -1272,6 +1272,13 @@ const feeds = [
     "image": "https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew.jpg"
   },
   {
+    "id": "spor",
+    "title": "Spor",
+    "season": null,
+    "enabled": true,
+    "image": "https://gfx.nrk.no/VRXWIsafdxLtlNKk4mVP1wK5xciXPKQgQEXSpGduJv0A.jpg"
+  },
+  {
     "id": "sportsdesken_brenner",
     "title": "Sportsdesken brenner",
     "season": null,

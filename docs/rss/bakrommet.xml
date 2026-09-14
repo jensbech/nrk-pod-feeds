@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:24:25 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 14:55:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:56:52 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 12:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>- Dette laget bør Ståle ta ut</title>
+      <description><![CDATA[Dagen før landslagstroppen tas ut, gir ekspertene sine tips om hvem som kommer med. Hvem de tror og hvem de mener bør få sjansen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/c6fc948b-d86e-4167-bc94-8bd86e0167a9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/c6fc948b-d86e-4167-bc94-8bd86e0167a9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:10</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 12:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Ødegaards kanonform og nye fjes på landslaget?</title>
       <description><![CDATA[Kaptein Martin Ødegaard viser storform før høstens landskamper. Og får vi se noen nye spiller på laget - som ikke var med i VM?
@@ -459,15 +468,6 @@ Her er første rapport.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/7fc406a7-b738-4c6e-8406-a7b738ec6e6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:42</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 23:48:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Gruppe A: Mexico, Sør-Afrika, Sør-Korea og Tsjekkia</title>
-      <description><![CDATA[Mexicos generasjonstalent, Sør-Afrikas lave stjernefaktor, Sør-Korea-stjernens siste dans og "tunge, seige og kyniske" Tsjekkia – dette er gruppe A.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/5e890326-37eb-4dcc-8903-2637ebcdccd5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5e890326-37eb-4dcc-8903-2637ebcdccd5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:14</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
