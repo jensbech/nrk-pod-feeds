@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-09-14  
+- Added podcast 'Spor' (`spor`)  
 ### 2026-09-13  
 - Updated podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2026-09-10  

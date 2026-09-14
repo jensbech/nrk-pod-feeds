@@ -1176,6 +1176,12 @@
         "enabled": false
     },
     {
+        "id": "spor",
+        "title": "Spor",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "sportsdesken_brenner",
         "title": "Sportsdesken brenner",
         "season": null,
