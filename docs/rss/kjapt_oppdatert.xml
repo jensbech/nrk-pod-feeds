@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:10:52 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:40:57 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Økning i antall tips om seksuelle overgrep</title>
+      <description><![CDATA[Ungarns statsminister vil fjerne omstridt lov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/efb03cff-d848-402d-b03c-ffd848e02d1a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/efb03cff-d848-402d-b03c-ffd848e02d1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:22</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_j85ViKWoh4pAlRsxJhN8grl4tJU8oLxdlljyY9T01Pg.jpg"/>
+    </item>
     <item>
       <title>Dødt løp i det svenske valget</title>
       <description><![CDATA[Og Trump vil ikke roe ned KI-bruken i USA.]]></description>
@@ -457,15 +466,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:12</itunes:duration>
       <pubDate>Thu, 09 Jul 2026 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qKPxoOgsS_nINnlpuRLvvAxel7gC9kdYcP9bfS3_UtTg.jpg"/>
-    </item>
-    <item>
-      <title>USA angriper Iran under våpenhvile</title>
-      <description><![CDATA[Og Kygo remixer 10 år gammel Haaland-låt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/28c9b408-166d-405c-89b4-08166de05cd6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/28c9b408-166d-405c-89b4-08166de05cd6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:20</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/UKMfN_9UNI4sSjJ-04glDQ2bTVshFmzcDkYVU7X7kELQ.jpg"/>
     </item>
   </channel>
 </rss>

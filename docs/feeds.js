@@ -533,7 +533,7 @@ const feeds = [
     "id": "juorre",
     "title": "Juorre",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ.jpg"
   },
   {

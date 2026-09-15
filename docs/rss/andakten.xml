@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:10:08 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:39:41 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Utrolige dyr - Thor Haavik</title>
+      <description><![CDATA[Vi kan lære mye av dyrene mener Thor Haavik. I tillegg har de egenskaper som virker helt utrolige for oss mennesker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5efd25e1-fbd6-469c-bd25-e1fbd6f69c3b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/5efd25e1-fbd6-469c-bd25-e1fbd6f69c3b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:06</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Mulig, umulig - Thor Haavik</title>
       <description><![CDATA[Kan man tro på det man i utgangspunktet tenker er umulig?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/134008f4-bc8d-4af7-8008-f4bc8deaf784_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:24</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
-    </item>
-    <item>
-      <title>Tilhørighet - Kari Alvsvåg</title>
-      <description><![CDATA[Jeg tror alle mennesker lengter etter og trenger å få høre til et sted, sier Kari Alvsvåg i dagens andakt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/99aaafa6-51c3-48aa-aaaf-a651c328aa30_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/99aaafa6-51c3-48aa-aaaf-a651c328aa30_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:15</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
     </item>
   </channel>
