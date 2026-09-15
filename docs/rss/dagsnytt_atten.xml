@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:18:13 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:09:03 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Telenor ransaket</title>
+      <description><![CDATA[PST og kripos har siktet Telenor for mulig medvirkning til forbrytelser mot menneskeheten i Myanmar og for overtredelse av sanksjonsloven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3ab1016d-362d-4cff-b101-6d362dacff73_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3ab1016d-362d-4cff-b101-6d362dacff73_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ptQKBrr4kJl55RqB_elRVgdayE4VdLFHN862AwgsNLaQ.jpg"/>
+    </item>
     <item>
       <title>Advarer unge mot Tiktok, Youtube og Snapchat</title>
       <description><![CDATA[Regjeringen med ny anbefaling om skjermbruk for unge og advarer blant annet mot Tiktok, Youtube og Snapchat.
@@ -454,15 +463,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NCldpuTZR6iEt-5cdACzJg76vMU2SM2dJdJmfVu-ZfmA.jpg"/>
-    </item>
-    <item>
-      <title>VM-skandale</title>
-      <description><![CDATA[Donald Trump ringte FIFA-presidenten og fikk opphevet suspensjonen av USAs toppscorer Folarin Balogun.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9gvDKTey7Smhq9FB747kgAd6MXDg_r8jaiK1XVl03bRA.jpg"/>
     </item>
   </channel>
 </rss>

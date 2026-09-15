@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:33:48 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Sep 2026 13:55:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:09:54 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 16:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Kan KI drepe alle mennesker innen 2030?</title>
+      <description><![CDATA[Flere sentrale personer fra KI-selskaper advarer mot faren ved at KI kan utslette menneskeheten. Hvem skal forhindre det? Og er det sant?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/019a1699-dd78-41a2-9a16-99dd7861a2c8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/019a1699-dd78-41a2-9a16-99dd7861a2c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:30</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 16:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KuECWmwYdzDqjkuh1OYv7QRtCayunynjhiVaaq-28JDQ.jpg"/>
+    </item>
     <item>
       <title>Pisa-tall sjokkerer: Hvem har skylda?</title>
       <description><![CDATA[Norske 15-åringer med elendige resultater i Pisa-undersøkelsen 2025. Noe er feil, men hva? Er det politikerne? Skolen? Ungdommene eller foreldrene?]]></description>
@@ -490,15 +499,6 @@ Og vi snakker om vårt eget kaos og forsøker å beklage.]]></description>
       <itunes:duration>22:34</itunes:duration>
       <pubDate>Mon, 01 Dec 2025 12:38:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/c5GcC7W1CLXar7eWAn80ugfHVwkC0Uu_kU89-xJhsIFA.jpg"/>
-    </item>
-    <item>
-      <title>Kari Nessa Nordtun i hyttetrøbbel</title>
-      <description><![CDATA[Kunnskapsminister Kari Nessa Nordtun er i hyttetrøbbel. Og visste du at en av fire nordmenn under 50 år har innvandrerbakgrunn? Hva skjer når innvandringen øker?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/69dc89c4-598d-4c1a-9c89-c4598d5c1a8e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/69dc89c4-598d-4c1a-9c89-c4598d5c1a8e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:22</itunes:duration>
-      <pubDate>Thu, 27 Nov 2025 14:24:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qyiBGJm3lAS6q2wAlNlTfgu892X-cCI2u1ase5kwaFkA.jpg"/>
     </item>
   </channel>
 </rss>
