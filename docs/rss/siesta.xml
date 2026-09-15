@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:58:46 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:30:19 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Lager kunst med egen fis</title>
+      <description><![CDATA[Vi får besøk av kunstner Saune And, hvem har den beste fotball-talen og vi smalltalker ting som ser godt ut, men smaker vondt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/93f6986b-7a4c-4aa9-b698-6b7a4caaa938_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/93f6986b-7a4c-4aa9-b698-6b7a4caaa938_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:15</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Sprengt lyd fra hælvete</title>
       <description><![CDATA[Daniel har krangla med en amerikaner, Anna vil lage skjerf med påkjørt røyskatt og Markus lager lyder fra hælvete.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/9c94bde6-1b01-451b-94bd-e61b01751bb7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>06:11</itunes:duration>
       <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>God sommer fra oss&lt;3</title>
-      <description><![CDATA[Anna og Markus hører med deg hva du skal i sommer, vi får fredagshilsen fra Daniel og det blir en siste quizvang før ferien<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:27</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:58:27 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:29:58 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hva skal man ha på seg på konsert?</title>
+      <description><![CDATA[Norske influensere har blitt millionbedrifter som mange følger med på. Men følger de faktisk spillereglene? Vi får besøk av en journalist som har gravd i bedriftene til blant annet Isabell Raad og Christian Brennhovd, for å se hva som skjuler seg bak Snapchat-innleggene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d3651de2-1f28-4f73-a51d-e21f28bf73d6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d3651de2-1f28-4f73-a51d-e21f28bf73d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:20</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WKvFg7lU0N5nYLBjV4XKYwuF0Jdx84ETUkrzd2EiO_xQ.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Varebil, boligkjøp og kyllinglår. </title>
+      <description><![CDATA[Arin har kjørt varebil for første gang, Henning har kjøpt leilighet og Jonas skal lage kyllinglår i dag. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/867e85c1-6ce2-46df-8c68-bd929515c1ed_084fd1d9-35e1-4665-9883-d5d8fef04e76_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/867e85c1-6ce2-46df-8c68-bd929515c1ed_084fd1d9-35e1-4665-9883-d5d8fef04e76_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
     <item>
       <title>Kyllingsabotasje under kongens begravelse</title>
       <description><![CDATA[En kylling som kanskje var forgiftet, og trenger snitter ny branding? Henning har bakt et helt koko brød, og vi får detaljer om undertøyet til Arin.]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>Kan Norge faktisk vinne VM?</title>
-      <description><![CDATA[Henning, Johannes, Nora og Jon Marius har vært og sett Norge mot Senegal. De deler om denne legendariske natten!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6a99ca6e-1ecb-4b06-99ca-6e1ecb5b062e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6a99ca6e-1ecb-4b06-99ca-6e1ecb5b062e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Dopsalg på finn.no</title>
-      <description><![CDATA[I dag får vi forklart konseptet «feriepenger», Johannes har tatt skjult lydopptak av Arin, og vi hører om dopsalg på finn.no!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d0feb0fe-4990-4dcb-beb0-fe49904dcb04_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d0feb0fe-4990-4dcb-beb0-fe49904dcb04_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MqSnHpWfxJ4KYJKwEeX8PAUBf4szQH36Xhozo6djsreg.jpg"/>
     </item>
   </channel>
 </rss>

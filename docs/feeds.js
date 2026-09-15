@@ -3,7 +3,8 @@ const feeds = [
     "id": "22_juli_-_hvordan_kunne_det_skje",
     "title": "22. JULI - Hvordan kunne det skje?",
     "season": null,
-    "enabled": false
+    "enabled": true,
+    "image": "https://gfx.nrk.no/eGYtTeon_zJerCDeHobBDw2kVrCWPeG1GwtbjjGEPPCA.jpg"
   },
   {
     "id": "72_timer",
