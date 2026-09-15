@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:12:26 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 09:22:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:19:14 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 22:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Har foreldrene skylda for skoletallene?</title>
+      <description><![CDATA[Kunnskapsministeren møter både oppgitte foreldre og frustrerte politiske motstandere til debatt om PISA-tallene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/4cbb0c75-6e5a-473a-bb0c-756e5af73a68_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/4cbb0c75-6e5a-473a-bb0c-756e5af73a68_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:32</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 22:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hRQMnPeX71CiGm3zhZoUiQ_NMTnXlJe_i0d-5Aw2uIGA.jpg"/>
+    </item>
     <item>
       <title>Ok med diesel til 30 kroner literen?</title>
       <description><![CDATA[Idet borgfreden er over, kaster Frp og Sp seg på dieseldebatten. Men Ap og Høyre står på sitt og vil ikke senke avgiftene.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>54:15</itunes:duration>
       <pubDate>Tue, 04 Nov 2025 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PprFurspRVOz7q7Dd8CETgbAFe9Bd0nBZk7T1xIALT5A.jpg"/>
-    </item>
-    <item>
-      <title>Ingen erfaring, ingen jobb</title>
-      <description><![CDATA[Hvordan skal unge få jobberfaring, når kravet til å få jobb er erfaring?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/ac960f7d-becc-4324-960f-7dbeccf32468_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/ac960f7d-becc-4324-960f-7dbeccf32468_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:56</itunes:duration>
-      <pubDate>Thu, 30 Oct 2025 22:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9xQV0fCddiY5OtFN5ckqpQgRE5Hj8B_PGiWkqV9ZXUJg.jpg"/>
     </item>
   </channel>
 </rss>
