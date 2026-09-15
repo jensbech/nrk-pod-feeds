@@ -1,5 +1,7 @@
 # Podcast Discovery Changelog  
 ### 2026-09-15  
+- Updated podcast '22. JULI - Hvordan kunne det skje?' (`22_juli_-_hvordan_kunne_det_skje`)  
+### 2026-09-15  
 - Updated podcast 'Juorre' (`juorre`)  
 ### 2026-09-14  
 - Added podcast 'Spor' (`spor`)  
