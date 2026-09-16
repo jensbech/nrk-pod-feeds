@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:39:41 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:25:06 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Kroppen - Thor Haavik</title>
+      <description><![CDATA[Det er vanskelig å forstå hvor komplekst kroppen vår er satt sammen, og fascinerende hvordan den fungerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/b9346e4d-9edd-4d66-b46e-4d9edd1d6666_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/b9346e4d-9edd-4d66-b46e-4d9edd1d6666_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:06</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Utrolige dyr - Thor Haavik</title>
       <description><![CDATA[Vi kan lære mye av dyrene mener Thor Haavik. I tillegg har de egenskaper som virker helt utrolige for oss mennesker.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>04:34</itunes:duration>
       <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
-    </item>
-    <item>
-      <title>Sangglede - Kari Alvsvåg</title>
-      <description><![CDATA[For den som er glad i sang og musikk, er det å kunne sitte sammen med andre og synge ut, et godt sted å være.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/134008f4-bc8d-4af7-8008-f4bc8deaf784_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/134008f4-bc8d-4af7-8008-f4bc8deaf784_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:24</itunes:duration>
-      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5p1MzsJSTAvIkPZ_9pLF4QNZy-3yY8FiRIRrUHUGLfsg.jpg"/>
     </item>
   </channel>
 </rss>

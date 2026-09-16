@@ -751,8 +751,8 @@ const feeds = [
     "id": "luois_luohti",
     "title": "Luođis luohtái",
     "season": null,
-    "enabled": false,
-    "image": "https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"
+    "enabled": true,
+    "image": "https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"
   },
   {
     "id": "lyden_av_17_mai",

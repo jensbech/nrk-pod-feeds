@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:40:57 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:26:01 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Eksperter er uenige om hvor farlig KI er</title>
+      <description><![CDATA[Og flere artister trekker seg fra Ed Sheeran-turné.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a8088500-0071-4f45-8885-0000712f4544_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a8088500-0071-4f45-8885-0000712f4544_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:35</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jyfaO7pqzAYTPsJtEU2b0gHErcCeD8hTZfI4fl3korZQ.jpg"/>
+    </item>
     <item>
       <title>Økning i antall tips om seksuelle overgrep</title>
       <description><![CDATA[Ungarns statsminister vil fjerne omstridt lov.]]></description>
@@ -457,15 +466,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:45</itunes:duration>
       <pubDate>Fri, 10 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/e_6kTTBulMIzXQo2qX7zOg_dRSg3HsLFN81Rc8yhFqog.jpg"/>
-    </item>
-    <item>
-      <title>Grønland svarer Trump: Nei betyr nei!</title>
-      <description><![CDATA[Og vi har tipsene hvis du ønsker å lese mer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/7a838ce0-a744-4c86-838c-e0a7449c86e8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/7a838ce0-a744-4c86-838c-e0a7449c86e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:12</itunes:duration>
-      <pubDate>Thu, 09 Jul 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qKPxoOgsS_nINnlpuRLvvAxel7gC9kdYcP9bfS3_UtTg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:46:07 +0000</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:26:42 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    <item>
+      <title>Ávžži luđiid juoiggadit</title>
+      <description><![CDATA[Gilažis olggobealde Guovdageainnu juiget veahá earáládje go márkanis. Svein Ole Klemetsen lea mielde guossin go čiekŋudit fáttas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/1bd3a6c3-da53-4f86-93a6-c3da539f869b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/1bd3a6c3-da53-4f86-93a6-c3da539f869b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:59</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    </item>
     <item>
       <title>Golli vuorkkáin</title>
       <description><![CDATA[Vuorkkáin leat máŋggaid duháhiid luođit maid leat dolin bádden. Makkár erenoamášvuođaid ja oahpu sáhttá doppe viežžat?]]></description>
