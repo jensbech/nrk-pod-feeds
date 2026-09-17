@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:25:06 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:34:46 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Løsningen - Thor Haavik</title>
+      <description><![CDATA[Det sies at når vi har det som tøffest, er håpet det siste vi slipper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/aae34351-e563-4dbe-a343-51e563adbe1b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/aae34351-e563-4dbe-a343-51e563adbe1b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:06</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Kroppen - Thor Haavik</title>
       <description><![CDATA[Det er vanskelig å forstå hvor komplekst kroppen vår er satt sammen, og fascinerende hvordan den fungerer.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/6d436d15-4208-4ac0-836d-154208cac077_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>05:16</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
-    </item>
-    <item>
-      <title>Skogfinnene - Ole K. Bonden</title>
-      <description><![CDATA[I går ble skogfinnenes dag markert her i landet. Finnskogen har biskop Ole Kristian Bonden et forhold til, og tar oss med dit.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/816f8521-afbc-473a-af85-21afbc673a04_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/816f8521-afbc-473a-af85-21afbc673a04_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:34</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
     </item>
   </channel>

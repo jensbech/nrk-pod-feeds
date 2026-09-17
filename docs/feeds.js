@@ -1092,7 +1092,7 @@ const feeds = [
     "id": "radiodokumentaren",
     "title": "Historier fra virkeligheten",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"
   },
   {
