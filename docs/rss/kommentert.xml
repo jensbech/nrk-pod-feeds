@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:09:54 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 16:20:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:24:45 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 15:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Trump truer Europa etter Canada-flørting</title>
+      <description><![CDATA[EU vil ha Canada med på laget og det provoserer USA: – En fiendtlig handling, svarer Donald Trump og truer Europa. Og hvorfor skal vi i Norge bry oss om det svenske valget?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d600388f-23ee-4bca-8038-8f23ee6bcaba_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d600388f-23ee-4bca-8038-8f23ee6bcaba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:46</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 15:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AyG_LjHgyFuzNFoaJV7DbwmARlMckEpXOyJbtpSTDFJw.jpg"/>
+    </item>
     <item>
       <title>Kan KI drepe alle mennesker innen 2030?</title>
       <description><![CDATA[Flere sentrale personer fra KI-selskaper advarer mot faren ved at KI kan utslette menneskeheten. Hvem skal forhindre det? Og er det sant?]]></description>
@@ -490,15 +499,6 @@ Og vi snakker om vårt eget kaos og forsøker å beklage.]]></description>
       <itunes:duration>30:30</itunes:duration>
       <pubDate>Wed, 03 Dec 2025 15:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/C71GCF8eS2BfRJ7jvYrdewX4rMHKthIsjORoBz9og-Pw.jpg"/>
-    </item>
-    <item>
-      <title>Må Støre gå? Og Listhaug ta over?</title>
-      <description><![CDATA[Det er fullt kaos på rødgrønn side: Hvis ikke Jonas Gahr Støre greier å få flertall for statsbudsjettet så må han gå av. Men hva skjer da?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fc2e4ea1-54fe-4278-ae4e-a154feb278a1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/fc2e4ea1-54fe-4278-ae4e-a154feb278a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:34</itunes:duration>
-      <pubDate>Mon, 01 Dec 2025 12:38:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/c5GcC7W1CLXar7eWAn80ugfHVwkC0Uu_kU89-xJhsIFA.jpg"/>
     </item>
   </channel>
 </rss>
