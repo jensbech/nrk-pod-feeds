@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-09-17  
+- Updated podcast 'Historier fra virkeligheten' (`radiodokumentaren`)  
 ### 2026-09-16  
 - Updated podcast 'Luođis luohtái' (`luois_luohti`)  
 ### 2026-09-15  
