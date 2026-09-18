@@ -627,7 +627,7 @@ const feeds = [
     "id": "kompass",
     "title": "Kompass",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"
   },
   {
@@ -1186,7 +1186,7 @@ const feeds = [
     "id": "seriesnakk",
     "title": "Seriesnakk",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"
   },
   {
