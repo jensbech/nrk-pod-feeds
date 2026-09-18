@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:36:44 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:08:54 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Kun de beste får bli?</title>
+      <description><![CDATA[Nærmere 19.000 ukrainere kan få varig opphold i Norge hvis de tjener nok penger.
+Er det likebehandling? Og er det ikke de som skal bygge opp igjen Ukraina når det blir fred?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/6eecb2be-fa8f-43d5-acb2-befa8f63d5b2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/6eecb2be-fa8f-43d5-acb2-befa8f63d5b2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1fssIRyI9P7dRE9ljAbVHQuyz5BpVjU-vffbzCHt6wRQ.jpg"/>
+    </item>
     <item>
       <title>Tromsø, Nordens Hellas?</title>
       <description><![CDATA[En plaget by. Store underskudd.
@@ -470,15 +480,6 @@ Så hvorfor svikter velgerne Vedum?]]></description>
       <itunes:duration>15:00</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CyjEYGJ7UacxSFS5v46-Egr-UmeZ4LV_hHa9bEtV820g.jpg"/>
-    </item>
-    <item>
-      <title>KrFs "Team sunn fornuft"</title>
-      <description><![CDATA[KrF-leder Dag Inge Ulstein vil samarbeide mer med Høyre, Frp og Senterpartiet. Sentrumskamerat Venstre regnes ikke med når han i dag lanserer "Sunn fornuft-alliansen".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/359691ff-6f0c-42ee-9691-ff6f0c52ee1c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/359691ff-6f0c-42ee-9691-ff6f0c52ee1c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:12</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5J5y1_sKD_uyb2ZxzuWb9gjPCOM1WuTuNTR4E96kEAqA.jpg"/>
     </item>
   </channel>
 </rss>
