@@ -1178,7 +1178,7 @@
     {
         "id": "spor",
         "title": "Spor",
-        "season": null,
+        "season": "LATEST_SEASON",
         "enabled": true
     },
     {
