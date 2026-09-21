@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:23:42 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 14:02:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:00:50 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 13:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Emma Steinbakken</title>
+      <description><![CDATA[- Jeg tenker på meg selv hele tiden, sier artisten, som skriver på ny musikk om opplevelser fra eget liv ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/31c109de-3d9d-4556-a379-cbd9c70f82c3_746718df-0b63-4d2d-9c0f-726fea386937_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/31c109de-3d9d-4556-a379-cbd9c70f82c3_746718df-0b63-4d2d-9c0f-726fea386937_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Mon, 21 Sep 2026 13:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W-TqgYz1XdQmjGoXhfAWQwEILJLrbl6NuiimLOOtNBnw.jpg"/>
+    </item>
     <item>
       <title>Carl I. Hagen</title>
       <description><![CDATA[Få har irritert på seg så mange i norsk politikk som Carl I Hagen, som var mangeårig formann i FrP. Og nesten ingen har også blitt så beundret. Pensjonisten Hagen har overlevd tiår med politiske bikkjeslagsmål og framstår som et politisk dyr. Men hvem er egentlig mennesket, Carl Ivar Hagen? ]]></description>
@@ -454,15 +463,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:20</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 13:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZY4qzk7V0Ypn7xKo56t1fADn38hFjG_s3hIPmKar0WCw.jpg"/>
-    </item>
-    <item>
-      <title>Daniel Kjellgren</title>
-      <description><![CDATA[-  Det var en form for onani, sier ultraløperen om kraftanstrengelsen fra Sør-Spania til Nordkapp .]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1ca47e9f-895e-44b4-a47e-9f895e94b4c8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1ca47e9f-895e-44b4-a47e-9f895e94b4c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:23</itunes:duration>
-      <pubDate>Thu, 26 Mar 2026 14:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Yw23aHrJTvnLmm-UivNVSwSsYkbSLzdlfFwd-WP_kCtw.jpg"/>
     </item>
   </channel>
 </rss>

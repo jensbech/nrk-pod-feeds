@@ -1275,7 +1275,7 @@ const feeds = [
   {
     "id": "spor",
     "title": "Spor",
-    "season": null,
+    "season": "LATEST_SEASON",
     "enabled": true,
     "image": "https://gfx.nrk.no/VRXWIsafdxLtlNKk4mVP1wK5xciXPKQgQEXSpGduJv0A.jpg"
   },
