@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:24:45 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 15:20:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:47:22 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 15:57:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Prinsesse Diana: Nytt bråk og nye beskyldninger</title>
+      <description><![CDATA[Hvorfor skaper prinsesse Dianas død bråk og trøbbel for den britiske kongefamilien etter snart 30 år? Dianas bror med kraftige påstander om kong Charles.
+
+Og hvorfor er tog og jernbane så vanskelig i Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e98aa463-6569-46c3-8aa4-63656906c3ef_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/e98aa463-6569-46c3-8aa4-63656906c3ef_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:51</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 15:57:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i7BY26s5r7u7a1TcnCE4bQtoraHjKnzoOP-s0iJ6yweg.jpg"/>
+    </item>
     <item>
       <title>Trump truer Europa etter Canada-flørting</title>
       <description><![CDATA[EU vil ha Canada med på laget og det provoserer USA: – En fiendtlig handling, svarer Donald Trump og truer Europa. Og hvorfor skal vi i Norge bry oss om det svenske valget?]]></description>
@@ -489,16 +500,6 @@ Og så snakker vi om norsk presse og NRK er venstrevridde, eller ei.]]></descrip
       <itunes:duration>23:59</itunes:duration>
       <pubDate>Thu, 11 Dec 2025 13:52:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hlCYSzYYOTSPgY7OcH4DHwfFKVAyvHjAysdE7Tl1eLhA.jpg"/>
-    </item>
-    <item>
-      <title>Drill baby, drill. Er dette trygg styring?</title>
-      <description><![CDATA[Hva var det som gjorde at SV og MDG snudde? Regjeringskrisen er avblåst.
-Og vi snakker om vårt eget kaos og forsøker å beklage.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/de08e3d8-48e9-4a15-88e3-d848e96a1568_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/de08e3d8-48e9-4a15-88e3-d848e96a1568_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:30</itunes:duration>
-      <pubDate>Wed, 03 Dec 2025 15:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C71GCF8eS2BfRJ7jvYrdewX4rMHKthIsjORoBz9og-Pw.jpg"/>
     </item>
   </channel>
 </rss>
