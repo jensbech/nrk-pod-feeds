@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:01:58 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:54:18 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 10:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Slik slutter du å være kresen</title>
+      <description><![CDATA[Hvordan dreper man kresenhet? Gjengen har en teori.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    </item>
+    <item>
+      <title>Julie Thorsen må forsvare seg selv</title>
+      <description><![CDATA[Er det rart å ikke like pølser? TV2s Julie Thorsen blir konfrontert av oss]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8c3e8ac8-01b8-400a-b2ca-108eb0b37430_6a7f7af4-9157-4c85-9e10-d06504fb5d88_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8c3e8ac8-01b8-400a-b2ca-108eb0b37430_6a7f7af4-9157-4c85-9e10-d06504fb5d88_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:45</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mpINOQCnkDAygdR4buTgEAGRg1pnIULfiNVgw6pMk_cg.jpg"/>
+    </item>
     <item>
       <title>Mannen som ble slått av Martin Schanche</title>
       <description><![CDATA[Henning kaller sin mormor for farmor! Har alle besteforeldre kallenavn? Vi får også besøk av mannen som ble utsatt for et legendarisk slag for over 20år siden]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>01:10:00</itunes:duration>
       <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/a5ixfPCC0f9HT2e2ahqz5g68Lqj304bug8ZNdCKcznsw.jpg"/>
-    </item>
-    <item>
-      <title>Barn + mozzarella = trylletriks</title>
-      <description><![CDATA[Henning deler en rystende historie om et barn og mozzarella, og Arin har vært en tilskuer i en skummel situasjon]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ebce8eea-0783-49db-8e8e-ea078399db2c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ebce8eea-0783-49db-8e8e-ea078399db2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>Ruses av billettsalg.</title>
-      <description><![CDATA[Nora får rus av billettsalg, Johannes har en høne å plukke med Fisherman's Friend og Henning sympatiserer med servitører.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ed05e102-450b-452c-85e1-02450ba52cc8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ed05e102-450b-452c-85e1-02450ba52cc8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
