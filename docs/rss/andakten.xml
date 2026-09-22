@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 21 Sep 2026 06:14:35 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:46:14 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Nytt liv - Kjetil Gilberg</title>
+      <description><![CDATA[Det gjelder å ha trua - sier vi ofte om både det ene og det andre. Men hva om det er nettopp trua det skorter på]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/4330a9d1-4560-4c8d-8eae-9b59a5204b68_d8b22c7b-63f0-4e42-ac51-182aeb150953_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4330a9d1-4560-4c8d-8eae-9b59a5204b68_d8b22c7b-63f0-4e42-ac51-182aeb150953_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:12</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gASAtLDLHCAFGCrOtfW_VgN-LSqMpAImMrJpvCtuQIZw.jpg"/>
+    </item>
     <item>
       <title>Glassblåseren - Kjetil Gilberg</title>
       <description><![CDATA[Å puste gir liv, men pust gir også liv til mer enn oss som trenger å puste. Det kommer mye vakkert fra den som kan å bruke pusten]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/c34be7b7-b5f6-430f-8be7-b7b5f6130f98_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:39</itunes:duration>
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
-    </item>
-    <item>
-      <title>Jonsok - Ole K. Bonden</title>
-      <description><![CDATA[Du feiret kanskje St.Hans-aften i går? I dag er det St.Hans-dagen, og den har også sin betydning]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/71cb7ffb-9f52-4066-8b7f-fb9f52506646_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/71cb7ffb-9f52-4066-8b7f-fb9f52506646_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:12</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r_hMOgxfRt0hYXQN2YK3LQR0c3tk_jQfyrzgfJ3bXfXQ.jpg"/>
     </item>
   </channel>
