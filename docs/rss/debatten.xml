@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:06:44 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 22:05:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:01:44 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 20:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Går Document-redaktøren for langt?</title>
+      <description><![CDATA[Redaktører melder seg ut i protest mot Hans Rustad fra Document. Er det han sier virkelig så ille?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/7883a164-fbd2-4e4e-83a1-64fbd28e4eab_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/7883a164-fbd2-4e4e-83a1-64fbd28e4eab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:17</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 20:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NoQcbyxnOizItxNU6ltECgphESpawFcYbVXJeFFDxqRQ.jpg"/>
+    </item>
     <item>
       <title>Utsletter KI menneskeheten innen 3 til 5 år?</title>
       <description><![CDATA[Flere mener KI kan komme ut av kontroll og gjøre slutt på alt.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>59:11</itunes:duration>
       <pubDate>Tue, 11 Nov 2025 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/AC64rslhY9EaLPA6P4hPkQ9BeK4SnJnRtqeFTYMVJ0eg.jpg"/>
-    </item>
-    <item>
-      <title>EUs klimamål er slappere enn Norges</title>
-      <description><![CDATA[Nå er Norge klima-ledestjerne, ifølge Ap. Skandale og tabbe, kontrer Sp og Frp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/4bf23bdd-79f5-48cd-b23b-dd79f528cd2e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/4bf23bdd-79f5-48cd-b23b-dd79f528cd2e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:27</itunes:duration>
-      <pubDate>Thu, 06 Nov 2025 22:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2oIetll95mjPr-eacTHsMgzwSL6CpMfawiNcbB_ZyNIQ.jpg"/>
     </item>
   </channel>
 </rss>
