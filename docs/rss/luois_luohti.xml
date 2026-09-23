@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:26:42 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:55:42 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    <item>
+      <title>Ole H. Magga - nubbe oassi</title>
+      <description><![CDATA[Mii joatkit ságastallama luohteárbevieruin, ja movt dološ luođit eai soaite jávkat, muhto baicca dušše sirdašuvvat ođđa olbmuide.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/74aa33d4-ba80-4634-aa33-d4ba80063473_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/74aa33d4-ba80-4634-aa33-d4ba80063473_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:34</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    </item>
+    <item>
+      <title>Ole H. Magga guossis</title>
+      <description><![CDATA[Sámedikke vuosttaš presideanta máhttá máŋga duháha luođi, dás gulat muhtin ráje daid ja fearániid daid olbmuid birra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/e794a977-f651-44fe-94a9-77f65124fe2f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/e794a977-f651-44fe-94a9-77f65124fe2f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:27</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    </item>
     <item>
       <title>Ávžži luđiid juoiggadit</title>
       <description><![CDATA[Gilažis olggobealde Guovdageainnu juiget veahá earáládje go márkanis. Svein Ole Klemetsen lea mielde guossin go čiekŋudit fáttas.]]></description>

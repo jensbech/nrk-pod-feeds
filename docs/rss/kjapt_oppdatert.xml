@@ -8,18 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:47:21 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:55:00 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 06:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
     <item>
+      <title>Skummelt å være landeveissyklist</title>
+      <description><![CDATA[Og Donald Trump og Volodymyr Zelenskyj hadde et langt møte om krigen i Ukraina.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/6a13bd3e-5677-4908-93bd-3e5677390861_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6a13bd3e-5677-4908-93bd-3e5677390861_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:42</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAJgQcKejNF9l8mT6Vy0PgTlNBllHclwQVOQL9uIEw2Q.jpg"/>
+    </item>
+    <item>
       <title>Nordmenn spiller årlig for milliarder på ulovlige nettkasinoer</title>
-      <description><![CDATA[Og ungdom i norden drikker mye energidrikk]]></description>
+      <description><![CDATA[Og ungdom i Norden drikker mye energidrikk]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/70345fad-55c6-404f-b45f-ad55c6f04f6b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/70345fad-55c6-404f-b45f-ad55c6f04f6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:59</itunes:duration>
+      <itunes:duration>06:13</itunes:duration>
       <pubDate>Tue, 22 Sep 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/3fY0k3wSo0PGehWMO_nT-wAasDCsiSxN5csmKAKO7FAQ.jpg"/>
     </item>
     <item>
       <title>Nå kan varene du handler bli dyrere</title>
@@ -455,15 +464,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:26</itunes:duration>
       <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/L9PR1LeQNh1t8IdYSRyqfwKwElOoSFjGSvDkPbPhJ1ag.jpg"/>
-    </item>
-    <item>
-      <title>Stemte ja til assistert selvmord i Frankrike</title>
-      <description><![CDATA[Og det blir nok ikke ulovlig med smartbriller i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/0e8d3a51-c9d3-493e-8d3a-51c9d3293e72_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/0e8d3a51-c9d3-493e-8d3a-51c9d3293e72_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:30</itunes:duration>
-      <pubDate>Thu, 16 Jul 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8P0cBIfZFtRhAP7H2eTgVwrdOPMpK1_rjP_gGF0cm1lA.jpg"/>
     </item>
   </channel>
 </rss>
