@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:54:33 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:28:46 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Flyplasser i fare?</title>
+      <description><![CDATA[Ny samferdselsminister fra Oslo truer med å legge ned flyplasser i nord, mener Senterpartiet.
+Tull, svarer Kamzy Gunaratnam.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/63c5c6db-742a-40c5-85c6-db742a10c5f0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/63c5c6db-742a-40c5-85c6-db742a10c5f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mrS3DIvKDPp_-HrPD8LmIgfTJSl6pGbJciZpW4L6M-sQ.jpg"/>
+    </item>
     <item>
       <title>Kan en SMS fra NAV få unge uføre inn i jobb?</title>
       <description><![CDATA[NAV sender tekstmelding til unge uføre. Effektivt, eller bare symbolpolitikk?]]></description>
@@ -470,16 +480,6 @@ Helt uansvarlig oppførsel, ifølge Høyre.]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oOYymvc_hIZR1ZmYJk95yQl8H4bj_I4yWa1Mg6HhwvFw.jpg"/>
-    </item>
-    <item>
-      <title>Hvorfor vokser ikke Senterpartiet?</title>
-      <description><![CDATA[Senterpartiet kjemper om mange av de samme velgerne, og stemmer ofte det samme som Frp i Stortinget.
-Så hvorfor svikter velgerne Vedum?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/fda5b4b6-ed80-4b52-a5b4-b6ed802b525f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/fda5b4b6-ed80-4b52-a5b4-b6ed802b525f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Tue, 16 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nmkLEQXrSQPyeZVc4tdYugai6ldmjqTDRENdrep5zalg.jpg"/>
     </item>
   </channel>
 </rss>

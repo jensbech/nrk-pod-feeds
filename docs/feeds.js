@@ -1022,7 +1022,7 @@ const feeds = [
     "title": "P3morgen for B-mennesker",
     "season": null,
     "enabled": true,
-    "image": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"
+    "image": "https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"
   },
   {
     "id": "paa_audition",
