@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:55:00 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 06:10:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:40:03 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Hva skjer med renta i dag?</title>
+      <description><![CDATA[Økonomer er usikre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/1fd2e81a-2c4d-40a0-92e8-1a2c4d30a0d3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1fd2e81a-2c4d-40a0-92e8-1a2c4d30a0d3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:23</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AFqT9iXgQsX9YKnffXovWA_MEawaLtl942HhPf1RqHBg.jpg"/>
+    </item>
     <item>
       <title>Skummelt å være landeveissyklist</title>
       <description><![CDATA[Og Donald Trump og Volodymyr Zelenskyj hadde et langt møte om krigen i Ukraina.]]></description>
@@ -455,15 +464,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>04:34</itunes:duration>
       <pubDate>Mon, 20 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7V9ED6NudevdDbc1G8xypgj1Xh84hpIKmbqOZ89Q_v8g.jpg"/>
-    </item>
-    <item>
-      <title>Trump anklager Kina for valgfusk</title>
-      <description><![CDATA[Og dødstallene i Venezuela fortsetter å stige etter jordskjelvet i juni.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c8ddc3b2-7e35-4c3f-9dc3-b27e35ec3fc5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c8ddc3b2-7e35-4c3f-9dc3-b27e35ec3fc5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:26</itunes:duration>
-      <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L9PR1LeQNh1t8IdYSRyqfwKwElOoSFjGSvDkPbPhJ1ag.jpg"/>
     </item>
   </channel>
 </rss>

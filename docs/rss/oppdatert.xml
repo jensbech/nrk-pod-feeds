@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:56:12 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:41:17 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Pavens oppgjør: Slik vil han redde kirkens rykte</title>
+      <description><![CDATA[Robert Prevost ble pave i 2025. Nå tar pave Leo XIV et oppgjør med kirkens mørke fortid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:39</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5r9vGrJQYymzBfsSkQ98NwyXdl46_lz96Kd3imRJwJtA.jpg"/>
+    </item>
     <item>
       <title>AOC: Kan ho bli USAs neste president?</title>
       <description><![CDATA[Samtidig som ho har opna opp om ein intim, medisinsk prosess, går spekulasjonane om at alt er ein del av ein kalkulert plan.]]></description>
@@ -454,15 +463,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>13:19</itunes:duration>
       <pubDate>Mon, 13 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CO1rjpIiHRGU8zarJp27wwDmyoKt_7LAANy8FAG_QloQ.jpg"/>
-    </item>
-    <item>
-      <title>Hele verden ror: Dette er mannen bak</title>
-      <description><![CDATA[Det er ikke bare på fotballbanen Norge skriver historie, også utenfor banen preger nordmennene verdensmesterskapet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8e8e5909-1aa4-47a0-8e59-091aa4f7a014_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8e8e5909-1aa4-47a0-8e59-091aa4f7a014_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:52</itunes:duration>
-      <pubDate>Fri, 10 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ff57R6u0DxuxNYWzVuHGQwLVjj_RzxSTrrunFNgIt7oA.jpg"/>
     </item>
   </channel>
 </rss>
