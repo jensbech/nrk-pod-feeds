@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:35:08 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:56:07 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Verdens verste liggeliste</title>
+      <description><![CDATA[Dårlig musikksmak kan ødelegge både en hel dag og et enkelt ligg, og en tur til Lofoten kan få deg til å revurdere alle livsvalgene dine.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/7c85d168-017b-4c2d-85d1-68017b5c2dff_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/7c85d168-017b-4c2d-85d1-68017b5c2dff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:57</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Et hekseliv</title>
       <description><![CDATA[En innføring i hevn, en etiketteguide for idrettsarrangementer og et endelig bevis på det jeg alltid har trodd: Jeg er 100 % heks.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/677b2b26-723f-4f71-bb2b-26723f5f719a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:38</itunes:duration>
       <pubDate>Wed, 08 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
-    </item>
-    <item>
-      <title>Kostymetips til under hundrelappen</title>
-      <description><![CDATA[Et luftjukker-angrep på scenen, walk of shame i Halloween-kostyme og flere ekle ord fra dere<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/0fd77acd-f41a-4321-977a-cdf41ac321e0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/0fd77acd-f41a-4321-977a-cdf41ac321e0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:38</itunes:duration>
-      <pubDate>Sun, 05 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q.jpg"/>
     </item>
   </channel>

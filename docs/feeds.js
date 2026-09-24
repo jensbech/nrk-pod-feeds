@@ -906,7 +906,7 @@ const feeds = [
     "id": "mysterier_fra_norge",
     "title": "Mysterier fra Norge",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g.jpg"
   },
   {

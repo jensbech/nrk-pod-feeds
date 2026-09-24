@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:28:33 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:57:12 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Hvilken prat er KI?</title>
+      <description><![CDATA[En samtale fra dagens sending er 100% skrevet av KI og fremført av oss. Klarer du å høre når det er KI? Oliver Bergset har laget en viral dans og lagt den død, han er på besøk]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/969e59b9-9e57-4716-9b44-3cfcb9cfa904_4e4d2213-5565-4313-a8a2-9c2ee5bbe475_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/969e59b9-9e57-4716-9b44-3cfcb9cfa904_4e4d2213-5565-4313-a8a2-9c2ee5bbe475_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:18</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Mat, mat og mer mat. </title>
+      <description><![CDATA[Arin har med seg Nora og Heidi fra P3morgens extended cinematic universe, og praten går utelukkende i mat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/852bc9e6-c046-414f-9a7f-1ecb64eff557_df3c6996-5ac7-4a5d-af01-5aef17de4a97_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/852bc9e6-c046-414f-9a7f-1ecb64eff557_df3c6996-5ac7-4a5d-af01-5aef17de4a97_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
     <item>
       <title>Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»</title>
       <description><![CDATA[Stig Brenner har så mye selvtillit på egen humor at han tryglet Mads Hansen om å få være med på «Ikke lov å le på hytta». I dag kommer han til oss for å forklare historien bak den fantastiske Martin Schanche-parodien.]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
-    </item>
-    <item>
-      <title>En naturell kremost-dag.</title>
-      <description><![CDATA[Hvilken frukt er du og hva slags ost føler du deg som i dag? Vi diskuterer <3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a0820db6-78ea-4bfc-820d-b678ea9bfc3b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a0820db6-78ea-4bfc-820d-b678ea9bfc3b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Haaland-safari</title>
-      <description><![CDATA[Produsent Johannes er med,  og vi deler om vårt digitale fotavtrykk, Haaland-safari og sesjon til militæret.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/53928812-2b01-4eff-9288-122b016eff5c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/53928812-2b01-4eff-9288-122b016eff5c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
     </item>
   </channel>
 </rss>
