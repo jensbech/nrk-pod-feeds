@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:16:19 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:05:12 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norges bank hever renten</title>
+      <description><![CDATA[Sentralbanken har besluttet å heve styringsrenten med 0,25 prosentpoeng, til 4,5 prosent.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f2d44154-af8f-4526-a69c-131817a04a96_7d8c6c5f-a3f4-42a5-9b3e-56e938751420_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f2d44154-af8f-4526-a69c-131817a04a96_7d8c6c5f-a3f4-42a5-9b3e-56e938751420_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pSWrrRKyoxiGrnSS_jQUXwuu0UsqewxgaksgjM_WEm7w.jpg"/>
+    </item>
     <item>
       <title>Økt trussel fra Russland</title>
       <description><![CDATA[Europeiske etterretningstopper advarer om at Russland kan teste Nato innen måneder.]]></description>
@@ -454,15 +463,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Thu, 16 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/cH1ff-2PGyqTffPHEcguiw6whvlQLK7CS392uDKlyKeg.jpg"/>
-    </item>
-    <item>
-      <title>Står gamle varmerekorder for fall?</title>
-      <description><![CDATA[Flere steder i Sør-Norge opplever uvanlig høye temperaturer]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/01257d1a-616f-440d-a57d-1a616f840d9b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/01257d1a-616f-440d-a57d-1a616f840d9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Lk2xKj82fWQ2BMoU1KZm_A5mPufOgIKVXMLNlfocWrKQ.jpg"/>
     </item>
   </channel>
 </rss>
