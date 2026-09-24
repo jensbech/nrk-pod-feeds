@@ -831,7 +831,7 @@
         "id": "mysterier_fra_norge",
         "title": "Mysterier fra Norge",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "natt_til_loerdag",

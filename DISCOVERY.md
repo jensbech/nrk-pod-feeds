@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-09-24  
+- Updated podcast 'Mysterier fra Norge' (`mysterier_fra_norge`)  
 ### 2026-09-21  
 - Updated podcast 'Spor' (`spor`)  
 ### 2026-09-18  
