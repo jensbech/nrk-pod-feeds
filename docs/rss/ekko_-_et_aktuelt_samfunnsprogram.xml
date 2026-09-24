@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:27:26 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:59:42 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Vinden har vendt</title>
+      <description><![CDATA[Krigene mot mediene hardner til samtidig som flere prøver å distansere seg fra Donald Trump.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/716cc1f0-2591-4fe8-acc1-f025914fe861_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/716cc1f0-2591-4fe8-acc1-f025914fe861_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AeIFRhGB41ao_bE4_UQDMQHT48XaKR5hVd2dJUR7EgdA.jpg"/>
+    </item>
     <item>
       <title>Bedre kjøpekraft - for hvem?</title>
       <description><![CDATA[De økonomiske forskjellene øker. Vi forklarer hvorfor kjøpekrafta er et måleverktøy for økonomien vår.]]></description>
@@ -455,15 +464,6 @@
       <itunes:duration>22:19</itunes:duration>
       <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tJ-GfCJITHf1CqzaT_1hUwFabrYRslxEvGCypz8dOmGQ.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: No hemnar han seg</title>
-      <description><![CDATA[Trump rydder unna fiendar, sikrar milliardar til sine eigne og forhandlar om Taiwan. Vi oppsummerer siste veka med USA-ekspertane.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6852f83-8dfe-4b75-852f-838dfefb753f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a6852f83-8dfe-4b75-852f-838dfefb753f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:49</itunes:duration>
-      <pubDate>Thu, 21 May 2026 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F9Xga_vD6ot5x9s79CX9EwkFpWqm_rxYr4cfZwpn0ZjA.jpg"/>
     </item>
   </channel>
 </rss>
