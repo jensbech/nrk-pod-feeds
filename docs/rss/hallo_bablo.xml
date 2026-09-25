@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:47:09 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 06:05:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:43:07 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"/>
+    <item>
+      <title>Jakten på det forsvunne godteriet</title>
+      <description><![CDATA[Adil, Pia og Even drar på et fantastisk eventyr i fantasien. Klarer de å redde alt godteriet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hallo_bablo/6aeac930-137d-4bc8-aac9-30137d6bc830_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/6aeac930-137d-4bc8-aac9-30137d6bc830_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:12</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bJJrhQCzJdd3b04bLaLT-QrB6eHt2kWqXg9cW1KjHy_Q.jpg"/>
+    </item>
     <item>
       <title>Fantasibygging</title>
       <description><![CDATA[Tor sliter med å være med på Lottes fantasilek. Når han endelig får det til går det hardt utover en stakkars bokhylle.]]></description>

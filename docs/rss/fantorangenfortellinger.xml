@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:46:41 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 06:03:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:42:36 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    <item>
+      <title>Prompeputa</title>
+      <description><![CDATA[Pivi ser for seg ein roleg båttur, men Fantorangen har med seg ei prompepute.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/21ae5c2a-5678-4e91-ae5c-2a56780e9142_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/21ae5c2a-5678-4e91-ae5c-2a56780e9142_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:46</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg.jpg"/>
+    </item>
+    <item>
+      <title>Knask eller knep</title>
+      <description><![CDATA[Fantorangen og Pivi skal gå Knask eller Knep. Frykteleg skummelt, synest Pivi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/c5b52a49-0f40-4112-b52a-490f403112e9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/c5b52a49-0f40-4112-b52a-490f403112e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:56</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"/>
+    </item>
     <item>
       <title>Gøy natt</title>
       <description><![CDATA[Pivi vil sova før det blir mørkt og skummelt, men Fantorangen vil framleis leika. Klarer Pivi å få Fantorangen til å roa seg?]]></description>
@@ -249,7 +267,7 @@ Men hvem er det som plystrer i skogen?]]></description>
     </item>
     <item>
       <title>Eddi er borte!</title>
-      <description><![CDATA[Fantorangen og Pivi bestemmer seg for å ha loppemarked, og dyrene i skogen kommer. Men Eddie er borte. Har de gitt han vekk?]]></description>
+      <description><![CDATA[Fantorangen og Pivi bestemmer seg for å ha loppemarked, og dyrene i skogen kommer. Men Eddi er borte. Har de gitt han vekk?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/fantorangenfortellinger/51d13c7e-9840-4e16-92f8-6a12dcb0d34b_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/51d13c7e-9840-4e16-92f8-6a12dcb0d34b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:54</itunes:duration>

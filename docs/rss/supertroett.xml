@@ -9,10 +9,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:49:13 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:45:27 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw.jpg"/>
+    <item>
+      <title>Ella Enhjørning og hårbørsten</title>
+      <description><![CDATA[Ella Enhjørning drømmer om å bli popstjerne, men har satt fast håret i hårbørsten. Lest av Katarina Harestad Haukaas.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/supertroett/dc4c5213-d03c-4491-8c52-13d03cc491a1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/dc4c5213-d03c-4491-8c52-13d03cc491a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:41</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2g2tM__q8SIqHcJZjwyGEgDwWD0TzQuPlO_vKyZILtFQ.jpg"/>
+    </item>
+    <item>
+      <title>Bastian Blekksprut har åtte armer</title>
+      <description><![CDATA[Bastian Blekksprut har åtte armer som slår floke når han skal sove. Fortalt av Margrethe Røed.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/supertroett/56b8f270-244c-4480-b8f2-70244c8480e2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/56b8f270-244c-4480-b8f2-70244c8480e2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:18</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b1xJ-yVZFqpGQc4qh1A0uQ4M-9hHnRItESrq2KL77iKA.jpg"/>
+    </item>
     <item>
       <title>Jaff Sjiraff har en lang hals</title>
       <description><![CDATA[Jaff Sjiraff får ikke sove. Han får med seg alt som skjer med den lange halsen sin. Fortalt av Viljar Natlandsmyr.]]></description>
