@@ -255,7 +255,7 @@
         "id": "fantorangenfortellinger",
         "title": "Fantorangenfortellinger",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "fantorangens_lydmysterier",
@@ -267,13 +267,13 @@
         "id": "fantorangens_vitseshow",
         "title": "Fantorangens vitseshow",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "fantus_og_lydene",
         "title": "Fantus og lydene",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "feriestemning",
@@ -321,7 +321,7 @@
         "id": "gamle_greier",
         "title": "Gamle greier",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "gfestallan_lisain",
@@ -375,7 +375,7 @@
         "id": "hallo_bablo",
         "title": "Hallo Bablo",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "harald_v",
@@ -1251,7 +1251,7 @@
         "id": "supertroett",
         "title": "Supertrøtt",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "tazte_priv",

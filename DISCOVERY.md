@@ -1,4 +1,11 @@
 # Podcast Discovery Changelog  
+### 2026-09-25  
+- Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
+- Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  
+- Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
+- Updated podcast 'Gamle greier' (`gamle_greier`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Supertrøtt' (`supertroett`)  
 ### 2026-09-24  
 - Updated podcast 'Mysterier fra Norge' (`mysterier_fra_norge`)  
 ### 2026-09-21  
