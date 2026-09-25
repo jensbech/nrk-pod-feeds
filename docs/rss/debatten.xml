@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 22:01:44 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 20:01:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:41:11 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 11:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Renta går opp, opp, opp</title>
+      <description><![CDATA[Politikerne kappes om hva som må til for å gi folk bedre råd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/66f90e6b-8f5a-4482-b90e-6b8f5a948204_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/66f90e6b-8f5a-4482-b90e-6b8f5a948204_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:00</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 11:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VNZfhX1GmIcKTTSRwjMX3gXTO1fMMPA0hpg1fQ2YuJHQ.jpg"/>
+    </item>
     <item>
       <title>Går Document-redaktøren for langt?</title>
       <description><![CDATA[Redaktører melder seg ut i protest mot Hans Rustad fra Document. Er det han sier virkelig så ille?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>55:16</itunes:duration>
       <pubDate>Thu, 13 Nov 2025 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/19od5gn0I-ZgJFv7thpW-w-HcNAEszXrt_4_QhusepAQ.jpg"/>
-    </item>
-    <item>
-      <title>Eldrebølgen er her, men det kuttes og kuttes</title>
-      <description><![CDATA[Det blir færre barn og flere eldre i Norge. Så hvorfor reddes skoler, mens det kuttes i eldreomsorgen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/e7bcbe71-7607-4aea-bcbe-7176079aea93_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/e7bcbe71-7607-4aea-bcbe-7176079aea93_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:11</itunes:duration>
-      <pubDate>Tue, 11 Nov 2025 22:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AC64rslhY9EaLPA6P4hPkQ9BeK4SnJnRtqeFTYMVJ0eg.jpg"/>
     </item>
   </channel>
 </rss>
