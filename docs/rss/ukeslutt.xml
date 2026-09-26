@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 19 Sep 2026 14:22:55 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Sep 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:02:54 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Hva gjør en by god å bo i?</title>
+      <description><![CDATA[Bergen ble kåret til verdens nest beste by, men hva er oppskriften på et godt, urbant liv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/58c0014b-8514-411f-8001-4b8514011fa8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/58c0014b-8514-411f-8001-4b8514011fa8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:54</itunes:duration>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gumIXtO8So32pSFXnGT6bQsaFm-PwEXmS9-zeWsmSH5A.jpg"/>
+    </item>
     <item>
       <title>Influensarar og makt</title>
       <description><![CDATA[Dei får oss til å drøyme oss bort, og samtidig klikke på kjøp-knappen. Men når er dei privatpersoner, og når er dei bedriftseigarar?]]></description>
@@ -456,15 +465,6 @@ I norsk offentlighet tåler vi mye – bare ikke feil meninger.]]></description>
       <itunes:duration>01:08:50</itunes:duration>
       <pubDate>Sat, 04 Oct 2025 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QcU4BfdupXVT4PXa4TRTQQxmyzApdUax2E0-MJRtYZTQ.jpg"/>
-    </item>
-    <item>
-      <title>Levde i sus og dus – et brev endret alt</title>
-      <description><![CDATA[Christian Ringnes bokdebuterer – og forteller blant annet om brevet fra datteren Isabelle, som fikk fram tårene. Far og datter er gjester i Ukeslutt. Vi kan også by på noen av Christian Ringnes’ ni livsvettråd!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/1e0415b0-95e3-443a-8415-b095e3a43a56_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/1e0415b0-95e3-443a-8415-b095e3a43a56_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:06:13</itunes:duration>
-      <pubDate>Sat, 27 Sep 2025 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/burAtGBOpgbaI3L6yM2PswSlJeh93iHAh_u5ItCB2cyw.jpg"/>
     </item>
   </channel>
 </rss>
