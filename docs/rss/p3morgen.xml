@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:42:26 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:22:13 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Spicy påstander om statsministeren</title>
+      <description><![CDATA[En ny øy har blitt oppdaget på Svalbard, og vi vil kalle den Arin! Vi har sendt brev til de som skal bestemme hva navnet blir, og nå har vi fått et svar. Får vi det som vi har ønsket? Vi hører også med ytringsfrihetsekpsert Anine Kierulf om hvor drøye påstander vi kan komme med]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a36f3475-a0b8-4689-b4e0-f77f32b593a6_7a41d83f-3afd-44da-91b8-c2f0529314a7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a36f3475-a0b8-4689-b4e0-f77f32b593a6_7a41d83f-3afd-44da-91b8-c2f0529314a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:56</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
+    </item>
     <item>
       <title>Renteheving for dummies</title>
       <description><![CDATA[Henning har vært å provosert danske fotballfans som er på tur i Norge. Fikk han en på tygga? I dag får vi høre hvordan det gikk. Vi får også besøk av Hallgeir Kvadsheim som svarer på alle våre dumme spørsmål om renteheving.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen</title>
-      <description><![CDATA[Det beste fra denne ukens P3morgen! Vi tester norsk produkt som går viralt i Kina, og diskuterer hvordan man overlever på fly og hvor mange underbukser man skal ha på langhelgtur. Arin får kjørt seg med spy, gråt, og smerte]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:45</itunes:duration>
-      <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
     </item>
   </channel>
 </rss>
