@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Sep 2026 18:31:49 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:54:04 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Vil vrake Nyland</title>
+      <description><![CDATA[Keepertabben avgjorde kampen mot Portugal. Nå vil flere fotballeksperter bytte keeper til neste kamp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/85cf8073-97ba-42e7-b29e-241354f1f5be_45137f51-4741-434a-bf0c-9020008f935c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/85cf8073-97ba-42e7-b29e-241354f1f5be_45137f51-4741-434a-bf0c-9020008f935c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:01</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kFL22xph0RjBmJtAKVKSdgG1Wg5Nato8gJLlMZfYunkg.jpg"/>
+    </item>
     <item>
       <title>Får kritikk for å legge inn bøker i KI</title>
       <description><![CDATA[Influenser Oskar Westerlin har lastet opp flere hundre bilder av boksider til KI for å forstå innholdet bedre. Forfatterorganisasjon sier det er ulovlig.]]></description>
@@ -454,15 +463,6 @@
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Mon, 20 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9wy5MZoQ2gGEPYzY7JpPrgoOGejdYTygDr-2tBaAXxCQ.jpg"/>
-    </item>
-    <item>
-      <title>Kraftig brann i Drammen</title>
-      <description><![CDATA[Brannen har spredt seg til flere rekkehus i området.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8b6d51c1-352a-40ee-ad51-c1352a70eef6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8b6d51c1-352a-40ee-ad51-c1352a70eef6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:54</itunes:duration>
-      <pubDate>Fri, 17 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/A6YgPDbCwiP9YBqlkxPOhQtFSFtMWOkL3XYDf_Ni5z4w.jpg"/>
     </item>
   </channel>
 </rss>
