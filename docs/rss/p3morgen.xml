@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:22:13 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:24:26 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 09:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Når blir en quiz en quiz</title>
+      <description><![CDATA[I følge TikTok tar gen-z med seg iskaffe på jobbintervju og det kan koste dem jobben. Jonas har med en quiz som bare har ett spørsmål, og vi lurer på om det er nok spørsmål til å kalles en quiz]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f88ca78c-0c24-4e24-8836-2471564e02d8_9b891119-37b2-442b-bd43-a86908078ce7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f88ca78c-0c24-4e24-8836-2471564e02d8_9b891119-37b2-442b-bd43-a86908078ce7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:27</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-Kwcw3xPPKnTOv9zL3a_iw0AmQ-iO70Oymu8GlqKsybw.jpg"/>
+    </item>
     <item>
       <title>Spicy påstander om statsministeren</title>
       <description><![CDATA[En ny øy har blitt oppdaget på Svalbard, og vi vil kalle den Arin! Vi har sendt brev til de som skal bestemme hva navnet blir, og nå har vi fått et svar. Får vi det som vi har ønsket? Vi hører også med ytringsfrihetsekpsert Anine Kierulf om hvor drøye påstander vi kan komme med]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
-    </item>
-    <item>
-      <title>20 kg bæsj</title>
-      <description><![CDATA[Jonas og Henning har «benka» og vært i dyreparken, og Arin har endelig fått oppleve lounge på flyplassen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/64495ad6-4c3b-4604-895a-d64c3b5604cf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/64495ad6-4c3b-4604-895a-d64c3b5604cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:29</itunes:duration>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>

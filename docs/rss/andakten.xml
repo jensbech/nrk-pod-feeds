@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:45:09 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:22:37 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Barnets vei -Kristin Saxegaard</title>
+      <description><![CDATA[Vi har nettopp vært gjennom en landesorg, etter kong Haralds død. En sorg også barna tok del i.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/4ea965d7-0d30-426d-8a25-9172fc438fa4_964ca922-3467-4d10-86dd-cb192eec85e4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4ea965d7-0d30-426d-8a25-9172fc438fa4_964ca922-3467-4d10-86dd-cb192eec85e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:12</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kFVpZHt5U7BsCUrENQsHZAZQuG7_3esN7g8JTllSsSGw.jpg"/>
+    </item>
     <item>
       <title>Barnet - Kristin Saxegaard</title>
       <description><![CDATA[Man husker ikke alt fra man var barn. Men et foto kan vekke minner til live, slik det gjorde for Kristin Moen Saxegaard.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/0ace5d1b-6105-4473-8e5d-1b61055473e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:44</itunes:duration>
       <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EypWyGffGvIjnnP0XW8S5AVrDSgGijRTooUSLiBMan6w.jpg"/>
-    </item>
-    <item>
-      <title>Utpågang - Lene Gåsvatn</title>
-      <description><![CDATA[Det gjelder å ha mange rom, og plass til alt og alle som trenger at det blir gjort i stand til dem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/08a412b8-2946-42c2-a412-b82946e2c22e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/08a412b8-2946-42c2-a412-b82946e2c22e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:51</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EypWyGffGvIjnnP0XW8S5AVrDSgGijRTooUSLiBMan6w.jpg"/>
     </item>
   </channel>

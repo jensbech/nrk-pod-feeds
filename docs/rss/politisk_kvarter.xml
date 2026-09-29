@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:47:06 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:24:35 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Norsk drivstoff</title>
+      <description><![CDATA[Senterpartiet mener Norge må lage mer drivstoff selv, og vil bygge raffineri i Nord-Norge.
+Det er en veldig dårlig ide, sier økonomiprofessor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4641ed1e-44ea-4a7b-a510-8ef1dc0f166f_8f69ffe0-a125-41c8-8660-ceb1526cffad_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4641ed1e-44ea-4a7b-a510-8ef1dc0f166f_8f69ffe0-a125-41c8-8660-ceb1526cffad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/crvSbnn7nVy76oviGpjP4Ah6OFIIRGclFgdS7N64Xd-w.jpg"/>
+    </item>
     <item>
       <title>Bryllupsbonus fra KrFU</title>
       <description><![CDATA[KrFU vil gi 50 000 kroner i bonus til dem som gifter seg tidlig. Maga på norsk, mener Grønn ungdom. Og - i Sverige vil Vänsterpartiet i regjering - tross alle skandalene. ]]></description>
@@ -471,15 +481,6 @@ Helt uansvarlig oppførsel, ifølge Høyre.]]></description>
       <itunes:duration>15:05</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hVHD0clavJM6W9tpIOZfJQbLAlNJoeDiF3VZo2SKIa3A.jpg"/>
-    </item>
-    <item>
-      <title>Slutt for skatteparadiset</title>
-      <description><![CDATA[Bø i Vesterålen ville vere skatteparadiset som tiltrakk seg folk, formuer og investeringar. No gir dei opp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/3901b9eb-beed-4f48-81b9-ebbeedef482b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3901b9eb-beed-4f48-81b9-ebbeedef482b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:04</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_JVj14GJEP6bxY6My-EHlAiYFMk3wIysgCHI3eu28Jqg.jpg"/>
     </item>
   </channel>
 </rss>
