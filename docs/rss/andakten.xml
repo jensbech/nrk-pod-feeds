@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:22:37 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:38:40 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Lovsang - Kristin Saxegaard</title>
+      <description><![CDATA[Når du hører barn sette i gang, med volumet på full styrke, har du noen gang tenkt på det som lovsang?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/59cb5655-7fe0-4723-b450-82e9afa91fdb_81bab23f-1050-47e1-b6b5-a714e0359e4e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/59cb5655-7fe0-4723-b450-82e9afa91fdb_81bab23f-1050-47e1-b6b5-a714e0359e4e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:44</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kFVpZHt5U7BsCUrENQsHZAZQuG7_3esN7g8JTllSsSGw.jpg"/>
+    </item>
     <item>
       <title>Barnets vei -Kristin Saxegaard</title>
       <description><![CDATA[Vi har nettopp vært gjennom en landesorg, etter kong Haralds død. En sorg også barna tok del i.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:47</itunes:duration>
       <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
-    </item>
-    <item>
-      <title>Preposisjoner - Lene Gåsvatn</title>
-      <description><![CDATA[Øystein Sunde lager humor med preposisjoner, men Lene Gåsvatn har erfart at de også kan romme trøst]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/0ace5d1b-6105-4473-8e5d-1b61055473e5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/0ace5d1b-6105-4473-8e5d-1b61055473e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:44</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EypWyGffGvIjnnP0XW8S5AVrDSgGijRTooUSLiBMan6w.jpg"/>
     </item>
   </channel>
 </rss>
