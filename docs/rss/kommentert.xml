@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:00:23 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 15:41:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:12:10 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 20:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Epstein-høring: – Politisk teater og angrende synder</title>
+      <description><![CDATA[Hvorfor fikk Terje Rød-Larsens tenketank så mye penger av utenriksdepartementet? Flere tidligere statsråder ble grillet i Stortingets Epstein-høring, og stemningen var tidvis amper og hissig. Var det en ukultur? Og har departementet en utfordring med kameraderi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fed8cfeb-2847-466a-99e1-420f47ffb935_b214b9cd-876c-4226-861c-b6bc7dbf6cab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fed8cfeb-2847-466a-99e1-420f47ffb935_b214b9cd-876c-4226-861c-b6bc7dbf6cab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:51</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 20:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uZXXzOlFFsrFef2M47hZUA0btFN3NcprOybQ5Bhs2rYQ.jpg"/>
+    </item>
     <item>
       <title>Hvorfor stoppet ingen Terje Rød-Larsen?</title>
       <description><![CDATA[Terje Rød-Larsen fikk 116 millioner over 15 år til tenketanken han var leder for. Nå vet vi at han pleide nær kontakt med Jeffrey Epstein, men hvordan kunne dette skje? Noen av svarene ligger kanskje i Epstein-høringen.
@@ -489,17 +498,6 @@ Kan Danmarks superminister redde Grønland fra å bli amerikansk? Og Trumps jakt
       <itunes:duration>23:51</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 14:27:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/juMBwLb_S3arkR9T5DgLPgXVBDe5Ieb-e9CvjVhhb2aw.jpg"/>
-    </item>
-    <item>
-      <title>Fred i Ukraina? Stoltenberg ut? Vi spår 2026</title>
-      <description><![CDATA[Det er skjebnedager for Ukraina. Får vi fred neste år? Eller kan det bli verre og spre seg? 
-
-Vi snakker om hvordan vi tror 2026 blir: Når slutter Jens Stoltenberg? Når får vi se Ine Eriksen Søreide i debatt med Sylvi Listhaug? Vil Støre fortsette som før? Og ikke minst: Får vi lov til å drikke øl på pub under Norges kamper i VM?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/350d278a-1b91-4bc3-8d27-8a1b917bc38f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/350d278a-1b91-4bc3-8d27-8a1b917bc38f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:03</itunes:duration>
-      <pubDate>Thu, 18 Dec 2025 16:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ygzQoIxzBrdERvC6koveNAeKrQAjriy9tZk44TDrbpgw.jpg"/>
     </item>
   </channel>
 </rss>
