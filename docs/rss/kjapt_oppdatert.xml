@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:39:36 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:44:02 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Polen har fått «abortomat»</title>
+      <description><![CDATA[Og Haaland saksøker Norwegian.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/248b8bdf-b5b6-4651-8b8b-dfb5b666519d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/248b8bdf-b5b6-4651-8b8b-dfb5b666519d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:45</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pzmihMJSHAFbby4iFzGnSQ1lkj_j-o3Ge9GEPmzJorjg.jpg"/>
+    </item>
     <item>
       <title>Støre skal svare om Epstein</title>
       <description><![CDATA[Og «Dora the Explorer» kan stoppe Leah Behn fra å ta patent.]]></description>
@@ -455,15 +464,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:50</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lWPzAMuQhEOF6etpDNjhlg4FZv_Ng8KgdbaU355LXJcw.jpg"/>
-    </item>
-    <item>
-      <title>Ny straffetoll fra USA</title>
-      <description><![CDATA[Og nordmenn er rekordgode på sparing, og vi gir deg svaret på hvorfor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c76c2ac0-4d8e-4aad-ac2a-c04d8eeaadbc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c76c2ac0-4d8e-4aad-ac2a-c04d8eeaadbc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:09</itunes:duration>
-      <pubDate>Fri, 24 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m2_pQFrOJKrHtGdxkE2F1AUtgVDmlb7QTepqFwmDpXig.jpg"/>
     </item>
   </channel>
 </rss>

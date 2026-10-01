@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:38:40 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:43:20 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Håpet - Kristin Saxegaard</title>
+      <description><![CDATA[Vi har håp for kommende generasjoner. Et håp Kristin Moen Saxegaard deler og tror på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/b5753788-f879-4361-b0d7-72672dffdad6_960eebdf-5fef-4de4-ad4c-3b53b3ac19f7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/b5753788-f879-4361-b0d7-72672dffdad6_960eebdf-5fef-4de4-ad4c-3b53b3ac19f7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:21</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kFVpZHt5U7BsCUrENQsHZAZQuG7_3esN7g8JTllSsSGw.jpg"/>
+    </item>
     <item>
       <title>Lovsang - Kristin Saxegaard</title>
       <description><![CDATA[Når du hører barn sette i gang, med volumet på full styrke, har du noen gang tenkt på det som lovsang?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/880232e2-e7b1-479b-8232-e2e7b1279bce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:08</itunes:duration>
       <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
-    </item>
-    <item>
-      <title>Lys - Claes K. Ericsson</title>
-      <description><![CDATA[Mange tenner gjerne lys i en kirke. Men for hvem - sånn egentlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/0f494c11-af41-4da3-894c-11af419da3c3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/0f494c11-af41-4da3-894c-11af419da3c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:47</itunes:duration>
-      <pubDate>Mon, 06 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
     </item>
   </channel>
