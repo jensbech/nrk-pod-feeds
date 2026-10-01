@@ -672,7 +672,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg.jpg"
   },
   {

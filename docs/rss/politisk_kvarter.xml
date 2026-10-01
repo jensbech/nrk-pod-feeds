@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:40:58 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:05:17 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Krever endringer i SV ledelsen</title>
+      <description><![CDATA[Misnøyen i SV vokser. På tide med et lederskifte?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/f89fe7a6-ec85-450d-9138-6c28c616cd1f_a59b0ae9-e214-402a-8fbd-e16793ca5ca2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/f89fe7a6-ec85-450d-9138-6c28c616cd1f_a59b0ae9-e214-402a-8fbd-e16793ca5ca2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:54</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/G2N15_iwoyRIHRUjOO-yRg9PHecP-FJpS783QlfaN3aA.jpg"/>
+    </item>
     <item>
       <title>Står Oslo-avtalen seg som en diplomatisk bragd?  </title>
       <description><![CDATA[Oslo-avtalen var beviset på at Norge kunne spille en stor rolle i fredsdiplomati og bidro til storsatsingen som nå granskes. Men var Oslo-avtalen en så stor bragd som hyllesten her i Norge tilsier?   ]]></description>
@@ -470,15 +479,6 @@ Men går han så langt at han risikerer å møte seg selv i døra?]]></descripti
       <itunes:duration>14:56</itunes:duration>
       <pubDate>Thu, 25 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VETQeoOn0Q_cSnteG__o2wyJZbOfXnOyujwkKjUGoEmA.jpg"/>
-    </item>
-    <item>
-      <title>Håpar på brei skatteavtale</title>
-      <description><![CDATA[Jens Stoltenbergs skattekommisjon legg fram forslaget sitt i dag. Leiaren ber politikarane vere modige.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/88c65bdf-2bbd-401f-865b-df2bbd001fe4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/88c65bdf-2bbd-401f-865b-df2bbd001fe4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:04</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gILOsVYKnmz_e3wysSvoOQnAxr1DxsgIRHh95L_KvZLg.jpg"/>
     </item>
   </channel>
 </rss>
