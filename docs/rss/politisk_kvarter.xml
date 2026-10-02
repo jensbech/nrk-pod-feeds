@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:05:17 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:42:06 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Fem flyplasser fredes</title>
+      <description><![CDATA[Samferdselsministeren freder flytilbudet i nord.
+Var det ikke så farlig med høringen likevel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e13ab57e-1f24-482a-a22e-1b7e89fd23c5_2a15823c-58af-423c-8ad7-5eb2c217d717_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e13ab57e-1f24-482a-a22e-1b7e89fd23c5_2a15823c-58af-423c-8ad7-5eb2c217d717_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:07</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JWwDBFaWEAD6G4oiZw6qJAJfmKraUlbBOiBshtl-w29g.jpg"/>
+    </item>
     <item>
       <title>Krever endringer i SV ledelsen</title>
       <description><![CDATA[Misnøyen i SV vokser. På tide med et lederskifte?]]></description>
@@ -469,16 +479,6 @@ Men kan det også vere tida for politisk samhald?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/f2BPqBVFtBKz2KVTYysU_AznslNy07mHcUClHgIJwQdg.jpg"/>
-    </item>
-    <item>
-      <title>Stoltenberg og skatten</title>
-      <description><![CDATA[Jens Stoltenberg har veldig lyst på et skatteforlik.
-Men går han så langt at han risikerer å møte seg selv i døra?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1571cbb1-e049-491d-b1cb-b1e049d91d13_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1571cbb1-e049-491d-b1cb-b1e049d91d13_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:56</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VETQeoOn0Q_cSnteG__o2wyJZbOfXnOyujwkKjUGoEmA.jpg"/>
     </item>
   </channel>
 </rss>

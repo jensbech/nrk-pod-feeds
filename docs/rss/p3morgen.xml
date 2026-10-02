@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:05:05 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:41:54 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Arin vil spise ting som ikke er mat</title>
+      <description><![CDATA[Skal det å spotte røde flagg bli pensum? Vi diskuterer hva vi gjerne skulle lært på skolen. Jonas forteller om eventyret på isfabrikken, og vi smaker hans kreasjoner. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/77f5c71b-96aa-45a6-97cf-f34f30856864_3a2be746-322c-4d24-9374-a0440498966c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/77f5c71b-96aa-45a6-97cf-f34f30856864_3a2be746-322c-4d24-9374-a0440498966c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:33</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
+    </item>
     <item>
       <title>Mímir Kristjánsson sitt alter ego</title>
       <description><![CDATA[Bytter du personlighet når du er på fylla? Vi må diskutere om det er innafor eller bare kleint. Vi skal også prate fotball med Mímir Kristjánsson!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:29</itunes:duration>
       <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
-    </item>
-    <item>
-      <title>En kynisk verden.</title>
-      <description><![CDATA[Arin skal leie ut leiligheten sin, Henning og Jonas skal gi tilbakemeldinger på annonsen hennes.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/618ae86d-edab-4ac2-8ae8-6dedab6ac2a0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/618ae86d-edab-4ac2-8ae8-6dedab6ac2a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
