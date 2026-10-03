@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:02:54 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:14:28 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Laila Goody spiller mora til Benjamin</title>
+      <description><![CDATA[- Noen scener prega meg mer enn vanlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/fbf65acb-b3ef-4a5b-b65a-cbb3ef6a5bf7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/fbf65acb-b3ef-4a5b-b65a-cbb3ef6a5bf7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:39</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uYbiZ8ReIpOpsVILxZW8AAUgXx7YQOxRG-nf-NfZ7z2g.jpg"/>
+    </item>
     <item>
       <title>Hva gjør en by god å bo i?</title>
       <description><![CDATA[Bergen ble kåret til verdens nest beste by, men hva er oppskriften på et godt, urbant liv?]]></description>
@@ -456,15 +465,6 @@ I norsk offentlighet tåler vi mye – bare ikke feil meninger.]]></description>
       <itunes:duration>01:11:00</itunes:duration>
       <pubDate>Sat, 11 Oct 2025 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BQm3F0vDcrRClMLQisLrMwUa2xSfn7muXViX5BNJlAGw.jpg"/>
-    </item>
-    <item>
-      <title>Kirken ber om tilgivelse</title>
-      <description><![CDATA[Nå ber Den Norske Kirke om tilgivelse for behandlingen av skeive. Noen har ventet på det i årtier.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/e0324aab-a9af-4c9b-b24a-aba9af6c9b5e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/e0324aab-a9af-4c9b-b24a-aba9af6c9b5e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:08:50</itunes:duration>
-      <pubDate>Sat, 04 Oct 2025 15:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QcU4BfdupXVT4PXa4TRTQQxmyzApdUax2E0-MJRtYZTQ.jpg"/>
     </item>
   </channel>
 </rss>
