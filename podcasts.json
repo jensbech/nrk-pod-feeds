@@ -573,7 +573,7 @@
         "id": "kompass",
         "title": "Kompass",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kongerekka",
