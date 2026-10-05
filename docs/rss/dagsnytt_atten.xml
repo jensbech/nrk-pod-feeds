@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 21:18:08 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:35:22 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Lederkabalen i SV</title>
+      <description><![CDATA[Både nestleder og partisekretær tar ikke gjenvalg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/308c266b-c017-4f6a-94ce-126a60b454f2_3cfa308f-e022-425e-a3e3-494351134078_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/308c266b-c017-4f6a-94ce-126a60b454f2_3cfa308f-e022-425e-a3e3-494351134078_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O39-y4SMkZNbb0YAEwp-Vgf3nAbxaBDym-sTX-50Hebw.jpg"/>
+    </item>
     <item>
       <title>Har folk fått dårligere råd, eller bare føles det sånn?</title>
       <description><![CDATA[Vi må akseptere at folk har fått det verre, sier en sjefsøkonom. Tallene viser det motsatte, sier en annen.]]></description>
@@ -454,15 +463,6 @@
       <itunes:duration>58:59</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/v3FItpIz5NyDqYwJcNON8Qg87DYHmCQ3qOKpLrXJT4FA.jpg"/>
-    </item>
-    <item>
-      <title>USA innfører ny toll på norske varer</title>
-      <description><![CDATA[Norge får en tollsats på 12,5 prosent - 10 prosent for EU. Regjeringen kaller tollen urimelig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b807fbf9-8803-4278-87fb-f988030278f2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b807fbf9-8803-4278-87fb-f988030278f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:16</itunes:duration>
-      <pubDate>Fri, 24 Jul 2026 18:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bQp_bV4gwmHIzs-rS-Ppogwc_lfdh6c7YLx8BTK1zFAw.jpg"/>
     </item>
   </channel>
 </rss>
