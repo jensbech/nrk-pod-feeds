@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:43:20 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:56:35 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Kongen - Jan Erik Larssen</title>
+      <description><![CDATA[Mange av oss har gode minner om et møte med Kong Harald. Det har også Jan Erik Larssen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/4102604a-898e-48a0-a209-77f625165305_9ad065c8-a5fc-4086-807b-e9c27f90ba80_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4102604a-898e-48a0-a209-77f625165305_9ad065c8-a5fc-4086-807b-e9c27f90ba80_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:39</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
+    </item>
     <item>
       <title>Håpet - Kristin Saxegaard</title>
       <description><![CDATA[Vi har håp for kommende generasjoner. Et håp Kristin Moen Saxegaard deler og tror på.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/5ea68646-6097-40e7-a686-466097c0e793_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:15</itunes:duration>
       <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
-    </item>
-    <item>
-      <title>Skinnegang - Claes K. Ericsson</title>
-      <description><![CDATA[På en reise som går uvanlig sakte, rekker man å få tenkt litt. Blant annet på hvilket tempo men lever i, og ville levd i.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/880232e2-e7b1-479b-8232-e2e7b1279bce_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/880232e2-e7b1-479b-8232-e2e7b1279bce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:08</itunes:duration>
-      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
     </item>
   </channel>

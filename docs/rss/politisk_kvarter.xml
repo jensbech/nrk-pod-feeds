@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:42:06 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:58:31 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Ein billig plass å bu</title>
+      <description><![CDATA[Korleis kan vi få bygd fleire billige bustader for unge vaksne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/bfb84249-a4c8-40d6-b4a3-0425e131977d_852d1cb7-9696-406b-a95b-f45ab717f3da_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/bfb84249-a4c8-40d6-b4a3-0425e131977d_852d1cb7-9696-406b-a95b-f45ab717f3da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:54</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kvIJnEHCMjcpdq2pS68JDgUpLhUUDJ-E1qNHT0xNiCng.jpg"/>
+    </item>
     <item>
       <title>Fem flyplasser fredes</title>
       <description><![CDATA[Samferdselsministeren freder flytilbudet i nord.
@@ -470,15 +479,6 @@ Men kan det også vere tida for politisk samhald?]]></description>
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Mon, 29 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_ve2YojzI5XlXpEQdAm0WA2dYJ41QzSdAo-uc8Ps5JiQ.jpg"/>
-    </item>
-    <item>
-      <title>Et taksameter i bilen din?</title>
-      <description><![CDATA[Staten håver inn penger. Nå skal de overvåke oss også. Frp advarer mot en kilometeravgift for alle bilister. Mens MDG mener en slik avgift er både fornuftig og rettferdig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/5256ed8c-b841-4dc3-96ed-8cb841edc3b8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5256ed8c-b841-4dc3-96ed-8cb841edc3b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/f2BPqBVFtBKz2KVTYysU_AznslNy07mHcUClHgIJwQdg.jpg"/>
     </item>
   </channel>
 </rss>
