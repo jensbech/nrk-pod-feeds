@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:35:22 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:36:07 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringen vil gjøre Norgespris dyrere</title>
+      <description><![CDATA[Økning på 12,5%, fire ganger så mye som prisstigningen ellers.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8f4c8269-8218-433f-8e9a-caea805cb12c_6785efa0-370f-4581-a7c3-044f2d0b34a4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8f4c8269-8218-433f-8e9a-caea805cb12c_6785efa0-370f-4581-a7c3-044f2d0b34a4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OGOnMjowJw5mygUKp_SJTQNIgPkPLGLiMf7zaHE6YnSw.jpg"/>
+    </item>
     <item>
       <title>Lederkabalen i SV</title>
       <description><![CDATA[Både nestleder og partisekretær tar ikke gjenvalg.]]></description>
@@ -454,15 +463,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Tue, 28 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CAIqJp-d11AGhs0HvTzp_QuPTlFSxP9HCJx-UsaUVEpQ.jpg"/>
-    </item>
-    <item>
-      <title>Polsk kvinne drept i Berlin-terror</title>
-      <description><![CDATA[Lørdag kjørte en bil inn i en folkemengde i Berlin, og drepte en kvinne og skadet 29 personer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9bd3b14d-3a7e-4dcf-93b1-4d3a7e5dcfa2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9bd3b14d-3a7e-4dcf-93b1-4d3a7e5dcfa2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:59</itunes:duration>
-      <pubDate>Mon, 27 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/v3FItpIz5NyDqYwJcNON8Qg87DYHmCQ3qOKpLrXJT4FA.jpg"/>
     </item>
   </channel>
 </rss>
