@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:56:35 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:08:23 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Underverk - Jan Erik Larssen</title>
+      <description><![CDATA[Hvordan ville vi i vår tid, tatt imot en snekker som viste seg å kunne gjøre utføre mirakler for folk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/8a82b96c-be70-42af-ad69-d9e888021a04_46ad838c-4781-4cdb-a789-3eeabce4b645_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/8a82b96c-be70-42af-ad69-d9e888021a04_46ad838c-4781-4cdb-a789-3eeabce4b645_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:33</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q.jpg"/>
+    </item>
     <item>
       <title>Kongen - Jan Erik Larssen</title>
       <description><![CDATA[Mange av oss har gode minner om et møte med Kong Harald. Det har også Jan Erik Larssen.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/46e0b2f7-da6f-4726-a0b2-f7da6fd72625_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:54</itunes:duration>
       <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
-    </item>
-    <item>
-      <title>Stemmen - Claes K. Ericsson</title>
-      <description><![CDATA[Mange falske profeter vil fortelle deg hvordan du skal leve. Så hvor finner du stemmen du bør lytte til å få råd hos?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5ea68646-6097-40e7-a686-466097c0e793_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/5ea68646-6097-40e7-a686-466097c0e793_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:15</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NZtBFEGJOP8tYG_V4Err6QfRzNHYkGSFMHTZ7PzkaJyA.jpg"/>
     </item>
   </channel>

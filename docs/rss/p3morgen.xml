@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:57:55 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:10:54 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Steinar Klouman Hallert har blitt tryllekunstner</title>
+      <description><![CDATA[Jonas er sint på vennene sine, hvordan du sier hvor]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:10</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Bli hos meg-Dina konfronterer Jonas!</title>
       <description><![CDATA[Jonas har spredd falske rykter om artisten bak låta "Bli hos meg". Dina kommer på besøk til oss for å få ryddet opp i dette og motbevise ryktene. I tillegg diskuterer vi hvor terskelen for å ta smertestillende går. Er du en av de som tar en paracet om du føler deg litt pjusk, eller må du være døden nær før du rører smertestillende?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>54:34</itunes:duration>
       <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-Kwcw3xPPKnTOv9zL3a_iw0AmQ-iO70Oymu8GlqKsybw.jpg"/>
-    </item>
-    <item>
-      <title>Stjernetegn vs. arv og miljø</title>
-      <description><![CDATA[Arin er ikke så interessert i stjernetegn,  Nora blir lurt, og Michael Jackson er innom et par ganger i episoden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7a4a6687-2197-4952-8a66-872197595277_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7a4a6687-2197-4952-8a66-872197595277_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>

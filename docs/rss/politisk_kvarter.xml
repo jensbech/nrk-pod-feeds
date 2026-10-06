@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:58:31 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:11:07 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Fakta og følelser i økonomien </title>
+      <description><![CDATA[Tar økonomene feil når de sier folk flest har fått mer å rutte med? Rødt-lederen tror mer på folk som sier de har fått trangere økonomi. Hun velger føleri framfor fakta, advarer MDG. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1e7a8875-8697-4ba6-9609-265794dc96c3_c2cf0e66-daa6-47f1-926b-e65ebebf17da_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1e7a8875-8697-4ba6-9609-265794dc96c3_c2cf0e66-daa6-47f1-926b-e65ebebf17da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lxI9mfpbk6mnZIMt114BlQriwawby1_o1_sz5tuD4caA.jpg"/>
+    </item>
     <item>
       <title>Ein billig plass å bu</title>
       <description><![CDATA[Korleis kan vi få bygd fleire billige bustader for unge vaksne?]]></description>
@@ -470,15 +479,6 @@ Men kan det også vere tida for politisk samhald?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Tue, 30 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-iql2BMjLe9UgP4Kc7ckvAWi1Y6E4CbZtDc4NzjNxtZw.jpg"/>
-    </item>
-    <item>
-      <title>NATO under press</title>
-      <description><![CDATA[NATO trues av Russland. Og Trump truer NATO. Det går mot et nytt skjebnemøte i alliansen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/70b9a816-71fa-4707-b9a8-1671fad70786_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/70b9a816-71fa-4707-b9a8-1671fad70786_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Mon, 29 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_ve2YojzI5XlXpEQdAm0WA2dYJ41QzSdAo-uc8Ps5JiQ.jpg"/>
     </item>
   </channel>
 </rss>
