@@ -1341,7 +1341,7 @@
         "id": "tyrann",
         "title": "Tyrann",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "ubaatsaken",
