@@ -1321,7 +1321,7 @@ const feeds = [
     "id": "strid",
     "title": "Strid – de norske borgerkrigene",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"
   },
   {

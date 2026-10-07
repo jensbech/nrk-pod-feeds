@@ -8,18 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:10:54 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:37:50 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 09:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
     <item>
+      <title>Vi har fått lydmeldinger!</title>
+      <description><![CDATA[Kjøpte dine foreldre alkohol til deg før du ble 18? En fersk undersøkelse viser at det blir mer og mer vanlig. Vi må også snakke om at KI skal erstatte flere hundre ansatte i DNB.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/17c1e8a0-2bde-44f0-87ee-2253b375b553_6e03d0c7-13c0-46c4-ab09-c402ba608ba7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/17c1e8a0-2bde-44f0-87ee-2253b375b553_6e03d0c7-13c0-46c4-ab09-c402ba608ba7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:30</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
+    <item>
       <title>Steinar Klouman Hallert har blitt tryllekunstner</title>
-      <description><![CDATA[Jonas er sint på vennene sine, hvordan du sier hvor]]></description>
+      <description><![CDATA[Jonas er sint på vennene sine, det er en generasjonsforskjell på hvordan man sier hvor gammel man er, og skuespiller og komiker, Steinar Klouman Hallert, har blitt tryllekunstner]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:10</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/WzTiMuVWSI72iFc6MmgRWgWPz_YAzYBNxQTlG8gw6b2w.jpg"/>
     </item>
     <item>
       <title>Bli hos meg-Dina konfronterer Jonas!</title>
@@ -452,15 +461,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen!</title>
-      <description><![CDATA[Katten til Fetisha skaper debatt, anklager om å bære blond gir Jonas Høy puls, og kan man følge digge folk på insta bare fordi de er digge?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e2e3629e-1bfa-474e-a362-9e1bfa974ec7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e2e3629e-1bfa-474e-a362-9e1bfa974ec7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:34</itunes:duration>
-      <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-Kwcw3xPPKnTOv9zL3a_iw0AmQ-iO70Oymu8GlqKsybw.jpg"/>
     </item>
   </channel>
 </rss>

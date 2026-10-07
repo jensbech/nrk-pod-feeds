@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:44:17 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:36:42 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
     <item>
+      <title>Søskenflokken: Kan rekkefølgen definere deg?</title>
+      <description><![CDATA[Hvorfor har den eldste ofte høyest IQ? Utviklingspsykolog Frida Felicia Vennerød-Diesen forteller oss hvordan rollene vi har i søskenflokken påvirker oss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/19be2e7e-ad5f-4719-be2e-7ead5f671947_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/19be2e7e-ad5f-4719-be2e-7ead5f671947_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:07</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
+    <item>
       <title>På hjertet: Les med Linnéa</title>
-      <description><![CDATA[Hvordan står det til med skjermtiden et år etter scrollechallenge? Linnéa oppsummerer måneden og har et mål hun vil invitere lytterne med på.]]></description>
+      <description><![CDATA[Hvordan står det til med skjermtiden ett år etter scrollechallenge? Linnéa oppsummerer måneden og har et mål hun vil invitere lytterne med på.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f7f4fe91-457c-42d8-b4fe-91457c72d886_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/f7f4fe91-457c-42d8-b4fe-91457c72d886_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:03</itunes:duration>
@@ -453,15 +462,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/a6278662-37ea-4ef4-a786-6237ea6ef4d4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:03</itunes:duration>
       <pubDate>Wed, 26 Nov 2025 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Presentasjonsangst</title>
-      <description><![CDATA[Hvordan blir man god på å snakke foran folk? Kommunikasjon- og formidlingstrener Berit Boman svarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:38</itunes:duration>
-      <pubDate>Wed, 19 Nov 2025 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>

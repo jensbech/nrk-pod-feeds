@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:40:19 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:36:54 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    <item>
+      <title>Luohti ilbmá filbmamáilbmai</title>
+      <description><![CDATA[Vuosttaš luohtemusikála lea ráhkaduvvon ja dat galgá čájehuvvot viidat máilmmis. Filbmadahkki Elle Sofe Sara galleda sáddaga.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/1abee20e-1f63-4bcb-bee2-0e1f631bcb88_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/1abee20e-1f63-4bcb-bee2-0e1f631bcb88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:58</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    </item>
     <item>
       <title>Romssa rittus Ruoŧa čearuide</title>
       <description><![CDATA[Vuolgge mielde fámolaš luohtemátkái. Dán oasis mis lea guossin artista ja juoigi Emil Karlsen.]]></description>
