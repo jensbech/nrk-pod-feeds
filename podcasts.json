@@ -1221,7 +1221,7 @@
         "id": "strid",
         "title": "Strid – de norske borgerkrigene",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "stroemwasenius",
