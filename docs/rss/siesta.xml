@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:49:43 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:24:41 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Annas hot take på statsbudsjett</title>
+      <description><![CDATA[Markus har marinert fingeren i wasabi, Anna tar en runde på statsbudsjettet og Daniel har med seg gamle trønder vitser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7b85c9af-4d80-4ab4-85c9-af4d800ab41a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7b85c9af-4d80-4ab4-85c9-af4d800ab41a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:59</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel legger Anna i bakken</title>
       <description><![CDATA[Ørjan Borre holder halloween-quiz for oss, tampongene har bytta farge og Anna utfordrer Daniel til å legge henne i bakken.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/cf0fcdd8-f0bb-4c9b-8fcd-d8f0bbac9b51_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:04</itunes:duration>
       <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 15: Ikke snakk sånn til meg</title>
-      <description><![CDATA[Markus har sendt folk på Johnny Logan cruise, det blir late night stand-up og Daniel tolker Anna i verste mening.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/b1b432da-f617-438b-b432-daf617838be5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/b1b432da-f617-438b-b432-daf617838be5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:35</itunes:duration>
-      <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
