@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:24:41 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:26:38 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Klarer Markus å kjøpe tampong?</title>
+      <description><![CDATA[Det blir lattermildt i spalte-spalten, Daniel koser seg med nynning i kontorlanskapet og Markus forlater studio for tampongkjøp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/13ef2be7-82ac-451a-af2b-e782ac251a0b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/13ef2be7-82ac-451a-af2b-e782ac251a0b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:11</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Annas hot take på statsbudsjett</title>
       <description><![CDATA[Markus har marinert fingeren i wasabi, Anna tar en runde på statsbudsjettet og Daniel har med seg gamle trønder vitser.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/ddd54d2f-37db-46f0-954d-2f37db36f079_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:53</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 16: En perfekt gård</title>
-      <description><![CDATA[Anna ramser opp sin imaginære gård, hva betyr dussemang og hvem lukter mest etter 16 timer sending?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/cf0fcdd8-f0bb-4c9b-8fcd-d8f0bbac9b51_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/cf0fcdd8-f0bb-4c9b-8fcd-d8f0bbac9b51_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:04</itunes:duration>
-      <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
