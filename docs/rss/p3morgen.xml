@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:37:50 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 09:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:54:00 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Voksenkjeft fra stortingspresidenten </title>
+      <description><![CDATA[Er det lov å si 6-7 på Stortinget? Vi skal bryte regler sammen med stortingspresidenten. Henning oppsummerer hva du FAKTISK trenger å forstå fra statsbudsjettet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9925cd65-3821-497f-9399-4429a656fc02_a570178b-26d3-4cbf-9f1d-0c764b04a039_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9925cd65-3821-497f-9399-4429a656fc02_a570178b-26d3-4cbf-9f1d-0c764b04a039_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:06</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_ylAUgcRKeiba828riPxjAhFVmaqVTeeD3cZDBVNYnhg.jpg"/>
+    </item>
     <item>
       <title>Vi har fått lydmeldinger!</title>
       <description><![CDATA[Kjøpte dine foreldre alkohol til deg før du ble 18? En fersk undersøkelse viser at det blir mer og mer vanlig. Vi må også snakke om at KI skal erstatte flere hundre ansatte i DNB.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Kattehuset og  Lommemannen</title>
-      <description><![CDATA[Jonas har fått bart, vi gir deg resultatet på voksengjemselen og vi mimrer tilbake til skumle  og lokale skikkelser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>
