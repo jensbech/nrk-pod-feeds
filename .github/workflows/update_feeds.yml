@@ -3,7 +3,8 @@ name: update-podcast-feeds
 on:
   workflow_dispatch:
   schedule:
-    - cron: '8 * * * *'
+    - cron: '8,38 4-21 * 4-10 *'
+    - cron: '8,38 5-22 * 11,12,1,2,3 *'
 
 jobs:
   update-feeds:
