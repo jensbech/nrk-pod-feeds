@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:36:54 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:40:47 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    <item>
+      <title>Boazodoallu ja luođit Alaskas</title>
+      <description><![CDATA[Sámit vulge Amerihkii gádjut Alaska eamiálbmogiid nealggis. Sii eai váldan fárrui dušše boazodoallomáhtu, muhto maiddái luđiid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/luois_luohti/9b861d2c-8a55-4c85-861d-2c8a551c8592_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/9b861d2c-8a55-4c85-861d-2c8a551c8592_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:59</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA.jpg"/>
+    </item>
     <item>
       <title>Luohti ilbmá filbmamáilbmai</title>
       <description><![CDATA[Vuosttaš luohtemusikála lea ráhkaduvvon ja dat galgá čájehuvvot viidat máilmmis. Filbmadahkki Elle Sofe Sara galleda sáddaga.]]></description>

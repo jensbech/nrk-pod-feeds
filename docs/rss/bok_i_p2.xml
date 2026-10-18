@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:40:00 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:37:59 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Vetle Lid Larsen: – Vi er fortiden</title>
+      <description><![CDATA[Vetle Lid Larsen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:41</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oc-j01bax5flhpDElTFtnwuV0lY5Vvu9NrAksll68VeA.jpg"/>
+    </item>
+    <item>
+      <title>Line Baugstø: Demens og skilsmisse</title>
+      <description><![CDATA[Hennes mann ble syk og døde. Midt i sorgen skrev Line Baugstø en underholdende roman om skilsmisse og demens.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/915a26e2-7a6d-4578-9e4a-4368e7e4496e_26e20a04-7ac4-4f5c-90d1-3016247a46cf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/915a26e2-7a6d-4578-9e4a-4368e7e4496e_26e20a04-7ac4-4f5c-90d1-3016247a46cf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sof0gn8mhk4hmmieDEw5fwP2Fkgr7PukbDXWD8ch5JMg.jpg"/>
+    </item>
     <item>
       <title>Kim Leine: Sekt, overgrep, røtter</title>
       <description><![CDATA[I «Olavs hus» graver Kim Leine i sin mørke slektshistorie. Fra fjøshore til brutal overlevelse.]]></description>
@@ -477,24 +495,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>55:43</itunes:duration>
       <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3J9Y_YDKP3sQy_2mXtNIXgTx5jZWYleakXnK0PpUSpvQ.jpg"/>
-    </item>
-    <item>
-      <title>Det startet med forråtnelse</title>
-      <description><![CDATA[Johan B. Mjønes skriver fra kvinnene sitt perspektiv, men er egentlig opplevelsene så annerledes?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/6ca5e4ec-2570-4765-8e9d-3ea96f75e930_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/6ca5e4ec-2570-4765-8e9d-3ea96f75e930_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:14</itunes:duration>
-      <pubDate>Fri, 02 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5V_wHj8H11gNaDlnb_xYFAwAuHJMNX6yTxpeUTw1ie6g.jpg"/>
-    </item>
-    <item>
-      <title>– Hver roman blir min siste!</title>
-      <description><![CDATA[Det er nemlig ikke ufarlig å skrive. Sara Stridsberg, en Nordens største forfattere, ble lam fra nakken og ned etter bok om partert kvinne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/73d03714-76d7-42ca-8b7f-90475bec2bc1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/73d03714-76d7-42ca-8b7f-90475bec2bc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:29</itunes:duration>
-      <pubDate>Fri, 25 Apr 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/d29iiW_CZyjmetokieBP2QXP5-9xACz_MqL5iXBry_yQ.jpg"/>
     </item>
   </channel>
 </rss>

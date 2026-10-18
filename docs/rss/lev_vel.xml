@@ -8,13 +8,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:36:42 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:40:22 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
     <item>
+      <title>Linnéa leser: «Slutt å la alt gå innpå deg»</title>
+      <description><![CDATA[Funker selvhjelpsbøker? Linnéa drar oss gjennom «Slutt å la alt gå innpå deg» av Daniel Chidiac.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/036bff92-c38f-4848-abff-92c38f0848d4_700a2100-3b25-4132-a85e-363c5c8d52ab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/036bff92-c38f-4848-abff-92c38f0848d4_700a2100-3b25-4132-a85e-363c5c8d52ab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:16</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EHd_j77WU-STdBipOc_pqgtGVWvFuPPzkCmKGT_2lGeg.jpg"/>
+    </item>
+    <item>
+      <title>Medisinerer vi vanlige følelser?</title>
+      <description><![CDATA[Hjelper Paracet mot angst og uro? Og hvorfor øker bruken av legemidler blant unge? Lege Kari Løvendahl Mogstad svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/83b5ad1f-62df-4346-b5ad-1f62df234689_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/83b5ad1f-62df-4346-b5ad-1f62df234689_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:33</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
+    <item>
       <title>Søskenflokken: Kan rekkefølgen definere deg?</title>
-      <description><![CDATA[Hvorfor har den eldste ofte høyest IQ? Utviklingspsykolog Frida Felicia Vennerød-Diesen forteller oss hvordan rollene vi har i søskenflokken påvirker oss.]]></description>
+      <description><![CDATA[Hvorfor har den eldste ofte høyest IQ? Forsker med doktorgrad i utviklingspsykologi Frida Felicia Vennerød-Diesen forteller oss hvordan rollene vi har i søskenflokken påvirker oss.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/19be2e7e-ad5f-4719-be2e-7ead5f671947_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/19be2e7e-ad5f-4719-be2e-7ead5f671947_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:07</itunes:duration>
@@ -444,24 +462,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/56ecc613-50a8-427d-acc6-1350a8527d0f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:48</itunes:duration>
       <pubDate>Wed, 03 Dec 2025 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Linnéa leser: Alt jeg har lært av Nicolai Tangen</title>
-      <description><![CDATA[Linnéa har lest en ny bok, «Alt jeg har lært om ledelse» av Nicolai Tangen, og er overrasket over hva hun satt igjen med.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a694c780-cc63-43e0-94c7-80cc63e3e055_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a694c780-cc63-43e0-94c7-80cc63e3e055_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:56</itunes:duration>
-      <pubDate>Mon, 01 Dec 2025 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
-    </item>
-    <item>
-      <title>Bakrus</title>
-      <description><![CDATA[Kan man unngå den verste fyllesyken? Kjemiker Alexander Sandtorv forklarer hvilke grep du kan ta og hva som bare er myter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a6278662-37ea-4ef4-a786-6237ea6ef4d4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a6278662-37ea-4ef4-a786-6237ea6ef4d4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:03</itunes:duration>
-      <pubDate>Wed, 26 Nov 2025 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>

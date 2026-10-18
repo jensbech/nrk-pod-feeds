@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:53:04 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:40:09 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Midtlivskrise - med Ingelin Røssland</title>
+      <description><![CDATA[- Eg veit det er galskap det eg har sett i gang, fortel forfattaren Ingelin Røssland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/d268ecb2-2c8d-4f7a-9478-11666015424b_d95162f1-8e5e-427e-9bb9-cad311acbedd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d268ecb2-2c8d-4f7a-9478-11666015424b_d95162f1-8e5e-427e-9bb9-cad311acbedd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:54</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
+    </item>
+    <item>
+      <title>Enkelt - med Julie Killingberg</title>
+      <description><![CDATA[- VI er blitt for glad i å gjøre alt så enkelt som mulig. Det ikke lurt, mener Julie Killingberg. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9f9fcf3a-e04f-4736-9e05-d0b72e712341_9309c10e-0284-47c3-acc8-677f52b8cc4e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9f9fcf3a-e04f-4736-9e05-d0b72e712341_9309c10e-0284-47c3-acc8-677f52b8cc4e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:51</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QuJ-8g-H9W4qlIAWribQngatcWiFuMaq-qy9QgaE_ioA.jpg"/>
+    </item>
     <item>
       <title>Kontakt Kveldstanker</title>
       <description><![CDATA[Bruk send inn-knappen om du vil kontakte oss i Kveldstanker. Kom med ris og ros, og tips om folk du vil høre fortelle.]]></description>
@@ -443,24 +461,6 @@
       <itunes:duration>02:28</itunes:duration>
       <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
-    </item>
-    <item>
-      <title>Berlinmuren - med Lena Lindahl</title>
-      <description><![CDATA[En østtysk brevvenn lærte forfatter Lena Lindahl at vi nordmenn ikke bør ta friheten vår for gitt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9db48a13-44c0-464d-b48a-1344c0b64dda_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9db48a13-44c0-464d-b48a-1344c0b64dda_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:36</itunes:duration>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Frokosthusa - med Gunn Marit Nisja</title>
-      <description><![CDATA[Kos, varme og omsorg smitter mer enn du tror, hevder forfatter Gunn Marit Nisja. Til og med gjennom et vindu.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/80ca2356-4b4c-4874-8a23-564b4c18745d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/80ca2356-4b4c-4874-8a23-564b4c18745d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:14</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q.jpg"/>
     </item>
   </channel>
 </rss>

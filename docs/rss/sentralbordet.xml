@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:54:17 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:41:56 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    <item>
+      <title>Ole Henry cosplayer kriminell</title>
+      <description><![CDATA[Vegard drømmer fortsatt om en platting på Island, «John Arne Riise» har en klage til en leketøysbutikk, en usedvanlig trivelig fyr forhører seg om en bil, og Ole Henry, som for tiden er husløs på grunn av vannlekkasje, blir oppringt av forsikringsselskapet med litt ny info.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:45</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    </item>
     <item>
       <title>Live er ufrivillig Farmen-diva</title>
       <description><![CDATA[Den nye manageren til Live har store planer, en møbelinteressert dame vil bleke håret, Steinar og Kari har reist til England, og Catrin Sagen ringer en nybakt pappa.]]></description>

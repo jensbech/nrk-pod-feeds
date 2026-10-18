@@ -8,12 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:36:49 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 19:30:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:39:58 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
     <item>
-      <title>Jaktdrapet i Halden: Dette vet vi</title>
+      <title>Kvinnen som ikke vil dø</title>
+      <description><![CDATA[Christa Gail Pike blir dømt til døden, og føres inn i et henrettelseskammer. Men så går noe galt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/f64d6ef8-f2e0-448b-b0a4-02c9811d41ea_0f970563-a2c0-48ce-82a3-2de3c73dfd9a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f64d6ef8-f2e0-448b-b0a4-02c9811d41ea_0f970563-a2c0-48ce-82a3-2de3c73dfd9a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:15</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aYbp4qbR0tCqbMGpmI9MZg_rFGFIXk3G6yq_-avjkv4g.jpg"/>
+    </item>
+    <item>
+      <title>Clancy (3): «Patrick did it!»</title>
+      <description><![CDATA[Lindsay Clancy er tiltalt for å ha drept barna sine – men på internett florerer teoriene om en helt annen gjerningsmann. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6a71d6d1-5ef3-49ab-8bdd-70e03b4a460e_71f79399-b314-4634-83ea-b13e95b6eb08_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6a71d6d1-5ef3-49ab-8bdd-70e03b4a460e_71f79399-b314-4634-83ea-b13e95b6eb08_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TDOLI_bbx7TRvSSy8GRNCAqsAjmWDfUfJSi71Gz5EZRA.jpg"/>
+    </item>
+    <item>
+      <title>Cornell: Hva er egentlig sant?</title>
+      <description><![CDATA[I flere uker har ansiktene til sju unge menn herjet på internett. Hva har egentlig skjedd i Cornell-saken? Og er det innafor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/117b939f-cd70-4d78-bd34-ccded230685f_ae71667b-b775-46b7-9b3f-6e9bc373e5cd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/117b939f-cd70-4d78-bd34-ccded230685f_ae71667b-b775-46b7-9b3f-6e9bc373e5cd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:02</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iQaYefP2T4Pv_v0Kjl96rAsXS-f3r94QxJ8ccxnEUwfA.jpg"/>
+    </item>
+    <item>
+      <title>Jaktdrapet i Halden: Hva skjedde?</title>
       <description><![CDATA[Søndag morgen våkner Halden opp til drapsalarm. To voksne menn, far og sønn, har mistet livet. Men ble de tilfeldig utvalgt?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/14515e38-bab5-4b18-915e-38bab5ab18a6_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/14515e38-bab5-4b18-915e-38bab5ab18a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -22,11 +49,11 @@
       <itunes:image href="https://gfx.nrk.no/kQe-RoEu715lE0wqGFV20Q7XZN4zLZjMxfh1lBHhGW4g.jpg"/>
     </item>
     <item>
-      <title>Realitystjerne drept: Var det sjalusi?</title>
+      <title>Hvorfor ble realitystjerna drept? </title>
       <description><![CDATA[Utad virker Rolf og Janne som et lykkelig par, de poserer i matchende antrekk på Instagram og kjøper drømmehuset. Så endrer alt seg.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/e86973b2-5c57-473e-a973-b25c57573efb_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/e86973b2-5c57-473e-a973-b25c57573efb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:13</itunes:duration>
+      <itunes:duration>36:10</itunes:duration>
       <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ub2X3WEmG7u_bVnmaDkIFAoFbB2XrTVAhNtqvbi4lfgA.jpg"/>
     </item>
@@ -434,33 +461,6 @@
       <itunes:duration>23:23</itunes:duration>
       <pubDate>Thu, 19 Feb 2026 19:13:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jFiEQLAgUpGG-k7eNbvXHg6LJ1rPA2_eIRhTdmkhXzcA.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (8): Sprit-taxi, drikkelek og tips til politiet</title>
-      <description><![CDATA[Retten fikk i dag høre en kvinne forklare seg om nach hos en reality-kjendis som endte med drikke fra sprit-taxi og en natt med Marius Borg Høiby.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/5832fe23-8988-47c8-b2fe-23898817c894_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/5832fe23-8988-47c8-b2fe-23898817c894_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:21</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C8Dpu0iwaZnmxsED7xXvCwiGh22FxjRWATk2DsBeCr6g.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (7): Brudd, blackout og drikkelek på nach</title>
-      <description><![CDATA[En fuktig kveld på byen ender med et nach, en revnet t-skjorte og en voldtekts-tiltale.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/62dbb533-a148-4dc0-9bb5-33a148fdc074_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/62dbb533-a148-4dc0-9bb5-33a148fdc074_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:32</itunes:duration>
-      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Tm-ICdNUe-GpuYv2Jxyl0AZYViOPUmcWgRMsAU4HGOTw.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (6): Hardkjør fra statsadvokaten</title>
-      <description><![CDATA[Statsadvokaten hadde et tydelig mål for dagen i retten: Bygge ned bildet av personen Marius Borg Høiby.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/ad15fb6f-70cb-4fe0-95fb-6f70cbffe075_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/ad15fb6f-70cb-4fe0-95fb-6f70cbffe075_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:25</itunes:duration>
-      <pubDate>Wed, 11 Feb 2026 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fK3C_15nZDHNvZ5XLGOQTQjkHg0yDEFxCMcvjaLHaiXA.jpg"/>
     </item>
   </channel>
 </rss>

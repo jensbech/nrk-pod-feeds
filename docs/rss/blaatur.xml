@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:08:48 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:37:50 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA.jpg"/>
+    <item>
+      <title>Et farlig møte i borettslaget</title>
+      <description><![CDATA[En trist telefon fra en gammel kompis. Christians nedrige legetime. Alt som gikk galt på Olavs ferie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/blaatur/780ecc19-2667-4b07-afaf-7d7d6d00c7b8_0e2f8e9c-47d9-477f-a231-40ee1e759eb7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/780ecc19-2667-4b07-afaf-7d7d6d00c7b8_0e2f8e9c-47d9-477f-a231-40ee1e759eb7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:32</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA.jpg"/>
+    </item>
     <item>
       <title>Jeg kommer ikke inn i jenta mi</title>
       <description><![CDATA[Olav har gjenopplevd et barndomstraume. Vi gjør vår egen vri på "Boktober". Christian er svett.]]></description>

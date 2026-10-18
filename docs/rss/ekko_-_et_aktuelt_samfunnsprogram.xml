@@ -11,10 +11,47 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:25:28 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:38:55 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>- Verdens mest slitsomme jobb</title>
+      <description><![CDATA[Ny pressetalskvinne klar i USA, men løy hun første dag på jobb? Olje på Grønland og russisk dieselavtale. USA-eksperter svarer lyttere og oppsummerer uka i Trumps USA
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/98a86b2b-c45d-4234-bcbf-6875ea872fb8_6fbe0f3e-8c43-4670-ab6f-846c4262db9e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/98a86b2b-c45d-4234-bcbf-6875ea872fb8_6fbe0f3e-8c43-4670-ab6f-846c4262db9e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:22</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fMmw4NN78tUHuRzFufJBlQCitqsyhdOCmKySSCGBH6AQ.jpg"/>
+    </item>
+    <item>
+      <title>Spør Ekko om ungdomskriminalitet</title>
+      <description><![CDATA[Kva dreg barn inn i kriminelle nettverk, og korleis hjelper vi dei ut? Ekspertane svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fb1ca898-38c4-4bd8-8e4c-e9ae8084542d_7e0ced19-7d6b-4f3f-86b8-94d205454251_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fb1ca898-38c4-4bd8-8e4c-e9ae8084542d_7e0ced19-7d6b-4f3f-86b8-94d205454251_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:01</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-4M9b7qIWYpPgLY2PSTRxgkSfQTg6jJLeQRJc4-1terQ.jpg"/>
+    </item>
+    <item>
+      <title>Straumsvoltne datasenter</title>
+      <description><![CDATA[Vi står i spagaten mellom behovet for arbeidsplassar og digitale tenester, og frykta for tapt natur og kraftmangel. Kva om vi seier nei til å byggje fleire datasenter i Noreg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0e9dcea-aa1c-42aa-ab6c-8d96d160a884_f2877ff9-b17c-4a63-893d-c18c156a0304_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0e9dcea-aa1c-42aa-ab6c-8d96d160a884_f2877ff9-b17c-4a63-893d-c18c156a0304_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:23</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EHye_2zsU-YthIeyPhYqSg6FMe34P3r3ZvLrKcQBc9cg.jpg"/>
+    </item>
+    <item>
+      <title>- Menn må ta samtalen</title>
+      <description><![CDATA[Hvorfor snakker ikke flere menn om overgrep? Seksuelle overgrep er et stort samfunnsproblem, men det er ofte kvinnene selv som må løfte debatten. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/22e7de41-cb2d-447f-aff0-8eb6c1a12959_ce12d493-aea3-4401-bf48-e6269f6c186d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/22e7de41-cb2d-447f-aff0-8eb6c1a12959_ce12d493-aea3-4401-bf48-e6269f6c186d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:31</itunes:duration>
+      <pubDate>Mon, 12 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-9J2l_prmEvQRwch1isODAbIkoFLd01yOH3tpw6CCvJg.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: På friarferd igjen</title>
       <description><![CDATA[Trump dansar på nye folkemøte før mellomvalet, men er historisk upopulær. Vi ser på kontrastane i USA før valet.
@@ -429,42 +466,6 @@
       <itunes:duration>23:37</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yvTRkdZzHFzu7zgfzxsgfwlF-j5f-gJ3bOV3WOTE-l8Q.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: VM med bismak</title>
-      <description><![CDATA[Fotball-VM byrjar i dag, men vertslandet USA stikk kjepper i hjula for fleire. Vi oppsummerer siste veka med Trump.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4e2c77b9-952c-4cad-ac77-b9952c5cad86_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4e2c77b9-952c-4cad-ac77-b9952c5cad86_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:41</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k0QXmtq9bI0GGdtGnBnPrQ20A9bS_ptPKlQnYbuOcUJw.jpg"/>
-    </item>
-    <item>
-      <title>Fotball kun for de rike?</title>
-      <description><![CDATA[Det koster titusenvis av kroner for barn å spille fotball. Hva skjer når fotballen forsvinner fra "løkka" og blir proff tidlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9b03432c-5a86-4120-8343-2c5a863120c1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9b03432c-5a86-4120-8343-2c5a863120c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:10</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 13:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/htNuoy7ntKuOrYmbModWaQ_El0O0SSjrXWjg04FjF_cw.jpg"/>
-    </item>
-    <item>
-      <title>Pride: Fest eller politikk?</title>
-      <description><![CDATA[Juni er Pride-måneden. Pride er både rettighetskamp og brennhet kulturdebatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:06</itunes:duration>
-      <pubDate>Tue, 09 Jun 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Wwx_OWonQNwx9CMAI9wrqA4ibF3npK02tHMYVUfKJo9g.jpg"/>
-    </item>
-    <item>
-      <title>Ytre høgre + venstre = sant?</title>
-      <description><![CDATA[Demokratane er i ei identitetskrise. Løner det seg å alliere seg med ein tidlegare Trump-støttespelar for å vinne valet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4332f7e3-c5f7-46d1-b2f7-e3c5f706d114_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4332f7e3-c5f7-46d1-b2f7-e3c5f706d114_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:42</itunes:duration>
-      <pubDate>Mon, 08 Jun 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ddL3fuBGdZN1BMpilh81twBPijpv1EeX5LGFmsuV1GJg.jpg"/>
     </item>
   </channel>
 </rss>
