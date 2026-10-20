@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:38:09 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:34:04 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Opptøyer i Frankrike</title>
+      <description><![CDATA[Statsministeren har bedt flere kommuner om å innføre portforbud fra mandag kveld.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YoLhUbsCs45ez8kC4Dgh1gnYfGPfowOY0tgwiSAlkXDA.jpg"/>
+    </item>
     <item>
       <title>Foxtrot-rettssaker</title>
       <description><![CDATA[To unge nordmenn er henholdsvis dømt og tiltalt for drapsplanlegging, og kan ende med å bli straffet totalt ulikt.]]></description>
@@ -455,15 +464,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:01</itunes:duration>
       <pubDate>Mon, 10 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6iZf69qoV4W1eCZtiChwlwjlDph9AJm7F-xED5mBjcoQ.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen lover raskere kraftutbygging</title>
-      <description><![CDATA[Rødt mener at det ikke vil gi lavere strømpriser, mens Frp reagerer på det de kaller ensidig satsing på vindkraft.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/acffafce-c226-45a0-bfaf-cec226e5a0b6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/acffafce-c226-45a0-bfaf-cec226e5a0b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Fri, 07 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z-VhNsedJIuD4bDSiL55_Q2v1URlw-OHmjWIS0rzpKCw.jpg"/>
     </item>
   </channel>
 </rss>

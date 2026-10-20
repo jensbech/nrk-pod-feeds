@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:42:07 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:37:09 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna hater motorsykler</title>
+      <description><![CDATA[Markus har en konspirasjon om en kjendis, Daniel har sett en mann med banan i plast og Anna er forbanna på motorsyklister.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2008ae2e-2a54-4281-88ae-2e2a54a281f9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/2008ae2e-2a54-4281-88ae-2e2a54a281f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:19</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
+      <title>Anna kysser Daniels kjæreste</title>
+      <description><![CDATA[Det blir ubehagelig når Daniel skal sitte i en cuckingstol, Finn Glede konfronterer Karsten Blomvik og ukas dumfette skal kåres.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6fe422e5-eb4e-478b-a422-e5eb4e578bfa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6fe422e5-eb4e-478b-a422-e5eb4e578bfa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:54</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna intervjuer Ingar Helge Gimle</title>
       <description><![CDATA[Anna var fanget på Rema 1000, det blir TV-aksjonen spesial i Quizvang og ikke minst et revolverintervju av Ingar Helge Gimle.]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:42</itunes:duration>
       <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 24: VI GREIDE DET</title>
-      <description><![CDATA[Vi har sendt radio i 24 timer! I den siste timen får du vite hvilken hatt Daniel skal erstatte capsen med og en siste Quizvang<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/eb1748aa-9ee5-45a7-9748-aa9ee595a7c2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/eb1748aa-9ee5-45a7-9748-aa9ee595a7c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:02</itunes:duration>
-      <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 23: Markus sitt første ligg</title>
-      <description><![CDATA[Henning har intervjua hun som Markus mista jomfrudommen sin til, og er camping smæsj eller bæsj?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/91b80137-5c02-4f2c-b801-375c027f2c34_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/91b80137-5c02-4f2c-b801-375c027f2c34_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:30</itunes:duration>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

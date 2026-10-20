@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:37:07 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:33:03 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Bli hos meg - Kristin N. Mork</title>
+      <description><![CDATA[Det var mye med kong Haralds gravferd som rørte mange. Også Kristin Nordvoll Mork har sitt øyeblikk derfra, som hun vil dele.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/84d3a35e-61aa-42a9-a49f-11daeb4270c3_dfcebe86-798a-4188-be23-7f9d366e0ae2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/84d3a35e-61aa-42a9-a49f-11daeb4270c3_dfcebe86-798a-4188-be23-7f9d366e0ae2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:39</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YHOQbH3LpG5zI_mVkDS5pQyWmLw9bhaTUxwKpQZVC1aQ.jpg"/>
+    </item>
+    <item>
+      <title>Kronisk klovn - Kristin N Mork</title>
+      <description><![CDATA[Om du sjøl sliter, men må prestere, så hjelper det mye at din prestasjon betydde noe for noen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/c3f9011d-229d-4c84-882a-fdc3b299621e_df3640c8-8ead-49be-959e-f68069059b74_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/c3f9011d-229d-4c84-882a-fdc3b299621e_df3640c8-8ead-49be-959e-f68069059b74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:48</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YHOQbH3LpG5zI_mVkDS5pQyWmLw9bhaTUxwKpQZVC1aQ.jpg"/>
+    </item>
     <item>
       <title>Trafikklys - Silje Aune Meisal</title>
       <description><![CDATA[Verden er mer komplisert enn enkle regler. Av og til kan du lure på om du heller bør bryte en regel enn å overholde den.]]></description>
@@ -442,24 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/96286b89-2511-4ef1-a86b-8925111ef191_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>04:06</itunes:duration>
       <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oX3ylNHY7NUlIREaxUHheAplyXTaS8uftOf9CNy7RjdA.jpg"/>
-    </item>
-    <item>
-      <title>Vardebål - Trygve Skaug</title>
-      <description><![CDATA[Vi må snakke mer om at ingen er aleine om å slite med de tyngste tankene. Tenne vardebål for hverandre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/5884fcb3-ab7d-4985-84fc-b3ab7d598593_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/5884fcb3-ab7d-4985-84fc-b3ab7d598593_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:56</itunes:duration>
-      <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oX3ylNHY7NUlIREaxUHheAplyXTaS8uftOf9CNy7RjdA.jpg"/>
-    </item>
-    <item>
-      <title>Soloppganger - Trygve Skaug</title>
-      <description><![CDATA[Alle soloppganger bringer med seg en ny dag. Det skjer ti av ti ganger, og soloppgangen er velkommen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/ba44f188-c649-4db7-84f1-88c649bdb72f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/ba44f188-c649-4db7-84f1-88c649bdb72f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:43</itunes:duration>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oX3ylNHY7NUlIREaxUHheAplyXTaS8uftOf9CNy7RjdA.jpg"/>
     </item>
   </channel>
