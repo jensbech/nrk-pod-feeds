@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:37:09 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:40:31 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus fikk rotte på skoen </title>
+      <description><![CDATA[Daniel irriterer dritten ut av Anna, man skal alltid hilse på bussjåføren og Markus har hatt ellevilt møte med en rotte. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3aaaac2e-70af-424e-a522-5a7470ea7bb6_8f29514e-173d-404f-be28-05f970d63abf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3aaaac2e-70af-424e-a522-5a7470ea7bb6_8f29514e-173d-404f-be28-05f970d63abf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna hater motorsykler</title>
       <description><![CDATA[Markus har en konspirasjon om en kjendis, Daniel har sett en mann med banan i plast og Anna er forbanna på motorsyklister.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:43</itunes:duration>
       <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Vi er tilbake!</title>
-      <description><![CDATA[Sommeren er over, Siesta er i gang! Vi får besøk av Chavad El Bacardi fra Gjøvik og Anna skal på sinnemestring med psykolog.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:42</itunes:duration>
-      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

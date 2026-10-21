@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:39:48 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:39:24 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 14:41:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Trump og Zelenskyj: Kan Norge redde forholdet?</title>
+      <description><![CDATA[Donald Trump påstår usant at Ukraina ikke vil ha fredsavtale. Nå øker presset mot Zelenskyj, som har vært i Oslo for å ha fredssamtaler. Kan forholdet mellom Trump og Zelenskyj reddes? Eller er det for seint?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b119f9bc-9f0e-464f-aef4-43239860b9a1_d858ef76-5090-4fac-b70a-1046a359a291_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b119f9bc-9f0e-464f-aef4-43239860b9a1_d858ef76-5090-4fac-b70a-1046a359a291_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:34</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 14:41:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JAeFljMtZANPaMdcVMcIdQg_hhsiBxY3-9mAH-PPEOsA.jpg"/>
+    </item>
     <item>
       <title>Atomvåpen og oljefondet: – Penger viktigere enn etikk</title>
       <description><![CDATA[Utvalg vil at oljefondet skal kunne investere i atomvåpen. Har penger og inntjening blitt mye viktigere enn etikk? 
@@ -493,16 +502,6 @@ Og gullprisen har aldri vært høyere. En urolig verden får skylden, men hva be
       <itunes:duration>38:42</itunes:duration>
       <pubDate>Thu, 29 Jan 2026 14:13:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/TyVMBn2rDvCFDNLCIaHslguJWw5teh877JkazeVmPiCw.jpg"/>
-    </item>
-    <item>
-      <title>Trumps tale: – Verste jeg har sett</title>
-      <description><![CDATA[Selvskryt, løgner og Europa-fornærmelser. Donald Trumps tale i Sveits skaper sterke reaksjoner. 
-Og Trump sier han ikke vil ta Grønland med makt, men hva betyr det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/6c68e949-4b38-4a98-a8e9-494b385a98d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/6c68e949-4b38-4a98-a8e9-494b385a98d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 21:33:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w0D6862s6iQtvAjV_Y4B8QdKztd3UubKZXydc-yV8khA.jpg"/>
     </item>
   </channel>
 </rss>

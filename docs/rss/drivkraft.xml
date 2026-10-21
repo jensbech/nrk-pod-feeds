@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:34:21 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 13:50:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:38:36 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Mia Habib</title>
+      <description><![CDATA[– At familien min er fra Israel er noe jeg sjelden sier, forteller den jødiske danseren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0q3UvyMkBontjbntla9NagKymPNr5kcfH6E1WUaGB2hw.jpg"/>
+    </item>
     <item>
       <title>Dag-Inge Ulstein</title>
       <description><![CDATA[Partilederen begynte å tvile på Gud da familien ble rammet av alvorlig sykdom,  og oppsøkte Snåsamannen.]]></description>
@@ -454,15 +463,6 @@ Influenseren i jordskjelvdrama. Husket å filme, glemte å evakuere.]]></descrip
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Tue, 05 May 2026 13:11:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jD0n5pq5-JZucR-FZHDilQcKFe01F2vtNQOsdHQhILVg.jpg"/>
-    </item>
-    <item>
-      <title>Henriette Westhrin</title>
-      <description><![CDATA[- Fattige land må betale prisen for at rike vestlige land ruster opp, mener generalsekretæren i Redd Barna]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/9ec83992-a89f-4539-8839-92a89f85392e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/9ec83992-a89f-4539-8839-92a89f85392e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:12</itunes:duration>
-      <pubDate>Mon, 04 May 2026 13:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HBTtRHja_1hdTN4k5_zstQCH6KjLLmL-OaGlSUpnE6OA.jpg"/>
     </item>
   </channel>
 </rss>
