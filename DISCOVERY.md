@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2026-10-21  
+- Updated podcast '22. JULI - Hvordan kunne det skje?' (`22_juli_-_hvordan_kunne_det_skje`)  
+- Updated podcast 'Harald V' (`harald_v`)  
+- Updated podcast 'Kringkastingsorkestret ' (`kringkastingsorkestret_`)  
 ### 2026-10-07  
 - Updated podcast 'Tyrann' (`tyrann`)  
 ### 2026-10-07  

@@ -3,7 +3,7 @@
         "id": "22_juli_-_hvordan_kunne_det_skje",
         "title": "22. JULI - Hvordan kunne det skje?",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "72_timer",
@@ -381,7 +381,7 @@
         "id": "harald_v",
         "title": "Harald V",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "hei_nabo",
@@ -615,7 +615,7 @@
         "id": "kringkastingsorkestret_",
         "title": "Kringkastingsorkestret ",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "kroppen",
