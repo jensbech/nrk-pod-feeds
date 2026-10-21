@@ -10,10 +10,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:37:43 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:18:51 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Johannes' åpenbaring (40:40)</title>
+      <description><![CDATA[Er det en drøm? Er det en syretripp? Eller er det Guds plan for verdens undergang og for en ny himmel og en ny jord?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/e80187b3-bb8a-483f-8187-b3bb8ae83fc9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/e80187b3-bb8a-483f-8187-b3bb8ae83fc9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:20</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nmIbSD23oxZnnmFTm24-pwiZ3nXrR2E8q7c3ZHuAmz7w.jpg"/>
+    </item>
     <item>
       <title>Paulus – Operasjon helomvending (39:40)</title>
       <description><![CDATA[Paulus blir ny. Og Den hellige ånd sier sin eneste replikk.]]></description>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:42:18 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:22:07 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Et banner må brenne!</title>
+      <description><![CDATA[Fotball: Vi kårer topp 3 norske supporterøyeblikk. 1. plassen ble en nyhetssak i India. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/36f362b6-cd02-4e06-9743-a94b381ec273_02486ea8-8362-4ecd-a469-d0718a65d6b6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/36f362b6-cd02-4e06-9743-a94b381ec273_02486ea8-8362-4ecd-a469-d0718a65d6b6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:18</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>Fire m-høns</title>
       <description><![CDATA[Rögle-spilleren Tinus Luc Koblar går i tydelig forvar for sin mor, City-fansen kjører på med en snart 40år gammel bananreferanse, og vi rangerer pep-talks.]]></description>

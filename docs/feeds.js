@@ -3,7 +3,7 @@ const feeds = [
     "id": "22_juli_-_hvordan_kunne_det_skje",
     "title": "22. JULI - Hvordan kunne det skje?",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/eGYtTeon_zJerCDeHobBDw2kVrCWPeG1GwtbjjGEPPCA.jpg"
   },
   {
@@ -417,7 +417,7 @@ const feeds = [
     "id": "harald_v",
     "title": "Harald V",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"
   },
   {
@@ -672,7 +672,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg.jpg"
   },
   {
