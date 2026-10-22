@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:55:23 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:48:08 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ungdomsprotester i Europa</title>
+      <description><![CDATA[I Serbia ventes store demonstrasjoner før søndagens parlamentsvalg. I Albania er de unge ansvarlige for voldsomme protester mot presidenten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/90f57a6b-0f54-46ec-aafe-1df7a71abcc3_360212d8-5e22-4ccb-9a91-9074f25e39ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/90f57a6b-0f54-46ec-aafe-1df7a71abcc3_360212d8-5e22-4ccb-9a91-9074f25e39ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3p903HkYV5kZr3koFErmxgF_OPYmq34mb5_h69JTvX9Q.jpg"/>
+    </item>
     <item>
       <title>Russland vil gjenoppta forhandlinger</title>
       <description><![CDATA[Russland ønsker å starte forhandlinger med USA og Ukraina i november. Samtalene kan finne sted i Abu Dhabi i De forente arabiske emirater,.]]></description>
@@ -455,15 +464,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:00</itunes:duration>
       <pubDate>Thu, 13 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7Akdjq94OJsAh_shfyoFawJUu4vLjZ94x3w2VObLEtyQ.jpg"/>
-    </item>
-    <item>
-      <title>PST advarer</title>
-      <description><![CDATA[Politiets sikkerhetstjeneste (PST) ser økt nettverksbygging og flere mindreårige som eksponeres for ekstrem islamisme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/22718814-c2ef-49f8-b188-14c2ef99f875_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/22718814-c2ef-49f8-b188-14c2ef99f875_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:12</itunes:duration>
-      <pubDate>Wed, 12 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/un-Guw_OB-rYgalFWe1wBAggledGbpJMoGZ_dLz4lOyg.jpg"/>
     </item>
   </channel>
 </rss>
