@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:18:40 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:21:34 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Samvittighet - Kristin N. Mork</title>
+      <description><![CDATA[Vi klarer ikke å gjøre alt riktig hver gang og hele tiden. Det kan være slitsomt for den som lett får dårlig samvittighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/75cb337e-ae60-4833-bb33-9a904b333e74_f744bbd9-0789-45c3-8148-e9766bcae6fa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/75cb337e-ae60-4833-bb33-9a904b333e74_f744bbd9-0789-45c3-8148-e9766bcae6fa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:43</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YHOQbH3LpG5zI_mVkDS5pQyWmLw9bhaTUxwKpQZVC1aQ.jpg"/>
+    </item>
     <item>
       <title>WWJD - Kristin N. Mork</title>
       <description><![CDATA[Et smykke eller et armbånd kan være et signal til andre, om hvem du er og hva du står for. Men å bære dem kan også koste litt.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/074fdebd-350a-4dd7-8fde-bd350addd702_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:46</itunes:duration>
       <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
-    </item>
-    <item>
-      <title>Salme 23 - Kristina Myhren</title>
-      <description><![CDATA[Salme 23 har du helt sikkert hørt. En salme fra Bibelen som utgjør en bærebjelke for mange.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/bb89dbac-ff3b-4fe7-89db-acff3bffe77f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/bb89dbac-ff3b-4fe7-89db-acff3bffe77f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
     </item>
   </channel>
