@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:21:27 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:39:41 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Elsparkesykkel-lureri!</title>
+      <description><![CDATA[Oliver Bergset er gjesteprogramleder i dag, han er med i Norges dummeste, og vi skal sjekke om han også er P3morgens dummeste. Han og Jonas føler seg også dumme på elsparkesykkel ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/974cc4c1-7682-409a-866f-0c6fee551850_a757ea29-da4c-4313-b020-2b05c41f460c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/974cc4c1-7682-409a-866f-0c6fee551850_a757ea29-da4c-4313-b020-2b05c41f460c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:39</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CaAqSqMae5HF4TFigiMRbwLJJgNzKreCCYonTKZPrN4A.jpg"/>
+    </item>
     <item>
       <title>Den verste versjonen av bursdagssangen?</title>
       <description><![CDATA[Jonas har hørt en variant av bursdagssangen han synes er forferdelig, er vi ikke alle enige om hvordan vi skal synge bursdagssangen. Lytter Selma har sendt fyllasnaps til crushet og ber oss om hjelp. ]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Vi tester chipskomboer</title>
-      <description><![CDATA[Er potetgull og brun saus en god kombo! Nå mener flere at brun saus er den nye holidaydippen, og i dag skal vi endelig teste det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:50</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
     </item>
   </channel>
 </rss>
