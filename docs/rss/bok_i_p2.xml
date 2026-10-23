@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:37:59 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:17:30 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
     <item>
-      <title>Vetle Lid Larsen: – Vi er fortiden</title>
-      <description><![CDATA[Vetle Lid Larsen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.]]></description>
+      <title>Maria Navarro Skaranger- Emily gjør så godt hun kan</title>
+      <description><![CDATA[Maria Navarro Skaranger om ubrukelige og fjerne fedre, usikre alenemødre og hvorfor hun nå ser seg ferdig med karakterene i "Jeg kommer hjem"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6_60fdf1ea-b606-429f-ab4f-a4ac365f7408_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6_60fdf1ea-b606-429f-ab4f-a4ac365f7408_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:06</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k5MuJ7Zik1UOSTyrwgLuFwIK4NsaRIc2WdCA9XJ4YTtA.jpg"/>
+    </item>
+    <item>
+      <title>Vetle Lid Larssen: – Vi er fortiden</title>
+      <description><![CDATA[Vetle Lid Larssen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:41</itunes:duration>
@@ -486,15 +495,6 @@ Siste bok: «Blodbank».]]></description>
       <itunes:duration>56:09</itunes:duration>
       <pubDate>Fri, 16 May 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-bp5latD6AGosr_e3__9JgVyj5yFmTIHkIT48N2ohhHQ.jpg"/>
-    </item>
-    <item>
-      <title>Rune Christiansen: Mysteriet døden</title>
-      <description><![CDATA[Christiansen skriver om mennesker som karrer seg på beina igjen etter store tap. Siste bok: «Tragedie under drivende skyer».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/2a20c675-2046-4443-a7f5-aa3c7375eaff_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/2a20c675-2046-4443-a7f5-aa3c7375eaff_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:43</itunes:duration>
-      <pubDate>Fri, 09 May 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3J9Y_YDKP3sQy_2mXtNIXgTx5jZWYleakXnK0PpUSpvQ.jpg"/>
     </item>
   </channel>
 </rss>

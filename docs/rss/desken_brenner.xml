@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:38:25 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:17:46 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Mens vi venter på Putin</title>
+      <description><![CDATA[Zelenskyj har vært i Oslo – IGJEN. Helsearbeidere nekter å vaksinere seg. Peppa Gris drar til Nordhaug gård i Bærum.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/62bbea77-d48f-4e1d-9213-06e6531c3664_8284a5b9-13ca-470d-8bf7-5c0da2bad50f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/62bbea77-d48f-4e1d-9213-06e6531c3664_8284a5b9-13ca-470d-8bf7-5c0da2bad50f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:57</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>En nærhandels død</title>
       <description><![CDATA[En ny avtale helle diesel på bålet til Trump og Putin. Jorda roterer raskere. Nærbutikkene står i fare etter statsbudsjettforslaget. ]]></description>
@@ -453,15 +462,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/a230e6de-dc94-43e0-b0e6-dedc9413e030_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:00</itunes:duration>
       <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Kimono og cowboystøvler</title>
-      <description><![CDATA[Durek går hardt ut mot kongefamilien. Sommerkroppen går ut over rikets sikkerhet. Lillehammer-par går og blir trakassert av et samlet ski- og sykkelmiljø.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/474381fe-fee9-4b45-8381-fefee90b452a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/474381fe-fee9-4b45-8381-fefee90b452a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:23</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>

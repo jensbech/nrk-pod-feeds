@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:19:54 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 06:40:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:19:05 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Tilsto drap - er han uskyldig?</title>
+      <description><![CDATA[Douglas Carter tilsto å ha drept danske Eva på 80-tallet. Men etter 41 år i fengsel gjør nye DNA-funn at han blir løslatt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9_621011eb-918a-42c8-b040-a1655bed7fe2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9_621011eb-918a-42c8-b040-a1655bed7fe2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:12</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HZvnWSzaP4rcjfwIEVqmswspuC_ffjCsuePwco5Pj71w.jpg"/>
+    </item>
     <item>
       <title>Tenåring dømt: Skulle drepe på bestilling</title>
       <description><![CDATA[19-åringen fra Stavanger ble fjernstyrt av Foxtrot. Nå risikerer han å sitte 20 år i britisk fengsel. ]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>32:58</itunes:duration>
       <pubDate>Tue, 24 Feb 2026 22:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/wl9luqPdCwjJZMDk9W2YbgzmleW682MD7F4PrOwHSaDA.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (10): Dette sa Haukland om volden</title>
-      <description><![CDATA[Ekskjæresten forklarte seg om vold, trusler og krenkelser i tiden hun var sammen med Marius Borg Høiby.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/4c936795-67b1-4083-9367-9567b17083ce_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/4c936795-67b1-4083-9367-9567b17083ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:29</itunes:duration>
-      <pubDate>Fri, 20 Feb 2026 22:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4t4LuC7UCdYG4fK6qgWokAKvlXd8qTe1REk16o1zeVWg.jpg"/>
     </item>
   </channel>
 </rss>
