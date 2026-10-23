@@ -8,10 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:39:24 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 14:41:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:24:32 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 15:32:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Vold og opptøyer: Hvorfor er Europas unge så sinte?</title>
+      <description><![CDATA[I flere og flere land i Europa er folk sinte og demonstrerer. Mange av de sinte er unge, og flere steder har det blitt voldelig.
+Hva handler disse demonstrasjonene, denne volden om? Hvor langt vil de gå?
+Og kan det føre til endringer?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/69e64c49-b110-4cfa-8fd1-ab287a66fc7f_36bdab16-1424-479f-b7f1-17fe330efc84_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/69e64c49-b110-4cfa-8fd1-ab287a66fc7f_36bdab16-1424-479f-b7f1-17fe330efc84_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 15:32:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6SYT7nmK7lH_AnqQtGXmoAO45lEHq89A4E8J3JJoW53A.jpg"/>
+    </item>
     <item>
       <title>Trump og Zelenskyj: Kan Norge redde forholdet?</title>
       <description><![CDATA[Donald Trump påstår usant at Ukraina ikke vil ha fredsavtale. Nå øker presset mot Zelenskyj, som har vært i Oslo for å ha fredssamtaler. Kan forholdet mellom Trump og Zelenskyj reddes? Eller er det for seint?]]></description>
@@ -492,16 +504,6 @@ Rettelse: I en tidligere versjon av episoden ble det sagt at Mette-Marit skrev t
       <itunes:duration>25:22</itunes:duration>
       <pubDate>Sun, 01 Feb 2026 16:06:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/gPXetWUUjNOIqFs4W4HkIAfCdPhOyQguFybkrQsMZtqQ.jpg"/>
-    </item>
-    <item>
-      <title>Har USA fått nok av ICE?</title>
-      <description><![CDATA[Kritikken mot Donald Trump øker og øker. Har amerikanerne fått nok? Og hva er det Trump endrer nå? 
-Og gullprisen har aldri vært høyere. En urolig verden får skylden, men hva betyr det egentlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/51158caa-29bb-41b9-958c-aa29bba1b99c_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/51158caa-29bb-41b9-958c-aa29bba1b99c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:42</itunes:duration>
-      <pubDate>Thu, 29 Jan 2026 14:13:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TyVMBn2rDvCFDNLCIaHslguJWw5teh877JkazeVmPiCw.jpg"/>
     </item>
   </channel>
 </rss>
