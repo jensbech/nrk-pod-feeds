@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:41:15 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:50:41 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Nepo-Norge</title>
+      <description><![CDATA[Norske milliardærer forarger panelet, Støres sønn er «posterboy» for ny alternativbølge, og kan Lego kurere angst?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a2083e24-1fc7-4f47-ba35-792bdeb7c5b6_0d026e09-b73f-47e1-a051-56ad8b340714_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a2083e24-1fc7-4f47-ba35-792bdeb7c5b6_0d026e09-b73f-47e1-a051-56ad8b340714_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Ubudne gjester</title>
       <description><![CDATA[Foxtrot infiltrerer norske barnehjem, mistenkelige innbrudd hos finske regjeringsmedlemmer og svensk trubadur kastet av t-banen.]]></description>
@@ -456,15 +466,6 @@ Og hvorfor blir Greta Thunberg utpekt som antikrist? ]]></description>
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/429631ae-21f9-4955-9631-ae21f9e9552b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:02</itunes:duration>
       <pubDate>Sat, 20 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
-    </item>
-    <item>
-      <title>Svikefull svenske</title>
-      <description><![CDATA[Svensk kjendispar forteller vill utroskapshistorie, høyresida både vant og tapte valget i Norge, og snart blir Märtha og Durek TV-serie!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fbef7db-3be9-4eb8-bef7-db3be9aeb8ca_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fbef7db-3be9-4eb8-bef7-db3be9aeb8ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 13 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
     </item>
   </channel>
