@@ -8,27 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:42:12 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:07:17 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VRXWIsafdxLtlNKk4mVP1wK5xciXPKQgQEXSpGduJv0A.jpg"/>
     <item>
-      <title>1. Dagny «Backbeat»</title>
-      <description><![CDATA[Hun går på tomgang i London med langt brunt hår og melankolsk gitar. Men et dramatisk stilskifte gir et internasjonalt gjennombrudd over natta.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/8d83e550-b2f5-4641-83e5-50b2f5a6414c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spor/8d83e550-b2f5-4641-83e5-50b2f5a6414c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:23</itunes:duration>
-      <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tywjx5yBbmOKiSs-Zf9uuQokhs6vaiuNA4cus79FIvaQ.jpg"/>
+      <title>1. Mari Boine «It šat Duolmma Mu»</title>
+      <description><![CDATA[Mye ble undertrykt i barndommen. Noen irske rockere rister løs raseriet hennes i låta «Ikke faen om du tråkker på meg mer!».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/234e9912-21c6-4705-abf5-4e43ad986905_22ce6f33-c309-43b0-ac65-04a51001ce49_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spor/234e9912-21c6-4705-abf5-4e43ad986905_22ce6f33-c309-43b0-ac65-04a51001ce49_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:01</itunes:duration>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2X0pCwKwhZsu5N56JH0NpAl46---U1_CPoN-H6XL8iVA.jpg"/>
     </item>
     <item>
-      <title>2. Dagny «Somebody»</title>
-      <description><![CDATA[Hun må gi opp popstjerne-drømmen i USA. Hjemme i Norge får hun gnisten tilbake i Drammen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/f323c20d-62e9-4ce5-a3c2-0d62e95ce571_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spor/f323c20d-62e9-4ce5-a3c2-0d62e95ce571_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:23</itunes:duration>
-      <pubDate>Sun, 18 Oct 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tywjx5yBbmOKiSs-Zf9uuQokhs6vaiuNA4cus79FIvaQ.jpg"/>
+      <title>2. Mari Boine «Mu Eadni»</title>
+      <description><![CDATA[En streng kristen oppvekst setter såre spor, så en låt til mamma tar mange år å fullføre. Men hvorfor blir hun så rørt av Tupac?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spor/a1d419b5-da1f-4275-8817-d00a23ba47d6_1fd7e2e2-73f2-45f2-94ac-2764c87664f9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spor/a1d419b5-da1f-4275-8817-d00a23ba47d6_1fd7e2e2-73f2-45f2-94ac-2764c87664f9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:08</itunes:duration>
+      <pubDate>Sun, 25 Oct 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2X0pCwKwhZsu5N56JH0NpAl46---U1_CPoN-H6XL8iVA.jpg"/>
     </item>
   </channel>
 </rss>

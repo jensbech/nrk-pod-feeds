@@ -281,7 +281,7 @@ const feeds = [
     "id": "fantorangenfortellinger",
     "title": "Fantorangenfortellinger",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ.jpg"
   },
   {
@@ -295,14 +295,14 @@ const feeds = [
     "id": "fantorangens_vitseshow",
     "title": "Fantorangens vitseshow",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA.jpg"
   },
   {
     "id": "fantus_og_lydene",
     "title": "Fantus og lydene",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA.jpg"
   },
   {
@@ -410,7 +410,7 @@ const feeds = [
     "id": "hallo_bablo",
     "title": "Hallo Bablo",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw.jpg"
   },
   {
@@ -1218,7 +1218,7 @@ const feeds = [
     "id": "skiklubben",
     "title": "Skiklubben",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA.jpg"
   },
   {
@@ -1354,7 +1354,7 @@ const feeds = [
     "id": "supertroett",
     "title": "Supertrøtt",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw.jpg"
   },
   {

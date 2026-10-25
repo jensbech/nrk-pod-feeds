@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:25:06 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:07:37 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Sugardaddy og dobbeltliv</title>
+      <description><![CDATA[Hvorfor er sladrekjerringer løsningen for å forhindre utroskap, og hvem bør tjene mest i et forhold? Panelet bryner seg på innsendte dilemmaer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/73530f6d-a4b5-40f8-b3a7-14b5509e921a_2ba3015e-22ea-4f3f-b3aa-bde95cfbfd29_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/73530f6d-a4b5-40f8-b3a7-14b5509e921a_2ba3015e-22ea-4f3f-b3aa-bde95cfbfd29_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:52</itunes:duration>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw.jpg"/>
+    </item>
     <item>
       <title>Carina Dahl: Å forsikre seg</title>
       <description><![CDATA[Carina Dahl fikk et ekstra stort behov for å forsikre seg om at hun hadde valgt riktig partner før hun gikk inn i et seriøst forhold.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>42:47</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/K_1GirdfPjWqAYLJ3AL8aQBihpGjZCYZTNF-POoxJh8A.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Tiggekopp og gruppeterapi</title>
-      <description><![CDATA[Panelet får besøk av Lisa Tønne og diskuterer: Skal Selma ta en pause fra dating, og når bør man egentlig ta praten om barn?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/625ca279-af10-4b98-9ca2-79af10fb9857_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/625ca279-af10-4b98-9ca2-79af10fb9857_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:39</itunes:duration>
-      <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
     </item>
   </channel>
 </rss>
