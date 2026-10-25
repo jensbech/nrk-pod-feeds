@@ -1,4 +1,11 @@
 # Podcast Discovery Changelog  
+### 2026-10-25  
+- Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
+- Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  
+- Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
+- Updated podcast 'Hallo Bablo' (`hallo_bablo`)  
+- Updated podcast 'Skiklubben' (`skiklubben`)  
+- Updated podcast 'Supertrøtt' (`supertroett`)  
 ### 2026-10-21  
 - Updated podcast '22. JULI - Hvordan kunne det skje?' (`22_juli_-_hvordan_kunne_det_skje`)  
 - Updated podcast 'Harald V' (`harald_v`)  
