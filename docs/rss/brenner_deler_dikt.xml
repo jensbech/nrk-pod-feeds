@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 21 Jun 2026 08:30:22 +0000</lastBuildDate>
-    <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:45:15 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 15:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Nye episoder kommer snart!</title>
+      <description><![CDATA[Brenner deler dikt er tilbake 28. oktober!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/e70142d3-9a87-48da-ab46-a3230e6ecd0c_399f0171-dbc8-4565-adb7-19a7f943a160_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/e70142d3-9a87-48da-ab46-a3230e6ecd0c_399f0171-dbc8-4565-adb7-19a7f943a160_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:30</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    </item>
     <item>
       <title>Thea Sofie Loch Næss: Hva er kjærlighet?</title>
       <description><![CDATA[I en bruktbutikk i Sverige fant skuespilleren noe helt spesielt.]]></description>
@@ -520,16 +529,6 @@ Ukas dikt er et utdrag fra Tor Ulvens diktsamling "Forsvinningspunkt" ]]></descr
       <itunes:duration>21:16</itunes:duration>
       <pubDate>Sat, 13 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iI7U1O7W-kQ9_Rg_2qDI1ArDBJPsAlQDa1wLF-X_8K3Q.jpg"/>
-    </item>
-    <item>
-      <title>Sarah Zahid: Lei av mitt eget forventningspress</title>
-      <description><![CDATA[Suksesspoet Sarah Zahid har skyhøye krav til seg selv både som student og  poet. Nå øver hun på å ta fri fra sine egne forventninger og nyte hvor deilig det er å ha fri og bare være glad.
-Ukas dikt  er  "Det vanskeligste" av  Hans Børli]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/8fa0162f-ec8d-4f60-b6bc-428f797a8a42_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/8fa0162f-ec8d-4f60-b6bc-428f797a8a42_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:21</itunes:duration>
-      <pubDate>Sat, 06 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wI-B426sKxjWvIpKAiKxMAK2XtePKGnzVk2eXg8W3MaQ.jpg"/>
     </item>
   </channel>
 </rss>

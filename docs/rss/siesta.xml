@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:25:26 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:46:58 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     <item>
+      <title>Markus vokser rumpa</title>
+      <description><![CDATA[Daniel har vært i Serbia, noen ble innelåst på butikken og det blir ubehagelig når Markus får rumpa voksa av profesjonelle. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5d0ec4dc-53a3-47e7-b2b2-fc89bd9f15ba_2504cecc-358a-4823-928b-5b159f9d05bc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5d0ec4dc-53a3-47e7-b2b2-fc89bd9f15ba_2504cecc-358a-4823-928b-5b159f9d05bc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:54</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
+    <item>
       <title>Daniel intervjuer Iselin Guttormsen </title>
-      <description><![CDATA[Markus deler ferie personlighet fra fortiden, Daniel må snakke om sex med Iselin Guttormsen og hva betyr glopp? ]]></description>
+      <description><![CDATA[Markus deler feriepersonlighet fra fortiden, Daniel må snakke om sex med Iselin Guttormsen og hva betyr glopp? ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/765ac8eb-0281-461d-91c5-767747aa781d_d850781d-4cfe-4a85-9533-bbf16583bf20_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/siesta/765ac8eb-0281-461d-91c5-767747aa781d_d850781d-4cfe-4a85-9533-bbf16583bf20_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:40</itunes:duration>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/606ce293-6891-4db7-ace2-9368916db70e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:59</itunes:duration>
       <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Norges mest komplette by</title>
-      <description><![CDATA[Det blir rykende fersk stand up fra Markus, hva er den beste byen i Norge og er det forsvarlig at 16-åringer bor alene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:38</itunes:duration>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
