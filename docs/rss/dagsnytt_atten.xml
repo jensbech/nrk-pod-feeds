@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 18:41:27 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:36:11 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Studentene vant valget i Serbia</title>
+      <description><![CDATA[Men hvem skal styre landet nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9f9e641c-1edc-4093-a613-99cf7f466526_5485940e-72ac-404d-a1b5-cef9da2809a3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9f9e641c-1edc-4093-a613-99cf7f466526_5485940e-72ac-404d-a1b5-cef9da2809a3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jCrK7wfy43Bx1yum52TPcgwSsbvV9DKE9HJHLgGxr7dA.jpg"/>
+    </item>
     <item>
       <title>Valgkamp i USA</title>
       <description><![CDATA[- Den mest kyniske valgkampen noensinne, sier kommentator om det forestående mellomvalget i USA.]]></description>
@@ -455,15 +464,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>58:48</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3ovw1gidnMg3Cgr2LOPjRgAtzmjRng6mBi5CmWmBR5KA.jpg"/>
-    </item>
-    <item>
-      <title>LO-topp og Rødt advarer</title>
-      <description><![CDATA[Fellesforbundet og Rødt advarer regjeringen mot å røre norgespris. Støre kan ikke garantere dagens nivå etter nyttår.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ca166775-1d39-4029-9667-751d39802938_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ca166775-1d39-4029-9667-751d39802938_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:53</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4S1c8SOyKSVKE4iK-90R1Ar1rwecWJuD6kgxQn5_Bd4g.jpg"/>
     </item>
   </channel>
 </rss>
