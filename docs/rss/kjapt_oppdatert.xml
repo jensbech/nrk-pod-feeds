@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:18:48 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:03:08 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>I dag begynner egenberedskapsuka</title>
+      <description><![CDATA[Og det har vært valg i både Brasil og Serbia]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/67acb6df-879c-42e9-b9d3-7c9eceffc311_772fd585-25b7-43a2-b492-642661893fdc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/67acb6df-879c-42e9-b9d3-7c9eceffc311_772fd585-25b7-43a2-b492-642661893fdc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:06</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMtYey3b20ROBA0yrLq9qgWYCu2HMtAmreAxTPtO950g.jpg"/>
+    </item>
     <item>
       <title>Venter «krigstilstander» i Frankrike i helga</title>
       <description><![CDATA[Og husk: på søndag stiller vi klokka (godt med en time ekstra på øyet)]]></description>
@@ -455,15 +464,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:39</itunes:duration>
       <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0XRBBg6ZrgDSmqvIvhdIrgC-JWaQiaHL20WJBwdxcDgA.jpg"/>
-    </item>
-    <item>
-      <title>Kongen behandles for blodsykdom</title>
-      <description><![CDATA[Og mange kommuner bryter loven.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/9bb26e66-d1b5-40b4-b26e-66d1b540b43b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/9bb26e66-d1b5-40b4-b26e-66d1b540b43b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:20</itunes:duration>
-      <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QtgaLcBFotDQUUpWLWACVAgYAyRH9ew8aKVpfxbCxc1w.jpg"/>
     </item>
   </channel>
 </rss>

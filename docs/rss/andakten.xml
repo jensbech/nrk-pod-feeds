@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:21:34 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:01:58 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Vitnesbyrd - Thor Haavik</title>
+      <description><![CDATA[Når man er en ung, har funnet idretten som betyr mest i livet der og da, er det tungt når kroppen sier noe helt annet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/ccfd2893-96b8-4a2d-8bc8-5e95933dad41_93809441-a4be-44bf-8642-a600d604f98f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/ccfd2893-96b8-4a2d-8bc8-5e95933dad41_93809441-a4be-44bf-8642-a600d604f98f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:00</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Samvittighet - Kristin N. Mork</title>
       <description><![CDATA[Vi klarer ikke å gjøre alt riktig hver gang og hele tiden. Det kan være slitsomt for den som lett får dårlig samvittighet.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/da809d18-77c0-4cd9-809d-1877c01cd961_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:56</itunes:duration>
       <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
-    </item>
-    <item>
-      <title>Ensom sommer - Kristina Myhren</title>
-      <description><![CDATA[Man kan studere folk som beveger seg ute. Men går det an å se hvem av dem som er ensomme, og hvem som ikke er det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/074fdebd-350a-4dd7-8fde-bd350addd702_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/074fdebd-350a-4dd7-8fde-bd350addd702_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:46</itunes:duration>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
     </item>
   </channel>

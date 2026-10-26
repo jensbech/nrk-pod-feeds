@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:19:51 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:04:02 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Trumps helse: Konspirasjonsteorier eller sannhet?</title>
+      <description><![CDATA[Ryktene florerer rundt presidentens helsesituasjon. Slik jakter amerikanere på svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/392118f2-b612-49dd-b352-5655fb717c83_d43e9a74-3414-4823-b0ef-7c5f546e13dc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/392118f2-b612-49dd-b352-5655fb717c83_d43e9a74-3414-4823-b0ef-7c5f546e13dc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JBgOzzUfZHFS-2Pn8D2ASA6kn-FHO_GNuk2WU0qO5zzg.jpg"/>
+    </item>
     <item>
       <title>Valg i Israel: Generalen som kan velte Netanyahu</title>
       <description><![CDATA[Han mistet sønnen i Gaza. Kan han endre Israel?]]></description>
@@ -454,15 +463,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>14:27</itunes:duration>
       <pubDate>Fri, 21 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jRCTVafTllCmvZYG5ZspOAI72ubMlTtlE2Aj_ao5b4oA.jpg"/>
-    </item>
-    <item>
-      <title>Streamet selvskading: Hva skjedde med Perez Hilton?</title>
-      <description><![CDATA[Kjendisbloggeren Perez Hilton var en av verdens mest fryktede sladrekonger før han lovet å bli snill. Nå er han selv i fokus etter en dramatisk direktesending.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6f20bd94-de2f-46c9-a0bd-94de2f96c9a7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6f20bd94-de2f-46c9-a0bd-94de2f96c9a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:55</itunes:duration>
-      <pubDate>Thu, 20 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fETtcP16CBCnTvIdYs3dJAje8nWAWHiMrTLsf0x5NBfg.jpg"/>
     </item>
   </channel>
 </rss>
