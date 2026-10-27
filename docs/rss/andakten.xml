@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:01:58 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:45:32 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Lys i mørke - Thor Haavik</title>
+      <description><![CDATA[Dagene er ulike for oss alle, og det hjelper å finne støtte et sted når ting virker å være som aller vanskeligst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/37a23797-ec86-4b87-8936-b9d01904a475_cb18a109-48b6-4913-a04b-07b56b2a86e8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/37a23797-ec86-4b87-8936-b9d01904a475_cb18a109-48b6-4913-a04b-07b56b2a86e8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:08</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Vitnesbyrd - Thor Haavik</title>
       <description><![CDATA[Når man er en ung, har funnet idretten som betyr mest i livet der og da, er det tungt når kroppen sier noe helt annet.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/365cc997-d376-493e-9cc9-97d376993e97_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:32</itunes:duration>
       <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
-    </item>
-    <item>
-      <title>Mio min Mio - Kristina Myhren</title>
-      <description><![CDATA[Ikke alle vokser opp med erfaringen av å bli sett og elsket slik de burde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/da809d18-77c0-4cd9-809d-1877c01cd961_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/da809d18-77c0-4cd9-809d-1877c01cd961_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:56</itunes:duration>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
     </item>
   </channel>

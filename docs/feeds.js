@@ -130,7 +130,7 @@ const feeds = [
     "id": "brenner_deler_dikt",
     "title": "Brenner deler dikt",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"
   },
   {
@@ -1503,6 +1503,13 @@ const feeds = [
     "season": null,
     "enabled": true,
     "image": "https://gfx.nrk.no/HOQkv7LxO8m8DmTKlvgBawREJjcTvrX4s7418QG7pJZA.jpg"
+  },
+  {
+    "id": "venner_som_moetes_ukentlig",
+    "title": "Venner som møtes ukentlig",
+    "season": null,
+    "enabled": false,
+    "image": "https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw.jpg"
   },
   {
     "id": "verden_paa_loerdag",

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:03:08 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:46:47 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Skoler merker en vekst i antall elever med spesielle behov</title>
+      <description><![CDATA[Og i går ble gullballen delt ut]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/bed9dada-7dc9-4f5f-b777-486da752c999_cbbf1060-a059-4065-929c-434a62f971dd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/bed9dada-7dc9-4f5f-b777-486da752c999_cbbf1060-a059-4065-929c-434a62f971dd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:16</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hzrT4fssK3SB57Q9CCa78QUizSxJw-fLBgqKBj7xsCvA.jpg"/>
+    </item>
     <item>
       <title>I dag begynner egenberedskapsuka</title>
       <description><![CDATA[Og det har vært valg i både Brasil og Serbia]]></description>
@@ -455,15 +464,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:54</itunes:duration>
       <pubDate>Thu, 20 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/a3ozAbm_alRz8aH8cLZSLQgDlwjr8L-_uM3sMxaG9WDA.jpg"/>
-    </item>
-    <item>
-      <title>Kripos vil ha aldersgrense i sosiale medier</title>
-      <description><![CDATA[Og et busselskap i Sverige fjerner valgreklame etter protest fra sjåfører.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/5e139772-0236-4310-9397-720236a31001_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5e139772-0236-4310-9397-720236a31001_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:39</itunes:duration>
-      <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0XRBBg6ZrgDSmqvIvhdIrgC-JWaQiaHL20WJBwdxcDgA.jpg"/>
     </item>
   </channel>
 </rss>
