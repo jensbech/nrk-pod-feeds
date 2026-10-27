@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-10-27  
+- Updated podcast 'Brenner deler dikt' (`brenner_deler_dikt`)  
+- Added podcast 'Venner som møtes ukentlig' (`venner_som_moetes_ukentlig`)  
 ### 2026-10-25  
 - Updated podcast 'Fantorangenfortellinger' (`fantorangenfortellinger`)  
 - Updated podcast 'Fantorangens vitseshow' (`fantorangens_vitseshow`)  

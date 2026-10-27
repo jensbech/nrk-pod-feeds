@@ -117,7 +117,7 @@
         "id": "brenner_deler_dikt",
         "title": "Brenner deler dikt",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "brillebjoerns_kvissvas",
@@ -1390,6 +1390,12 @@
         "title": "Vassendgutane – brødre i boots",
         "season": null,
         "enabled": true
+    },
+    {
+        "id": "venner_som_moetes_ukentlig",
+        "title": "Venner som møtes ukentlig",
+        "season": null,
+        "enabled": false
     },
     {
         "id": "verden_paa_loerdag",
