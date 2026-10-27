@@ -1395,7 +1395,7 @@
         "id": "venner_som_moetes_ukentlig",
         "title": "Venner som møtes ukentlig",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "verden_paa_loerdag",
