@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:46:58 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:53:12 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Vi blir hjemsøkt </title>
+      <description><![CDATA[Det kommer et spøkelse i studio, Anna er forbanna på influenser-mødre og hvorfor har ingen telefonsvarer lenger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ee709c06-9c23-428b-8a66-eb302eae596f_9a5aeaac-eedf-408f-b3d8-103b91680d6d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/ee709c06-9c23-428b-8a66-eb302eae596f_9a5aeaac-eedf-408f-b3d8-103b91680d6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:37</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Markus vokser rumpa</title>
       <description><![CDATA[Daniel har vært i Serbia, noen ble innelåst på butikken og det blir ubehagelig når Markus får rumpa voksa av profesjonelle. ]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/c95cae6c-d3c9-46d8-9cae-6cd3c9c6d871_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:03</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna intervjuer A-kjendis</title>
-      <description><![CDATA[Markus gikk tom for papir på jobbdassen, vi forklarer ordet blask og Anna skal intervjue en rikskjendis uten å vite hvem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/606ce293-6891-4db7-ace2-9368916db70e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/606ce293-6891-4db7-ace2-9368916db70e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:59</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

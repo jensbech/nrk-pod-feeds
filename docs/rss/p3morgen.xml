@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:46:40 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:52:47 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Norge er et nisseland!</title>
+      <description><![CDATA[Bør vi være strengere med foreldre som ikke kjefter på barn? Arin lurer på om hun er den kjipe etter en lang og slitsom flytur. Markus mener at Norge er et nisseland som får filmer for sent]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a65089c7-7d2f-435f-8742-fc18a072f148_03154532-1dbd-4c90-9bec-a68112e8bbfc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a65089c7-7d2f-435f-8742-fc18a072f148_03154532-1dbd-4c90-9bec-a68112e8bbfc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:23</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PMw-Lnd9ZMN8CgBJyEUn_wAjtWHUQodkTXawycYRTHaA.jpg"/>
+    </item>
     <item>
       <title>Det store burgerdilemmaet</title>
       <description><![CDATA[Milddelmådig vikar Markus Vangen er med! Arin er tilbake på ferie, og vi har stilt klokken i helgen. Vi får også besøk av Marstein! Klarer han å yappe over alt?]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/1faff803-968c-468d-aff8-03968c868dcc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:29</itunes:duration>
       <pubDate>Fri, 04 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Hvem er best best på aura farming?</title>
-      <description><![CDATA[P3morgens extended cinematic universe er med og vi aura farmer!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/46f92819-8778-4c27-b928-1987788c2722_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/46f92819-8778-4c27-b928-1987788c2722_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:27</itunes:duration>
-      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
     </item>
   </channel>

@@ -1508,7 +1508,7 @@ const feeds = [
     "id": "venner_som_moetes_ukentlig",
     "title": "Venner som møtes ukentlig",
     "season": null,
-    "enabled": false,
+    "enabled": true,
     "image": "https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw.jpg"
   },
   {
