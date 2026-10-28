@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 27 Oct 2026 09:47:52 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:33:35 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Historisk val: No skal studentane styre Serbia</title>
+      <description><![CDATA[Dei tok makta frå Putins venn. Kva no?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5c86db01-a3d2-46c7-bdbc-f5c2868f4092_63abd6d6-acee-472f-9ade-ca05f547f73c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5c86db01-a3d2-46c7-bdbc-f5c2868f4092_63abd6d6-acee-472f-9ade-ca05f547f73c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:02</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HE65TQwS1VulpTnBjgnFzwHrHe4aBpzKn8u9Ukg9OMYA.jpg"/>
+    </item>
     <item>
       <title>Mapuche-folkets kamp mot den norske stat</title>
       <description><![CDATA[Millaray Huichalaf har kjempa i over 15 for å redda heilage område i Chile. No vil ho ha norsk selskap ut av landet.]]></description>
@@ -454,15 +463,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>17:27</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BGDajgI7OZYCL0NBeb_HsAuEBfkVsO7O-nDljqo7Uh0A.jpg"/>
-    </item>
-    <item>
-      <title>«Putins mareritt»: Mannen bak Ukrainas droner</title>
-      <description><![CDATA[På et hemmelig sted i Ukraina sitter mennene som er blitt en del av Ukrainas mektigste våpen i krigen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8f8e6437-61c5-45aa-8e64-3761c585aa6e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8f8e6437-61c5-45aa-8e64-3761c585aa6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:24</itunes:duration>
-      <pubDate>Mon, 24 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hbiJrLpGMVB1QbTrAbj79gPjNJ1r0X-fZCgEYYV46LAw.jpg"/>
     </item>
   </channel>
 </rss>

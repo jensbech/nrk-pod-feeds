@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 27 Oct 2026 09:45:32 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:30:49 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Aldri alene - Thor Haavik</title>
+      <description><![CDATA[Under et tv-opptak blir det pauser, og da kan deltakerne komme i prat om mye forskjellig. Blant annet om det å tro.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/94282a77-3984-47f2-bc33-fd698986ebaa_cba75955-15be-4a80-9f50-b9b4e6aa3570_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/94282a77-3984-47f2-bc33-fd698986ebaa_cba75955-15be-4a80-9f50-b9b4e6aa3570_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:45</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Lys i mørke - Thor Haavik</title>
       <description><![CDATA[Dagene er ulike for oss alle, og det hjelper å finne støtte et sted når ting virker å være som aller vanskeligst.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>03:09</itunes:duration>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EzU5Iaafpu9fFSkJzFBpmwkCLm4E1KlW-tehf6eDj4vA.jpg"/>
-    </item>
-    <item>
-      <title>Betingelser - Kristina Myhren</title>
-      <description><![CDATA[Det er ikke bare hunder som lærer via klassisk betinging. Vi mennesker lærer også av om vi får belønning eller ikke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/365cc997-d376-493e-9cc9-97d376993e97_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/365cc997-d376-493e-9cc9-97d376993e97_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:32</itunes:duration>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBr-0gw01UAF-mT52IFpMQYdAxoBnWckdcONjcRfWFUA.jpg"/>
     </item>
   </channel>
 </rss>
