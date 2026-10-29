@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:16:54 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 13:10:00 +0200</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:25:43 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 15:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>5-årsplanen er i gang</title>
+      <description><![CDATA[Fin (og optimistisk) tilbakemelding fra Dolor. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/21ff44e6-89f0-4e42-a3c3-355fa2073f3b_810d4c0f-03a7-4f67-974e-4be7eee9957f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/21ff44e6-89f0-4e42-a3c3-355fa2073f3b_810d4c0f-03a7-4f67-974e-4be7eee9957f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:56</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 15:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Simon Nitsche /  Silje Nordnes / Erik Solbakken</title>
       <description><![CDATA[TILBAKEMELDING: Hvordan går det med fråtsinga til Ester? / PROBLEMER: Fortapt mann / Flørteopplevelsen er ulik / Foreldrene våre har aldri møttes / Samtalene jeg kunne vært foruten / Vanskelig å få, begge veier / Jeg har begynt å ta avstand / Svigers pisser med døra åpen / Relasjoner, invitasjoner og selskap]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>25:23</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 16:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
-    </item>
-    <item>
-      <title>Pernille Sørensen / John Brungot / Frida Ånnevik</title>
-      <description><![CDATA[TILBAKEMELDING: Tanker rundt familiemåltidet / PROBLEMER: Ekornmassakren / Flytte eller risikere vennskapet? / Passer at jeg går ut på ting, kjære? / Make a move? / Kiling uten samtykke / To drømmer, én tidslinje – hjelp! / Gjentakelse av suksessferie, eller? / Følelsen av uendelig ensomhet / Hun klager aldri – og det plager meg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/e3eeff1b-dae6-4f29-aeff-1bdae6af29fc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e3eeff1b-dae6-4f29-aeff-1bdae6af29fc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:08:20</itunes:duration>
-      <pubDate>Sat, 25 Apr 2026 13:12:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jZRchI0RllA2Jhh3ayZ0qgVHSbomno6lwI3L0HtZwxVg.jpg"/>
     </item>
   </channel>
 </rss>
