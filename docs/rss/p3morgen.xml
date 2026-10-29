@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:33:49 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 11:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:54:01 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Vi er lei av KI-plakater!</title>
+      <description><![CDATA[Får du mindre lyst til å spise på en restaurant som bruker KI-matbilder? Vi må ta diskusjonen, sammen med anti KI-entusiast Christopher Pahle!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/36eca0bd-8162-438d-90f4-48412cf74c83_b57b1042-e050-4e28-8f6b-8cd0661cc956_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/36eca0bd-8162-438d-90f4-48412cf74c83_b57b1042-e050-4e28-8f6b-8cd0661cc956_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:02</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Jt1n-elrfYflhjN4URPSigz-Jt-zi4v0fdg9xDpTXh8g.jpg"/>
+    </item>
     <item>
       <title>Herbert Nordrum gjør norske memes posh</title>
       <description><![CDATA[Blir man automatisk diva av å jobbe med utenlandsk film? Skuespiller Herbert Nordrum kommer på besøk for å gi oss fasiten, og fortelle om da han bannet på amerikansk TV (som er veldig fy fy)]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/fae5f87a-942f-4cd0-ac7d-1fd24dbb9709_b119ed7f-7a58-4c20-94de-470d464e60e1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:57</itunes:duration>
       <pubDate>Wed, 28 Oct 2026 11:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PMw-Lnd9ZMN8CgBJyEUn_wAjtWHUQodkTXawycYRTHaA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/CYp6pIXLc3kh-fBxxyqRsQqwx1GU7KyKUrjG0sB3tjGA.jpg"/>
     </item>
     <item>
       <title>Norge er et nisseland!</title>
@@ -452,15 +461,6 @@
       <itunes:duration>41:09</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Markert av skarpskytter.</title>
-      <description><![CDATA[Arin har vært på harry-tur og kjøpt sauehoder og Henning deler en historie om da han ble siktet på av en skarpskytter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:30:49 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:51:26 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Bedre dager - Thor Haavik</title>
+      <description><![CDATA[Dagene kommer i alle farger og fasonger, og det vil alltid komme dager vi kan glede oss over og se fram imot.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/34df668d-994c-438f-9cb5-a944d5158ee4_19031e2a-5828-4ad3-86d3-ad11645f5fa6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/34df668d-994c-438f-9cb5-a944d5158ee4_19031e2a-5828-4ad3-86d3-ad11645f5fa6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:56</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw.jpg"/>
+    </item>
     <item>
       <title>Aldri alene - Thor Haavik</title>
       <description><![CDATA[Under et tv-opptak blir det pauser, og da kan deltakerne komme i prat om mye forskjellig. Blant annet om det å tro.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/bde6d829-0bfb-4878-a6d8-290bfb9878b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:05</itunes:duration>
       <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EzU5Iaafpu9fFSkJzFBpmwkCLm4E1KlW-tehf6eDj4vA.jpg"/>
-    </item>
-    <item>
-      <title>Møtes i godhet - Henrik Syse</title>
-      <description><![CDATA[Det er all grunn til å være skeptisk overfor falskhet og løgn, men først og fremst må vi møte andre med godhet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/12dee53a-0f2d-4101-9ee5-3a0f2df10107_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/12dee53a-0f2d-4101-9ee5-3a0f2df10107_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:09</itunes:duration>
-      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EzU5Iaafpu9fFSkJzFBpmwkCLm4E1KlW-tehf6eDj4vA.jpg"/>
     </item>
   </channel>
