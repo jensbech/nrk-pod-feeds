@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:21:12 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:52:57 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Bråktober: Kulturkrigen</title>
+      <description><![CDATA[Er advarsler om jihadister, transpersoner og kommunister nok til å stoppe den demokratiske bølgen? Og når startet egentlig kulturkrigen i USA?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/d614f970-8ba9-41f7-baae-467c4cc966d1_42777a2b-356a-4351-9fd0-31a4862b62c3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/d614f970-8ba9-41f7-baae-467c4cc966d1_42777a2b-356a-4351-9fd0-31a4862b62c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:05</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA.jpg"/>
+    </item>
     <item>
       <title>Bråktober: Milliardærenes mellomvalg</title>
       <description><![CDATA[Er det folkemakta eller pengemakta som avgjør årets mellomvalg? Thomas Seltzer og Hilde Restad om dyrtid, korrupsjon og vår tids røverbaroner.]]></description>
@@ -462,17 +471,6 @@ https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
       <itunes:duration>01:00:47</itunes:duration>
       <pubDate>Mon, 15 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TkVg5kYE-omghXbTQ9vvHw8AZ42JxrGUC4HIqTeIcB-w.jpg"/>
-    </item>
-    <item>
-      <title>Finn Skårderud</title>
-      <description><![CDATA[Han mistet autorisasjonen som psykiater på grunn av faglig svikt og manglende rolleforståelse. Så kollapset  han på kontoret og ble lagt inn på lukket psykiatrisk avdeling.
-
-Denne episoden er felt i Pressens Faglige Utvalg (PFU) for brudd på presseetikkens krav til integritet, uavhengighet og troverdighet. Les mer her: https://www.presse.no/pfu-basen/25-249AB]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/705c2481-af58-4f84-9c24-81af585f841b_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/705c2481-af58-4f84-9c24-81af585f841b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:28</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BjEl0kXTg9ntAWtElrA9WQzQDNIdGuMeY89k5KWpbkiQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:53:13 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:51:13 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Debatten: Skaper jo fremmedfrykt!</title>
+      <description><![CDATA[Debatten om innvandring er blitt et realityshow, der man aldri snakker om løsninger. Og hvorfor er det stuerent å kritisere muslimer, men «fy fy» å kritisere andre grupper?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/671bae0b-08f0-4866-b338-f3b7de6d71f3_ebbf4086-a295-4996-b67e-d2d08d6b50f7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/671bae0b-08f0-4866-b338-f3b7de6d71f3_ebbf4086-a295-4996-b67e-d2d08d6b50f7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:26</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Vy burde ansette foreldrene våre </title>
       <description><![CDATA[Når Vy sender konduktører på kurs for å skape ro og orden på toget, mener gjengen at de heller bør ansette foreldrene deres fra nittitallet.]]></description>
@@ -452,15 +461,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/983f4878-df0e-4a2b-bf48-78df0e7a2be7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:00</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Norge skårte mååål!</title>
-      <description><![CDATA[Ofte er de beste fotballsangene de minst opplagte. Det er for mye som skjer i juni! Alon tester vitser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/aa7e15ad-39d9-4e47-be15-ad39d92e4755_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/aa7e15ad-39d9-4e47-be15-ad39d92e4755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:26</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:17:46 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:49:43 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Vive la generell politisk misnøye!</title>
+      <description><![CDATA[Frankrike preges av utagerende demonstrasjoner. En mann har blitt låst inne i en matbutikk. Det er vanskelig å jobbe på tog.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/43fbac1d-da9f-4c0b-a006-0daf8944c1ce_b63afb32-8871-4602-bb8d-d52a5f5b80fb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/43fbac1d-da9f-4c0b-a006-0daf8944c1ce_b63afb32-8871-4602-bb8d-d52a5f5b80fb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:45</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Mens vi venter på Putin</title>
       <description><![CDATA[Zelenskyj har vært i Oslo – IGJEN. Helsearbeidere nekter å vaksinere seg. Peppa Gris drar til Nordhaug gård i Bærum.]]></description>
@@ -453,15 +462,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0c96dde2-8e0e-4499-96dd-e28e0e9499c7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:00</itunes:duration>
       <pubDate>Fri, 03 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Kelner, det er en drone i flyplassen min</title>
-      <description><![CDATA[Russiske(?) droner irriterer på flyplasser. Sarpsborg driter bokstavelig talt i Oslofjorden. En dame falt ned i en fersk, muslimsk grav.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/a230e6de-dc94-43e0-b0e6-dedc9413e030_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/a230e6de-dc94-43e0-b0e6-dedc9413e030_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:00</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>

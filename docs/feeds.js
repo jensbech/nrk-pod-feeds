@@ -451,7 +451,7 @@ const feeds = [
     "id": "historiske_kjendiser",
     "title": "Historiske kjendiser",
     "season": null,
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg.jpg"
   },
   {
