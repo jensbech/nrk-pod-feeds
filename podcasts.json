@@ -411,7 +411,7 @@
         "id": "historiske_kjendiser",
         "title": "Historiske kjendiser",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "hoera",
