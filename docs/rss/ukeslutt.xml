@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:17:52 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:53:01 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Korleis blei Halloween norsk?</title>
+      <description><![CDATA[Halloween har jobba seg inn på fast plass, også i den norske kalenderen. Kven kan vi skulde på - eller takke - for at i dag er den store skremmedagen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/741cfd6e-7d60-4a8b-b58d-7d999edce89f_eb3ee27b-3ce1-4528-8543-5079cbcd9f5a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/741cfd6e-7d60-4a8b-b58d-7d999edce89f_eb3ee27b-3ce1-4528-8543-5079cbcd9f5a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:20</itunes:duration>
+      <pubDate>Sat, 31 Oct 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zmqAwudZP1dOvctl88NI4A7SltSVqKPWvwyJZP2x3lhA.jpg"/>
+    </item>
     <item>
       <title>Oj, oj, oj - en blå ballong!</title>
       <description><![CDATA[Du har garantert hørt sangene hans. Denne uka ville Arne Bendiksen fylt 100 år.]]></description>
@@ -455,16 +464,6 @@ Men mye tyder på at det gikk bra med ungdommen.]]></description>
       <itunes:duration>01:04:27</itunes:duration>
       <pubDate>Sat, 08 Nov 2025 14:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/cvyYj-ybljYYhjXdaj9SbgrPWsWYk6pubu6dG7KzG4oA.jpg"/>
-    </item>
-    <item>
-      <title>Fri mening på egen risiko</title>
-      <description><![CDATA[Å si hva man mener har en pris, fikk KrFU-lederen erfare denne uka. 
-I norsk offentlighet tåler vi mye – bare ikke feil meninger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/f723b455-9639-4640-a3b4-5596390640b0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/f723b455-9639-4640-a3b4-5596390640b0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:41</itunes:duration>
-      <pubDate>Sat, 01 Nov 2025 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zfDtzYhK00wsg7Z-_HE_SARP2bbqZhvGns-Wpz3j0BKg.jpg"/>
     </item>
   </channel>
 </rss>
