@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:51:26 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:23:22 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw.jpg"/>
+    <item>
+      <title>Strikkhopp - Ingrid Ivo Vatnar</title>
+      <description><![CDATA[Hun har våget mye Ingrid Ivo Vatnar - også nå i det siste. Men det er også ting hun er redd for å våge seg utpå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/03a752f2-dc4f-43aa-84b1-c3096643f6ef_5ae2f9b0-7877-450e-8f62-3bccfc528ad6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/03a752f2-dc4f-43aa-84b1-c3096643f6ef_5ae2f9b0-7877-450e-8f62-3bccfc528ad6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:07</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw_xbxTXaVP0SKEyukjvjMlQ.jpg"/>
+    </item>
     <item>
       <title>Bedre dager - Thor Haavik</title>
       <description><![CDATA[Dagene kommer i alle farger og fasonger, og det vil alltid komme dager vi kan glede oss over og se fram imot.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/andakten/c1c77bcc-8013-4c16-877b-cc8013bc16ca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>03:06</itunes:duration>
       <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EzU5Iaafpu9fFSkJzFBpmwkCLm4E1KlW-tehf6eDj4vA.jpg"/>
-    </item>
-    <item>
-      <title>Bibelens poesi - Henrik Syse</title>
-      <description><![CDATA[Noe av det mest poetiske i verdenslitteraturen kan du lese i Bibelen. Her er det mye trøst og håp, når ting er vanskelig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/andakten/bde6d829-0bfb-4878-a6d8-290bfb9878b3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/andakten/bde6d829-0bfb-4878-a6d8-290bfb9878b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:05</itunes:duration>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EzU5Iaafpu9fFSkJzFBpmwkCLm4E1KlW-tehf6eDj4vA.jpg"/>
     </item>
   </channel>

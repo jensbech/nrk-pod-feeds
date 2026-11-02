@@ -438,7 +438,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": true,
+    "enabled": false,
     "image": "https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"
   },
   {

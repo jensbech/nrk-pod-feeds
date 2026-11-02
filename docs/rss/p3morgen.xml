@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:51:53 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:25:35 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Arin er på detox</title>
+      <description><![CDATA[Jonas er tilbake fra ferie! Vi får besøk av den ukjente Disney-stjernen Siri Nilsen, som har lånt stemmen sin til alt fra «High School Musical» til «Phineas og Ferb»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e73923e0-a133-40bd-99a9-892cceb2c9c9_2f84d398-4e0a-47e1-951d-2e31035090f5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e73923e0-a133-40bd-99a9-892cceb2c9c9_2f84d398-4e0a-47e1-951d-2e31035090f5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:40</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OZsy5LpiTTQHlU-YIZl9TQR6Q311B49lQ6xEXzVfFOlg.jpg"/>
+    </item>
     <item>
       <title>Vi må etablere noen halloweenregler</title>
       <description><![CDATA[Markus er redd for å dele bort drittgodteri til unger på halloween. Er det uhygienisk å gi bort smågodt? Vi må etablere noen kjøreregler, sammen med deg!]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>38:37</itunes:duration>
       <pubDate>Tue, 08 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Attentatordre på musikklæreren.</title>
-      <description><![CDATA[Jonas ble homo da han så jentene i klassen danse til «Bumpy ride» og Henning deler sine tanker om «En stjerne skinner i natt».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e464eeb6-8155-42c3-a4ee-b6815572c328_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e464eeb6-8155-42c3-a4ee-b6815572c328_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:36</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
     </item>
   </channel>
 </rss>
