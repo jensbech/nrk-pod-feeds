@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:26:50 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 22:28:32 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Færre helseforetak og større kommuner</title>
+      <description><![CDATA[Små kommuner må bli større, foreslår Helsereformuvalget i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0_6bf16229-72df-4957-9620-ad7cdd281f1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0_6bf16229-72df-4957-9620-ad7cdd281f1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/O4Rdx6GKscnJA-601yVuwAA81kX0XnD-1uubRmYa6CvQ.jpg"/>
+    </item>
     <item>
       <title>Sju personer fengslet for fiskerijuks</title>
       <description><![CDATA[Økokrim mistenker storstilt fiskerikriminalitet.]]></description>
@@ -454,15 +463,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 24 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aKKSpAaiO5e9xgkA4VhtzANxfLpu5H1SU4ZJe_Og4k0Q.jpg"/>
-    </item>
-    <item>
-      <title>Flygelederstreiken rammer hele landet</title>
-      <description><![CDATA[Luftrommet må stenges over både Flesland og Gardermoen i perioder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/57df8a02-b74e-4e00-9f8a-02b74e8e00e6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/57df8a02-b74e-4e00-9f8a-02b74e8e00e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 21 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yONwY6iTkiXINLQ5WmT6NgUf-fKdrjNtE9o3Rx4z09-Q.jpg"/>
     </item>
   </channel>
 </rss>
