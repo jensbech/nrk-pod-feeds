@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:24:31 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 06:03:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:44:52 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Kritiske til helsereform-forslag</title>
+      <description><![CDATA[Og Frida Kahlo kommer til Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b76598fc-0083-44ea-ba54-9edae40f030a_470b5025-aa96-4e81-98bd-9dae7588011b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b76598fc-0083-44ea-ba54-9edae40f030a_470b5025-aa96-4e81-98bd-9dae7588011b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:59</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hXOj5Rfjre8rXoelaa0pugjyMEcEi-YpCPJBRjQW24JA.jpg"/>
+    </item>
     <item>
       <title>Dette må du vite om valget i USA</title>
       <description><![CDATA[Og en kirurg mener norske sykehus ikke er godt nok forberedt på krig.]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>06:28</itunes:duration>
       <pubDate>Thu, 27 Aug 2026 06:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mf82fUuIRmk7pQiKqzbAVw96obpapAgPetTPXB0PvA_Q.jpg"/>
-    </item>
-    <item>
-      <title>Dolly Parton døde av kreft</title>
-      <description><![CDATA[Nå strømmer kondolansene inn fra hele verden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/124827e2-486a-4c56-8827-e2486a0c5670_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/124827e2-486a-4c56-8827-e2486a0c5670_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:45</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/082RmVhrHxmj97OZ20yAvwUannkzIx-eqanwTGCZCe2Q.jpg"/>
     </item>
   </channel>
 </rss>

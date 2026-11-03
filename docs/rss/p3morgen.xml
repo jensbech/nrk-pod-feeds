@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:25:35 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:46:24 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Annika Momrak har møtt en fremmedkriger</title>
+      <description><![CDATA[Hva er egentlig et mellomvalg? Og har Arin klart å skrolle mindre på mobilen? Hva skal til for å reise til Ukraina og kjempe for den ukrainske hæren? Alt dette og mer får du svaret på denne tirsdagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/913b3f65-b47d-47be-ade3-3f9a5aa0287f_2fcbfe23-2284-4c1b-b6bc-3649e4b14fb1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/913b3f65-b47d-47be-ade3-3f9a5aa0287f_2fcbfe23-2284-4c1b-b6bc-3649e4b14fb1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:12</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KJYaiW85gyhoQzt-00RgBgzgbUlfInT7Y1QMFXMEY5Cw.jpg"/>
+    </item>
     <item>
       <title>Arin er på detox</title>
       <description><![CDATA[Jonas er tilbake fra ferie! Vi får besøk av den ukjente Disney-stjernen Siri Nilsen, som har lånt stemmen sin til alt fra «High School Musical» til «Phineas og Ferb»]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>20:35</itunes:duration>
       <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w.jpg"/>
-    </item>
-    <item>
-      <title>Pepsi Max = lavstatus?</title>
-      <description><![CDATA[Kan man bestille brus på fin restaurant? Og i så fall hvilken? Arin og Jonas har listen til deg. Henning elsker interne vitser, og leter etter de beste.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/630c1b36-665e-4b55-8c1b-36665ebb557d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/630c1b36-665e-4b55-8c1b-36665ebb557d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:37</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>

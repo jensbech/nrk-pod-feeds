@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:25:23 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:46:12 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Resident Evil: Slik ble Hollywood hekta på spill</title>
+      <description><![CDATA[Filmer basert på dataspill ble lenge ansett som søppel: Hvem er mannen bak historiens mest kritikerroste gamingfilm? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ba00618d-4014-4aa0-b095-02f8a5b51bd0_793d3e7c-914d-4679-858d-9ae8420546c8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ba00618d-4014-4aa0-b095-02f8a5b51bd0_793d3e7c-914d-4679-858d-9ae8420546c8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:57</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eK-HNl359cZCwXUHqIVzRQqpP4W1vLQEcso_5Q39FwAg.jpg"/>
+    </item>
     <item>
       <title>Magas far: Oppskriften som endret USA</title>
       <description><![CDATA[Lenge før Trump fantes en mann med samme visjon. Hvem står egentlig bak Maga-bevegelsen som endret USA?]]></description>
@@ -454,15 +463,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>07:22</itunes:duration>
       <pubDate>Sat, 29 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/s1mAM-8HGTlakTnnVxf7NQH192eVLrWs5bMjYoirb5ww.jpg"/>
-    </item>
-    <item>
-      <title>Kong Harald: Slik var livet hans</title>
-      <description><![CDATA[I årevis var majestetens liv tett sammenvevd med definerende hendelser for Norge. Nå er kong Harald død.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fa860795-36c3-4809-8607-9536c358097a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fa860795-36c3-4809-8607-9536c358097a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:02:40</itunes:duration>
-      <pubDate>Fri, 28 Aug 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fLoPQDfQgbrKDjJDeWZlOw8xOoF4K4YVIsWG6uXXkpcg.jpg"/>
     </item>
   </channel>
 </rss>
