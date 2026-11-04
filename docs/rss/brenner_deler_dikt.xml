@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:31:09 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:55:34 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw.jpg"/>
+    <item>
+      <title>Tara Lina Shahin: Ikke gråt!</title>
+      <description><![CDATA[Komikeren leser diktet hver måned for å minnes faren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/0f6b50ca-92cd-4ceb-8972-a847404c88ba_50b5ba86-34b5-4eed-91e4-7c84ef9c5a4a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/0f6b50ca-92cd-4ceb-8972-a847404c88ba_50b5ba86-34b5-4eed-91e4-7c84ef9c5a4a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:31</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wWIZaotA_wyZTAdyxPqy0QulqDm4JcM7HPOyYf6to05A.jpg"/>
+    </item>
     <item>
       <title>Herbert Nordrum: Lik meg når jeg er teit</title>
       <description><![CDATA[Fra klumsete ungdom til sjarmerende filmstjerne.]]></description>
@@ -516,18 +525,6 @@ Ukas dikt er et utdrag fra «Den uforgjengelige fikenkaktusen» av Mahmoud Darwi
       <itunes:duration>19:10</itunes:duration>
       <pubDate>Sat, 27 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HsqQefBHKdrk7Txrnlh4TAkb990v-QJ176rAP3t9ut4A.jpg"/>
-    </item>
-    <item>
-      <title>Live Nelvik: Hemmeligheter i ekteskapet </title>
-      <description><![CDATA[Det er spennende å ikke vite alt om ektemannen, synes programleder Live Nelvik. Kan Live ha rett? Bør vi egentlig være glade for at våre nærmeste har noen hemmeligheter?  
-  
-Ukas dikt er "Ord over grind" av Halldis Moren Vesaas 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/brenner_deler_dikt/cecaa066-9e35-44ff-b021-33537a00ed6a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/cecaa066-9e35-44ff-b021-33537a00ed6a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:14</itunes:duration>
-      <pubDate>Sat, 20 Jan 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CLUMBYR2g-54AQLAPlpfVw1Rw1bbYG9RCdttQJYXzg9g.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:52:41 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:56:39 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Halloween-drapet: Flukten</title>
+      <description><![CDATA[En oktobernatt for 15 år siden opplever Marius (22) noe som skal endre livet hans for alltid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/86e78589-25f1-4ba0-9259-96d38c62ac25_1bf18699-a0a6-4c42-8eef-4e273630d68d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/86e78589-25f1-4ba0-9259-96d38c62ac25_1bf18699-a0a6-4c42-8eef-4e273630d68d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:12</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y500hBxByKqToDgwmX0nLA4_viHNd8_7LovC3rTex1bA.jpg"/>
+    </item>
     <item>
       <title>Elizabeth Holmes: Blodig svindel</title>
       <description><![CDATA[Dokumentaren «You Can See Everything» sprenger stadig nye rekorder i USA – men hva er det egentlig filmens hovedperson har gjort?]]></description>
@@ -452,15 +461,6 @@
       <itunes:duration>36:35</itunes:duration>
       <pubDate>Mon, 02 Mar 2026 15:49:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/rNekiKtsIjfqlNh2xNTvLARxK2aG-8M9utbJ2Q6drWLg.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (12): Familien, forholdet og sviket</title>
-      <description><![CDATA[Marius Borg Høiby forklarte at Nora Haukland også bidro til det turbulente forholdet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/bf58c464-1f93-4058-98c4-641f93b058ea_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/bf58c464-1f93-4058-98c4-641f93b058ea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:44</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 22:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/16KbLMIy916fXIMH3-fewQlkCgQ7vTkRhE6QG7drqHOA.jpg"/>
     </item>
   </channel>
 </rss>

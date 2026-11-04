@@ -9,10 +9,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:46:37 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:58:26 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Folkeavstemning om Trump</title>
+      <description><![CDATA[Bør vi frykte antidemokratiske krefter i USA?
+Eller viser dette valget hvor robust det amerikanske demokratiet er?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/cb2111b2-ee61-4cc3-b019-c0a556e24119_12c9c48e-eb1d-429a-ae6d-c0519f468cb1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/cb2111b2-ee61-4cc3-b019-c0a556e24119_12c9c48e-eb1d-429a-ae6d-c0519f468cb1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:00</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/La4EfTZiAtMOMsNXUnG0FwM5Wfq_wVDg6ydWTwgbF-6g.jpg"/>
+    </item>
     <item>
       <title>Avgiftskutt eller ingenting!</title>
       <description><![CDATA[Sp brukar ultimatum-ordet før budsjettforhandlinga. Mens Ap åtvarar raudgrøne støtteparti. Kan dette gå? ]]></description>
@@ -474,15 +484,6 @@ Og MDG-topp i Oslo anklages for kjeft og baksnakking.]]></description>
       <itunes:duration>15:09</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ok0VyjoQYjQGfYvJ8b0hkQD5Nn5bo0SOOD7MorbccQPA.jpg"/>
-    </item>
-    <item>
-      <title>Island, EU og oss</title>
-      <description><![CDATA[Norske politikere valfarter til Island denne uka. Mimir Kristjansson bønnfaller islandske sosialister om å si nei til EU. Bare Donald Trump vil tjene på islandsk nei, advarer MDG-politiker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/17483e10-165a-4715-883e-10165a771584_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/17483e10-165a-4715-883e-10165a771584_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:01</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sf6qU_IBtA5GBgeoLVEzBgqAV4BhaPXHe2JQKDxds6TA.jpg"/>
     </item>
   </channel>
 </rss>
