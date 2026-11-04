@@ -11,10 +11,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Nov 2026 12:55:52 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:25:19 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Når folket reiser seg for demokratiet</title>
+      <description><![CDATA[MAGA tapte så det sang i mellomvalget og de er ikke alene. Ytre høyre møter stadig mer motstand. I Ungarn, Serbia og Brasil har stemt ut de autoritære lederne.  Kan dette bety at den langvarige antidemokratiske bølgen er over - eller er det som skjer nå bare et forbigående blaff?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c86e7db3-823d-40e2-937c-248b58eeb5a8_db46a38a-713d-47a8-a44e-ecd5bb8bd89f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c86e7db3-823d-40e2-937c-248b58eeb5a8_db46a38a-713d-47a8-a44e-ecd5bb8bd89f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:30</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/s72kWC2MCMbsJjsepX4ojw8-ROWtP06fJLJhPY6kNPuA.jpg"/>
+    </item>
     <item>
       <title>Slik tar de tankene dine</title>
       <description><![CDATA[Tekgiganter og fremmede makter driver tankekontroll. Slik blir du manipulert, og her er tips til veien ut.]]></description>
@@ -458,15 +467,6 @@
       <itunes:duration>20:54</itunes:duration>
       <pubDate>Mon, 10 Aug 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kQopxBlDVPHKsT8OIfPutAbCdTB0-_9bXvxVNKiJjDMA.jpg"/>
-    </item>
-    <item>
-      <title>Netthandel endrar samfunnet</title>
-      <description><![CDATA[Nye kjøpemønstre går ut over nærbutikkane. Kva gjer det med både oss, og bysamfunna, at vi handlar digitalt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/93c80e2d-3bdf-436f-880e-2d3bdf236fbc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/93c80e2d-3bdf-436f-880e-2d3bdf236fbc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:43</itunes:duration>
-      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r8Ey8ezGM1CCPx2Ar0grHAborvNyZKLNOuoYqP0f3xsA.jpg"/>
     </item>
   </channel>
 </rss>

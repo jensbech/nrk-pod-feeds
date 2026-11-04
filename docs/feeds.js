@@ -315,8 +315,8 @@ const feeds = [
     "id": "filmpolitiet",
     "title": "Filmpolitiets podkast ",
     "season": "LATEST_SEASON",
-    "enabled": false,
-    "image": "https://gfx.nrk.no/N7qd3pQrkRXc7WkHxVC3hQOAar6BX8rott1ydSAu9uNg.jpg"
+    "enabled": true,
+    "image": "https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA.jpg"
   },
   {
     "id": "forstaa_norge",
