@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:51:48 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:05:07 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Rock din lettkledde kropp</title>
+      <description><![CDATA[Baksnakking som gikk til helvete, en standup kveld for BARN og en oppfordring til å gå med akkurat det du vil<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/88ac4ef4-ef89-49af-a6e0-f932c66587d4_be09934b-bad5-4d3b-87ab-f99abe4a90a7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/88ac4ef4-ef89-49af-a6e0-f932c66587d4_be09934b-bad5-4d3b-87ab-f99abe4a90a7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:06</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Jeg har blitt «pick me»</title>
       <description><![CDATA[En åpenbaring setter selvbildet på prøve, en satanisk introlåt ødelegger stemninga, og livet har egentlig sklidd fullstendig ut.]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/20af1614-3c4a-4087-af16-143c4a508791_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:20</itunes:duration>
       <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
-    </item>
-    <item>
-      <title>Hvilken julekalender er best?</title>
-      <description><![CDATA[En grusom tur til Tønsberg, et håp om å redde psyken i Latvia og en kontroversiell kåring av den beste julekalenderen .]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/dbb5ef1c-9043-4d38-b5ef-1c9043ad3874_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/dbb5ef1c-9043-4d38-b5ef-1c9043ad3874_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:43</itunes:duration>
-      <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
   </channel>

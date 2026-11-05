@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:47:31 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:09:36 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Adrian Sellevoll: Dårlig selvtillit</title>
+      <description><![CDATA[Adrian Sellevoll om dårlig selvtillit, livet etter at han ble edru og drømmene for fremtiden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/155de8e5-a482-4497-a360-754fb67a2658_6259791f-19e7-4c5a-98cd-108a3e98c1f6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/155de8e5-a482-4497-a360-754fb67a2658_6259791f-19e7-4c5a-98cd-108a3e98c1f6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j43RC5ues26NcC6rTuNdAwDX6UMIIXQT5RCvEVgXkrqQ.jpg"/>
+    </item>
     <item>
       <title>Silya Nymoen: Fikk tilbake troen</title>
       <description><![CDATA[Silya Nymoen om at hun mistet seg selv i tidligere forhold. Møtet med ektemannen ga henne troen på kjærligheten igjen.
@@ -453,15 +462,6 @@
       <itunes:duration>49:52</itunes:duration>
       <pubDate>Sun, 05 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
-    </item>
-    <item>
-      <title>Ida Broen: Å velge seg selv</title>
-      <description><![CDATA[Ida Broen snakker om hvordan det er å gå gjennom et brudd i trettiårene, tiden etterpå og møtet med sin nye kjærlighet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/40de4e25-3213-4610-9e4e-253213b61034_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/40de4e25-3213-4610-9e4e-253213b61034_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:31</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oSF8uAYQ_f-JCFMU1JbWsQF_jI2a7HXKGqGDIFHU54mw.jpg"/>
     </item>
   </channel>
 </rss>

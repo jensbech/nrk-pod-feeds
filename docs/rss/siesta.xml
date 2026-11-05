@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Nov 2026 12:58:50 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:09:00 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Hvem er best i å snakke simsk</title>
+      <description><![CDATA[Hvem er best i å snakke simsk, kristiansund mangler julelys og hvem tømmer oppvaskmaskin-filteret? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3be737cf-ee8a-4a20-b876-6c5c93201cd5_d479146a-c23c-4a6f-b414-c4d02f62b6f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3be737cf-ee8a-4a20-b876-6c5c93201cd5_d479146a-c23c-4a6f-b414-c4d02f62b6f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:20</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Finn Glede debriefer valget</title>
       <description><![CDATA[Daniel har sølt brus på Markus, Anna marinerer fingeren i noe hjemmelaget og Finn Glede har tanker om nattens valg. ]]></description>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:26</itunes:duration>
       <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus har en dobbeltgjenger</title>
-      <description><![CDATA[Den danske kjendisen Jesper Ole Andersen er Markus sin dobbeltgjenger, Anna er intervjua i avisa og hva tenker vi om reunion?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:41</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
