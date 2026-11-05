@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-11-05  
+- Updated podcast 'Kompass' (`kompass`)  
 ### 2026-11-04  
 - Updated podcast 'Filmpolitiets podkast ' (`filmpolitiet`)  
 ### 2026-11-02  
