@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:09:00 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:57:38 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     <item>
+      <title>Anna intervjuer Ole Soo </title>
+      <description><![CDATA[Det blir en ny runde av halloquizvang, hva betyr egentlig piloereksjon og hvordan blir Annas intervju av Ole Soo?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8b318a64-4dc0-4b38-8876-eef9830500a1_937c969f-5ff4-4ed6-b532-4d8d8003db66_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8b318a64-4dc0-4b38-8876-eef9830500a1_937c969f-5ff4-4ed6-b532-4d8d8003db66_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:54</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kIykTWcaj4vZcDNxtcVs7gM-r8-MREwNNbreOq9pxZYQ.jpg"/>
+    </item>
+    <item>
       <title>Hvem er best i å snakke simsk</title>
-      <description><![CDATA[Hvem er best i å snakke simsk, kristiansund mangler julelys og hvem tømmer oppvaskmaskin-filteret? ]]></description>
+      <description><![CDATA[Hvem er best til å snakke simsk, Kristiansund mangler julelys og hvem tømmer oppvaskmaskin-filteret? ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3be737cf-ee8a-4a20-b876-6c5c93201cd5_d479146a-c23c-4a6f-b414-c4d02f62b6f3_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/siesta/3be737cf-ee8a-4a20-b876-6c5c93201cd5_d479146a-c23c-4a6f-b414-c4d02f62b6f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:20</itunes:duration>
@@ -451,15 +460,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/311d0621-3be1-42cf-9d06-213be1b2cf00_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:15</itunes:duration>
       <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel er blitt dement</title>
-      <description><![CDATA[Det blir imitasjon av Elvis i spalte-spalten, Ørjan Elisæther ringer inn og er forbanna og Daniel har bikka.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:26</itunes:duration>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
