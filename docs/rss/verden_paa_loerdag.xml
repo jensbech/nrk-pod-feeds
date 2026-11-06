@@ -9,10 +9,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:53:14 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:55:51 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>USA: En seier for demokratiet</title>
+      <description><![CDATA[Slutten på Trump-æraen. En seier for kjærligheten. Det mangler ikke på store ord etter at Demokratene vant mellomvalget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7ecfe003-962c-4ad6-b3a4-15df3009a457_825e9304-8be7-4d39-895f-426f7cf05a13_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7ecfe003-962c-4ad6-b3a4-15df3009a457_825e9304-8be7-4d39-895f-426f7cf05a13_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:25</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i-R7JdZDei43pSxuGJtecwNiTnyuocELabzCXHRUgnQg.jpg"/>
+    </item>
     <item>
       <title>USA: Her avgjøres mellomvalget</title>
       <description><![CDATA[Hva skal vi følge med på natt til 4. november? Demokratene må vinne fire seter fra Donald Trump og republikanerne.]]></description>
@@ -461,15 +470,6 @@ NRKs reporter måtte opptre som turist for å se Hormuz-blokaden med egne øyne.
       <itunes:duration>16:31</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/yP0HyVUN48oSO9ZzzsWO_QUQRurq_b2WADCHYtr8IgKw.jpg"/>
-    </item>
-    <item>
-      <title>USA er blitt mer korrupt</title>
-      <description><![CDATA[Den årlige oversikten over korrupsjon i verdens land viser dårlige tall for USA. Landet får den laveste rangeringen det noensinne har fått.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/ff86e810-a567-477e-86e8-10a567577ec7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/ff86e810-a567-477e-86e8-10a567577ec7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:47</itunes:duration>
-      <pubDate>Tue, 10 Feb 2026 16:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qATKgy7yjXq9aQFsLsd4rwHCukTGciF2eE1fcx1Bqx0A.jpg"/>
     </item>
   </channel>
 </rss>
